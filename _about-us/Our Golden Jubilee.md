@@ -32,3 +32,7 @@ The celebration was kicked off with a warm welcome by the Kompang team. This was
 50th Annual Speech & Prize Giving Day – ‘Appreciate, Celebrate, Inspire’ was especially emotional this year when the commerative video on our ex staff and footages of the old school premises was played. It certainly brought back many memories for our staff, students, alumni and partners.
 
 <center> 4 June – Changkat Challenge </center>
+
+![](/images/challenge-600x399.jpeg)
+
+<center> Mr Lee Yi Shyan, Member of Parliament for East Coast GRC, joining us for our Changkat Challenge </center>
