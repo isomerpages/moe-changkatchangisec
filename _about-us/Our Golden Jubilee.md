@@ -46,3 +46,9 @@ All Changkateers were involved in the various activities such as Simei estate cl
 ![](/images/a-Dinner-600x399.jpeg)
 
 <center> Dr Janil Puthucheary, our former Principals, SAC members and Ms Sharma at the cake cutting segment of our Gala Dinner. </center>
+
+Our 50th Anniversary Gala Dinner was a memorable night where Changkateers both past and present gathered to celebrate our Golden Jubilee. It was also a successful fund raiser as we exceeded the amount of funds collected.  
+  
+Our guest-of-honour, Dr Janil Puthicheary, officiated the launch of our Applied Learning Programme in Aviation, S.O.A.R. Guests were also treated to a series of performances by our Aviators, Modern Dance Group and our award winning fancy drill and bagpipe performance!
+
+<center> 8 August – Time Capsule </center>
