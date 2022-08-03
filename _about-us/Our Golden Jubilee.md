@@ -56,3 +56,11 @@ Our guest-of-honour, Dr Janil Puthicheary, officiated the launch of our Applied 
 ![](/images/golden2.jpg)
 
 <center> The items to be placed in the time capsule </center>
+
+![](/images/IMG_4702-600x400.jpeg)
+
+<center> Mr Ivan Neo and his daughter, Ms Sharmaine Neo, both alumni of CCSS gracing the occasion </center>
+
+On 8 August, the morning assembly was slightly different as Changkateers witness the sealing of the time capsule. Some of the items included trophies, medals, school uniform, school flag and model gliders. Our guest-of-honour for the event Mr Ivan Neo, Chairman of the SAC, donated his own report book to be placed in the time capsule.  
+  
+The time capsule is scheduled to be opened 50 years later in 2065. It is a fitting way to end off the year’s celebration as Changkat Changi Secondary School continue to strive and provide a good education for her students!
