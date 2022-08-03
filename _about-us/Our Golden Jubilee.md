@@ -24,3 +24,11 @@ Changkat 50 is a reminder that Changkat has always been a second home to many - 
 ![](/images/Speech-Day-600x400.jpeg)
 
 <center> Dr Maliki and Principal Ms Sharma at the launch of our Heritage Gallery </center>
+
+Our 50th Speech and Prize-Giving Day marks the golden jubilee celebration for the school.  We invited Dr Mohamad Maliki Bin Osman, Senior Minister of State, Ministry of Defence & Ministry of Foreign Affairs & Mayor, South East District as our Guest-of -Honour.  
+  
+The celebration was kicked off with a warm welcome by the Kompang team. This was followed by a welcome line-up by the Uniformed Group members. The Boys’ Brigade bagpipes added to the celebratory mood of the occasion. Our new Heritage Gallery which documents the progress of the school from past to present was unveiled. Vibrant performances were put up by the Malay Dancers, Chinese Orchestra and Modern Dancers. The ceremony was also graced by past Principals, SAC, PSG and Alumni.  
+  
+50th Annual Speech & Prize Giving Day – ‘Appreciate, Celebrate, Inspire’ was especially emotional this year when the commerative video on our ex staff and footages of the old school premises was played. It certainly brought back many memories for our staff, students, alumni and partners.
+
+<center> 4 June – Changkat Challenge </center>
