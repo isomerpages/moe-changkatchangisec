@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Changkat Changi Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -23,3 +23,4 @@ sections:
       button: Read more
       url: /
 ---
+
