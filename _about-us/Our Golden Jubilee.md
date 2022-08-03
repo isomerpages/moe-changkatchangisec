@@ -52,3 +52,7 @@ Our 50th Anniversary Gala Dinner was a memorable night where Changkateers both 
 Our guest-of-honour, Dr Janil Puthicheary, officiated the launch of our Applied Learning Programme in Aviation, S.O.A.R. Guests were also treated to a series of performances by our Aviators, Modern Dance Group and our award winning fancy drill and bagpipe performance!
 
 <center> 8 August – Time Capsule </center>
+
+![](/images/golden2.jpg)
+
+<center> The items to be placed in the time capsule </center>
