@@ -36,3 +36,13 @@ The celebration was kicked off with a warm welcome by the Kompang team. This was
 ![](/images/challenge-600x399.jpeg)
 
 <center> Mr Lee Yi Shyan, Member of Parliament for East Coast GRC, joining us for our Changkat Challenge </center>
+
+In line with our school’s motto of through school to nation, Changkat Challenge was a great opportunity for Changkateers to give back to the community.  It was a tie up between Changi Simei CC and our school. Our guest-of-honour for the event, Mr Lee Yi Shyan, Member of Parliament for East Coast GRC graced the occasion and joined in the activities organised.  
+  
+All Changkateers were involved in the various activities such as Simei estate clean up, hosting the cleaners in the neighbourhood to a tea reception, mural painting and a mini carnival to raise funds for needy students.
+
+<center> 30 June – Gala Dinner </center>
+
+![](/images/a-Dinner-600x399.jpeg)
+
+<center> Dr Janil Puthucheary, our former Principals, SAC members and Ms Sharma at the cake cutting segment of our Gala Dinner. </center>
