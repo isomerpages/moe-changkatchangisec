@@ -83,3 +83,11 @@ We would like to wish our students all the best!
 ###### TIMETABLE FOR T4W7
 
 Dear Students, Timetable for T4W7  is available [here](/files/For%20Students%20T4W7_CLASS%20timetable.pdf).
+
+###### INFORMATION AND PROGRAMMES FOR TERM 4
+
+Dear Parents, our term 4 letter to parents is available [here](/files/Term%204%20Letter%20to%20Parents%202021%2012%20Sep.pdf)
+
+###### INFORMATION AND PROGRAMMES FOR TERM 3
+
+Dear Parents, our term 3 letter to parents is available [here](/files/Term%203%20Letter%20to%20Parents%202021_Final.pdf).
