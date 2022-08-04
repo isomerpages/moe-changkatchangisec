@@ -61,3 +61,25 @@ This form will take you around 5 minutes to complete. Please complete the regist
 
 <img src="/images/qrcode.jpeg" 
      style="width:50%">
+		 
+Textbooks will be available for sale in our school bookshop from January onwards.
+
+Contact details of school bookshop: 87648813, or visit its website: [https://ccss.chalamay.com](https://ccss.chalamay.com/) if you require information to order online.
+
+###### Release of GCE N-Level Results 2021
+
+The 2021 GCE N-Level results will be released on Friday, 17 December 2021.
+
+All students are expected to report to the allocated classrooms by 1.45pm in full school uniform, schools shoes and socks with a proper haircut. In addition, no coloured or dyed hair will be accepted.
+
+  
+
+\*The MOE press release can be found [here](https://www.moe.gov.sg/news/press-releases/20211210-release-of-the-2021-singapore-cambridge-gce-na-nt-level-examination-results-on-17-december-2021#:~:text=1.,17%20December%202021%2C%202.30pm.).
+
+  
+
+We would like to wish our students all the best!
+
+###### TIMETABLE FOR T4W7
+
+Dear Students, Timetable for T4W7  is available [here](/files/For%20Students%20T4W7_CLASS%20timetable.pdf).
