@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Announcements.md
       - School Calendar.md
       - Our Golden Jubilee.md
       - Contact Us.md
