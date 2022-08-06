@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Staff.md
       - History.md
       - Announcements.md
       - School Calendar.md
