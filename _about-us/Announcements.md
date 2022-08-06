@@ -339,3 +339,17 @@ Dear Parents, our term 2 letter to parents is available [here](/files/Term%202%
 ###### Sec 2 PTC Information
 
 Dear Secondary 2 Parents, the information shared during the Sec 2 PTC on streaming and other aspects can be found [here](/files/Sec%202%20PTC%20slides%202020%20for%20sch%20website_12%20Mar.pdf)
+
+###### Enhanced School Measures For Novel Coronavirus
+
+
+Dear Parents/Guardians,
+
+  
+
+MOE will be enhancing precautionary measures in view of the novel coronavirus situation.
+
+Please click [here](/files/Parents%20Letter%20(Covid%2019).pdf) for more information.
+
+An infographic on the Do's and Don'ts during this period can be found [here](/files/btb.pdf) as well.
+
