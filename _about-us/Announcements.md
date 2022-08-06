@@ -95,3 +95,7 @@ Dear Parents, our term 3 letter to parents is available [here](/files/Term%203%
 ###### POLICE ADVISORY ON SCAM TARGETING STEAM ACCOUNT USERS
 
 Dear Changkateers, please read the [Police Advisory](/files/Police%20Advisory%20on%20scam%20targeting%20Steam%20account%20users.pdf) on Scam Targeting Steam Account Users.
+
+###### INFORMATION AND PROGRAMMES FOR TERM 2
+
+Dear Parents, our term 2 letter to parents is available [here](/files/Term%202%20Letter%20to%20Parents%202021_Final.pdf).
