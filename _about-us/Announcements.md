@@ -149,3 +149,7 @@ All students are expected to report to the respective venues by **1.45pm** in 
   
 
 We would like to wish our students all the best!
+
+###### Information and Programmes for Term 1
+
+Dear Parents, our term 1 letter to parents is available [here](/files/Term%201%20Letter%20to%20Parents%202021_Final.pdf)
