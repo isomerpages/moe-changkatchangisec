@@ -234,3 +234,31 @@ Click on [this] to visit the E-Open House page.
 ###### Last Day of Term Letter 2020
 
 Dear Parents, our last day of term letter is available [here](/files/Last%20Day%20of%20Term%20Letter%20to%20Parents%202020_%20Final.pdf)
+
+###### Information and Programmes for Term 4
+
+Dear Parents, our term 4 letter to parents is available [here](/files/Term%204%20Letter%20to%20Parents%202020_%20Final.pdf)
+
+###### Speech & Prize Giving Presentations 2020
+
+The Annual Speech & Prize-Giving Day is an event for us to celebrate the achievements of our Changkateers together with their families. This year, in consideration of the safe management measures that need to be put in place due to the COVID-19 crisis, we have taken a different approach to celebrating the event.
+
+  
+
+Click on [this] to learn who the prize winners are and how the prize giving was like!
+
+###### Early Dismissal Info (Thur 9 July)
+
+Dear Parents/Guardians, 
+
+  
+
+Our school premises will be used as a venue for Polling day on Friday, 10 July.
+
+The staggered dismissal timings for the different levels on Thursday, 9 July, can be found [here](/files/Letter%20to%20Parents%20on%20early%20dismissal%20for%209%20July_Final.pdf).
+
+###### Updates for Term 3
+
+Dear Parents/Guardians,
+
+Updates regarding the return of all students to school on 29 June (Monday) can be found [here](/files/Parents%20Letter%20Term%203%20Updates%20v2.pdf)
