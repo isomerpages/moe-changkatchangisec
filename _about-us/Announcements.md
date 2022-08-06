@@ -281,4 +281,4 @@ For student self-help resources for HBL, please click [here](https://go.gov.sg/
   
 Dear Parents,  
 
-The Parent kit providing tips on how you can support your child's HBL and addressing some of your concerns can be found [here][](/files/Resource%20Kit%20-%20HBL.pdf)
+The Parent kit providing tips on how you can support your child's HBL and addressing some of your concerns can be found [here](/files/Resource%20Kit%20-%20HBL.pdf)
