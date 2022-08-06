@@ -286,3 +286,33 @@ The Parent kit providing tips on how you can support your child's HBL and addres
 ######  Information and Programmes for Term 3
 
 Dear Parents, our term 2 letter to parents is available [here](/files/Term%203%20Letter%20to%20Parents%202020_%20Finalv1.pdf)
+
+###### Back to School Transition Plans for Graduating Class Students
+
+
+As part of the gradual easing of "circuit breaker" measures, schools will start to bring back students in small groups for face-to-face lessons from May 19.
+
+  
+
+The following is the link to the instructions and schedule for the Sec 4 and 5 students.
+
+  
+
+Instructions and schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCr1v5sUazZI1OJXZljW7Mwny0czgb_tK1OI434wUBBVJzyid6MVzxHLf-4kwXLy-BIRu2rmE3rNn1/pubhtml).
+
+###### Direct School Admission (DSA) Exercise to Secondary School 
+
+
+The Direct School Admission (DSA) exercise for admission to secondary schools and junior colleges (JCs) in 2021 will open for applications on 12 May 2020. See press release at this [link](https://www.moe.gov.sg/news/press-releases/start-of-2020-direct-school-admission-exercises)
+
+  
+
+Changkat Changi Secondary School offers Direct School Admission through our Applied Learning Programme (ALP) and our Learning for Life Programme (LLP).
+
+  
+
+Please click below for more information about our talent areas: 
+
+[Direct School Admission through Student centered opportunities in AeRospace Industries (ALP)]
+
+[Direct School Admission through Leadership and Service through School to Nation (LLP)]
