@@ -330,3 +330,8 @@ The Parent kit providing tips on how you can support your child's HBL and addres
 Join MOE’s Facebook Live Session, “Ask Me Anything About… Home-Based Learning” on 1 April 2020, 8pm, to learn more about what HBL really means and the role you can play in your child’s HBL. 
 
 Click [here to RSVP](http://bit.ly/moe-amaa-hbl).
+
+###### Information and Programmes for Term 2
+
+
+Dear Parents, our term 2 letter to parents is available [here](/files/Term%202%20Parents%20Letter%202020.pdf)
