@@ -99,3 +99,37 @@ Dear Changkateers, please read the [Police Advisory](/files/Police%20Advisory%2
 ###### INFORMATION AND PROGRAMMES FOR TERM 2
 
 Dear Parents, our term 2 letter to parents is available [here](/files/Term%202%20Letter%20to%20Parents%202021_Final.pdf).
+
+###### Sec 2/3/4/5 MTP Information (12 March 2021)
+
+Dear Secondary 2/3/4/5 Parents,  
+  
+The information shared during the Sec 2 MTP on streaming and the information shared during the Secondary 3/4/5 MTP  can be found below.
+
+  
+
+[Sec 2E](/files/2E%20MTP%20Information.pdf)
+
+[Sec 2NA](/files/2NA%20MTP%20Information.pdf)
+
+[Sec 3](/files/Sec%203%20AYH%20Sharing%20MTP%20Briefing%2012%20Mar_final.pdf)
+
+[Sec 4 and 5]
+
+
+Dear Secondary 2 Parents, 
+
+  
+
+The information shared during the Sec 2 MTP on streaming can be found below.
+
+###### CCA Orientation
+
+The CCA Orientation slides and CCA audition/interview/trial dates can be found in the link below.  
+  
+  
+
+[CCA Orientation Briefing For Parents 2021.pdf](/files/CCA%20Orientation%20Briefing%20For%20Parents%202021.pdf)
+  
+
+[CCA Selection Trials Schedule.pdf](/files/CCA%20Selection%20Trials%20Schedule.pdf)
