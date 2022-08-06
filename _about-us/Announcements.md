@@ -262,3 +262,11 @@ The staggered dismissal timings for the different levels on Thursday, 9 July, ca
 Dear Parents/Guardians,
 
 Updates regarding the return of all students to school on 29 June (Monday) can be found [here](/files/Parents%20Letter%20Term%203%20Updates%20v2.pdf)
+
+###### Digital Delivery of CCA (e-CCA)
+
+Dear parents,
+
+  
+
+Please be informed that our school will be introducing e-CCA to our Sec 1 to 3 students, starting from 5 June, Friday, 2.30pm. For more information, please click on the link [here](/files/Parents%20Letter%20for%20eCCA.pdf)
