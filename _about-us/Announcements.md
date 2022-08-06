@@ -233,4 +233,4 @@ Click on [this] to visit the E-Open House page.
 
 ###### Last Day of Term Letter 2020
 
-Dear Parents, our last day of term letter is available [here][](/files/Last%20Day%20of%20Term%20Letter%20to%20Parents%202020_%20Final.pdf)
+Dear Parents, our last day of term letter is available [here](/files/Last%20Day%20of%20Term%20Letter%20to%20Parents%202020_%20Final.pdf)
