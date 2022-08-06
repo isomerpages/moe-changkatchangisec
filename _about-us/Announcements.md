@@ -335,3 +335,7 @@ Click [here to RSVP](http://bit.ly/moe-amaa-hbl).
 
 
 Dear Parents, our term 2 letter to parents is available [here](/files/Term%202%20Parents%20Letter%202020.pdf)
+
+###### Sec 2 PTC Information
+
+Dear Secondary 2 Parents, the information shared during the Sec 2 PTC on streaming and other aspects can be found [here](/files/Sec%202%20PTC%20slides%202020%20for%20sch%20website_12%20Mar.pdf)
