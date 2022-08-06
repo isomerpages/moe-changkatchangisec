@@ -153,3 +153,43 @@ We would like to wish our students all the best!
 ###### Information and Programmes for Term 1
 
 Dear Parents, our term 1 letter to parents is available [here](/files/Term%201%20Letter%20to%20Parents%202021_Final.pdf)
+
+##### 2020
+
+###### Chinese Special Programme (CSP) Registration for Successful Applicants
+
+Chinese (Special Programme) is a 4-year programme leading to the GCE O Level Examination. Attendance for lessons is compulsory.
+
+Lessons will take place on Wednesday or Thursday afternoons from 3 pm to 6 pm. Please refer to the table below for your day of lesson.
+
+
+
+| Wednesday (13 Jan Onwards) | Thursday (14 Jan Onwards)  | 
+| -------- | -------- | 
+| Beatty Sec Sch     | Dunman Sec Sch     | 
+|Changkat Changi Sec Sch|Ngee Ann Sec Sch
+|CHIJ Sec (Toa Payoh)|Paya Lebar Methodist Girls' Sch (Sec)
+|CHIJ St. Joseph's Convent|Raffles Institution
+| Edgefield Sec Sch|School of The Arts, Singapore
+|Kuo Chuan Presbyterian Sec Sch| Tanjong Katong Girls' Sch
+| Pei Hwa Sec Sch|Temasek JC
+|St. Andrew's Sec Sch|Temasek Sec Sch
+|St. Anthony's Canossian Sec Sch||
+| St. Patrick's Sch||
+| Tanjong Katong Sec Sch||
+|Victoria Sch||
+|Xinmin Sec Sch||
+
+Access the online e-registration form at [https://go.gov.sg/cspregistration](https://go.gov.sg/cspregistration) or via the QR code below.
+
+This form will take you around 5 minutes to complete. Please complete the registration form between **23 December 2020 to 7 January 2021, 12 pm**.
+
+<img src="/images/QR%20Code.jpeg" 
+     style="width:30%">
+
+Textbooks will be available for sale in our school bookshop from January onwards.
+
+Contact details of school bookshop: 87648813, or visit its website: [https://ccss.chalamay.com](https://ccss.chalamay.com/) if you require information to order online.
+
+
+
