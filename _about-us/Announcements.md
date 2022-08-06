@@ -191,5 +191,46 @@ Textbooks will be available for sale in our school bookshop from January onwards
 
 Contact details of school bookshop: 87648813, or visit its website: [https://ccss.chalamay.com](https://ccss.chalamay.com/) if you require information to order online.
 
+###### Appeal to Changkat Changi Secondary School (for non-medical reasons)
 
+Sec 1 students (2021) who wish to appeal to transfer to Changkat Changi Secondary School based on non-medical reasons can click [here](https://go.gov.sg/appealccss) to complete the online appeal form.
 
+  
+
+The deadline for the submission is 28 December 2020, 12pm.
+
+For appeals based on medical reasons (serious medical conditions or severe physical impairments), please make your request through the posted school before 23 December 2020, 12pm. 
+
+###### SECONDARY 1 STUDENTS AND PARENTS/GUARDIANS 2021
+
+Welcome to the Changkateer family! We are glad that you will be joining us for your secondary school journey.   
+
+In view of safe management measures put in place due to COVID-19, Sec 1 Registration as well as the purchase of school books and uniform will be conducted online. Students and parents should not report physically to school. 
+
+Please click [here] to complete the Sec 1 e-Registration form and to obtain details required to prepare for start of school.
+
+###### Release of GCE N-Level Results 2020
+
+The 2020 GCE N-Level results will be released on Thursday, 17 December 2020.
+
+All students are expected to report to the allocated classrooms by 1.45pm in full school uniform, schools shoes and socks with a proper haircut. In addition, no coloured or dyed hair will be accepted.
+
+  
+
+\*The MOE press release can be found [here](https://www.moe.gov.sg/news/press-releases/release-of-the-2020-singapore-cambridge-gce-na--and-nt-level-examination-results-on-17-december-2020).
+
+  
+
+We would like to wish our students all the best!
+
+###### E-OPEN HOUSE 2020
+
+Our E-Open House will be held on Saturday 28 Nov 2020 via a Facebook Live Session from 9am - 10am and 12pm - 1pm. 
+
+  
+
+Click on [this] to visit the E-Open House page.
+
+###### Last Day of Term Letter 2020
+
+Dear Parents, our last day of term letter is available [here][](/files/Last%20Day%20of%20Term%20Letter%20to%20Parents%202020_%20Final.pdf)
