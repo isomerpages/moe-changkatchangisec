@@ -282,3 +282,7 @@ For student self-help resources for HBL, please click [here](https://go.gov.sg/
 Dear Parents,  
 
 The Parent kit providing tips on how you can support your child's HBL and addressing some of your concerns can be found [here](/files/Resource%20Kit%20-%20HBL.pdf)
+
+######  Information and Programmes for Term 3
+
+Dear Parents, our term 2 letter to parents is available [here](/files/Term%203%20Letter%20to%20Parents%202020_%20Finalv1.pdf)
