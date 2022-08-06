@@ -316,3 +316,17 @@ Please click below for more information about our talent areas: 
 [Direct School Admission through Student centered opportunities in AeRospace Industries (ALP)]
 
 [Direct School Admission through Leadership and Service through School to Nation (LLP)]
+
+###### [Parent Kit\] Home-Based Learning
+
+Dear Parents,
+
+  
+
+The Parent kit providing tips on how you can support your child's HBL and addressing some of your concerns can be found [here](/files/Resource%20Kit%20-%20HBL.pdf)
+
+  
+
+Join MOE’s Facebook Live Session, “Ask Me Anything About… Home-Based Learning” on 1 April 2020, 8pm, to learn more about what HBL really means and the role you can play in your child’s HBL. 
+
+Click [here to RSVP](http://bit.ly/moe-amaa-hbl).
