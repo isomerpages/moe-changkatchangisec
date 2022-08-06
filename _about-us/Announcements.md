@@ -270,3 +270,15 @@ Dear parents,
   
 
 Please be informed that our school will be introducing e-CCA to our Sec 1 to 3 students, starting from 5 June, Friday, 2.30pm. For more information, please click on the link [here](/files/Parents%20Letter%20for%20eCCA.pdf)
+
+######  Home-Based Learning For Term 3
+
+Full details on HBL for Term 3 can be found [here]
+
+For student self-help resources for HBL, please click [here](https://go.gov.sg/ccsshbl).  
+
+
+  
+Dear Parents,  
+
+The Parent kit providing tips on how you can support your child's HBL and addressing some of your concerns can be found [here][](/files/Resource%20Kit%20-%20HBL.pdf)
