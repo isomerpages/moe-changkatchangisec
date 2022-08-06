@@ -133,3 +133,19 @@ The CCA Orientation slides and CCA audition/interview/trial dates can be found i
   
 
 [CCA Selection Trials Schedule.pdf](/files/CCA%20Selection%20Trials%20Schedule.pdf)
+
+###### Release of GCE O-Level Results 2020
+
+The 2020 GCE O-Level results will be released on Monday, 11 January 2021.
+
+  
+
+All students are expected to report to the respective venues by **1.45pm** in full school uniform, school shoes, socks with a proper haircut. In addition, no coloured or dyed hair will be accepted. 
+
+  
+
+\*The MOE press release can be found [here](https://www.moe.gov.sg/news/press-releases/release-of-2020-singapore-cambridge-gce-o-level-examination-results-and-2021-joint-admissions-exercise).  
+
+  
+
+We would like to wish our students all the best!
