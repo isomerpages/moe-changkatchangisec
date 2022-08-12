@@ -27,4 +27,3 @@ third_nav_title: School Staff
 <img src="/images/MR%20GOH%20CHENG%20ZE%20TRISTAN.jpeg" 
      style="width:33%;float:left"><img src="/images/TIMOTHY.jpeg" 
      style="width:33%;float:left">
-		 
