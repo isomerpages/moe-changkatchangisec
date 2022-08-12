@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Staff/Humanities.md
       - School Staff/Craft and Technology.md
       - School Staff/Educational Support.md
       - School Staff/.keep
