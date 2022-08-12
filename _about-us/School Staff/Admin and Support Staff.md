@@ -28,3 +28,14 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Mr%20Woo%20Chee%20Kwong.jpg" 
      style="width:33%;float:left"><img src="/images/Mr%20Unais%20Bin%20Yusof.jpg" 
      style="width:33%">
+		 
+<img src="/images/Mr%20Tan%20Boon%20Lee.jpg" 
+     style="width:33%;float:left"><img src="/images/Mdm%20Nabilah%20Binti%20Razali.jpg" 
+     style="width:33%;float:left"><img src="/images/Miss%20Fadilah%20Binte%20Abdul%20Aziz.jpg" 
+     style="width:33%">
+		 
+<img src="/images/Mdm%20Lee%20Suan%20Eng.jpg" 
+     style="width:33%;float:left"><img src="/images/Mdm%20Hamidah%20Bte%20Hassan.jpg" 
+     style="width:33%;float:left"><img src="/images/Mdm%20Aishah%20Mohd%20Tahir.jpg" 
+     style="width:33%">
+		 
