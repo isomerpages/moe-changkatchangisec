@@ -23,3 +23,8 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/E06%20MR%20ISMIL%20BIN%20MOHD%20ALI.jpeg" 
      style="width:33%;float:left"><img src="/images/Mr%20Hussain%20Bin%20Dollah.jpg" 
      style="width:33%">
+		 
+<img src="/images/Mr%20Pang%20Toh%20Ting.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Woo%20Chee%20Kwong.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Unais%20Bin%20Yusof.jpg" 
+     style="width:33%">
