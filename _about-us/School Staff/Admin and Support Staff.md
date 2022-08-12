@@ -39,3 +39,12 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Mdm%20Aishah%20Mohd%20Tahir.jpg" 
      style="width:33%">
 		 
+<img src="/images/Mr%20Wong%20Khay%20Onn.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Denny%20Chan.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Dzulkarnaen%20Bin%20Hamdi.jpg" 
+     style="width:33%">
+		 
+<img src="/images/S07%20SITI%20AMIRAH%20BINTE%20AHMAD.jpeg" 
+     style="width:33%;float:left"><img src="/images/Menon%20Rama%20Chandran.jpeg" 
+     style="width:33%;float:left">
+		 
