@@ -9,3 +9,12 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Miss%20Ng%20Koh%20Yee.jpg" 
      style="width:33%">
 		 
+<img src="/images/Mr%20Ho%20Peng%20Fatt%20Donald.jpg" 
+     style="width:33%;float:left"><img src="/images/Mdm%20Noor%20Rina%20Mohamad%20Moktar.jpg" 
+     style="width:33%;float:left"><img src="/images/Mdm%20Fazillah%20Bte%20Salleh.jpg" 
+     style="width:33%">
+		 
+<img src="/images/Mdm%20Rafidah%20Bte%20Abu%20Bakar.jpg" 
+     style="width:33%;float:left"><img src="/images/SHIRLEY.jpeg" 
+     style="width:33%;float:left"><img src="/images/Mdm%20Vellachi%20D_O%20Ramu.jpg" 
+     style="width:33%">
