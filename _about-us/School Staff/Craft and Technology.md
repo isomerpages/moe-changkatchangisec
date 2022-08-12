@@ -14,3 +14,8 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/SIM%20JIA%20EN.jpeg" 
      style="width:33%">
 		 
+<img src="/images/Mdm%20Siti%20Zubaidah%20Bte%20Ismail.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Sng%20Fook%20Chong.jpg" 
+     style="width:33%;float:left"><img src="/images/MR%20SOO%20SHENG%20LIH.jpeg" 
+     style="width:33%">
+	
