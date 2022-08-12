@@ -19,3 +19,8 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Mr%20Khalid%20Bin%20Othman.jpg" 
      style="width:33%">
 		 
+<img src="/images/T19%20MISS%20LIM%20SHAN%20YAN.jpeg" 
+     style="width:33%;float:left"><img src="/images/Miss%20Ling%20Geok%20Keng.jpg" 
+     style="width:33%;float:left"><img src="/images/Miss%20Low%20Yan%20Fang.jpg" 
+     style="width:33%">
+		 
