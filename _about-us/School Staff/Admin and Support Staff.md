@@ -18,3 +18,8 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/SHIRLEY.jpeg" 
      style="width:33%;float:left"><img src="/images/Mdm%20Vellachi%20D_O%20Ramu.jpg" 
      style="width:33%">
+		 
+<img src="/images/Mdm%20Azizah%20Bte%20Ali.jpg" 
+     style="width:33%;float:left"><img src="/images/E06%20MR%20ISMIL%20BIN%20MOHD%20ALI.jpeg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Hussain%20Bin%20Dollah.jpg" 
+     style="width:33%">
