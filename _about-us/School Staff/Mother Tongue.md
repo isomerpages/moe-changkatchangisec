@@ -23,4 +23,7 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Miss%20Nurain%20Bte%20Tajudeen.jpg" 
      style="width:33%;float:left"><img src="/images/Ms%20Nur%20Umaira%20Bte%20Muhd%20Zulkifli.jpg" 
      style="width:33%">
-
+		 
+<img src="/images/Mdm%20Anadhagirl%20Kasthuri.jpg" 
+     style="width:33%;float:left"><img src="/images/Dr%20Thirunavukarasu%20Duarisamy.jpeg" 
+     style="width:33%;float:left">
