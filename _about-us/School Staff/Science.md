@@ -8,4 +8,14 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/MR%20YAP%20BOON%20CHIEN.jpeg" 
      style="width:33%;float:left"><img src="/images/Ms%20Lee%20Li'Neng,%20Marie.jpg" 
      style="width:33%">
+		 
+<img src="/images/PATRICK%20ANG%20LH%20SCIENCE.jpeg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Lee%20Chin%20Teck.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Hong%20Kam%20Kheun.jpg" 
+     style="width:33%">
 
+<img src="/images/N01%20MR%20BRYAN%20ZHISHAN%20YONG.jpeg" 
+     style="width:33%;float:left"><img src="/images/T05%20DAPHNE%20KHOO%20RUI%20YUN.jpeg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Khalid%20Bin%20Othman.jpg" 
+     style="width:33%">
+		 
