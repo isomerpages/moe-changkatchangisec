@@ -24,3 +24,8 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Miss%20Low%20Yan%20Fang.jpg" 
      style="width:33%">
 		 
+<img src="/images/Mdm%20Ng%20Hwee%20Koon%20Joyce.jpg" 
+     style="width:33%;float:left"><img src="/images/Ms%20Ng%20Shi%20Ru.jpeg" 
+     style="width:33%;float:left"><img src="/images/N02%20MR%20RISHVINDER%20SINGH.jpeg" 
+     style="width:33%">
+		 
