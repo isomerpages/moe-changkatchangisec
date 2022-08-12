@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Staff/Mother Tongue.md
       - School Staff/Mathematics.md
       - School Staff/Science.md
       - School Staff/PE, CCA and Music.md
