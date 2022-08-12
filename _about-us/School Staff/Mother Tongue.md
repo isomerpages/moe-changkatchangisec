@@ -19,7 +19,8 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Mr%20Wang%20Yadong.jpg" 
      style="width:33%">
 
-<img src="/images/Mdm%20Tan%20Sai%20Kee.jpg" 
-     style="width:33%;float:left"><img src="/images/Ms%20Teo%20Ying%20Hui.jpeg" 
-     style="width:33%;float:left"><img src="/images/Mr%20Wang%20Yadong.jpg" 
+<img src="/images/Mr%20Abdul%20Matiin%20Bin%20Kassim.jpg" 
+     style="width:33%;float:left"><img src="/images/Miss%20Nurain%20Bte%20Tajudeen.jpg" 
+     style="width:33%;float:left"><img src="/images/Ms%20Nur%20Umaira%20Bte%20Muhd%20Zulkifli.jpg" 
      style="width:33%">
+
