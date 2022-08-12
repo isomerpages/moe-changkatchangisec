@@ -29,3 +29,6 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/N02%20MR%20RISHVINDER%20SINGH.jpeg" 
      style="width:33%">
 		 
+<img src="/images/DR%20SEAH%20MEI%20YING%20JESSICA.jpeg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Wan%20Bing%20Khiang.jpeg" 
+     style="width:33%;float:left">
