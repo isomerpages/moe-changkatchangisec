@@ -9,3 +9,18 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/SAMSON.jpeg" 
      style="width:33%">
 		 
+<img src="/images/Mr%20Muhammad%20Firdaus%20Zainal.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Imran%20Hussain%20Shah.jpg" 
+     style="width:33%;float:left"><img src="/images/MS%20GLORIA%20TAN%20MA%20SOK%20HUA.jpeg" 
+     style="width:33%">
+
+<img src="/images/Ms%20Huan%20Zhenling.jpg" 
+     style="width:33%;float:left"><img src="/images/T14%20MS%20KATHERINE%20YEUNG%20SEE%20MUN.jpeg" 
+     style="width:33%;float:left"><img src="/images/Miss%20Lim%20Yi%20Xuan%20Debi.jpg" 
+     style="width:33%">
+		 
+<img src="/images/MRS%20MOHANA.jpeg" 
+     style="width:33%;float:left"><img src="/images/Miss%20Namira%20Bte%20Mohamed.jpg" 
+     style="width:33%;float:left"><img src="/images/NURIAHTU.jpeg" 
+     style="width:33%">
+		 
