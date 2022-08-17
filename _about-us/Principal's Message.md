@@ -32,3 +32,23 @@ Together, We Flourish.
 
 Mr Ho Ming Da   
 Principal
+
+2021 Principal's Message
+------------------------
+
+Dear Members of the Changkat Community,  
+
+I am humbled to have the opportunity to lead this amazing school. Since my appointment was announced in October this year, I have connected with many of you. In these couple of months, I experienced first-hand the caring and supportive Changkat culture I have heard about on numerous occasions. Thank you for the warm welcome and the support rendered in preparing me for my new responsibilities.  
+
+I would like to extend this warm welcome to our Secondary One Changkateers and the parents / guardians joining our big Changkat family. With the support of parents / guardians, staff, School Advisory Committee, alumni and friends, we believe that your transition to secondary school life will be a positive experience. You will find Changkat to be a place where you will have opportunities to grow your unique strengths and interests driven by your passion to learn, serve and succeed.  
+
+I also look forward to welcoming and meeting the Secondary Two, Three, Four and Five Changkateers and school staff in the new academic year. The new year is a chance for the Changkat family to commit ourselves to create a vibrant learning community where Changkateers will Learn with Passion, Serve with Humility and Succeed with Integrity. Apart from our niche programmes in Aerospace and Aviation (our Applied Learning Programme) and Service and Leadership (our Learning for Life Programme), Changkateers can look forward to a richer learning experience through the implementation of Positive Education, Blended Learning and use of a new facility - Dream Lab. We will focus our efforts to strengthen the Changkateer Graduate Outcomes while being anchored on school values, iCAR2E (integrity, Care, GrAtitude, Respect, Resilience, Excellence).  
+
+Established in 1966, Changkat Changi Secondary School has come a long way. Under the able leadership of Ms Sharma Poonam and many other Principals before her, Changkat Changi Secondary School has had many achievements that we can be proud of. We will continue to build on their fine work and keep the Changkat Changi flag flying high! As we celebrate our 55th Anniversary in 2021, it also marks 20 years since our relocation to the current premises at 23 Simei Street 3 in 2001. The Simei community has welcomed us warmly in these past 20 years and we look forward to working closely with our community as we scale new heights.  
+
+Our school motto ‘Through School to Nation’ reminds us that Changkat Changi plays an important role to cultivate responsible and committed citizens for a cohesive society. Our work at Changkat Changi is not yet complete but I believe that together, we can achieve our Vision. We will therefore remember 2021 by celebrating our heritage and achievements and, at the same time, welcoming and realising our dreams of past, present and future Changkateers.  
+
+A warm welcome to the new academic year and best wishes for 2021!  
+
+Mr Ho Ming Da   
+Principal
