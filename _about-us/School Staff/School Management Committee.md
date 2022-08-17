@@ -48,4 +48,13 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Mdm%20Mufeedah%20Bte%20Senin.jpg" 
      style="width:33%;float:left"><img src="/images/Mr%20Imran%20Hussain%20Shah.jpg" 
      style="width:33%">
-
+		 
+<img src="/images/QUEK%20MING%20YEOW%20AYH.jpeg" 
+     style="width:33%;float:left"><img src="/images/Miss%20Ng%20Koh%20Yee.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Mustafa%20Bin%20Mohamed.jpg" 
+     style="width:33%">
+		 
+<img src="/images/Mr%20George%20Goh%20Chee%20Chong.jpg" 
+     style="width:33%;float:left"><img src="/images/Mdm%20Noor%20Rina%20Mohamad%20Moktar.jpg" 
+     style="width:33%;float:left">
+		 
