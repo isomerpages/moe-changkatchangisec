@@ -24,4 +24,32 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Mr%20Nahar%20Azmi%20Bin%20Abdul%20Majid.jpg" 
      style="width:33%">
 		 
+<img src="/images/Ms%20Nuraini%20Bte%20Abu%20Bakar.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Tan%20Teck%20Tang%20Glen.jpg" 
+     style="width:33%;float:left"><img src="/images/Ms%20Lee%20Li'Neng,%20Marie.jpg" 
+     style="width:33%">
+		 
+<img src="/images/Mr%20Muhammad%20Firdaus%20Zainal.jpg" 
+     style="width:33%;float:left"><img src="/images/Ms%20Huang%20Aili.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Poh%20Wei%20En.jpg" 
+     style="width:33%">
+		 
+<img src="/images/Mdm%20Hezrina%20Bte%20Johan%20Manikam.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Chia%20Heok%20Meng.jpg" 
+     style="width:33%;float:left"><img src="/images/SAMSON.jpeg" 
+     style="width:33%">
+		 
+<img src="/images/Mr%20Tan%20Tze%20Siong.jpg" 
+     style="width:33%;float:left"><img src="/images/PATRICK%20ANG%20LH%20SCIENCE.jpeg" 
+     style="width:33%;float:left"><img src="/images/12%20MR%20JASON%20ZHUO%20GENSHENG.jpeg" 
+     style="width:33%">
+		 
+<img src="/images/Mr%20Tan%20Tze%20Siong.jpg" 
+     style="width:33%;float:left"><img src="/images/PATRICK%20ANG%20LH%20SCIENCE.jpeg" 
+     style="width:33%;float:left"><img src="/images/12%20MR%20JASON%20ZHUO%20GENSHENG.jpeg" 
+     style="width:33%">
+		 
+
+
+
 
