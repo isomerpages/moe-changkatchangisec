@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Staff/School Management Committee.md
       - School Staff/Admin and Support Staff.md
       - School Staff/English.md
       - School Staff/Mother Tongue.md
