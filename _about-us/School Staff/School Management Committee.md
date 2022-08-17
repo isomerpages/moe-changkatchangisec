@@ -44,12 +44,8 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/12%20MR%20JASON%20ZHUO%20GENSHENG.jpeg" 
      style="width:33%">
 		 
-<img src="/images/Mr%20Tan%20Tze%20Siong.jpg" 
-     style="width:33%;float:left"><img src="/images/PATRICK%20ANG%20LH%20SCIENCE.jpeg" 
-     style="width:33%;float:left"><img src="/images/12%20MR%20JASON%20ZHUO%20GENSHENG.jpeg" 
+<img src="/images/15%20MR%20LIM%20PIA%20LEONG.jpeg" 
+     style="width:33%;float:left"><img src="/images/Mdm%20Mufeedah%20Bte%20Senin.jpg" 
+     style="width:33%;float:left"><img src="/images/Mr%20Imran%20Hussain%20Shah.jpg" 
      style="width:33%">
-		 
-
-
-
 
