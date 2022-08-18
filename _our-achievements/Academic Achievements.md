@@ -204,8 +204,7 @@ National Writing Competition 
 			<p>Humanities<br>NUS Geography Challenge<br>- Geo-Trail Competition - Semi Finals</p>
 
 			<p>Malay Language<br>Bahas 4PM National Debate Competition <br>- Quarter Finals <br>- Nurul Aaliyah Deduyo won the Top 10 Debator Award
-
-
-    </div>
-
-</li>
+		
+		</div>
+	
+	</li>
