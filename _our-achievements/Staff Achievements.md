@@ -103,3 +103,13 @@ The Commendation Medal was instituted in 1996. The Medal is awarded to individu
 
 ### 2015 Achievements
 
+**Outstanding Youth in Education Award (OYEA)**   
+OYEA honours the achievements of young educators. Launched in 1999, it recognises inspiring teachers for their youthful idealism, enthusiasm and active involvement in the development of youth beyond the formal curriculum. Our heartiest congratulations to Mr Hazleman Norhafis for clinching this award! 
+
+**Associate of Academy of Singapore Teachers Awards**   
+  
+On 13 November 2015, Mdm Perema and Ms Angeline Sim attended the Academy Awards Presentation at ITE College Central to receive the Associate of Academy of Singapore Teachers award. This award is conferred onto education officers who have contributed to the professional development of the fraternity beyond their job scope or workplace. Our heartiest congratulations to Mdm Perema and Ms Angeline Sim for their achievements and contributions!
+
+<img src="/images/Mdm%20Perema%20D_O%20Ramasamy.jpg" 
+     style="width:33%;float:left"><img src="/images/ANGELINE%20NEO.jpeg" 
+     style="width:33%">
