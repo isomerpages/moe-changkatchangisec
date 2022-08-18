@@ -1009,3 +1009,167 @@ LEONG SHU LING, MEGAN 
   
 
 **Awardees from Speech Day 6**
+
+![](/images/Awardees%20from%20Speech%20Day%206a.jpg)
+![](/images/Awardees%20from%20Speech%20Day%206b.jpg)
+![](/images/Awardees%20from%20Speech%20Day%206c.jpg)
+
+MUHAMMED IRSHAD FAHIM S/O VAPPU ABDUL KADER
+
+\- Outstanding Service Award For Student Leadership (Council), Service Award For NCC(Air) Boys
+
+  
+
+NG LIN XIANG
+
+\- Outstanding Service Award For Student Leadership (Council)
+
+  
+
+NUREEN SYAZURRAH BINTE SAHTARRY
+
+\- Outstanding Service Award For Student Leadership (Council)
+
+  
+
+RAMASAMY AZHAGURANI
+
+\- Outstanding Service Award For Student Leadership (Council), Service Award For Modern Dance
+
+  
+
+OOI BO REN, DYLAN
+
+\- Outstanding Service Award For The Boys’ Brigade 
+
+  
+
+TAN YANG YUAN AARON
+
+\- Outstanding Service Award For The Boys’ Brigade, Service Award For Student Leadership (Council)
+
+  
+
+LUCA NUSJIRWAN MONTISANO
+
+\- Outstanding Service Award For Track And Field 
+
+  
+
+TRINA CHUA MIN
+
+\- Outstanding Service Award For Track And Field
+
+  
+
+SHAZVIN MUHAMMAD BIN MUHAMMAD HAZIRKIR
+
+\- Outstanding Service Award For Track And Field
+
+  
+
+KYLIE TEO XUAN NING
+
+\- Neo Choon Tiong Scholarship
+
+  
+
+LACASTE MATTHEW ERNEST NECESITO
+
+\- SOAR ALP Scholarship
+
+  
+
+LEE CHUN HEI
+
+\- SOAR ALP Scholarship
+
+  
+
+ANISH RAJKUMAR SUBBU PILLAI SIVAKUMAR
+
+\- SOAR ALP Scholarship
+
+  
+
+MOHAN THIBURSIUS RAJ RUFINA MIRZA 
+
+\- Ishk Tolaram Scholarship
+
+  
+
+NURUL HABIB NUH D/O SHAHUL HAMEED 
+
+\- Ishk Tolaram Scholarship
+
+  
+
+LILY YASMIN BINTE MOHAMAD AZHAR
+
+\- Ishk Tolaram Scholarship
+
+  
+
+NURUL ZAHRA BINTE SAUKRAD ALI
+
+\- Ishk Tolaram Scholarship
+
+  
+
+YASIR BIN AFANDI
+
+\- Ishk Tolaram Scholarship
+
+  
+
+VILASEENI TANIA PEREIRA D/O STEVEN PEREIRA
+
+\- Ishk Tolaram Scholarship
+
+  
+
+THURGA THARSNI BA KANNAN
+
+\- Ishk Tolaram Scholarship
+
+  
+
+KHAIRUNNISA BINTE MIZAM
+
+\- Ishk Tolaram Scholarship
+
+  
+
+NURUL AMIRAH BINTE MOHAMED HAZIZ
+
+\- Ishk Tolaram Scholarship
+
+  
+
+  
+
+**Awardees from Speech Day 7**
+
+![](/images/Awardees%20from%20Speech%20Day%207.jpeg)
+
+LUTFIL ARIEL BIN JAMALUDIN
+
+\- Outstanding Service Award For Student Leadership (Council)
+
+  
+
+TAN TSINN SIONG
+
+\- Good Progress Award (Extended)
+
+  
+
+KHAIRULRIZQI 'IRFAN BIN MUHAMMAD KHAIRILLAH
+
+\- Good Progress Award (Extended)
+
+  
+
+LEE JING XUAN, JANEL
+
+\-  Good Progress Award (Extended)
