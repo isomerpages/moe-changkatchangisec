@@ -2,5 +2,6 @@ collections:
   our-achievements:
     output: true
     order:
+      - Academic Achievements.md
       - Staff Achievements.md
       - Speech & Prize Giving Presentations 2022.md
