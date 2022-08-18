@@ -478,3 +478,534 @@ RAYNA KWOK YU YAN
 ![](/images/Awardees%20from%20Speech%20Day%203b.jpg)
 ![](/images/Awardees%20from%20Speech%20Day%203c.jpg)
 ![](/images/Awardees%20from%20Speech%20Day%203d.jpg)
+
+CHAN HAN XIN 
+
+\- Best in Art
+
+  
+
+CLAUDIA GOH ZHE MIN
+
+\- Best in Chinese
+
+  
+
+MUHAMMAD WISNU DARWIN BIN ABDULLAH 
+
+\- Best in Malay
+
+  
+
+SU THIRI AUNG 
+
+\- Best in Food & Consumer Education
+
+  
+
+YASOTHARAN RAKITHA 
+
+\- Best in Tamil
+
+  
+
+CHUA RUI CHONG ISAAC 
+
+\- Best in English
+
+  
+
+HANISAH BINTE ABDUL LATIFF 
+
+\- Best in Literature
+
+  
+
+HASYA THAQIFAH BINTE SAID HAFIZ 
+
+\- Best in Design & Technology
+
+  
+
+JUHAINA TASLIMA D/O MOHAMED RAFFIUDEEN 
+
+\- Best in Tamil
+
+  
+
+LUKE LINCOLN BAGTAS MORAIS 
+
+\- Best in Mathematics
+
+  
+
+PHOEBE LIM XI 
+
+\- Best in Chinese
+
+  
+
+ANUSHREE BISWASRAY 
+
+\- Best in Literature
+
+  
+
+KISTINA BINTE JAMIL 
+
+\- Best in Malay
+
+  
+
+KUMAR HARISHIYA 
+
+\- Best in Tamil
+
+  
+
+PUTRI NURAQISHA BINTE MOHAMED FAISAL 
+
+\- Best in History, Literature
+
+  
+
+RUSYAIDI BIN RIZDUAN MOKTAR 
+
+\- Best in Science
+
+  
+
+STASIA SEAH XUE LIN 
+
+\- Best in Chinese
+
+  
+
+SURAJ DEEPAK HINGORANI 
+
+\- Best in English
+
+  
+
+VILASEENI TANIA PEREIRA D/O STEVEN PEREIRA 
+
+\- Best in Food & Consumer Education
+
+  
+
+LOOI PEI YIN 
+
+\- Best in Chinese
+
+  
+
+JACQUELINE GOH JIE TING 
+
+\- Best in Principles Of Accounts
+
+  
+
+MUHSIN BIN ZAINUL ABIDIN 
+
+\- Best in Malay
+
+  
+
+PEDDINI SAGARIKA YADAV 
+
+\- Best in Hindi
+
+  
+
+SEVILLEJA FRANCEVA ANGELI MARZAN 
+
+\- Best in Art
+
+  
+
+NG LIN XIANG 
+
+\- Best in Higher Chinese
+
+  
+
+ADIB ZULHUSNI BIN MOHAMAD FAUZY 
+
+\- Best in Design & Technology
+
+  
+
+ANGEL SAJITHA D/O JOSEPH 
+
+\- Best in Tamil
+
+  
+
+BERNICE ONG ZHI XUAN 
+
+\- Best in Chinese
+
+  
+
+JOCSON LHIANE CASSANDRA DEL MUNDO 
+
+\- Best in English
+
+  
+
+MUHAMMAD JAZALY BIN RAJUNA 
+
+\- Best in Art
+
+  
+
+MUHAMMAD NOR SUFYAN BIN RAHMAT 
+
+\- Best in Malay
+
+  
+
+  
+
+**Awardees from Speech Day 4**
+
+![](/images/Awardees%20from%20Speech%20Day%204a.jpg)
+![](/images/Awardees%20from%20Speech%20Day%204b.jpg)
+![](/images/Awardees%20from%20Speech%20Day%204c.jpg)
+
+NAURAH QISTINA PUTRI NAJIB
+
+\- Good Progress Award (Extended)
+
+  
+
+RADCLIFFE LIM RUI YANG
+
+\- Good Progress Award (Extended)
+
+  
+
+ABDILLAH BIN ROHAIZAD
+
+\- Good Progress Award (Extended)
+
+  
+
+GARRET SIM JIARUI
+
+\- Good Progress Award (Extended)
+
+  
+
+NORKHAIRIYANNA BINTE MOHAMMAD NASIR
+
+\- Good Progress Award (Extended)
+
+  
+
+LAU YONG LE ASTON
+
+\- Good Progress Award (Extended)
+
+  
+
+NURUL HASYA INSYIRAH BINTE IBRAHIM
+
+\- Good Progress Award (Extended)
+
+  
+
+JAYDRA BINTE SHEIKH SIRHAN
+
+\- Good Progress Award (Extended)
+
+  
+
+FU YIXUAN
+
+\- Good Progress Award (Extended)
+
+  
+
+YASIR BIN AFANDI
+
+\- Good Progress Award (Extended)
+
+  
+
+RYAN KHOO KOI NGIEN
+
+\- Good Progress Award (Extended)
+
+  
+
+SARAH ADRIANA BINTE MUHD IDLAN GOH
+
+\- Good Progress Award (Extended)
+
+  
+
+RIVEEN VENUJA NILAWEERA
+
+\- Good Progress Award (Extended)
+
+  
+
+DANIAL SUFIYAN BIN ABDULLAH
+
+\- Good Progress Award (Extended)
+
+  
+
+BEH RUI CHENG HUBERT
+
+\- Good Progress Award (Extended)
+
+  
+
+STASIA SEAH XUE LIN
+
+\- Good Progress Award (Extended)
+
+  
+
+WANG KANGYU
+
+\- Good Progress Award (Extended)
+
+  
+
+NABILAH BINTE IDRIS
+
+\- Good Progress Award (Extended)
+
+  
+
+NURUL NADYA BINTE AMRAN
+
+\- Good Progress Award (Extended)
+
+  
+
+MUHSIN BIN ZAINUL ABIDIN
+
+\- Good Progress Award (Extended)
+
+  
+
+TAN SHENG ZONG
+
+\- Good Progress Award (Extended)
+
+  
+
+LOW E ZHE XAVIER
+
+\- Good Progress Award (Extended)
+
+  
+
+MUHAMMAD SYAZWI BIN ROSLI
+
+\- Good Progress Award (Extended)
+
+  
+
+ELY ISZYANN BINTE ISMAIL
+
+\- Good Progress Award (Extended)
+
+  
+
+  
+
+**Awardees from Speech Day 5**  
+
+![](/images/Awardees%20from%20Speech%20Day%205a.jpg)
+![](/images/Awardees%20from%20Speech%20Day%205b.jpg)
+![](/images/Awardees%20from%20Speech%20Day%205c.jpg)
+![](/images/Awardees%20from%20Speech%20Day%205d.jpg)
+
+WONG YIN FEI, YIKO 
+
+\- Outstanding Service Award For Badminton
+
+  
+
+LEE CHUN HEI 
+
+\- Outstanding Service Award For Badminton
+
+  
+
+CHOW CHENG BOCK, HAYDEN 
+
+\- Outstanding Service Award For Chinese Instrumental Ensemble
+
+  
+
+YALAMANCHILI YUVRAJ 
+
+\- Outstanding Service Award For Chinese Instrumental Ensemble
+
+  
+
+LOOI PEI YIN 
+
+\- Outstanding Service Award For Concert Band
+
+  
+
+LEUNG HOI WAI CAZ 
+
+\- Outstanding Service Award For Concert Band
+
+  
+
+DHIA FALISYA BINTE FAZRIZAN 
+
+\- Outstanding Service Award For Girl Guides
+
+  
+
+SITI FATIMAH BINTE ABDUL JALIL 
+
+\- Outstanding Service Award For Girl Guides, Service Award For Student Leadership (Council)
+
+  
+
+TAN XIAOMIN 
+
+\- Outstanding Service Award For Infocomm Technology (Media Production)
+
+  
+
+NUR INSYIRAH BINTE ZAHRI 
+
+\- Outstanding Service Award For Malay Dance
+
+  
+
+NURUL NADYA BINTE AMRAN 
+
+\- Outstanding Service Award For Malay Dance
+
+  
+
+AISHAH IBRAHIM HOUGH 
+
+\- Outstanding Service Award For Malay Dance
+
+  
+
+MUHAMMAD IRFAN REZA BIN MUHAMMAD IMRAN 
+
+\- Outstanding Service Award For Modern Dance
+
+  
+
+SHANA JOTHI D/O SITHANANTHA JOTHI 
+
+\- Outstanding Service Award For Modern Dance
+
+  
+
+JOVELLE WOO ZI NING 
+
+\- Outstanding Service Award For Modern Dance
+
+  
+
+MOHAMED SYAIF AL DIN BIN MOHAMED SULFADIN 
+
+\- Outstanding Service Award For NCC (Air) Boys
+
+  
+
+AKMAL IMAN BIN ABD SHUKOR 
+
+\- Outstanding Service Award For NCC (Air) Boys, Service Award For Student Leadership (Council)
+
+  
+
+HARENDRAN S/O SIVAGURU NATHAN 
+
+\- Outstanding Service Award For NCC (Air) Boys
+
+  
+
+SITI AISHA BINTE ABDUL JALIL 
+
+\- Outstanding Service Award For NCC (Air) Girls, Service Award For Student Leadership (Council)
+
+  
+
+SAMEERA BEGUM BINTE RUSTAM ALI 
+
+\- Outstanding Service Award For NCC (Air) Girls, Service Award For Student Leadership (House)
+
+  
+
+IFFAH NURSHAHIRAH BINTE ROHAIZAN 
+
+\- Outstanding Service Award For NCC (Air) Girls
+
+  
+
+QYARA QISTYNA BINTE ZAILAN 
+
+\- Outstanding Service Award For Netball, Service Award For Student Leadership (Council)
+
+  
+
+KOH JIA XIN ZOEY 
+
+\- Outstanding Service Award For Netball
+
+  
+
+ADIB ZULHUSNI BIN MOHAMAD FAUZY 
+
+\- Outstanding Service Award For Sepaktakraw, Service Award For Student Leadership (Council)
+
+  
+
+MUHAMMAD HAADEE BIN MOHAMAD HISHAM 
+
+\- Outstanding Service Award For Sepaktakraw
+
+  
+
+LOH HUI EN LAUREN 
+
+\- Outstanding Service Award For Singapore National Youth Orchestra
+
+  
+
+EBRON ANGELO JOAQUIN GUINTO 
+
+\- Outstanding Service Award For Student Leadership (Council), NCC (Air) Boys, Service Award For Student Leadership (House)
+
+  
+
+CALIPH BIN BUKHARI 
+
+\- Outstanding Service Award For Student Leadership (Council), Service Award For NCC (Air) Boys
+
+  
+
+DIVYESH CHANDRAN 
+
+\- Outstanding Service Award For Student Leadership (Council)
+
+  
+
+LEONG SHU LING, MEGAN 
+
+\- Outstanding Service Award For Student Leadership (Council), Girl Guides
+
+  
+
+  
+
+**Awardees from Speech Day 6**
