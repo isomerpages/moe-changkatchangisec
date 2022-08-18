@@ -195,34 +195,16 @@ National Writing Competition 
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">2018 Achievements</label>
 
     <div>
 
-      <p>**Science**
+      <p>Science<br>C.B. Paul Memorial Quiz<br>- 1 Gold, 1 Silver</p>
+			
+			<p>Humanities<br>NUS Geography Challenge<br>- Geo-Trail Competition - Semi Finals</p>
 
-C.B. Paul Memorial Quiz
+			<p>Malay Language<br>Bahas 4PM National Debate Competition <br>- Quarter Finals <br>- Nurul Aaliyah Deduyo won the Top 10 Debator Award
 
-\- 1 Gold, 1 Silver
-
-  
-
-**Humanities**
-
-NUS Geography Challenge
-
-\- Geo-Trail Competition - Semi Finals
-
-  
-
-**Malay Language**
-
-Bahas 4PM National Debate Competition 
-
-\- Quarter Finals 
-
-\- Nurul Aaliyah Deduyo won the Top 10 Debator Award
-</p>
 
     </div>
 
