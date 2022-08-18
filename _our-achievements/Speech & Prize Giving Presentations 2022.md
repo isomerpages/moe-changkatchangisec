@@ -476,3 +476,5 @@ RAYNA KWOK YU YAN
 
 ![](/images/Awardees%20from%20Speech%20Day%203a.jpg)
 ![](/images/Awardees%20from%20Speech%20Day%203b.jpg)
+![](/images/Awardees%20from%20Speech%20Day%203c.jpg)
+![](/images/Awardees%20from%20Speech%20Day%203d.jpg)
