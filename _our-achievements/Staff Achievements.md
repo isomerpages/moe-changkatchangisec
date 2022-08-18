@@ -93,3 +93,13 @@ The Commendation Medal was instituted in 1996. The Medal is awarded to individua
      style="width:33%;float:left"><img src="/images/Mr%20Ho%20Beng%20Khiaw2.jpg" 
      style="width:33%">
 		 
+### 2016 Achievements
+		 
+**The Commendation Medal, 2016**
+
+The Commendation Medal was instituted in 1996. The Medal is awarded to individuals who display commendable performance and conduct, or significant efficiency, competence and devotion to duty. Our heartiest congratulations to Mr Melvin Ng Yong Hui for receiving this award as a recognition of his efforts in spearheading the School's Applied Learning Programme in Aviation!
+
+![](/images/unnamed-600x395.jpeg)
+
+### 2015 Achievements
+
