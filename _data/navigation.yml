@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
+  - title: Our Achievements
+    collection: our-achievements
