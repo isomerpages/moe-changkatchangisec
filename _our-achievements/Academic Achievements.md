@@ -138,55 +138,24 @@ Drone Odyssey Challenge
 
 ### 2019 Achievements
 
-**Science**
+<ul class="jekyllcodex_accordion">
 
-C.B. Paul Memorial Quiz
+  <li>
 
-\- 1 Bronze, 1 Merit
+    <input type="checkbox" id="accordion1">
 
-  
+    <label for="accordion1">2019 Achievements</label>
 
-**Mathematics**
+    <div>
 
-Singapore Mathematics Kangaroo Competition
+      <p>Science<br>C.B. Paul Memorial Quiz<br>- 1 Bronze, 1 Merit</p>
+			<p>Mathematics<br>Singapore Mathematics Kangaroo Competition<br>- 2 Bronze </p>
+			<p>Humanities<br>NUS Geography Challenge 2019<br>- Top Performing individual (Gold)</p>
+					<p>Chinese Language<br>17th National Secondary School Chinese Creative Writing Competition <br>- 1st</p>
+			<p>2nd Text Recital Competition for Primary and Secondary Schools <br>- Gold Award  </p>
+			<p>Malay Language<br>Sayembara Sastera (Recitation)<br>- Champion</p>
+			<p>National Writing Competition <br>- 2nd
 
-\- 2 Bronze 
-
-   
-
-**Humanities**
-
-NUS Geography Challenge 2019
-
-\- Top Performing individual (Gold)
-
-  
-
-**Chinese Language**
-
-17th National Secondary School Chinese Creative Writing Competition 
-
-\- 1st
-
-  
-
-2nd Text Recital Competition for Primary and Secondary Schools 
-
-\- Gold Award  
-
-**Malay Language**
-
-Sayembara Sastera (Recitation)
-
-\- Champion
-
-  
-
-National Writing Competition 
-
-\- 2nd
-
-### 2018 Achievements
 
 
 <ul class="jekyllcodex_accordion">
@@ -205,6 +174,3 @@ National Writing Competition 
 
 			<p>Malay Language<br>Bahas 4PM National Debate Competition <br>- Quarter Finals <br>- Nurul Aaliyah Deduyo won the Top 10 Debator Award
 		
-		</div>
-	
-	</li>
