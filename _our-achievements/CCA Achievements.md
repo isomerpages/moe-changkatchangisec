@@ -177,3 +177,46 @@ description: ""
 
 
 			<p>English Drama<br>- SYF 2017 (Certificate of Commendation)</p>
+			
+			<li>
+
+    <input type="checkbox" id="accordion6">
+
+    <label for="accordion6">2016 Achievements</label>
+
+    <div>
+			
+			<p><b>Uniformed Groups</b></p>
+<br>
+			<p>Boys’ Brigade<br>- JM Fraser Gold Award<br>- Alaster Chan and Ng Zhe Javier received the BB Founder's Award<br>- National Bagpipe Competition - 2nd & 3rd </p>
+			<p>Girl Guides<br>- Puan Noor Aishah Award 2016 (Gold)  for 1st and 2nd Coy </p>
+
+			<p>NCC (Air) Girls<br>- Gold Award </p>
+
+			<p><b>Sports and Games</b></p>
+<br>
+			<p>Track and Field<br>National Inter-school Track and Field Competition: <br>- 4x100m Relay B division Boys – 6th<br>- 4x400m Relay B division Boys – 8th<br>- 100m B division Boys  – 5th <br>- 200m B division Boys  – 5th </p>
+
+			<p>Sepak Takraw<br>- Inter-school Sepak Takraw Tournament  2016: National Top 8 (B Division)</p>
+
+			<p>Taekwondo <br>- Inter-school Nationals: Sparring category (Black Belt) – Bronze </p>
+
+  
+
+			<p><b>Performing Arts</b></p>
+
+			<p>Malay Dance<br>- SYF 2015 (Certificate of Accomplishment) </p>
+
+			<p>Modern Dance<br>- SYF 2015 (Certificate of Accomplishment)</p>
+
+  
+
+			<p>English Drama<br>- SYF 2015 (Certificate of Accomplishment)</p>
+
+  
+
+			<p>Military Band<br>- SYF 2015 (Certificate of Commendation)</p>
+
+  
+
+			<p>Chinese Orchestra<br>- SYF 2015 (Certificate of Commendation)</p>
