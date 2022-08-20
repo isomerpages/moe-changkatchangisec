@@ -156,7 +156,8 @@ Drone Odyssey Challenge
 			<p>Malay Language<br>Sayembara Sastera (Recitation)<br>- Champion</p>
 			<p>National Writing Competition <br>- 2nd
 
-
+			</li>
+		</div>
 
 <ul class="jekyllcodex_accordion">
 
