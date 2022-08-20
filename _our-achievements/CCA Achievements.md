@@ -62,4 +62,42 @@ description: ""
 			<p>NCC Air Boys<br>- Outstanding Cadet Award: Master Sergeant Alfred Seetoh Xiao An</p>
 			<p>NCC Air Girls<br>- Outstanding Cadet Award: Master Sergeant Nur Natasha Binte Mohamed Riduwan</p>
 			
+			<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">2020 Achievements</label>
+
+    <div>
 			
+			<p>Uniformed Groups</p>
+			<br>
+			<p>The Boys’ Brigade<br>- JM Fraser: Gold Award </p>
+			<p>Girl Guides<br>- Outstanding Award for Smoke Free Ambassador
+
+  
+
+**NCC (Air) Boys** 
+
+\- Adam Ibrahim Hough: HQNCC Outstanding Cadet Award
+
+  
+
+**NCC (Air) Girls**
+
+\- Nur Shahira Binte Rosli: HQNCC Outstanding Cadet Award
+
+\- Nurshuadah Binte Mohd Noor: HQNCC Outstanding Cadet Award
+
+  
+
+  
+
+  
+
+**Performing Arts**
+-------------------
+
+**English Drama** 
+
+\- 2020 Human Values Drama Festival (Certificate of Excellence (Consolation))
