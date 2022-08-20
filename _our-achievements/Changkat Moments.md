@@ -3,7 +3,6 @@ title: Changkat Moments
 permalink: /our-achievements/Changkat-Moments
 description: ""
 ---
-### 2022
 
 <ul class="jekyllcodex_accordion">
 	
@@ -11,7 +10,7 @@ description: ""
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">14 February - Total Defence Day</label>
+    <label for="accordion1">14 February 2022 - Total Defence Day</label>
 
     <div>
 			<p><img src="/images/Total%20Defence%20Pix%202.jpeg" 
@@ -24,7 +23,7 @@ description: ""
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">31 January - CNY Celebration</label>
+    <label for="accordion2">31 January 2022 - CNY Celebration</label>
 
     <div>
 			
@@ -38,7 +37,7 @@ description: ""
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">4 January -  Kickstart 2022</label>
+    <label for="accordion3">4 January 2022 -  Kickstart 2022</label>
 
     <div>
 		<p><img src="/images/IMG_1957.jpeg" 
@@ -47,14 +46,11 @@ description: ""
      style="width:50%;float:left"><img src="/images/IMG_1913.jpeg" 
 																			 style="width:50%"></p>
 			
-			
-### 2021
-			
 			<li>
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">28 October – Deepavali celebration </label>
+    <label for="accordion4">28 October 2021 – Deepavali celebration </label>
 			<div>
 			<p><img src="/images/Deepavali%201.jpeg" 
      style="width:50%;float:left"><img src="/images/Deepavali%202.jpeg" 
@@ -65,7 +61,7 @@ description: ""
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5">2 September - Teacher's Day Celebration</label>
+    <label for="accordion5">2 September 2021 - Teacher's Day Celebration</label>
 			<div>
 			<p><img src="/images/DSC04440.jpeg" 
      style="width:50%;float:left"><img src="/images/DSC04456.jpeg" 
@@ -76,7 +72,7 @@ description: ""
 
     <input type="checkbox" id="accordion6">
 
-    <label for="accordion6">29 October – Changkateer featured in RIA 89.7fm </label>
+    <label for="accordion6">29 October 2021 – Changkateer featured in RIA 89.7fm </label>
 			<div>
 			<p><img src="/images/RIA%20897FM.jpg" 
 							style="width:50%"></p>
@@ -85,10 +81,9 @@ description: ""
 
     <input type="checkbox" id="accordion7">
 
-    <label for="accordion7">6 August – National Day Celebrations</label>
+    <label for="accordion7">6 August 2021 – National Day Celebrations</label>
 				<div>
 				<p><img src="/images/DSC04425.jpeg" 
      style="width:50%;float:left"><img src="/images/DSC04433.jpeg" 
      style="width:50%"><img src="/images/DSC04423.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_1420.jpeg" style="width:50%"></p>
-					
