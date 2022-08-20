@@ -66,84 +66,31 @@ NUS Bisikan Pena Short Story Writing Competition
 
 ### 2020 Achievements
 
-**Science**
-
-UNSW Global Assessment (ICAS 2020)
-
-\- 2 Distinction, 2 Credit, 2 Merit
-
-  
-
-**Mathematics**
-
-Australian Mathematics Competition
-
-\- 1 High Distinction, 4 Distinctions, 9 Credits
-
-  
-
-**Humanities**
-
-NUS Geography Challenge 2020
-
-\- Top Performing individual (Bronze)
-
-  
-
-**Chinese Language**
-
-3rd Text Recital Competition
-
-\- 3rd place in the upper secondary category
-
-  
-
-3rd Nanyang Chinese Youth Literary Awards 2020
-
-\- Excellence Award
-
-  
-
-**Malay Language**
-
-Pena Emasku (ML Composition Writing Competition)
-
-\- 4 GOLD Awards
-
-  
-
-89.7FM RIA Skoolz student DJ Talent Search
-
-\- Winners
-
-  
-
-**Tamil Language**
-
-Navarasa Thiruvizha 2020
-
-\- 4th Place for Skit Competition
-
-  
-
-**Others**
-
-Drone Odyssey Challenge
-
-\- Drone Obstacle Challenge (Best Drone Flying Award)
-
-\- Drone Performance Challenge (2nd place)
-
-\- Drone Coding Challenge (Certificates of Distinction for being the top scorers)
 
 
 <ul class="jekyllcodex_accordion">
+	
+	  <li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">2020 Achievements</label>
+
+    <div>
+			
+			<p>Science<br>UNSW Global Assessment (ICAS 2020)<br>- 2 Distinction, 2 Credit, 2 Merit</p>
+				<p>Mathematics<br>Australian Mathematics Competition<br>- 1 High Distinction, 4 Distinctions, 9 Credits</p>
+			<p>Humanities<br>NUS Geography Challenge 2020<br>- Top Performing individual (Bronze)</p>
+			<p>Chinese Language<br>3rd Text Recital Competition<br>- 3rd place in the upper secondary category<br>3rd Nanyang Chinese Youth Literary Awards 2020<br>- Excellence Award</p>
+			<p>Malay Language<br>Pena Emasku (ML Composition Writing Competition)<br>- 4 GOLD Awards<br>89.7FM RIA Skoolz student DJ Talent Search<br>- Winners</p>
+			<p>Tamil Language<br>Navarasa Thiruvizha 2020<br>- 4th Place for Skit Competition</p>
+			<p>Others<br>Drone Odyssey Challenge<br>- Drone Obstacle Challenge (Best Drone Flying Award)<br>- Drone Performance Challenge (2nd place)<br>- Drone Coding Challenge (Certificates of Distinction for being the top scorers)
 
   <li>
 
-    <input type="checkbox" id="accordion1">
+    <input type="checkbox" id="accordion4">
 
-    <label for="accordion1">2019 Achievements</label>
+    <label for="accordion4">2019 Achievements</label>
 
     <div>
 
@@ -155,14 +102,11 @@ Drone Odyssey Challenge
 			<p>Malay Language<br>Sayembara Sastera (Recitation)<br>- Champion</p>
 			<p>National Writing Competition <br>- 2nd
 
-			</li>
-		</div>
-
   <li>
 
-    <input type="checkbox" id="accordion2">
+    <input type="checkbox" id="accordion5">
 
-    <label for="accordion2">2018 Achievements</label>
+    <label for="accordion5">2018 Achievements</label>
 
     <div>
 
