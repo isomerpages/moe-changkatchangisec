@@ -14,4 +14,6 @@ description: ""
     <label for="accordion1">14 February - Total Defence Day</label>
 
     <div>
-			<p>![](/images/Total%20Defence%20Pix%202.jpeg)</p>
+			<p><img src="/images/Total%20Defence%20Pix%202.jpeg" 
+     style="width:50%;float:left"><img src="/images/Total%20Defence%20pix%203.jpeg" 
+     style="width:50%"></p>
