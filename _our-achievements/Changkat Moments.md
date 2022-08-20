@@ -28,9 +28,9 @@ description: ""
 
     <div>
 			
-		<p><img src="/images/CNY%20Pix%201.jpg" 
-     style="width:50%;float:left"><img src="/images/CNY%20Pix%203.jpeg" 
-     style="width:50%"><br><img src="/images/CNY%20Pix%202.jpeg" 
+		<p><img src="/images/CNY%20Pix%203.jpeg" 
+     style="width:50%;float:left"><img src="/images/CNY%20Pix%201.jpg" 
+     style="width:50%"><img src="/images/CNY%20Pix%202.jpeg" 
      style="width:50%;float:left"><img src="/images/CNY%20Pix%204.jpeg" 
 																			 style="width:50%"></p>
 			
