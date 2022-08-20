@@ -86,3 +86,33 @@ description: ""
      style="width:50%;float:left"><img src="/images/DSC04433.jpeg" 
      style="width:50%"><img src="/images/DSC04423.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_1420.jpeg" style="width:50%"></p>
+					
+					<li>
+
+    <input type="checkbox" id="accordion8">
+
+    <label for="accordion8">21 July 2021 – Racial Harmony Day</label>
+				<div>
+				<p><img src="/images/RHD1.jpeg" 
+     style="width:50%;float:left"><img src="/images/RHD2.jpeg" style="width:50%"></p>
+
+					<li>
+
+    <input type="checkbox" id="accordion9">
+
+    <label for="accordion9">6 August – National Day Celebrations</label>
+				<div>
+					<p>content</p>
+					
+					<li>
+
+    <input type="checkbox" id="accordion10">
+
+    <label for="accordion10">1 July - NCC Day</label>
+				<div>
+				<p>The NCC Day is observed on 1 July 2021 which coincides with Singapore Armed Forces (SAF) Day. The event commemorates the founding of the SAF on 1 July.<br>Congratulations to the following cadets from our school who will be receiving the Outstanding Cadet Award:<br>Master Sergeant Alfred Seetoh Xiao An from the NCC Air Boys<br>Master Sergeant Nur Natasha Binte Mohamed Riduwan from the NCC Air Girls</p>
+					<p><img src="/images/Alfred%20Seeto.jpeg" 
+     style="width:50%;float:left"><img src="/images/Nur%20Natasha.jpeg" 
+     style="width:50%"><img src="/images/IMG_1184.jpeg" style="width:50%;float:left"><img src="/images/IMG_1185.jpeg" style="width:50%"></p>
+
+				
