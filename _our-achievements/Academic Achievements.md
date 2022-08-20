@@ -5,8 +5,9 @@ description: ""
 ---
 ### 2022 Achievements
 
-Humanities<br>NUS Geography Challenge 2022<br>- Top Performing individual (Silver)</p>
-				<p>Others<br>Singapore Raffles International Music Festival Viola Competition<br>- Gold Award<br>Singapore Amazing Flying Machine Competition 2022<br>- Best Presentation (2nd Place)<br>- Best Creative and Aesthetic (3rd Place)<br>VJC Singapore Model Cabinet Competition<br>- Best Position Paper</p>
+Humanities<br>NUS Geography Challenge 2022<br>- Top Performing individual (Silver)
+
+Others<br>Singapore Raffles International Music Festival Viola Competition<br>- Gold Award<br>Singapore Amazing Flying Machine Competition 2022<br>- Best Presentation (2nd Place)<br>- Best Creative and Aesthetic (3rd Place)<br>VJC Singapore Model Cabinet Competition<br>- Best Position Paper
 	
 <ul class="jekyllcodex_accordion">
 	
