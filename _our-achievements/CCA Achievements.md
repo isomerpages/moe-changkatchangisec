@@ -135,3 +135,45 @@ description: ""
 			<p><b>Sports and Games</b></p>
 <br>
 			<p>Track and Field<br>- National Inter-school  Track and Field Competition: <br> 400m (C division Girls) – 4th  <br>4X100m (C division Girls) – 7th <br>4X400m (C division Girls) – 7th  <br>- NYP Track and Field Invitational <br>400m C Division Girls - 1st
+				
+				<li>
+
+    <input type="checkbox" id="accordion5">
+
+    <label for="accordion5">2017 Achievements</label>
+
+    <div>
+			
+			<p><b>Uniformed Groups</b></p>  
+			<br>
+			<p>The Boys’ Brigade<br>- JM Fraser Gold Award <br>- He Li and Adrain Chan received the BB Founder's Award</p>
+
+			<p>Girl Guides<br>- Puan Noor Aishah Award 2017 (Gold)  for 1st and 2nd Coy</p>
+
+			<p>NCC (Air) Girls<br>- Gold Award  </p>
+
+			<p>NCC (Air) Boys<br>- Silver Award <br>- Freestyle Exhibition Drill Competition<br> - 3rd Runner Up</p>
+
+  
+			<p><b>Sports and Games</b></p> 
+<br>
+			<p>Track and Field<br>National Inter-school Track and Field Competition:<br>- 200m B division Boys – 8th 
+				<br>NYP Track and Field Invitational<br>- 4X100m B Division Boys - 2nd </p>
+
+  
+			<p>Sepak Takraw<br>- Inter-school Sepak Takraw Tournament 2017: National Top 8 (B Division)</p>
+
+			<p><b>Performing Arts</b></p> 
+<br>
+			<p>Malay Dance<br>- SYF 2017 (Certificate of Distinction) </p>
+
+			<p>Modern Dance<br>- SYF 2017 (Certificate of Accomplishment)</p>
+
+
+			<p>Military  Band<br>- SYF 2017 (Certificate of Accomplishment)</p>
+
+
+			<p>Chinese Orchestra<br>- SYF 2017 (Certificate of Accomplishment)</p>
+
+
+			<p>English Drama<br>- SYF 2017 (Certificate of Commendation)</p>
