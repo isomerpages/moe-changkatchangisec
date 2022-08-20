@@ -73,31 +73,10 @@ description: ""
 			<p>Uniformed Groups</p>
 			<br>
 			<p>The Boys’ Brigade<br>- JM Fraser: Gold Award </p>
-			<p>Girl Guides<br>- Outstanding Award for Smoke Free Ambassador
-
-  
-
-**NCC (Air) Boys** 
-
-\- Adam Ibrahim Hough: HQNCC Outstanding Cadet Award
-
-  
-
-**NCC (Air) Girls**
-
-\- Nur Shahira Binte Rosli: HQNCC Outstanding Cadet Award
-
-\- Nurshuadah Binte Mohd Noor: HQNCC Outstanding Cadet Award
-
-  
-
-  
-
-  
-
-**Performing Arts**
--------------------
-
-**English Drama** 
-
-\- 2020 Human Values Drama Festival (Certificate of Excellence (Consolation))
+			<p>Girl Guides<br>- Outstanding Award for Smoke Free Ambassador</p>
+			<p>NCC (Air) Boys<br>- Adam Ibrahim Hough: HQNCC Outstanding Cadet Award</p>
+			<p>NCC (Air) Girls<br>- Nur Shahira Binte Rosli: HQNCC Outstanding Cadet Award<br>- Nurshuadah Binte Mohd Noor: HQNCC Outstanding Cadet Award</p>
+			
+			<p>Performing Arts</p>
+<br>
+			<p>English Drama<br>- 2020 Human Values Drama Festival (Certificate of Excellence (Consolation))
