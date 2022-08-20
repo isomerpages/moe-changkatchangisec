@@ -3,72 +3,32 @@ title: Academic Achievements
 permalink: /our-achievements/Academic-Achievements
 description: ""
 ---
-### 2022 Achievements
-
-**Humanities**
-
-  
-
-NUS Geography Challenge 2022
-
-\- Top Performing individual (Silver)
-
-  
-
-**Others**
-
-  
-
-Singapore Raffles International Music Festival Viola Competition
-
-\- Gold Award
-
-  
-
-Singapore Amazing Flying Machine Competition 2022
-
-\- Best Presentation (2nd Place)
-
-\- Best Creative and Aesthetic (3rd Place)
-
-  
-
-VJC Singapore Model Cabinet Competition
-
-\- Best Position Paper
-
-### 2021 Achievements
-
-**English Drama Society**  
-
-\- SYF 2021 (Certification of Accomplishment)
-
-  
-
-**Malay Language**
-
-NUS Bisikan Pena Short Story Writing Competition  
-\- All top three positions
-
-  
-
-**Chinese Language**
-
-4th Primary and Secondary School Chinese Language Text Recital Competition
-
-\- Lower Secondary Individual Award (Silver)
-
-\- Upper Secondary Group Award (Silver)  
-
-**Humanities**
-<br>VJC Singapore Model Cabinet  
- - Outstanding Position Paper Category: ( 1st) & (2nd) position
-
-### 2020 Achievements
-
-
 
 <ul class="jekyllcodex_accordion">
+	
+	<li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">2022 Achievements</label>
+
+    <div>
+			
+			<p>Humanities<br>NUS Geography Challenge 2022<br>- Top Performing individual (Silver)</p>
+				<p>Others<br>Singapore Raffles International Music Festival Viola Competition<br>- Gold Award<br>Singapore Amazing Flying Machine Competition 2022<br>- Best Presentation (2nd Place)<br>- Best Creative and Aesthetic (3rd Place)<br>VJC Singapore Model Cabinet Competition<br>- Best Position Paper</p>
+	
+		  <li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">2021 Achievements</label>
+
+    <div>
+			
+			<p>English Drama Society<br>- SYF 2021 (Certification of Accomplishment)</p>
+			<p>Malay Language<br>NUS Bisikan Pena Short Story Writing Competition<br>- All top three positions</p>
+				<p>Chinese Language<br>4th Primary and Secondary School Chinese Language Text Recital Competition<br>- Lower Secondary Individual Award (Silver)<br>- Upper Secondary Group Award (Silver)  </p>
+			<p>Humanities<br>VJC Singapore Model Cabinet<br>- Outstanding Position Paper Category: ( 1st) & (2nd) position
 	
 	  <li>
 
