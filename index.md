@@ -2,7 +2,7 @@
 layout: homepage
 title: Changkat Changi Secondary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo01.jpeg
 permalink: /
 notification: ""
 sections:
@@ -23,4 +23,5 @@ sections:
       button: Read more
       url: /
 ---
+
 
