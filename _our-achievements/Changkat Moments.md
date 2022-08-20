@@ -19,3 +19,17 @@ description: ""
      style="width:50%"><img src="/images/Total%20Defence%20Pix%201.png" 
      style="width:50%;float:left"><img src="/images/Total%20Defence%20Pix%204.jpeg" 
      style="width:50%"></p>
+			
+			<li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">31 January - CNY Celebration</label>
+
+    <div>
+			
+		<p><img src="/images/CNY%20Pix%201.jpg" 
+     style="width:50%;float:left"><img src="/images/CNY%20Pix%203.jpeg" 
+     style="width:50%"><img src="/images/CNY%20Pix%202.jpeg" 
+     style="width:50%;float:left"><img src="/images/CNY%20Pix%204.jpeg" 
+																			 style="width:50%"></p>
