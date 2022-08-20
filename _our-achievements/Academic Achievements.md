@@ -163,9 +163,9 @@ Drone Odyssey Challenge
 
   <li>
 
-    <input type="checkbox" id="accordion1">
+    <input type="checkbox" id="accordion2">
 
-    <label for="accordion1">2018 Achievements</label>
+    <label for="accordion2">2018 Achievements</label>
 
     <div>
 
@@ -175,22 +175,3 @@ Drone Odyssey Challenge
 
 			<p>Malay Language<br>Bahas 4PM National Debate Competition <br>- Quarter Finals <br>- Nurul Aaliyah Deduyo won the Top 10 Debator Award
 				
-				  **<li>
-
-    <input type="checkbox" id="accordion2">
-
-    <label for="accordion2">Multi-line Block</label>
-
-    <div>
-
-      <p>This is line 1</p>
-
-      <p>This is line 2<br>
-
-        This is line 3</p>
-
-    </div>
-
-  </li>
-
-  <li>**
