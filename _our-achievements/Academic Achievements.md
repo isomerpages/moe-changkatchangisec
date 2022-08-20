@@ -3,19 +3,12 @@ title: Academic Achievements
 permalink: /our-achievements/Academic-Achievements
 description: ""
 ---
+### 2022 Achievements
 
-<ul class="jekyllcodex_accordion">
-	
-	<li>
-
-    <input type="checkbox" id="accordion1">
-
-    <label for="accordion1">2022 Achievements</label>
-
-    <div>
-			
-			<p>Humanities<br>NUS Geography Challenge 2022<br>- Top Performing individual (Silver)</p>
+Humanities<br>NUS Geography Challenge 2022<br>- Top Performing individual (Silver)</p>
 				<p>Others<br>Singapore Raffles International Music Festival Viola Competition<br>- Gold Award<br>Singapore Amazing Flying Machine Competition 2022<br>- Best Presentation (2nd Place)<br>- Best Creative and Aesthetic (3rd Place)<br>VJC Singapore Model Cabinet Competition<br>- Best Position Paper</p>
+	
+<ul class="jekyllcodex_accordion">
 	
 		  <li>
 
