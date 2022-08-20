@@ -136,7 +136,6 @@ Drone Odyssey Challenge
 
 \- Drone Coding Challenge (Certificates of Distinction for being the top scorers)
 
-### 2019 Achievements
 
 <ul class="jekyllcodex_accordion">
 
@@ -158,8 +157,6 @@ Drone Odyssey Challenge
 
 			</li>
 		</div>
-
-<ul class="jekyllcodex_accordion">
 
   <li>
 
