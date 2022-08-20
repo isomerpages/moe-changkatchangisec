@@ -61,5 +61,14 @@ description: ""
      style="width:50%"><img src="/images/Deepavali%203.jpeg" 
      style="width:50%;float:left"><img src="/images/Deepavali%204.jpeg" style="width:50%"></p>
 				
-				![]()![]()![]()![]()
-				
+<li>
+
+    <input type="checkbox" id="accordion5">
+
+    <label for="accordion5">2 September - Teacher's Day Celebration</label>
+			<div>
+			<p><img src="/images/DSC04440.jpeg" 
+     style="width:50%;float:left"><img src="/images/DSC04456.jpeg" 
+     style="width:50%"><img src="/images/DSC04462.jpeg" 
+     style="width:50%;float:left"><img src="/images/DSC04475.jpeg" style="width:50%"></p>
+			
