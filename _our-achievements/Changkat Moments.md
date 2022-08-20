@@ -22,9 +22,9 @@ description: ""
 			
 			<li>
 
-    <input type="checkbox" id="accordion1">
+    <input type="checkbox" id="accordion2">
 
-    <label for="accordion1">31 January - CNY Celebration</label>
+    <label for="accordion2">31 January - CNY Celebration</label>
 
     <div>
 			
