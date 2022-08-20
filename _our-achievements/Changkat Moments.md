@@ -71,4 +71,12 @@ description: ""
      style="width:50%;float:left"><img src="/images/DSC04456.jpeg" 
      style="width:50%"><img src="/images/DSC04462.jpeg" 
      style="width:50%;float:left"><img src="/images/DSC04475.jpeg" style="width:50%"></p>
-			
+				
+				<li>
+
+    <input type="checkbox" id="accordion5">
+
+    <label for="accordion5">29 October – Changkateer featured in RIA 89.7fm </label>
+			<div>
+			<p><img src="/images/RIA%20897FM.jpg" 
+     style="width:50%">
