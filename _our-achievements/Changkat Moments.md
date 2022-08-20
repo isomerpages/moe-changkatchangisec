@@ -119,7 +119,7 @@ description: ""
 
     <input type="checkbox" id="accordion11">
 
-    <label for="accordion11">16 February - Total Defence Day</label>
+    <label for="accordion11">16 February 2021 - Total Defence Day</label>
 				<div>
 				<p>Changkateers commemorating Total Defence Week through games and insightful sharing sessions</p>
 				<p><img src="/images/TDD2021-1.jpeg" 
@@ -130,9 +130,16 @@ description: ""
 
     <input type="checkbox" id="accordion12">
 
-    <label for="accordion12">11 February - Chinese New Year Celebration</label>
+    <label for="accordion12">11 February 2021 - Chinese New Year Celebration</label>
 				<div>
 					<p>Changkateers ushering in the Year of the Ox. 牛年大吉!</p>
 					<p><img src="/images/DSC_0444.jpeg" 
      style="width:33%;float:left"><img src="/images/DSC_0477.jpeg" 
 																			 style="width:33%;float:left"><img src="/images/DSC_0536.jpeg" style="width:33%"><img src="/images/IMG_0130.jpeg" style="width:50%"></p>
+					
+						<li>
+
+    <input type="checkbox" id="accordion13">
+
+    <label for="accordion13">8 February 2021- Mother Tongue Fortnight</label>
+				<div>
