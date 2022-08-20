@@ -55,7 +55,7 @@ description: ""
 			<p>Malay Dance<br>- SYF 2021 (Certificate of Distinction)</p>
 			<p>Military Band<br>-SYF 2021 (Certification of Commendation)</p>
 			<p>Modern Dance<br>-SYF 2021 (Certification of Distinction)</p>
-			<p>Uniformed Groups</p>
+			<p><b>Uniformed Groups</b></p>
 			<br>
 			<p>The Boys’ Brigade<br>- Founder’s Award: Yen Zhong Zhi</p>
 			<p>Girl Guides<br>- Baden Powell Award: Parikh Khushi Sachin & Ong Shi Ya Crystal</p>
@@ -70,14 +70,14 @@ description: ""
 
     <div>
 			
-			<p>Uniformed Groups</p>
+			<p><b>Uniformed Groups</b></p>
 			<br>
 			<p>The Boys’ Brigade<br>- JM Fraser: Gold Award </p>
 			<p>Girl Guides<br>- Outstanding Award for Smoke Free Ambassador</p>
 			<p>NCC (Air) Boys<br>- Adam Ibrahim Hough: HQNCC Outstanding Cadet Award</p>
 			<p>NCC (Air) Girls<br>- Nur Shahira Binte Rosli: HQNCC Outstanding Cadet Award<br>- Nurshuadah Binte Mohd Noor: HQNCC Outstanding Cadet Award</p>
 			
-			<p>Performing Arts</p>
+			<p><b>Performing Arts</b></p>
 <br>
 			<p>English Drama<br>- 2020 Human Values Drama Festival (Certificate of Excellence (Consolation))
 				
@@ -89,14 +89,14 @@ description: ""
 
     <div>
 			
-			<p>Uniformed Groups</p>
+			<p><b>Uniformed Groups</b></p>
 			<br>
 			<p>The Boys’ Brigade<br>- JM Fraser: Gold Award <br>- Benjamin Yeo received the BB Founder's Award</p>
 			<p>Girl Guides<br>- Puan Noor Aishah Award: Gold Award (1st & 2nd Coy)</p>
 			<p>NCC (Air) Boys<br>- Best Unit Competition: Gold Award</p>
 			<p>NCC (Air) Girls<br>- Best Unit Competition: Gold Award</p>
 			
-			<p>Performing Arts</p>
+			<p><b>Performing Arts</b></p>
 			<br>
 			<p>Chinese String Esemble<br>- SYF 2019 (Certificate of Distinction)</p>
 			<p>Malay Dance<br>- SYF 2019 (Certificate of Accomplishment) </p>
