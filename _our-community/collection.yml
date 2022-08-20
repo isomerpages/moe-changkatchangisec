@@ -1,0 +1,4 @@
+collections:
+  our-community:
+    output: true
+    order: []
