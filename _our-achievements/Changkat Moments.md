@@ -100,7 +100,7 @@ description: ""
 
     <input type="checkbox" id="accordion9">
 
-    <label for="accordion9">6 August – National Day Celebrations</label>
+    <label for="accordion9">6 August 2021 – National Day Celebrations</label>
 				<div>
 					<p>content</p>
 					
@@ -108,11 +108,20 @@ description: ""
 
     <input type="checkbox" id="accordion10">
 
-    <label for="accordion10">1 July - NCC Day</label>
+    <label for="accordion10">1 July 2021 - NCC Day</label>
 				<div>
 				<p>The NCC Day is observed on 1 July 2021 which coincides with Singapore Armed Forces (SAF) Day. The event commemorates the founding of the SAF on 1 July.<br>Congratulations to the following cadets from our school who will be receiving the Outstanding Cadet Award:<br>Master Sergeant Alfred Seetoh Xiao An from the NCC Air Boys<br>Master Sergeant Nur Natasha Binte Mohamed Riduwan from the NCC Air Girls</p>
 					<p><img src="/images/Alfred%20Seeto.jpeg" 
      style="width:50%;float:left"><img src="/images/Nur%20Natasha.jpeg" 
      style="width:50%"><img src="/images/IMG_1184.jpeg" style="width:50%;float:left"><img src="/images/IMG_1185.jpeg" style="width:50%"></p>
+					
+					<li>
 
-				
+    <input type="checkbox" id="accordion11">
+
+    <label for="accordion11">16 February - Total Defence Day</label>
+				<div>
+				<p>Changkateers commemorating Total Defence Week through games and insightful sharing sessions</p>
+				<p><img src="/images/TDD2021-1.jpeg" 
+     style="width:50%;float:left"><img src="/images/TDD2021-2.jpeg" 
+     style="width:50%"><img src="/images/TDD2021-3.jpeg" style="width:50%;float:left"><img src="/images/TDD2021-4.jpeg" style="width:50%"><img src="/images/TDD2021-5.jpeg" style="width:50%;float:left"></p>
