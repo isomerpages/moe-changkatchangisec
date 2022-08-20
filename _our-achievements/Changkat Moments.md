@@ -74,9 +74,21 @@ description: ""
 				
 				<li>
 
-    <input type="checkbox" id="accordion5">
+    <input type="checkbox" id="accordion6">
 
-    <label for="accordion5">29 October – Changkateer featured in RIA 89.7fm </label>
+    <label for="accordion6">29 October – Changkateer featured in RIA 89.7fm </label>
 			<div>
 			<p><img src="/images/RIA%20897FM.jpg" 
-     style="width:50%">
+							style="width:50%"></p>
+								
+				<li>
+
+    <input type="checkbox" id="accordion7">
+
+    <label for="accordion7">6 August – National Day Celebrations</label>
+				<div>
+				<p><img src="/images/DSC04425.jpeg" 
+     style="width:50%;float:left"><img src="/images/DSC04433.jpeg" 
+     style="width:50%"><img src="/images/DSC04423.jpeg" 
+     style="width:50%;float:left"><img src="/images/IMG_1420.jpeg" style="width:50%"></p>
+					
