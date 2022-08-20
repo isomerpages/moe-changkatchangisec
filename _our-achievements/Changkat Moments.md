@@ -125,3 +125,14 @@ description: ""
 				<p><img src="/images/TDD2021-1.jpeg" 
      style="width:50%;float:left"><img src="/images/TDD2021-2.jpeg" 
      style="width:50%"><img src="/images/TDD2021-3.jpeg" style="width:50%;float:left"><img src="/images/TDD2021-4.jpeg" style="width:50%"><img src="/images/TDD2021-5.jpeg" style="width:50%;float:left"></p>
+					
+					<li>
+
+    <input type="checkbox" id="accordion12">
+
+    <label for="accordion12">11 February - Chinese New Year Celebration</label>
+				<div>
+					<p>Changkateers ushering in the Year of the Ox. 牛年大吉!</p>
+					<p><img src="/images/DSC_0444.jpeg" 
+     style="width:33%;float:left"><img src="/images/DSC_0477.jpeg" 
+																			 style="width:33%;float:left"><img src="/images/DSC_0536.jpeg" style="width:33%"><img src="/images/IMG_0130.jpeg" style="width:50%"></p>
