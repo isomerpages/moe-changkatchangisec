@@ -105,99 +105,27 @@ description: ""
 			<p>English Drama<br>- SYF 2019 (Certificate of Accomplishment)</p>
 
 
-Sports and Games
-----------------
-
-  
-
-**Netball**
-
-\- M1 League: Semi-finalist
+			<p><b>Sports and Games</b></p>
+			<br>
+			<p>Netball<br>- M1 League: Semi-finalist</p>
 				
 				
 				
-				**Uniformed Groups**
---------------------
-
-**The Boys’ Brigade** 
-
-\- JM Fraser: Gold Award
-
-\- 14th BB Pipes & Drums Festival 
-
-    Band Category: 2nd 
-
-    Pipes Junior Novice: 2nd 
-
-    Pipes Senior Novice: 1st 
-
-    Snare Junior Novice: 1st 
-
-    Snare Senior Novice: 2nd 
-
-    Snare Senior Event 2: 2nd 
-
-\- Huan Sheng received the BB Founder's Award
+			<p><b>Uniformed Groups</b></p>
+			<br>
+			<p>The Boys’ Brigade<br>- JM Fraser: Gold Award<br>- 14th BB Pipes & Drums Festival <br>Band Category: 2nd <br>Pipes Junior Novice: 2nd <br> Pipes Senior Novice: 1st <br>Snare Junior Novice: 1st <br>Snare Senior Novice: 2nd <br>Snare Senior Event 2: 2nd <br>- Huan Sheng received the BB Founder's Award</p>
 
   
-
-**Girl Guides**
-
-\- Puan Noor Aishah Award: Gold Award (1st & 2nd Coy)
-
-\- Wee Kim Wee Challenge 2018: 1st (Division), 2nd Runner Up (National)
-
-\- Yang Shu Ting, Shebiya Judes Robin and Aishwarya Ajith Kumar won the Baden-Powell Award
+		<p>Girl Guides<br>- Puan Noor Aishah Award: Gold Award (1st & 2nd Coy)<br>- Wee Kim Wee Challenge 2018: 1st (Division), 2nd Runner Up (National)<br>- Yang Shu Ting, Shebiya Judes Robin and Aishwarya Ajith Kumar won the Baden-Powell Award</p>
 
   
+			<p>NCC (Air) Boys<br>- Best Unit Competition: Gold Award<br>- Freestyle Exhibition Drill Competition - 2nd <br>- Abdul Hakim and Yeo Kee Xuan won the HQNCC Outstanding Cadet Award</p>
 
-**NCC (Air) Boys** 
+			<p>NCC (Air) Boys<br>- Best Unit Competition: Gold Award<br>- Freestyle Exhibition Drill Competition - 2nd <br>- Abdul Hakim and Yeo Kee Xuan won the HQNCC Outstanding Cadet Award</p>
 
-\- Best Unit Competition: Gold Award
+				<p>NCC (Air) Girls<br>- Best Unit Competition: Gold Award<br>- Fitness Challenge Competition: 2nd<br>- Sports and Games Competition: 2nd (Soccer Category)<br>- Air Competition - 1st Runner Up for Simulated Spot Landing Category<br>- Nurul Aaliyah Deduyo won the HQNCC Outstanding Cadet Award and NDP superstar Award
 
-\- Freestyle Exhibition Drill Competition - 2nd 
-
-\- Abdul Hakim and Yeo Kee Xuan won the HQNCC Outstanding Cadet Award
-
-**NCC (Air) Boys** 
-
-\- Best Unit Competition: Gold Award
-
-\- Freestyle Exhibition Drill Competition - 2nd 
-
-\- Abdul Hakim and Yeo Kee Xuan won the HQNCC Outstanding Cadet Award
-
-**NCC (Air) Girls**
-
-\- Best Unit Competition: Gold Award
-
-\- Fitness Challenge Competition: 2nd
-
-\- Sports and Games Competition: 2nd (Soccer Category)
-
-\- Air Competition - 1st Runner Up for Simulated Spot Landing Category
-
-\- Nurul Aaliyah Deduyo won the HQNCC Outstanding Cadet Award and NDP superstar Award
-
-  
-
----
-
-Sports and Games
-----------------
-
-  
-
-**Track and Field**  
-
-\- National Inter-school  Track and Field Competition: 
-
-   400m (C division Girls) – 4th   
-
-   4X100m (C division Girls) – 7th 
-
-   4X400m (C division Girls) – 7th  
-
-\- NYP Track and Field Invitational 
-
-    400m C Division Girls - 1st
+					
+			<p><b>Sports and Games</b></p>
+<br>
+			<p>Track and Field<br>- National Inter-school  Track and Field Competition: <br> 400m (C division Girls) – 4th  <br>4X100m (C division Girls) – 7th <br>4X400m (C division Girls) – 7th  <br>- NYP Track and Field Invitational <br>400m C Division Girls - 1st
