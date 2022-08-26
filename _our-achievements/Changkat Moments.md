@@ -143,3 +143,17 @@ description: ""
 
     <label for="accordion13">8 February 2021- Mother Tongue Fortnight</label>
 				<div>
+					<p>Changkateers having fun at the various activity booth.</p>
+					<p><img src="/images/IMG_0503.jpeg" 
+     style="width:50%;float:left"><img src="/images/IMG_0515.jpeg" 
+																			 style="width:50%;float:left"><img src="/images/IMG_0555.jpeg" style="width:50%;float:left"><img src="/images/IMG_0519.jpeg" style="width:50%"></p>
+					
+										<li>
+
+    <input type="checkbox" id="accordion14">
+
+    <label for="accordion14">4 January - Kickstart ! Programme</label>
+				<div>
+					<p>Our Secondary one students getting to know their classmates better through various activities.</p>
+					<p><img src="/images/1.jpeg" 
+     style="width:50%;float:left"><img src="/images/2.jpeg" style="width:50%"><img src="/images/3.jpeg" style="width:50%;float:left"><img src="/images/4.jpeg" style="width:50%"></p>
