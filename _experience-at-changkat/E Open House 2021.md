@@ -22,6 +22,7 @@ _Best viewed on desktop._
 </a>
 
 </div>
+	
 Please click on the photo to view our Principal's Address.
 	
 Dear Parents,
