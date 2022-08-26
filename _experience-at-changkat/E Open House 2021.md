@@ -28,25 +28,24 @@ _Best viewed on desktop._
 
 	
 Please click on the photo to view our Principal's Address.
-
+<br>
 Dear Parents,
-
+<br>
 Thank you for attending our E-Open House Facebook Live Panel session on 27 Nov.
-
+<br>
 We have put together a FAQ on some of the questions asked during the session.
 
-
+<br>
 Click [here](https://go.gov.sg/ccssopenhousefaq) to view the FAQ. 
 
   
-
+<br>
 Click&nbsp;[here](https://changkatchangisec.moe.edu.sg/qql/slot/u144/Open%20House%202021/CCSS_Brochure_2021_website.pdf)&nbsp;to view our E-Open House Brochure.  
 
   
 
 Thank You.
-	
-	</div>
+
 
 School Tour
 <div>
