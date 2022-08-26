@@ -157,3 +157,7 @@ description: ""
 					<p>Our Secondary one students getting to know their classmates better through various activities.</p>
 					<p><img src="/images/1.jpeg" 
      style="width:50%;float:left"><img src="/images/2.jpeg" style="width:50%"><img src="/images/3.jpeg" style="width:50%;float:left"><img src="/images/4.jpeg" style="width:50%"></p>
+					<p>Secondary 3 students enjoying their time in Camp Courage.</p>
+					<p><img src="/images/5.jpeg" 
+     style="width:50%;float:left"><img src="/images/6.jpeg" style="width:50%"><img src="/images/7.jpeg" style="width:50%;float:left"><img src="/images/8.jpeg" style="width:50%"></p>
+					
