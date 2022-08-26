@@ -54,7 +54,7 @@ Thank You.
 
 <div style="float: left">
 
-<a href="[https://www.youtube.com/watch?v=fFe4z_o6mzw](https://www.youtube.com/watch?v=fFe4z_o6mzw)">
+<a href="[https://youtu.be/fFe4z_o6mzw](https://youtu.be/fFe4z_o6mzw)">
 
 <img src="/images/School%20Tour.jpeg" style="width:50%;float:left">
 
