@@ -36,12 +36,11 @@ Thank you for attending our E-Open House Facebook Live Panel session on 27 Nov.
 We have put together a FAQ on some of the questions asked during the session.
 
 <br>
-Click <a href="https://go.gov.sg/ccssopenhousefaq">
-				 here </a> to view the FAQ. 
+Click <a href="https://go.gov.sg/ccssopenhousefaq"> here </a> to view the FAQ. 
 
   
 <br>
-Click <a href="https://changkatchangisec.moe.edu.sg/qql/slot/u144/Open%20House%202021/CCSS_Brochure_2021_website.pdf">here</a>to view our E-Open House Brochure.  
+Click <a href="https://changkatchangisec.moe.edu.sg/qql/slot/u144/Open%20House%202021/CCSS_Brochure_2021_website.pdf">here</a> to view our E-Open House Brochure.  
 
   
 
@@ -69,3 +68,35 @@ Thank You.
 </a>
 
 </div>
+<br>
+<center> Signature Changkat Experiences</center>
+
+	
+| Applied Learning Programme  | Learning For Life Programme | Learning Highlights|
+| -------- | -------- | -------- |
+
+
+<div>
+
+<div style="float: left">
+	
+<a href="">
+
+<img src="/images/LLP.jpeg" style="width:33%;float:left">
+
+</a>
+	
+<a href="">
+
+<img src="/images/LLP.jpeg" style="width:33%;float:left">
+
+</a>
+	
+<a href="https://www.youtube.com/watch?v=ZHKWhwCReVw">
+
+<img src="/images/Academic%20Prog.jpeg" style="width:33%;float:left">
+
+</a>
+
+</div>
+	
