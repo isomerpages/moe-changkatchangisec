@@ -54,7 +54,8 @@ Thank You.
 <tr>
 	<th>School Tour
 	<th>Students' Voices
-	</tr></table>
+	</tr>
+</table>
 
 
 <div>
