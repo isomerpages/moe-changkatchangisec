@@ -36,11 +36,12 @@ Thank you for attending our E-Open House Facebook Live Panel session on 27 Nov.
 We have put together a FAQ on some of the questions asked during the session.
 
 <br>
-Click [here](https://go.gov.sg/ccssopenhousefaq) to view the FAQ. 
+Click <a href="https://go.gov.sg/ccssopenhousefaq">
+				 here </a> to view the FAQ. 
 
   
 <br>
-Click&nbsp;[here](https://changkatchangisec.moe.edu.sg/qql/slot/u144/Open%20House%202021/CCSS_Brochure_2021_website.pdf)&nbsp;to view our E-Open House Brochure.  
+Click <a href="https://changkatchangisec.moe.edu.sg/qql/slot/u144/Open%20House%202021/CCSS_Brochure_2021_website.pdf">here</a>to view our E-Open House Brochure.  
 
   
 
