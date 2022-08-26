@@ -71,9 +71,10 @@ Thank You.
 <br>
 <center> Signature Changkat Experiences</center>
 
+Uniformed Group
 	
-| Applied Learning Programme  | Learning For Life Programme | Learning Highlights|
-| -------- | -------- | -------- |
+| Boys Brigade  | Girl Guides | NCC Air Boys| NCC Air Girls
+| -------- | -------- | -------- |-------- |
 
 
 <div>
@@ -82,19 +83,49 @@ Thank You.
 	
 <a href="">
 
-<img src="/images/LLP.jpeg" style="width:33%;float:left">
+<img src="/images/.jpeg" style="width:33%;float:left">
 
 </a>
 	
 <a href="">
 
-<img src="/images/LLP.jpeg" style="width:33%;float:left">
+<img src="/images/.jpeg" style="width:33%;float:left">
 
 </a>
 	
 <a href="https://www.youtube.com/watch?v=ZHKWhwCReVw">
 
-<img src="/images/Academic%20Prog.jpeg" style="width:33%;float:left">
+<img src="/images/.jpeg" style="width:33%;float:left">
+
+</a>
+
+</div>
+
+Uniformed Group
+	
+| Boys Brigade  | Girl Guides | NCC Air Boys| NCC Air Girls
+| -------- | -------- | -------- |-------- |
+
+
+<div>
+
+<div style="float: left">
+	
+<a href="">
+
+<img src="/images/.jpeg" style="width:33%;float:left">
+
+</a>
+	
+<a href="">
+
+<img src="/images/.jpeg" style="width:33%;float:left">
+
+</a>
+	
+<a href="https://www.youtube.com/watch?v=ZHKWhwCReVw">
+
+<img src="/images/.jpeg" style="width:33%;float:left">
 
 </a>
 
