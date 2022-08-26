@@ -106,13 +106,13 @@ Uniformed Group
 </div>
 
 Uniformed Group
-	
+<table>
 <tr>
 	<th>Boys Brigade
 	<th>Girl Guides 
 	<th>NCC Air Boys 
 	<th>NCC Air Girls
-
+	</tr></table>
 
 
 <div>
