@@ -15,7 +15,7 @@ _Best viewed on desktop._
 
 <div style="float: left">
 
-<a href="[https://www.youtube.com/watch?v=r260Uwuywas](https://www.youtube.com/watch?v=r260Uwuywas)">
+<a href="https://www.youtube.com/watch?v=r260Uwuywas">
 
 <img src="/images/Selected%20for%20cover%20page.jpeg">
 
@@ -54,7 +54,7 @@ Thank You.
 
 <div style="float: left">
 
-<a href="[https://youtu.be/fFe4z_o6mzw](https://youtu.be/fFe4z_o6mzw)">
+<a href="https://youtu.be/fFe4z_o6mzw">
 
 <img src="/images/School%20Tour.jpeg" style="width:50%;float:left">
 
