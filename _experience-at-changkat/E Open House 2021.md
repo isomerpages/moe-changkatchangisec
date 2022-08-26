@@ -50,9 +50,11 @@ Click <a href="https://changkatchangisec.moe.edu.sg/qql/slot/u144/Open%20House%2
 
 Thank You.
 
-
-| School Tour  | Students' Voices | 
-| -------- | -------- |
+<table>
+<tr>
+	<th>School Tour
+	<th>Students' Voices
+	</tr></table>
 
 
 <div>
@@ -77,9 +79,13 @@ Thank You.
 
 Uniformed Group
 	
-| Boys Brigade  | Girl Guides | NCC Air Boys| NCC Air Girls
-| -------- | -------- | -------- |-------- |
-
+<table>
+<tr>
+	<th>Boys Brigade
+	<th>Girl Guides 
+	<th>NCC Air Boys 
+	<th>NCC Air Girls
+	</tr></table>
 
 <div>
 
@@ -105,13 +111,13 @@ Uniformed Group
 
 </div>
 
-Uniformed Group
+Performing Arts
 <table>
 <tr>
-	<th>Boys Brigade
-	<th>Girl Guides 
-	<th>NCC Air Boys 
-	<th>NCC Air Girls
+	<th>Malay Dance
+	<th>Modern Dance
+	<th>Concert Band
+	<th>Chinese String Ensemble
 	</tr></table>
 
 
