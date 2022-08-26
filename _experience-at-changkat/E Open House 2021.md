@@ -48,7 +48,10 @@ Click <a href="https://changkatchangisec.moe.edu.sg/qql/slot/u144/Open%20House%2
 Thank You.
 
 
-School Tour
+| School Tour  | Students' Voices | 
+| -------- | -------- |
+
+
 <div>
 
 <div style="float: left">
@@ -58,5 +61,12 @@ School Tour
 <img src="/images/School%20Tour.jpeg" style="width:50%;float:left">
 
 </a>
+	
+<a href="https://www.youtube.com/watch?v=JSnOdK5GjWs">
+
+<img src="/images/Student's%20voices.jpeg" style="width:50%;float:left">
+
+</a>
 
 </div>
+	
