@@ -3,6 +3,10 @@ title: E Open House 2021
 permalink: /experience-at-changkat/E-Open-House-2021
 description: ""
 ---
+<style>
+table, th, td {border:1px solid black;}
+</style>
+
 **Come join the Changkateer Experience!**
 
   
@@ -103,8 +107,12 @@ Uniformed Group
 
 Uniformed Group
 	
-| Boys Brigade  | Girl Guides | NCC Air Boys| NCC Air Girls
-| -------- | -------- | -------- |-------- |
+<tr>
+	<th>Boys Brigade
+	<th>Girl Guides 
+	<th>NCC Air Boys 
+	<th>NCC Air Girls
+
 
 
 <div>
@@ -130,4 +138,3 @@ Uniformed Group
 </a>
 
 </div>
-	
