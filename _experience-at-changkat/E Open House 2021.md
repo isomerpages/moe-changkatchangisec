@@ -24,7 +24,7 @@ _Best viewed on desktop._
 </div>
 Please click on the photo to view our Principal's Address.
 	
-	Dear Parents,
+Dear Parents,
 
   
 
@@ -44,4 +44,20 @@ Click&nbsp;[here](https://changkatchangisec.moe.edu.sg/qql/slot/u144/Open%20Hous
 
   
 
-Thank You.</div>
+Thank You.
+	
+
+
+| School Tour | Students' Voices| 
+| -------- | -------- |
+|<div>
+
+<div style="float: left">
+
+<a href="[https://www.youtube.com/watch?v=fFe4z_o6mzw](https://www.youtube.com/watch?v=fFe4z_o6mzw)">
+
+<img src="/images/School%20Tour.jpeg" style="width:50%;float:left">
+
+</a>
+
+</div>![]()
