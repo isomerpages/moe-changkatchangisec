@@ -154,7 +154,8 @@ Clubs
 | -------- | -------- | 
 |||
 
-![](/images/Indra%20DO%20Balakrishnan.jpg)
+<img src="/images/Indra%20DO%20Balakrishnan.jpg" 
+     style="width:50%">
 
 |Indra D/O Balakrishnan (Class of 2016)  <br>Currently studying a Diploma in Fine Arts @ LASALLE College of the Arts  <br>Changkat Changi Secondary School Alumni| "I am truly proud to call myself a Changkateer because Changkat Changi helped shape me to be the responsible, independent, and goal driven young lady I am today. The strong values and morals have taught me to stand up for what I believe in, even in the face of handling tough circumstances. Changkat Changi also helped me to get to where I am today, because of the constant affirmation and recognition I received for my performances academically and non-academically. It motivated me to strive better in everything I did. Moreover, the valuable life lessons and core values I had learnt during my CCA (Girl Guides) days were also very useful as they polished my attitude towards overcoming hardship which kept me optimistic through my struggles."| 
 | -------- | -------- | 
