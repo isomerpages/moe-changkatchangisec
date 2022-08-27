@@ -50,11 +50,11 @@ Click <a href="https://changkatchangisec.moe.edu.sg/qql/slot/u144/Open%20House%2
 
 Thank You.
 
-<table>
+<table style="width:100%">
 <tr>
 	<th>School Tour
 	<th>Students' Voices
-	</tr>
+</tr>
 </table>
 
 
