@@ -64,6 +64,7 @@ Performing Arts
 | [Malay Dance] | [Modern Dance] | [Concert Band] | [Chinese String Ensemble]
 | -------- | -------- | -------- |-------- |
 ||||
+
 <img src="/images/.jpeg" style="width:25%;float:left">
 
 <img src="/images/.jpeg" style="width:25%;float:left">
