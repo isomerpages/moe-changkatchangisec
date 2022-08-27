@@ -2,6 +2,7 @@ collections:
   experience-at-changkat:
     output: true
     order:
+      - Project Work.md
       - Scholarship Opportunities/Chua Soo Chiew Scholarship.md
       - Scholarship Opportunities/Neo Choon Tiong Scholarship.md
       - Scholarship Opportunities/Changkat Changi Secondary School SOAR ALP
