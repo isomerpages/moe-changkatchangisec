@@ -2,7 +2,6 @@ collections:
   experience-at-changkat:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - CCE/Student Leadership Programme.md
       - CCE/National Education and VIA.md
       - CCE/Sexuality Education.md
