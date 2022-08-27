@@ -27,7 +27,7 @@ In the event that no student meets that above criteria, the Chua Soo Chiew Schol
 •The recipients may be offered an internship opportunity with the Donor  
   
 ##### Applications 
-Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00 am to 5.00 pm, or downloaded [here](https://changkatchangisec.moe.edu.sg/qql/slot/u144/Experience%20at%20Changkat/Scholarship/CSC%20Scholarship%20Application%20Form%202022.pdf). Applications will close on 11th Feb 2022.  
+Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00 am to 5.00 pm, or downloaded [here](/files/CSC%20Scholarship%20Application%20Form%202022.pdf) Applications will close on 11th Feb 2022.  
   
 Please note that only shortlisted candidates would be notified, and may be called up for an interview on  28th Feb 2022.  
   
