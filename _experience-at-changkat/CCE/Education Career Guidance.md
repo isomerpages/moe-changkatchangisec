@@ -52,4 +52,6 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 | Singapore Industry Landscape 	| [https://go.gov.sg/industrylandscape-sec](https://go.gov.sg/industrylandscape-sec)<br>[https://go.gov.sg/ecgportalvideos](https://go.gov.sg/ecgportalvideos)<br>[https://go.gov.sg/ecgportalarticles](https://go.gov.sg/ecgportalarticles) | ECG Portal to explore the world of work 
 | On My Way	 | [ https://www.nyc.gov.sg/omw/home]( https://www.nyc.gov.sg/omw/home) | On My Way (OMW) - learn about the different jobs and industries, connect with industry professionals and get a taster into various job roles of your interest 
 | Parent Guide	| [https://www.moe.gov.sg/microsites/ecg-parent-guide/](https://www.moe.gov.sg/microsites/ecg-parent-guide/) |  A guide for parents/guardians in ECG
-|
+| The Next Step Forward 	| [https://www.go.gov.sg/next-step-forward](https://www.go.gov.sg/next-step-forward) |  An e-book that illustrates how 54 individuals go through diverse education and career pathways
+| Scholarships	| [https://go.gov.sg/admissions-scholarships](https://go.gov.sg/admissions-scholarships) |Learn about the different merit-based awards and scholarships 
+| ECG Centre at MOE	| Email: [MOE_ECG@moe.gov.sg](mailto:MOE_ECG@moe.gov.sg)<br>Phone: 6831 1420<br>E-appointment system: [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre)
