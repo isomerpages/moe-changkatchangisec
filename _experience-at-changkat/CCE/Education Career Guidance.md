@@ -36,5 +36,20 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 |Direct-entry-scheme to Polytechnic Programme (DPP)|[https://go.gov.sg/dpp](https://go.gov.sg/dpp) |  N(A) 
 |ITE Early Admission Exercise (ITE EAE)| [https://go.gov.sg/applyeae](https://go.gov.sg/applyeae) |  Exp, N(A), N(T)
 |Poly Early Admission Exercise (Poly EAE)| [https://go.gov.sg/polyeae](https://go.gov.sg/polyeae) |Exp & 5N(A)
+|Direct School Admission – Junior Colleges (DSA-JC) 	| [https://go.gov.sg/applyjcdsa](https://go.gov.sg/applyjcdsa) | Exp & 5N(A)
+|Nanyang Academic of Fine Arts (NAFA) Foundation Programme 	|[https://go.gov.sg/applynafafp](https://go.gov.sg/applynafafp) | N(A)
+|Nanyang Academic of Fine Arts (NAFA) Diploma	 | [https://www.nafa.edu.sg/courses/diploma](https://www.nafa.edu.sg/courses/diploma) | Exp & 5N(A)
+|La Salle College of the Arts (Diploma)	| [https://www.lasalle.edu.sg/admissions/diploma-admissions](https://www.lasalle.edu.sg/admissions/diploma-admissions) |  Exp & 5N(A)
+
+##### OTHER USEFUL LINKS
 
 
+| Title	 | Links | Remarks |
+| -------- | -------- | -------- |
+| 2022 JAE Booklet | [https://www.moe.gov.sg/2022jaebooklet](https://www.moe.gov.sg/2022jaebooklet) | For O-level students, 4N students who are interested in PFP 
+| 2022 JIE Booklet 	| [https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf) |  For N-level students seeking admission to ITE College (NITEC, DPP etc.) 
+|  My-Skills-Future Portal (Secondary)	| [https://go.gov.sg/mysfsec](https://go.gov.sg/mysfsec) | ECG Portal to explore the world of work and plan education pathways
+| Singapore Industry Landscape 	| [https://go.gov.sg/industrylandscape-sec](https://go.gov.sg/industrylandscape-sec)<br>[https://go.gov.sg/ecgportalvideos](https://go.gov.sg/ecgportalvideos)<br>[https://go.gov.sg/ecgportalarticles](https://go.gov.sg/ecgportalarticles) | ECG Portal to explore the world of work 
+| On My Way	 | [ https://www.nyc.gov.sg/omw/home]( https://www.nyc.gov.sg/omw/home) | On My Way (OMW) - learn about the different jobs and industries, connect with industry professionals and get a taster into various job roles of your interest 
+| Parent Guide	| [https://www.moe.gov.sg/microsites/ecg-parent-guide/](https://www.moe.gov.sg/microsites/ecg-parent-guide/) |  A guide for parents/guardians in ECG
+|
