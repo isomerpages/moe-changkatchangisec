@@ -45,7 +45,7 @@ Uniformed Group
 
 | [Boys Brigade]| [Girl Guides] | [NCC Air Boys] | [NCC Air Girls]
 | -------- | -------- | -------- |-------- |
-
+||||
 
 
 <img src="/images/.jpeg" style="width:25%;float:left">
@@ -63,7 +63,7 @@ Performing Arts
 
 | [Malay Dance] | [Modern Dance] | [Concert Band] | [Chinese String Ensemble]
 | -------- | -------- | -------- |-------- |
-
+||||
 <img src="/images/.jpeg" style="width:25%;float:left">
 
 <img src="/images/.jpeg" style="width:25%;float:left">
