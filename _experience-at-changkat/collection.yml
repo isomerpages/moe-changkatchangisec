@@ -2,10 +2,10 @@ collections:
   experience-at-changkat:
     output: true
     order:
-      - Direct School Admission/Direct School Admission through Learning for
-        Life Programme (LLP).md
+      - Direct School Admission/.keep
+      - Direct School Admission/Direct School Admission.md
       - Direct School Admission/Direct School Admission through Applied Learning
         Programme.md
-      - Direct School Admission/Direct School Admission.md
-      - Direct School Admission/.keep
+      - Direct School Admission/Direct School Admission through Learning for
+        Life Programme (LLP).md
       - E Open House 2021.md
