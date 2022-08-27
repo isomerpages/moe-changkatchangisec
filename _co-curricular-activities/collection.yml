@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Modern Dance.md
       - Performing Arts/.keep
       - Clubs/Multimedia Club.md
       - Clubs/Singapore Youth Flying Club.md
