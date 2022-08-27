@@ -72,3 +72,29 @@ Performing Arts
 <img src="/images/.jpeg" style="width:25%;float:left">
 
 <img src="/images/.jpeg" style="width:25%;float:left">
+
+Sports and Games
+
+
+| [Sepak Takraw] | [Track and Field] | [Badminton] | [Netball]
+| -------- | -------- | -------- |-------- |
+||||
+
+<img src="/images/.jpeg" style="width:25%;float:left">
+
+<img src="/images/tnf.png" style="width:25%;float:left">
+
+<img src="/images/.jpeg" style="width:25%;float:left">
+
+<img src="/images/.jpeg" style="width:25%;float:left">
+
+Clubs
+
+
+| [Multimedia Club] | [Youth Flying Club] | ||
+| -------- | -------- | -------- |-------- |
+||||
+
+<img src="/images/.jpeg" style="width:25%;float:left">
+
+<img src="/images/tnf.png" style="width:25%;float:left">
