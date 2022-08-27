@@ -147,3 +147,15 @@ Clubs
 |Nabillah Binte Ismail (Class of 2015)  <br>Process Associate @ Genpact  <br>Changkat Changi Secondary School Alumni| "What makes me proud to be a Changkateer? Honestly it was the culture of the school. It was this unique warm and ‘homey’ feeling I got whenever I went to school, getting to see and socialise with my friends and teachers. The lifelong friends I made  at Changkat Changi became my support system when I was struggling with academic work. Even now when we are transitioning into adulthood, they are still by my side. On top of that, being in a CCA also helped me shape the professional side of myself. It gave me a taste of what discipline was — things like punctuality, teamwork and upholding your responsibility as a leader."| 
 | -------- | -------- | 
 |||
+
+![](/images/Jonahthan%20Kuek%20Jia%20Hao.jpg)
+
+|Jonathan Kuek Jia Hao (Class of 2016)  <br>Temasek Polytechnic Graduate with a Diploma in Business Information Technology  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the SAP Asia Prize| "I am proud to be a Changkateer because it’s like a second home to me where I made many friends and wonderful memories. Additionally, if you have any problems you can always rely on the teachers and staff who are ready to go the extra mile for you. Changkat provided me with a conducive environment with a highly supportive school community, where I was able to reach my fullest potential and excel without any worries."| 
+| -------- | -------- | 
+|||
+
+![](/images/Indra%20DO%20Balakrishnan.jpg)
+
+|Indra D/O Balakrishnan (Class of 2016)  <br>Currently studying a Diploma in Fine Arts @ LASALLE College of the Arts  <br>Changkat Changi Secondary School Alumni| "I am truly proud to call myself a Changkateer because Changkat Changi helped shape me to be the responsible, independent, and goal driven young lady I am today. The strong values and morals have taught me to stand up for what I believe in, even in the face of handling tough circumstances. Changkat Changi also helped me to get to where I am today, because of the constant affirmation and recognition I received for my performances academically and non-academically. It motivated me to strive better in everything I did. Moreover, the valuable life lessons and core values I had learnt during my CCA (Girl Guides) days were also very useful as they polished my attitude towards overcoming hardship which kept me optimistic through my struggles."| 
+| -------- | -------- | 
+|||
