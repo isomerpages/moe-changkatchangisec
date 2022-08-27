@@ -29,6 +29,7 @@ Thank You.
 
 |[School Tour](https://www.youtube.com/watch?v=fFe4z_o6mzw) |[Students' Voices](https://www.youtube.com/watch?v=JSnOdK5GjWs)|
 | -------- | -------- | 
+|||
 
 
 <img src="/images/School%20Tour.jpeg" style="width:50%;float:left">
@@ -97,4 +98,4 @@ Clubs
 
 <img src="/images/.jpeg" style="width:25%;float:left">
 
-<img src="/images/tnf.png" style="width:25%;float:left">
+<img src="/images/.png" style="width:25%;float:left">
