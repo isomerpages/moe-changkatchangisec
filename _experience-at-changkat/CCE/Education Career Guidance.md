@@ -21,3 +21,20 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 
 <img src="/images/QR.png" 
      style="width:50%">
+		 
+##### ACADEMIC PATHWAYS EXPLORATION
+
+
+
+| Title	 | Links | Remarks |
+| -------- | -------- | -------- |
+| Information on Post-secondary Education     | [https://go.gov.sg/overview-pseis](https://go.gov.sg/overview-pseis) <br>[https://go.gov.sg/whats-next](https://go.gov.sg/whats-next)  <br>[https://youtu.be/ndDVlzT-z0g](https://youtu.be/ndDVlzT-z0g)     | Exp, N(A), N(T)     |
+| Polytechnics Course Finder |[https://go.gov.sg/coursefinder](https://go.gov.sg/coursefinder)| Exp, N(A), N(T)
+| Courses available at the ITE	|[https://www.ite.edu.sg/admissions/full-time-courses](https://www.ite.edu.sg/admissions/full-time-courses)
+[https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2022](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2022)| Exp, N(A), N(T)
+| Poly Foundation Programme (PFP) 	|[https://go.gov.sg/pfp](https://go.gov.sg/pfp) | N(A) 
+|Joint Polytechnic Admissions Exercise (JPAE) 	|
+
+
+
+
