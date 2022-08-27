@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Direct School Admission/.keep
-      - Direct School Admission.md
       - E Open House 2021.md
