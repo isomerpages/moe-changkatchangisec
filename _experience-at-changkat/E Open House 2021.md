@@ -100,3 +100,14 @@ Clubs
 <img src="/images/.jpeg" style="width:25%;float:left">
 
 <img src="/images/.png" style="width:25%;float:left">
+
+<br><br>
+##### Alumni Voices - Proud to be a Changkateer!
+
+![](/images/Lim%20Qi%20Hui.jpeg)
+
+
+| Lim Qi Hui (Class of 2017)  <br>School of Dentistry undergraduate @ National University of Singapore  <br>Changkat Changi Secondary School Alumni | "Changkat really helped me become the person I am today. I really have to thank the teachers that pushed me. The friends I made while I was there also made me feel really at home in the school. All in all Changkat Changi really helped me grow as a student and as a person!"| 
+| -------- | -------- | 
+|||
+
