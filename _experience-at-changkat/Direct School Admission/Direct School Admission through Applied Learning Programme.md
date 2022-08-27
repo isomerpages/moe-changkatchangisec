@@ -97,7 +97,7 @@ The application timeline for 2022 is as follows:
 |31 October to 4 November 2022, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive notification on the School Preference Submission in Oct 2021. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
 |Late-Nov 2022|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively late Nov 2022.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.   <br>**Successful DSA-Sec Students.** Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.   <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.   <br>Students are also **NOT** allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.** They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
 
-**Why Join Us?**
+##### Why Join Us?
 
   
 
@@ -107,7 +107,7 @@ SOAR exposes and equips Changkateers with the foundational knowledge and skills 
 
 For those are passionate and seeking to venture further, our school offers the Singapore Youth Flying Club (SYFC) as a CCA and a SOAR ALP scholarship to help Changkateers pursue their dreams.
 
-**FAQ**
+##### FAQ
 
 1.  **How many places can CCSS offer in DSA Exercise?**  
     All secondary schools can admit up to 20% of their 2023 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec. This allows students to better access school programmes to grow their talents and interests through DSA.  
