@@ -54,4 +54,6 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 | Parent Guide	| [https://www.moe.gov.sg/microsites/ecg-parent-guide/](https://www.moe.gov.sg/microsites/ecg-parent-guide/) |  A guide for parents/guardians in ECG
 | The Next Step Forward 	| [https://www.go.gov.sg/next-step-forward](https://www.go.gov.sg/next-step-forward) |  An e-book that illustrates how 54 individuals go through diverse education and career pathways
 | Scholarships	| [https://go.gov.sg/admissions-scholarships](https://go.gov.sg/admissions-scholarships) |Learn about the different merit-based awards and scholarships 
-| ECG Centre at MOE	| Email: [MOE_ECG@moe.gov.sg](mailto:MOE_ECG@moe.gov.sg)<br>Phone: 6831 1420<br>E-appointment system: [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre)
+| ECG Centre at MOE	| Email: [MOE_ECG@moe.gov.sg](mailto:MOE_ECG@moe.gov.sg)<br>Phone: 6831 1420<br>E-appointment system: [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre) | The ECG Centre (51 Grange Road) provides ECG counselling services for students during periods such as the release of their GCE N-Level, O-Level and A-Level examination results. 
+|Private Education Programme 	| [https://go.gov.sg/pei](https://go.gov.sg/pei) | Resources for private education programme 
+|  Community-based Helplines	| [https://www.mindline.sg/](https://www.mindline.sg/)<br>[https://www.ec2.sg/](https://www.ec2.sg) | For students who would like to have someone to talk to in times of need. Or approach the School Counsellor. 
