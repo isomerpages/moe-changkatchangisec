@@ -2,4 +2,5 @@ collections:
   experience-at-changkat:
     output: true
     order:
+      - Direct School Admission.md
       - E Open House 2021.md
