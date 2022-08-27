@@ -6,7 +6,7 @@ third_nav_title: Direct School Admission
 ---
 ### **Talent Area: STEM - AEROSPACE AND AVIATION**
 
-**Introduction**  
+##### Introduction  
 
 In 2015, Changkat Changi Secondary School started our Applied Learning Programme titled Student-centered Opportunities for AeRospace industry (SOAR).
 
@@ -34,7 +34,7 @@ All lower secondary Changkateers undergo weekly ALP lessons based on the context
      style="width:50%">
 <center>Photo 4: Changkateers participating in a virtual exchange with French students in 2022 due to covid travel restrictions</center>
 
-**Admission Criteria**  
+##### Admission Criteria  
 
 Changkat Changi Secondary School is looking for Primary 6 students who possess or display at least one of the following:
 
@@ -53,7 +53,7 @@ _**Please note that meeting all the criteria does not guarantee the student will
 
 
 
-**Application Procedure**
+##### Application Procedure
 
 
 
