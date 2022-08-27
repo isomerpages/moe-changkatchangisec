@@ -86,7 +86,8 @@ Uniformed Group
 	<th>Girl Guides 
 	<th>NCC Air Boys 
 	<th>NCC Air Girls
-	</tr></table>
+</tr>
+</table>
 
 <div>
 
