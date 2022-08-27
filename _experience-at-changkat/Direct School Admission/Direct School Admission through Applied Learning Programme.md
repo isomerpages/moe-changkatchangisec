@@ -25,3 +25,74 @@ All lower secondary Changkateers undergo weekly ALP lessons based on the context
 <img src="/images/Picture2.jpeg" 
      style="width:50%">
 <center>Photo 2: Changkateers learning to fly the Flight Simulator as part of their CCA.</center>
+
+<img src="/images/Picture3.jpeg" 
+     style="width:50%">
+<center>Photo 3: Changkateers attending an Aircraft Structural Repair workshop conducted by Singapore Polytechnic in 2021</center>
+
+<img src="/images/Picture4.jpeg" 
+     style="width:50%">
+<center>Photo 4: Changkateers participating in a virtual exchange with French students in 2022 due to covid travel restrictions</center>
+
+**Admission Criteria**  
+
+Changkat Changi Secondary School is looking for Primary 6 students who possess or display at least one of the following:
+
+  
+
+*   passion for Aerospace or Aviation Industries   
+    
+*   aptitude and interest in Science, Technology, Engineering and Maths   
+    
+*   participated or attained any levels of achievements in STEM related competitions and/or workshops  
+    
+*   involved in STEM-related clubs or societies (e.g. Science club, ICT club etc)
+
+  
+_**Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**_
+
+
+
+**Application Procedure**
+
+
+
+  
+
+**Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022 to 1 Jun 2022. For more details, please refer to the MOE website at** [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)  
+  
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.  
+  
+
+**Applicants from MOE mainstream primary schools:** Parent may log in directly to DSA-Sec Portal at [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+
+Only one parent’s SingPass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.
+
+  
+
+**Other applicants not studying in MOE mainstream primary schools:** They need to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Schools may refer them to MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
+
+  
+
+Students can indicate up to three choices (maximum of two choices for the same school under two different talent areas).  
+
+  
+
+**Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**  
+
+  
+
+**Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to** **the talent they are selected for from year 1-4.**
+
+The application timeline for 2022 is as follows:
+
+
+
+| Date | Event | 
+| -------- | -------- | 
+| 5 May to 1 June 2022, 3pm     | Submit your child's application online through the DSA-Sec portal by 3pm on the final day.     | 
+|17 Jun to 9 July 2022|School’s notification of shortlisted candidates. We regret to inform that **only shortlisted students** will be notified of the interview dates.
+|28 June to 1 September 2022|School-based in-person interview for shortlisted applicants.
+|By 12 September 2022|All applicants will receive a reply from the school on the outcome of the application as follows:<br>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected. 
+|31 October to 4 November 2022, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive notification on the School Preference Submission in Oct 2021. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
+|Late-Nov 2022|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively late Nov 2022.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.   <br>**Successful DSA-Sec Students.** Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.   <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.   <br>Students are also **NOT** allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.** They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
