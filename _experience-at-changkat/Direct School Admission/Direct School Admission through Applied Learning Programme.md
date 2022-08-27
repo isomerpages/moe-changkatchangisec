@@ -21,3 +21,7 @@ All lower secondary Changkateers undergo weekly ALP lessons based on the context
 <img src="/images/Picture1.jpeg" 
      style="width:50%">
 <center> Photo 1: Our Sec 1 Changkateers launching a glider that they have just made.</center>
+
+<img src="/images/Picture2.jpeg" 
+     style="width:50%">
+<center>Photo 2: Changkateers learning to fly the Flight Simulator as part of their CCA.</center>
