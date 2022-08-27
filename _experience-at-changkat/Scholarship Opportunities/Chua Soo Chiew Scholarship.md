@@ -36,4 +36,4 @@ Changkat Changi Secondary School
 23 Simei Street 3, Singapore 529894  
 General Office  
 Telephone: 6785 9790  
-Email: changkatchgi@moe.edu.sg
+Email: [changkatchgi@moe.edu.sg](mailto:changkatchgi@moe.edu.sg)
