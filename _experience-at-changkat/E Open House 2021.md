@@ -52,8 +52,8 @@ Thank You.
 
 <table style="width:100%">
 <tr>
-	<th>School Tour
-	<th>Students' Voices
+<th>School Tour
+<th>Students' Voices
 </tr>
 </table>
 
@@ -82,10 +82,10 @@ Uniformed Group
 	
 <table>
 <tr>
-	<th>Boys Brigade
-	<th>Girl Guides 
-	<th>NCC Air Boys 
-	<th>NCC Air Girls
+<th>Boys Brigade
+<th>Girl Guides 
+<th>NCC Air Boys 
+<th>NCC Air Girls
 </tr>
 </table>
 
@@ -114,13 +114,15 @@ Uniformed Group
 </div>
 
 Performing Arts
+
 <table>
 <tr>
-	<th>Malay Dance
-	<th>Modern Dance
-	<th>Concert Band
-	<th>Chinese String Ensemble
-	</tr></table>
+<th>Malay Dance
+<th>Modern Dance
+<th>Concert Band
+<th>Chinese String Ensemble
+</tr>
+</table>
 
 
 <div>
