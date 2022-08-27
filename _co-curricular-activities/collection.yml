@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs/Multimedia Club.md
       - Clubs/Singapore Youth Flying Club.md
       - Clubs/.keep
