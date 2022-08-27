@@ -135,3 +135,15 @@ Clubs
 |Lam Jia Yi (Class of 2016)  <br>Business School Undergraduate @ Nanyang Technological University  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the Kelly Services Course Bronze Medal| "I am proud to be a Changkateer because it has shaped me into who I am today. Having been part of the Changkat family is a fond memory that I would always look back to even after graduation. The friendships forged, memories made and the teachers who have helped me in so many ways even beyond the academics. Being the Vice-Chairman of my class when I was in Secondary 3 and 4 allowed me to build upon my leadership skills and become more competent in organising events such as class bonding sessions and celebrations. Furthermore, I had the chance to participate in the International Model United Nations Conference (IMUNC) in 2015 where I got to step out of my comfort zone and understand the importance of keeping up with the current affairs locally and internationally. As such, Changkat Changi had provided me with many opportunities to gain exposure and develop my skills."| 
 | -------- | -------- | 
 |||
+
+![](/images/Hoh%20Kah%20Yee.jpg)
+
+|Hoh Kah Yee (Class of 2016)  <br>Civil and Environmental Engineering Undergraduate @ Nanyang Technological University  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the Castlery Prize and the C-Bulk Liners Prize| "There are many moments that were memorable. I can't choose so I will list some. One would be being part of the Golden Jubilee celebrations. I am also very honoured to take part of the first House Olympics where the school was filled with a joyous atmosphere. The last would be the Changkat Challenge where we are all dressed in yellow (the shirt for the event) buzzing around in our different activities. Our class painted a mural of a tree which symbolised our journey in school! I have made so many great memories at Changkat that I couldn't list them all."| 
+| -------- | -------- | 
+|||
+
+![](/images/Nabillah%20Binte%20Ismail.jpg)
+
+|Nabillah Binte Ismail (Class of 2015)  <br>Process Associate @ Genpact  <br>Changkat Changi Secondary School Alumni| "What makes me proud to be a Changkateer? Honestly it was the culture of the school. It was this unique warm and ‘homey’ feeling I got whenever I went to school, getting to see and socialise with my friends and teachers. The lifelong friends I made  at Changkat Changi became my support system when I was struggling with academic work. Even now when we are transitioning into adulthood, they are still by my side. On top of that, being in a CCA also helped me shape the professional side of myself. It gave me a taste of what discipline was — things like punctuality, teamwork and upholding your responsibility as a leader."| 
+| -------- | -------- | 
+|||
