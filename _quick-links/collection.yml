@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Sec 2 Streaming Exercise.md
       - Useful Links.md
       - Class Timetable.md
       - Examination Matters.md
