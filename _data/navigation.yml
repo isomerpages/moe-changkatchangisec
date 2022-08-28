@@ -4,12 +4,6 @@ links:
     collection: about-us
   - title: Our Achievements
     collection: our-achievements
-  - title: Experience@Changkat
-    collection: experience-at-changkat
-  - title: Our Community
-    collection: our-community
-  - title: Quick Links
-    collection: quick-links
   - title: experience@changkat
     url: /permalink
     sublinks:
@@ -35,3 +29,7 @@ links:
         url: /experience-at-changkat/Direct-School-Admission
       - title: E Open House 2021
         url: /experience-at-changkat/E-Open-House-2021
+  - title: Our Community
+    collection: our-community
+  - title: Quick Links
+    collection: quick-links
