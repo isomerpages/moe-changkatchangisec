@@ -33,6 +33,17 @@ FOR STUDENTS
 ------------
 
 [Student Page on PLD and Digital Literacy skills](https://sites.google.com/moe.edu.sg/ccss-student-hbl-page)
-[Student Kit for Cyber Wellness & Learning with a PLD]()
-[Acceptable Use Policy (AUP)](/files/2%20Acceptable%20Use%20Policy%20AUP%20Agreement%202022.pdf) for healthy use of PLDs in the school
-[Student's Device Information Kit](/files/Appendix_1_-_Student_Device_Information_Kit_updated_12_Mar_-_edited.pdf)
+<br>[Student Kit for Cyber Wellness & Learning with a PLD]()
+<br>[Acceptable Use Policy (AUP)](/files/2%20Acceptable%20Use%20Policy%20AUP%20Agreement%202022.pdf) for healthy use of PLDs in the school
+<br>[Student's Device Information Kit](/files/Appendix_1_-_Student_Device_Information_Kit_updated_12_Mar_-_edited.pdf)
+<br>[Student Learning Space (SLS)](http://learning.moe.edu.sg/)
+
+FOR PARENTS
+-----------
+
+##### Purchase of Devices (2022) 
+
+| | | 
+| -------- | -------- | 
+| 1.  Information on device     | [Briefing during 2022 Sec 1 PTC](/files/Parent%20Engagement%20Deck_%2015%20Jan%202022%20FOR%20WEBSITE%20R.pdf)  <br>[Frequently Asked Questions (FAQ)](/files/FAQ%20For%20Parents%20and%20Website%20R.pdf)   |
+
