@@ -50,3 +50,26 @@ FOR PARENTS
 |3. Insurance & Warranty Info 	|Click **[here](/files/PLD%20Insurance%20%20Warranty%202022.pdf)** for more information
 |4.  SOPs for device issues|Click **[here](/files/SOPs%20for%20Device%20Issues%202021.pdf)**  for more information
 |5\. Other Useful Information|[Service Centre & Vendor Contacts](/files/Service%20Centre%20%20Vendor%20Contacts.pdf)
+
+_Information above correct as of 15 Jan 2022_
+
+
+#### Cyber Wellness 
+
+
+Building up Good Learning Habits with the PLD  
+
+  
+
+*   [Parent’s Handbook on 1-1 Learning](/files/Parent%20Handbook%20I%20on%201_1%20Learning.pdf) (Part 1)
+*   [Parent's Handbook on 1-1 Learning](https://changkatchangisec-moe-edu-sg-admin.cwp.sg/qql/slot/u149/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf) (Part 2)
+*   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)
+
+#### Device Management Application (DMA)
+
+
+
+| Information on Options | Option Form for DMA |
+| -------- | --------|
+|Click **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT0FWLONCf0kDhCjCwxCFsRq6XwFxYCY-U5AT4eSqtgPQ9RyEjCqm4w9wMK2vGvqwxXmPpMg7p9LikK/pubhtml)** to find out more about<br><br>-   the differences between the DMA options.<br>-   how the DMA options work during the school term and holidays.     | Text     | 
+
