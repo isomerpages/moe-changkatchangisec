@@ -52,7 +52,7 @@ UNSW Global Assessment (ICAS 2020)
 *   2 Credits
 
   
-The Science department also leads in developing knowledge and skills of applied learning in Science, Technology, Engineering and Mathematics (STEM) through the [Applied Learning Programme in aerospace and aviation]()
+The Science department also leads in developing knowledge and skills of applied learning in Science, Technology, Engineering and Mathematics (STEM) through the [Applied Learning Programme in aerospace and aviation](/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry)
 
 ![](/images/Learning%20is%20fun%20at%20Science%20Department.jpeg)
 <center>Learning is fun at Science Department!</center>
