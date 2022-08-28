@@ -93,7 +93,7 @@ Sports and Games
 Clubs
 
 
-| [Multimedia Club] | [Youth Flying Club] | ||
+| [Multimedia Club](/co-curricular-activities/Clubs/Multimedia-Club) | [Youth Flying Club](/co-curricular-activities/Clubs/Youth-Flying-Club) | ||
 | -------- | -------- | -------- |-------- |
 ||||
 
