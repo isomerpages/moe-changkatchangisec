@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - School Advisory Committee.md
       - Parents Support Group.md
       - Parents Info.md
       - CCSS Alumni Association.md
