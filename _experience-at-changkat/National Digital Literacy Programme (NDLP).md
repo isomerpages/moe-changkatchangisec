@@ -12,7 +12,6 @@ description: ""
 
 **The NDLP in CCSS aims to develop**  
 
-### 
 
 1.  Self-Directed Learners who
 
