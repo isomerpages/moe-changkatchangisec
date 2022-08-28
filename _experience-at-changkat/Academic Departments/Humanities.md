@@ -62,3 +62,4 @@ The Humanities department also offers a Talent Development Programme for student
 ![](/images/H3.jpeg)
 ![](/images/H4.jpeg)
 ![](/images/H5.jpeg)
+![](/images/H6.jpeg)
