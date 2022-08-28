@@ -41,7 +41,9 @@ Trap/Skeet Shooting, hiking, Overnight Cycling, outdoor camping, Overseas trip, 
 *   Founder's Award
 
 <center>UACDC</center>
+
 ![](/images/Founders%20Award-600x450.jpeg)
 <center>Founders Award</center>
+
 ![](/images/JM%20Fraser%20Gold%20Award-600x449.jpeg)
 <center>Receiving the JM Fraser Gold Award</center>
