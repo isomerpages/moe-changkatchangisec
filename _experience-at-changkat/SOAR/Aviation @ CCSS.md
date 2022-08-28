@@ -65,3 +65,8 @@ Our staff and students shared our Aviation Programme to fellow educators from Ch
 
 Our Changkateers attended the Aviaiton Open House. It was an eye opener as our students get to interact with people from the Aviation Industry and learn more about the various career options.
 
+<img src="/images/AOH1.jpeg" 
+     style="width:50%;float:left"><img src="/images/AOH2.jpeg" 
+     style="width:50%"><img src="/images/AOH3.jpeg" 
+     style="width:50%;float:left"><img src="/images/AOH4.jpeg" 
+     style="width:50%">
