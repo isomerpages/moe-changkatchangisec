@@ -26,4 +26,4 @@ description: ""
 **Health Promotion Board - Healthy Food, Happier Children**
 -----------------------------------------------------------
 
-**For more info Click [Here](https://changkatchangisec.moe.edu.sg/qql/slot/u144/Our%20Community/Parents%20Info/HPB.pdf)**
+**For more info Click [Here](/files/HPB.pdf)**
