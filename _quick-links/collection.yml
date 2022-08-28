@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - School Safety/Guide to Home Based Learning (HBL).md
       - School Safety/.keep
       - Frequently Asked Questions.md
