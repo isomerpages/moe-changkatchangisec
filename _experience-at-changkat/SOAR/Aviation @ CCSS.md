@@ -30,3 +30,11 @@ Our Principal, Ms Sharma, and our staff, Mr Melvin Ng, Mr Lee and Mdm Ng present
 <img src="/images/EIA1.jpeg" 
      style="width:50%;float:left"><img src="/images/EIA2.jpeg" 
      style="width:50%">
+		 
+**5 November 2019**
+
+Our staff and students presented  our Aviation Programme to industry partners and guests at the ALP Seminar.  The sharing was focused on the Best Practices of our Tier 2 programme and how it benefits our Changkateers!
+
+<img src="/images/ALP%20Sem%201.jpeg" 
+     style="width:50%;float:left"><img src="/images/ALP%20Sem%202.jpeg" 
+     style="width:50%">
