@@ -2,6 +2,7 @@ collections:
   experience-at-changkat:
     output: true
     order:
+      - Academic Departments/PE and Music.md
       - Academic Departments/Humanities.md
       - Academic Departments/Craft and Technology.md
       - Academic Departments/.keep
