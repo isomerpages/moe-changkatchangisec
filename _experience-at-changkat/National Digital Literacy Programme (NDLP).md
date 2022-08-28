@@ -34,4 +34,5 @@ FOR STUDENTS
 
 [Student Page on PLD and Digital Literacy skills](https://sites.google.com/moe.edu.sg/ccss-student-hbl-page)
 [Student Kit for Cyber Wellness & Learning with a PLD]()
-[Acceptable Use Policy (AUP)](/files/2%20Acceptable%20Use%20Policy%20AUP%20Agreement%202022.pdf) for healthy use of PLDs in the school[]
+[Acceptable Use Policy (AUP)](/files/2%20Acceptable%20Use%20Policy%20AUP%20Agreement%202022.pdf) for healthy use of PLDs in the school
+[Student's Device Information Kit](/files/Appendix_1_-_Student_Device_Information_Kit_updated_12_Mar_-_edited.pdf)
