@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwQDReN2CUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Teachers-in-charge:**  
+### Teachers-in-charge: 
 
 *   **Mdm Siti Zubaidah (I/C)**  
     
@@ -71,3 +71,15 @@ Other Proficiency and Interest Badge Programes: More importantly, Guiding provid
 4.  Be Prepared Quest 2015 (International Competition): 3 Guides were awarded Gold, Silver and Bronze Trophies
 5.  Wee Kim Wee Challenge (National level): Champion in 2012 , Runner-up in 2014
 6.  Camp Challenge 2012 (National Event): Awarded for the Best Division
+
+![](/images/Meeting%20the%20First%20Lady-600x305.jpeg)
+<center>Meeting the First Lady (2017), Mrs Mary Tan</center>
+
+![](/images/East%20Divison%20Day-600x450.jpeg)
+<center>Our Girls @ East Divison Day</center>
+
+![](/images/Playing%20the%20Cajon@-WTD-600x450.jpeg)
+<center>Playing the Cajon@ World Thinking Day</center>
+
+![](/images/Preparing%20a%20meal%20at%20Camp-600x450.jpeg)
+<center>Preparing a meal @ Camp</center>
