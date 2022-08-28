@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports and Games/Track & Field.md
       - Sports and Games/Badminton.md
       - Sports and Games/Netball.md
       - Sports and Games/.keep
