@@ -85,3 +85,9 @@ Our Changkateers went for a visit to Temasek Polytechnic to learn more about the
 
 Our Changkateers went on a Hong Kong Overseas Learning Journey. The highlights of the trip were an exchange at Sai Kung Sung Tsun Catholic School, an educational visit to Hong Kong International Airport (HKIA) and PAPAS, an aircraft maintenance and repair company. Our Changkateers also had a private tour around the HKIA as well!
 
+<img src="/images/IMG_2380_photo-full.jpeg" 
+     style="width:50%;float:left"><img src="/images/IMG_2615_photo-full.jpeg" 
+     style="width:50%"><img src="/images/IMG_2570_photo-full.jpeg" 
+     style="width:50%;float:left"><img src="/images/IMG_2594_photo-full.jpeg" 
+     style="width:50%">
+		 
