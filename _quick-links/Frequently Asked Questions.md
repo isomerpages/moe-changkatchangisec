@@ -46,7 +46,7 @@ For cash payment, you can make payment at our CCSS General Office.  
 
   
 **Where can I find out more about CCAs and related CCA matters in Changkat Changi Secondary School?**  
-[/experience-at-changkat/co-curricular-activities-ccas](https://changkatchangisec.moe.edu.sg/experience-at-changkat/co-curricular-activities-ccas)  
+[/experience-at-changkat/co-curricular-activities-ccas](/experience-at-changkat/co-curricular-activities-ccas)  
   
 **What is the CCA Grading System?**  
 [https://changkatchangisec.moe.edu.sg/experience-at-changkat/co-curricular-activities-ccas/leaps-2-0/introduction-to-leaps-2-0](https://changkatchangisec.moe.edu.sg/experience-at-changkat/co-curricular-activities-ccas/leaps-2-0/introduction-to-leaps-2-0)  
