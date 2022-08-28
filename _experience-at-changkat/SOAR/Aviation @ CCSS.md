@@ -50,3 +50,13 @@ Our Changkateers had an Aviation Day! We thank our partners from Rolls-Royce and
      style="width:50%"><br><br><img src="/images/AD%204.jpeg" 
      style="width:50%;float:left"><img src="/images/AD%203.jpeg" 
      style="width:50%">![](/images/Ad%206.jpeg)
+		 
+**31 October 2019**
+
+Our staff and students shared our Aviation Programme to fellow educators from Chung Cheng High School (Main). Our students also did a drone programming demonstration for our guests.
+
+<img src="/images/CCHS%201.jpeg" 
+     style="width:50%;float:left"><img src="/images/CCHS%202.jpeg" 
+     style="width:50%"><img src="/images/CCHS%203.jpeg" 
+     style="width:50%;float:left"><img src="/images/CCHS%204.jpeg" 
+     style="width:50%">
