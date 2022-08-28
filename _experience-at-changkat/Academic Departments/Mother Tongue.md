@@ -111,3 +111,12 @@ Navarasa Thiruvizha 2020
 
 ![](/images/Debate%20Team%20in%20Action.jpeg)
 <center>Debate Team in Action</center>
+
+![](/images/Rakan%20Bahasa.jpeg)
+<center>Rakan Bahasa</center>
+
+![](/images/LJ%20to%20Indian%20Heritage%20centre.jpeg)
+<center>Learning Journey to Indian Heritage centre</center>
+
+![](/images/LJ%20to%20UPTLC.jpeg)
+<center>Learning Journey to UPTLC</center>
