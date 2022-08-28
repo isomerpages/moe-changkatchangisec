@@ -28,7 +28,6 @@ Form teachers will be checking the attendance with students at 0800 on HBL days.
 
 The detailed information on the e-CCA sessions can be found in the link here. Zoom details will be provided to your child/ward by the respective CCA teachers.  
 
-\============================================================================================
 
 The [Singapore StudentLearning Space (SLS)](http://learning.moe.edu.sg/) will be one of the few platforms to support schools in their home-based learning (HBL) measures. Instructions for home based lessons will be provided on the platform.  
 
@@ -53,3 +52,32 @@ During school operating hours, students should contact the **School-based Helpl
 **School-based Helpline:** 6785 9790
 
 **Mondays - Fridays: 8:00 am - 4:00 pm**
+
+For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+
+**Non-School Operating Hours**
+
+Students can only contact the **SLS Helpdesk** outside the school operating hours.
+
+SLS Helpdesk: 6702 6513
+
+Mondays - Fridays: 4:00 pm - 9:00 pm
+
+Saturdays: 9:00 am - 9:00 pm
+
+\*Closed on Sundays & Public Holidays
+
+**Alternatively,** the following are whom you can contact for support:
+
+(a) Form Teacher and Subject Teacher –  Contact emails of teachers can be found here**.**
+
+(b) SLS Helpdesk : 6702 6513 ; helpdesk@sls.ufinity.com
+
+iMTL Helpdesk : 68488900 ; [helpdesk@mall-imtl.moe.edu.sg](mailto:helpdesk@mall-imtl.moe.edu.sg)
+
+(c) Student self help resource page during this HBL period can be found [here](http://go.gov.sg/ccsshbl).
+
+  
+  
+
+Changkat Changi Secondary School HBL Management Team
