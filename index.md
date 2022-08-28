@@ -14,7 +14,7 @@ sections:
           url: /experience-at-changkat/SOAR/Aviation-at-CCSS
         - title: Many moments, One school
           description: Re-live the best moments
-          url: ""
+          url: /our-achievements/Changkat-Moments
   - infobar:
       title: NATIONAL DIGITAL LITERACY PROGRAMME
       subtitle: Announcements
