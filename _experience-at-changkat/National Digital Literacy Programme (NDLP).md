@@ -46,4 +46,7 @@ FOR PARENTS
 | | | 
 | -------- | -------- | 
 | 1.  Information on device     | [Briefing during 2022 Sec 1 PTC](/files/Parent%20Engagement%20Deck_%2015%20Jan%202022%20FOR%20WEBSITE%20R.pdf)  <br>[Frequently Asked Questions (FAQ)](/files/FAQ%20For%20Parents%20and%20Website%20R.pdf)   |
-
+|2\. Giving Consent for Purchase|Click **[here](https://go.gov.sg/pdlpadmin)** to give consent
+|3. Insurance & Warranty Info 	|Click **[here](/files/PLD%20Insurance%20%20Warranty%202022.pdf)** for more information
+|4.  SOPs for device issues|Click **[here](/files/SOPs%20for%20Device%20Issues%202021.pdf)**  for more information
+|5\. Other Useful Information|[Service Centre & Vendor Contacts](/files/Service%20Centre%20%20Vendor%20Contacts.pdf)
