@@ -5,12 +5,9 @@ description: ""
 ---
 ### **General:**
 
-  
-**How do I get to Changkat Changi Secondary School**  
-[/about-us/contact-us](https://changkatchangisec.moe.edu.sg/about-us/contact-us)  
 
 **How do I contact Changkat Changi Secondary School?**  
-[/about-us/contact-us](https://changkatchangisec.moe.edu.sg/about-us/contact-us)    
+[/about-us/contact-us](/about-us/contact-us)    
   
 **Where do I buy school uniforms?**  
 \-     The uniform vendor will open in school every Thursday from 9am to 3pm.  
@@ -40,16 +37,16 @@ For cash payment, you can make payment at our CCSS General Office.  
 
   
 **Where can I find out more about Direct School Admission (DSA) to Changkat Changi Secondary School?**  
-[/experience-at-changkat/direct-school-admission](https://changkatchangisec.moe.edu.sg/experience-at-changkat/direct-school-admission)  
+[/experience-at-changkat/direct-school-admission](/experience-at-changkat/direct-school-admission)  
 
 **CCA:**
 
   
 **Where can I find out more about CCAs and related CCA matters in Changkat Changi Secondary School?**  
-[/experience-at-changkat/co-curricular-activities-ccas](/experience-at-changkat/co-curricular-activities-ccas)  
+[/experience-at-changkat/co-curricular-activities-ccas](/co-curricular-activities/Uniformed-Groups/The-Boys-Brigade)  
   
 **What is the CCA Grading System?**  
-[https://changkatchangisec.moe.edu.sg/experience-at-changkat/co-curricular-activities-ccas/leaps-2-0/introduction-to-leaps-2-0](https://changkatchangisec.moe.edu.sg/experience-at-changkat/co-curricular-activities-ccas/leaps-2-0/introduction-to-leaps-2-0)  
+[https://changkatchangisec.moe.edu.sg/experience-at-changkat/co-curricular-activities-ccas/leaps-2-0/introduction-to-leaps-2-0](/co-curricular-activities/LEAPS-2/School-CCA-Policy)  
   
 **Can my child join more than one CCA?**  
 Students may join more than one CCA provided there are no clashes in the schedules    
