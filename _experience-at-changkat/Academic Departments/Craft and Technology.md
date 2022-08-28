@@ -80,3 +80,8 @@ The upper secondary curriculum aims to equip students with relevant 21st century
 *   Integrating coursework skills to both Lower and Upper secondary syllabuses 
 *   Experiential learning based on Food Science experiments 
 *   Resources for self-directed learning on Student Learning Space for Food and Consumer Education and Food and Nutrition
+
+![](/images/Art_Pic_8%20(1).jpeg)
+![](/images/Art_Pic_8.jpeg)
+![](/images/cnt7.jpeg)
+![](/images/cnt8.jpeg)
