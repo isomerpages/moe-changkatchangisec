@@ -21,7 +21,5 @@ sections:
       description: Dear Parents,   Details on the NDLP for the 2022 Secondary 1 cohort
         can be found on this page.
       button: Read more
-      url: /
+      url: /experience-at-changkat/National-Digital-Literacy-Programme-NDLP
 ---
-
-
