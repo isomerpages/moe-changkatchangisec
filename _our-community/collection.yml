@@ -1,4 +1,5 @@
 collections:
   our-community:
     output: true
-    order: []
+    order:
+      - CCSS Alumni Association.md
