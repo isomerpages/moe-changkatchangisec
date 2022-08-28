@@ -71,4 +71,20 @@ Building up Good Learning Habits with the PLD
 
 | Information on Options | Option Form for DMA |
 | -------- | --------|
-|Click **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT0FWLONCf0kDhCjCwxCFsRq6XwFxYCY-U5AT4eSqtgPQ9RyEjCqm4w9wMK2vGvqwxXmPpMg7p9LikK/pubhtml)** to find out more about<br><br>-   the differences between the DMA options.<br>-   how the DMA options work during the school term and holidays.     | Click **[here](https://go.gov.sg/pdlpdma)** if you would like to change your child's DMA settings on the PLD     |
+|Click **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT0FWLONCf0kDhCjCwxCFsRq6XwFxYCY-U5AT4eSqtgPQ9RyEjCqm4w9wMK2vGvqwxXmPpMg7p9LikK/pubhtml)** to find out more about<br><br>-   the differences between the DMA options.<br>-   how the DMA options work during the school term and holidays.     | Click **[here](https://go.gov.sg/pdlpdma)** if you would like to change your child's DMA settings on the PLD     |   
+
+*Please note that changes to the DMA option will only take effect at the end of every month.*
+
+#### FAQs for DMA Options
+
+
+
+||||
+| -------- | -------- | -------- |
+| **Default Option**     | **Option A**     | **Option B**     |
+
+<img src="/images/dma%20default%20qr%20code.png" 
+     style="width:33%;float:left"><img src="/images/dma%20option%20A%20qr%20code.png" 
+     style="width:33%;float:left"><img src="/images/dma%20option%20B%20qr%20code.png" 
+     style="width:33%">
+
