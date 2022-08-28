@@ -44,7 +44,7 @@ Uniformed Group
 	
 
 
-| [Boys Brigade]| [Girl Guides] | [NCC Air Boys] | [NCC Air Girls]
+| [Boys Brigade](/co-curricular-activities/Uniformed-Groups/The-Boys-Brigade)| [Girl Guides](/co-curricular-activities/Uniformed-Groups/Girl-Guides) | [NCC Air Boys](/co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit) | [NCC Air Girls](/co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit)
 | -------- | -------- | -------- |-------- |
 ||||
 
