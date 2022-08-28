@@ -90,3 +90,28 @@ Our Changkateers went on a Hong Kong Overseas Learning Journey. The highlights o
      style="width:50%"><br><br><img src="/images/IMG_2570_photo-full.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_2594_photo-full.jpeg" 
      style="width:50%">
+		 
+**7 April 2019**
+
+We pop by to Changkat Primary School today to share about our Aviation Programme at their Learning Fiesta Week.
+
+<img src="/images/CKPS%201.jpeg" 
+     style="width:50%;float:left"><img src="/images/CKPS%203.jpeg" 
+     style="width:50%"><img src="/images/CKPS%202.jpeg" 
+     style="width:50%">
+		 
+**2 January 2019**
+
+Ministry of Education ETD branch featured our ALP programme. Watch the video to know more about our Aviation Programme!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PjF0Fsnbbhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**2018**
+
+Our Aviation Programme was featured on the news, twice!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4SlXeXI260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSVVxGb5gZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
