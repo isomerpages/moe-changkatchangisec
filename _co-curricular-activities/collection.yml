@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - LEAPS 2/Introduction to LEAPS 2.md
       - LEAPS 2/.keep
       - Uniformed Groups/The Boy's Brigade.md
       - Uniformed Groups/Girl Guides.md
