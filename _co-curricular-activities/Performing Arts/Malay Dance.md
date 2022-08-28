@@ -10,8 +10,7 @@ third_nav_title: Performing Arts
 
   
 
-*   **Ms Nurain Tajuddin (I/C)  
-    **
+*   **Ms Nurain Tajuddin (I/C)**
 *   Ms Nur Umaira (2 I/C)  
     
 *   Ms Namira Bte Muhammad
