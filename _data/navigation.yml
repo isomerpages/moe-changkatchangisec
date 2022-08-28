@@ -10,3 +10,20 @@ links:
     collection: our-community
   - title: Quick Links
     collection: quick-links
+  - title: experience@changkat
+    url: /permalink
+    sublinks:
+      - title: National Digital Literacy
+        url: //experience-at-changkat/National-Digital-Literacy-Programme-NDLP
+      - title: S.O.A.R.
+        url: //experience-at-changkat/SOAR
+      - title: Learning For Life
+        url: //experience-at-changkat/Learning-For-Life-Programme-LLP
+      - title: "Full Subject Based Banding "
+        url: "//experience-at-changkat/Full-Subject-Based-Banding-SBB "
+      - title: Academic Departments
+        url: "//experience-at-changkat/Academic-Departments "
+      - title: CCE
+        url: "//experience-at-changkat/CCE "
+      - title: Submenu Title
+        url: /permalink
