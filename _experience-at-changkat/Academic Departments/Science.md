@@ -52,4 +52,25 @@ UNSW Global Assessment (ICAS 2020)
 *   2 Credits
 
   
-The Science department also leads in developing knowledge and skills of applied learning in Science, Technology, Engineering and Mathematics (STEM) through the [Applied Learning Programme in aerospace and aviation](https://changkatchangisec.moe.edu.sg/experience-at-changkat/s-o-a-r-student-centered-opportunities-for-aerospace-industry).
+The Science department also leads in developing knowledge and skills of applied learning in Science, Technology, Engineering and Mathematics (STEM) through the [Applied Learning Programme in aerospace and aviation]()
+
+![](/images/Learning%20is%20fun%20at%20Science%20Department.jpeg)
+<center>Learning is fun at Science Department!</center>
+
+![](/images/Students%20learning%20about%20marine%20life%20at%20VJC.jpeg)
+<center>Students learning about marine life at VJC</center>
+
+![](/images/Our%20students%20at%20Brainfest%202018.jpeg)
+<center>Our students at Brainfest 2018</center>
+
+![](/images/Our%20Students%20learning%20Biology%20on%20a%20Yacht%20at%20Marina%20One.jpeg)
+<center>Our Students learning Biology on a Yacht at Marina One</center>
+
+![](/images/Our%20students%20participating%20at%20Chemistry%20Olympiad.jpeg)
+<center>Our students participating at Chemistry Olympiad</center>
+
+![](/images/Collaborative%20learning%20in%20Science.jpeg)
+<center>Collaborative learning in Science</center>
+
+![](/images/Our%20Science%20teachers%20sharing%20at%20International%20Science%20Education%20Conference.jpeg)
+<center>Our Science teachers sharing at International Science Education Conference</center>
