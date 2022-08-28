@@ -70,3 +70,13 @@ Our Changkateers attended the Aviaiton Open House. It was an eye opener as our s
      style="width:50%"><img src="/images/AOH3.jpeg" 
      style="width:50%;float:left"><img src="/images/AOH4.jpeg" 
      style="width:50%">
+		 
+**24 July 2019**
+
+Our Changkateers went for a visit to Temasek Polytechnic to learn more about the Aviation related courses offered. They also had the chance to interact with their seniors currently studying at TP for a better idea on the courses.
+
+<img src="/images/TP1.jpeg" 
+     style="width:50%;float:left"><img src="/images/TP2.jpeg" 
+     style="width:50%"><img src="/images/TP3.jpeg" 
+     style="width:50%;float:left"><img src="/images/TP4.jpeg" 
+     style="width:50%">
