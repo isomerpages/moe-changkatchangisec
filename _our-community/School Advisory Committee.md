@@ -12,3 +12,8 @@ description: ""
      style="width:33%;float:left"><img src="/images/CAMERON%20ONG.jpeg" 
      style="width:33%;float:left"><img src="/images/CHUA%20AI%20LING.jpeg" 
      style="width:33%">
+		 
+<img src="/images/MR%20TAN%20CHING%20KHOON.jpeg" 
+     style="width:33%;float:left"><img src="/images/KOH%20CHENG%20YEAN.jpeg" 
+     style="width:33%;float:left"><img src="/images/JIMMY.jpeg" 
+     style="width:33%">
