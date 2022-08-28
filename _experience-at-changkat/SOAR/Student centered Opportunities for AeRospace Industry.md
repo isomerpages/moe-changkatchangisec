@@ -32,8 +32,14 @@ All secondary 1 and 2 students undergo a 10 to 11 weeks of 1.5 hours aviation ba
 
 Outside of the classrooms, assembly talks were held during the aviation week where guests from Singapore Airline Engineering and Singapore Airlines were invited to give a talk on the aerospace industry. Passionate Sec 2 and sec 3 students went to attend the Aviation Open House at Suntec City Expo
 
-![](/images/Experience-1.jpeg)
+<img src="/images/Experience-1.jpeg" 
+     style="width:50%">
 <center>Assembly talk by SIA engineering Senior Vice president Mr Ivan Neo and SIA pilot Mr Shaun Neo</center>
 
-![](/images/Experience-2-300x225.jpeg)
+<img src="/images/Experience-2-300x225.jpeg" 
+     style="width:50%">
 <center>Students visiting aviation open house</center>
+
+Enriching the students further, students were selected and trained to take part in external competitions. For example, in the Aerochallenge at Ngee Ann Polytechnic,Â our secondary three Physics students, visited Temasek Polytechnic and ITE for their aerospace/aviation based enrichment workshop to learn more aviation related skills such as the designing of aircrafts.
+
+In June 2016, the learning experience took students overseas to NASA in Houston together with Mr Melvin Ng, HOD/Science, and Mr Patrick Ang! The students also won awards for Excellence in Mission Design - Scientific Challenge and Commercial Presentation during this trip.
