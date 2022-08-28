@@ -77,7 +77,7 @@ There is also a new aviation career corner.  Changkateers are able to learn mor
 **Aviation @ CCSS**
 -------------------
 
-A picture speaks a thousand words. Click [here](https://changkatchangisec.moe.edu.sg/experience-at-changkat/s-o-a-r-student-centered-opportunities-for-aerospace-industry/aviation-at-ccss) to see more about the activities, learning journeys and rich learning experience that take place through out the year.
+A picture speaks a thousand words. Click [here](/experience-at-changkat/SOAR/Aviation-at-CCSS) to see more about the activities, learning journeys and rich learning experience that take place through out the year.
 
   
 
