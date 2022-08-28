@@ -10,4 +10,4 @@ The well-being of all students remains a key priority. Teachers will be on the l
   
 As children respond differently to haze, parents should ensure their children have their medication, such as inhalers for asthma, with them. Parents should also take their children to seek medical attention if they are unwell and ensure that their children take their medication to school or arrange for alternative care arrangements to care for them at home.  
   
-For more information, [Click Here](/files/Letter-to-parents-Haze.pdf)
+For more information, [Click Here](/files/Letter-to-parents-Haze.pdf).
