@@ -37,3 +37,6 @@ By 2024, all secondary schools will have implemented the following aspects of Fu
 | N(A)     |  -  75% or higher in specific Humanities subject (Sec 1 Overall)     | Express level     |
 |N(T)	|- 75% or higher for English Language at N(T) level, or the equivalent at N(A) Level at the End-of-Year Examinations; and<br>- A Pass with Distinction grade for both Social Studies N(T) Performance Tasks in Semester 1 and 2.  |N(A) level|
 
+For more information on Full SBB, visit [www.moe.gov.sg/microsites/psle-fsbb](http://www.moe.gov.sg/microsites/psle-fsbb).
+
+For more information on how our school will be implementing Full SBB, you can contact us at [changkatchgi@moe.edu.sg](mailto:changkatchgi@moe.edu.sg).
