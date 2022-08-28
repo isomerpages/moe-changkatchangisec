@@ -87,4 +87,20 @@ Building up Good Learning Habits with the PLD
      style="width:33%;float:left"><img src="/images/dma%20option%20A%20qr%20code.png" 
      style="width:33%;float:left"><img src="/images/dma%20option%20B%20qr%20code.png" 
      style="width:33%">
+		 
+||||
+| -------- | -------- | -------- |
+|Scan the QR code above or  
+click [here](https://go.gov.sg/dmadefault)  | Scan the QR code above or  
+click [here](https://go.gov.sg/dmaoptiona)    | Scan the QR code above or  
+click [here](https://go.gov.sg/dmaoptionb)|
 
+
+
+
+
+
+If you have other queries not answered in the FAQs, you may wish to submit your queries via QR code on the right or click [here](https://go.gov.sg/dmaoq)
+
+<img src="/images/dmaoq.png" 
+     style="width:33%">
