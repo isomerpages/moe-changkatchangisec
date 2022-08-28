@@ -2,6 +2,7 @@ collections:
   experience-at-changkat:
     output: true
     order:
+      - Academic Departments/English.md
       - Academic Departments/Mother Tongue.md
       - Academic Departments/Mathematics.md
       - Academic Departments/Science.md
