@@ -87,7 +87,6 @@ Our Changkateers went on a Hong Kong Overseas Learning Journey. The highlights o
 
 <img src="/images/IMG_2380_photo-full.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_2615_photo-full.jpeg" 
-     style="width:50%"><img src="/images/IMG_2570_photo-full.jpeg" 
+     style="width:50%"><br><br><img src="/images/IMG_2570_photo-full.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_2594_photo-full.jpeg" 
      style="width:50%">
-		 
