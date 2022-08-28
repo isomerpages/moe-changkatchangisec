@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - NEU PC Plus Programme.md
       - School Safety/Safety Annoucement.md
       - School Safety/Haze Management Measures.md
       - School Safety/Guide to Home Based Learning (HBL).md
