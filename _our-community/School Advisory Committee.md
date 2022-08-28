@@ -17,3 +17,8 @@ description: ""
      style="width:33%;float:left"><img src="/images/KOH%20CHENG%20YEAN.jpeg" 
      style="width:33%;float:left"><img src="/images/JIMMY.jpeg" 
      style="width:33%">
+		 
+<img src="/images/alvin.jpeg" 
+     style="width:33%;float:left"><img src="/images/elaine.jpeg" 
+     style="width:33%;float:left"><img src="/images/elsie.jpeg" 
+     style="width:33%">
