@@ -2,4 +2,5 @@ collections:
   our-community:
     output: true
     order:
+      - Parents Info.md
       - CCSS Alumni Association.md
