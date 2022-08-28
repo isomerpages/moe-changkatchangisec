@@ -43,3 +43,7 @@ Outside of the classrooms, assembly talks were held during the aviation week whe
 Enriching the students further, students were selected and trained to take part in external competitions. For example, in the Aerochallenge at Ngee Ann Polytechnic,Â our secondary three Physics students, visited Temasek Polytechnic and ITE for their aerospace/aviation based enrichment workshop to learn more aviation related skills such as the designing of aircrafts.
 
 In June 2016, the learning experience took students overseas to NASA in Houston together with Mr Melvin Ng, HOD/Science, and Mr Patrick Ang! The students also won awards for Excellence in Mission Design - Scientific Challenge and Commercial Presentation during this trip.
+
+<img src="/images/Experience-3.jpeg" 
+     style="width:50%;float:left"><img src="/images/Experience-4.jpeg" 
+     style="width:50%">
