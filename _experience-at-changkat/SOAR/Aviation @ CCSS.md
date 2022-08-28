@@ -60,3 +60,8 @@ Our staff and students shared our Aviation Programme to fellow educators from Ch
      style="width:50%"><img src="/images/CCHS%203.jpeg" 
      style="width:50%;float:left"><img src="/images/CCHS%204.jpeg" 
      style="width:50%">
+		 
+**15 August 2019**
+
+Our Changkateers attended the Aviaiton Open House. It was an eye opener as our students get to interact with people from the Aviation Industry and learn more about the various career options.
+
