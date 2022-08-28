@@ -88,4 +88,4 @@ A picture speaks a thousand words. Click [here](https://changkatchangisec.moe.e
 **Join us on this exciting Aviation Journey**
 ---------------------------------------------
 
-Primary 6 students who are interested to join us can now secure a place in CCSS through the Direct School Admission-Secondary Exercise. For more info, [click here](https://changkatchangisec.moe.edu.sg/experience-at-changkat/direct-school-admission/direct-school-admission-through-applied-learning-programme-s-o-a-r).
+Primary 6 students who are interested to join us can now secure a place in CCSS through the Direct School Admission-Secondary Exercise. For more info, [click here](/experience-at-changkat/Direct-School-Admission/ALP).
