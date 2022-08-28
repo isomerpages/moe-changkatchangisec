@@ -71,5 +71,4 @@ Building up Good Learning Habits with the PLD
 
 | Information on Options | Option Form for DMA |
 | -------- | --------|
-|Click **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT0FWLONCf0kDhCjCwxCFsRq6XwFxYCY-U5AT4eSqtgPQ9RyEjCqm4w9wMK2vGvqwxXmPpMg7p9LikK/pubhtml)** to find out more about<br><br>-   the differences between the DMA options.<br>-   how the DMA options work during the school term and holidays.     | Text     | 
-
+|Click **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT0FWLONCf0kDhCjCwxCFsRq6XwFxYCY-U5AT4eSqtgPQ9RyEjCqm4w9wMK2vGvqwxXmPpMg7p9LikK/pubhtml)** to find out more about<br><br>-   the differences between the DMA options.<br>-   how the DMA options work during the school term and holidays.     | Click **[here](https://go.gov.sg/pdlpdma)** if you would like to change your child's DMA settings on the PLD     |
