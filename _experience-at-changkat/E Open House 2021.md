@@ -62,7 +62,7 @@ Uniformed Group
 Performing Arts
 
 
-| [Malay Dance] | [Modern Dance] | [Concert Band] | [Chinese String Ensemble]
+| [Malay Dance](/co-curricular-activities/Performing-Arts/Malay-Dance)| [Modern Dance](/co-curricular-activities/Performing-Arts/Modern-Dance) | [Concert Band](/co-curricular-activities/Performing-Arts/Concert-Band) | [Chinese String Ensemble](/co-curricular-activities/Performing-Arts/Chinese-String-Ensemble)
 | -------- | -------- | -------- |-------- |
 ||||
 
