@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Chinese String Ensemble.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Concert Band.md
       - Performing Arts/Modern Dance.md
