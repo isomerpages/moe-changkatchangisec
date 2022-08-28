@@ -47,3 +47,13 @@ In June 2016, the learning experience took students overseas to NASA in Houston 
 <img src="/images/Experience-3.jpeg" 
      style="width:50%;float:left"><img src="/images/Experience-4.jpeg" 
      style="width:50%">
+<center>Check out more about the NASA trip to Houston and our Changkateer's experience from the video below!</center>
+
+**Strong Partnerships with the Aviation Industries**
+----------------------------------------------------
+
+To have a more holistic programme, SOAR have partnerships with institute of higher learning such as Temasek Polytechnic and ITE. SOAR is also fortunate to have partners in the Aviation Industries such as CAAS, SIA and Rolls Royce. Visits to our partners such as Rolls Royce adds value to learning more about the aviation industries for both staff and students.  
+
+<img src="/images/Exprience-5-300x224.jpeg" 
+     style="width:50%">
+<center>Learning Journey to Rolls-Royce</center>
