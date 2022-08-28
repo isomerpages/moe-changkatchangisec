@@ -19,3 +19,14 @@ We received our first ever flight simulator today! It will be implemented into o
 <img src="/images/sim%202.jpeg" 
      style="width:50%;float:left"><img src="/images/sim%203.jpeg" 
      style="width:50%">
+		 
+**6 November 2019**
+
+Our Principal, Ms Sharma, and our staff, Mr Melvin Ng, Mr Lee and Mdm Ng presented at the MOE Excellence in Action seminar. It was a privileged experience  to be able to share our Aviation Programme to fellow educators in the fraternity.
+
+<img src="/images/EIA4.jpeg" 
+     style="width:50%;float:left"><img src="/images/EIA3.jpeg" 
+     style="width:50%">
+<img src="/images/EIA1.jpeg" 
+     style="width:50%;float:left"><img src="/images/EIA2.jpeg" 
+     style="width:50%">
