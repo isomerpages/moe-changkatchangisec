@@ -52,4 +52,23 @@ description: ""
 
 **8**.  **[ITE Portal (Applying for Nitec Courses)](https://www.ite.edu.sg/apply-for-ITE-courses)**
 
- 
+### **Staff Links**
+
+**[SC Mobile](https://scmobile.moe.edu.sg/)**
+<br>**[PaC@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)** **(Internet)**
+<br>**[PaC@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)** **(Intranet)**
+<br>[**MOE Intranet**](https://intranet.moe.gov.sg/)
+<br>**[iCON 2.0](https://workspace.google.com/dashboard)**
+<br>**[TRAISI](https://traisi.moe.gov.sg/AD/login.asp)**
+<br>[**School Cockpit**](http://schoolcockpit.moe.gov.sg/)
+<br>**[School Cockpit 2.0](https://schoolcockpit.moe.edu.sg/login)**
+<br>**[Human Resource Management System (HRP)](https://www.hrp.gov.sg/hrp/#/)**
+<br>[**Academy of Singapore Teachers**](http://www.academyofsingaporeteachers.moe.gov.sg/)
+<br>[**OPAL 2.0**](https://www.opal2.moe.edu.sg/app/learner)
+<br>[**ICT Connection**](http://ictconnection.moe.edu.sg/)
+<br>[**Cyber Wellness Portal**](http://ict.moe.edu.sg/cyberwellness/)
+<br>[**Teacher Growth Model**](http://tgm.moe.gov.sg/)
+<br>[**MOE Sports and Recreation Club**](http://www.mesrc.net/)
+<br>**[iExams](https://iexams.seab.gov.sg/login)**
+<br>[**Haze Situation Update**](http://www.haze.gov.sg/)
+<br>**[Ministry of Health](https://www.moh.gov.sg/)**
