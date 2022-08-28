@@ -53,3 +53,9 @@ The English Language Department aims to develop students into empathetic communi
 
   
 This year, the English Drama Society has come under the fold of the English Language Department’s Talent Development Programme where students will develop both their oratorical skills and in the performing arts. One of our student, Siti Hawa Binte Mohamad Isa (3E2) was also selected as emcee for the SYFgoesOnline Presentations. Our EL teachers continue to be professionally developed by redesigning the school curriculum according to the new EL Syllabus 2020.
+
+![](/images/EL%20Dept_b.png)
+![](/images/EL%20Dept_c.png)
+![](/images/EL%20Dept_d.png)
+![](/images/EL%20Dept_g.png)
+![](/images/EL%20Dept_e.png)
