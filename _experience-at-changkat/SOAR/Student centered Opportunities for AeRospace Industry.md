@@ -70,3 +70,22 @@ Infrastructure was upgraded to match the demands of a unique Aviation Experience
 <img src="/images/Experience-6-300x224.jpeg" 
      style="width:50%;float:left"><img src="/images/Experience-7-300x225.jpeg" 
      style="width:50%">
+<center>STEM based lessons at new ALP room</center>
+
+There is also a new aviation career corner.  Changkateers are able to learn more about the possible careers in Aviation and have a good idea and information on the courses they need to pursue for their next phase of their education pathway.
+
+**Aviation @ CCSS**
+-------------------
+
+A picture speaks a thousand words. Click [here](https://changkatchangisec.moe.edu.sg/experience-at-changkat/s-o-a-r-student-centered-opportunities-for-aerospace-industry/aviation-at-ccss) to see more about the activities, learning journeys and rich learning experience that take place through out the year.
+
+  
+
+  
+
+  
+
+**Join us on this exciting Aviation Journey**
+---------------------------------------------
+
+Primary 6 students who are interested to join us can now secure a place in CCSS through the Direct School Admission-Secondary Exercise. For more info, [click here](https://changkatchangisec.moe.edu.sg/experience-at-changkat/direct-school-admission/direct-school-admission-through-applied-learning-programme-s-o-a-r).
