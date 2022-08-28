@@ -67,3 +67,6 @@ To have a more holistic programme, SOAR have partnerships with institute of high
 
 Infrastructure was upgraded to match the demands of a unique Aviation Experience. Our school open our first ever ICT integrated ALP room to facilitate collaborative learning and develop 21 ccs in our students during the STEM based lessons.
 
+<img src="/images/Experience-6-300x224.jpeg" 
+     style="width:50%;float:left"><img src="/images/Experience-7-300x225.jpeg" 
+     style="width:50%">
