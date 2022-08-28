@@ -38,3 +38,15 @@ Our staff and students presented  our Aviation Programme to industry partners a
 <img src="/images/ALP%20Sem%201.jpeg" 
      style="width:50%;float:left"><img src="/images/ALP%20Sem%202.jpeg" 
      style="width:50%">
+
+**22 October 2019**
+
+Our Changkateers had an Aviation Day! We thank our partners from Rolls-Royce and Singapore Polytechnic for a fun filled day enriched with learning on the different aspects of Aviation.
+
+<img src="/images/AD1.jpeg" 
+     style="width:50%;float:left"><img src="/images/AD%202.jpeg" 
+     style="width:50%"><img src="/images/RR%202.jpeg" 
+     style="width:50%;float:left"><img src="/images/RR%203.jpeg" 
+     style="width:50%"><br><br><img src="/images/AD%204.jpeg" 
+     style="width:50%;float:left"><img src="/images/AD%203.jpeg" 
+     style="width:50%">![](/images/Ad%206.jpeg)
