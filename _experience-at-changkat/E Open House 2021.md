@@ -77,7 +77,7 @@ Performing Arts
 Sports and Games
 
 
-| [Sepak Takraw] | [Track and Field] | [Badminton] | [Netball]
+| [Sepak Takraw](/co-curricular-activities/Sports-and-Games/Sepak-Takraw) | [Track and Field](/co-curricular-activities/Sports-and-Games/Track-and-Field) | [Badminton](/co-curricular-activities/Sports-and-Games/Badminton) | [Netball](/co-curricular-activities/Sports-and-Games/Netball)
 | -------- | -------- | -------- |-------- |
 ||||
 
