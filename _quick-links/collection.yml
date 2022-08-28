@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Class Timetable.md
       - Examination Matters.md
       - ICT Related Matters.md
       - NEU PC Plus Programme.md
