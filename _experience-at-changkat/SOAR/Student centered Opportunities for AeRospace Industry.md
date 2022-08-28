@@ -57,3 +57,13 @@ To have a more holistic programme, SOAR have partnerships with institute of high
 <img src="/images/Exprience-5-300x224.jpeg" 
      style="width:50%">
 <center>Learning Journey to Rolls-Royce</center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9SgAXMNVbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center>Our Changkateer conducting a reverse interview with Rolls-Royce Aerospace during The Singapore Airshow</center>
+
+**Facilities to match the Aviation Experience**
+-----------------------------------------------
+
+Infrastructure was upgraded to match the demands of a unique Aviation Experience. Our school open our first ever ICT integrated ALP room to facilitate collaborative learning and develop 21 ccs in our students during the STEM based lessons.
+
