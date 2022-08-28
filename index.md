@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Aviation @ CCSS
           description: Aviation Programme
-          url: ""
+          url: /experience-at-changkat/SOAR/Aviation-at-CCSS
         - title: Many moments, One school
           description: Re-live the best moments
           url: ""
