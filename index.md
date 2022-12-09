@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Aviation @ CCSS
-          description: Aviation Programme
-          url: /experience-at-changkat/SOAR/Aviation-at-CCSS
-        - title: Many moments, One school
-          description: Re-live the best moments
-          url: /our-achievements/Changkat-Moments
+        - title: Follow Us
+          description: The Changkateer Experience
+          url: ""
+        - title: ""
+          description: ""
+          url: ""
         - title: Learn with passion
           description: Learning is always exciting
           url: /experience-at-changkat/SOAR/Aviation-at-CCSS
@@ -28,4 +28,14 @@ sections:
         can be found on this page.
       button: Read more
       url: /experience-at-changkat/National-Digital-Literacy-Programme-NDLP
+  - infobar:
+      title: Aviation @ CCSS
+      description: Aviation Programme
+      button: Button Text
+      url: /experience-at-changkat/SOAR/Aviation-at-CCSS
+  - infobar:
+      title: Many Moments, One School
+      description: Re-live the best moments
+      button: Button Text
+      url: /our-achievements/Changkat-Moments
 ---
