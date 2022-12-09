@@ -44,4 +44,10 @@ sections:
       description: Dear Parents, booklist for 2023 is available here
       button: Download here
       url: https://changkatchangisec.moe.edu.sg/qql/slot/u144/Announcements/booklist2023.zip
+  - infobar:
+      title: OPEN HOUSE 2022
+      subtitle: Announcements
+      description: For more details on our Open House 2022
+      button: Click here
+      url: /experience-at-changkat/E-Open-House-2021
 ---
