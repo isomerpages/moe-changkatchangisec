@@ -12,15 +12,15 @@ sections:
         - title: Follow Us
           description: The Changkateer Experience
           url: ""
-        - title: ""
-          description: ""
-          url: ""
         - title: Learn with passion
           description: Learning is always exciting
           url: /experience-at-changkat/SOAR/Aviation-at-CCSS
         - title: Serve with Humility
           description: Serving is always an honour
           url: /experience-at-changkat/Learning-for-Life-Programme-LLP
+        - title: Succeed with Integrity
+          description: Success is built upon values
+          url: /our-achievements/CCA-Achievements
   - infobar:
       title: NATIONAL DIGITAL LITERACY PROGRAMME
       subtitle: Announcements
