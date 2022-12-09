@@ -1,19 +1,14 @@
 ---
 title: Mother Tongue
-permalink: /experience-at-changkat/Academic-Departments/Mother-Tongue
+permalink: /experience-at-changkat/Academic-Departments/Mother-Tongue/
 description: ""
 third_nav_title: Academic Departments
 ---
 **Head of Department:** Ms Goh Ying Hsuan 
-
-  
-
-**Subject Head:** Mdm Hezrina Bte Johan Manikam  
-
-  
-
+<br>
+**Subject Head:** Mdm Hezrina Bte Johan Manikam  <br>
 **Lead Teacher:** Dr Perema D/O Ramasamy
-
+<br>
 **Lead Teacher:** Mr Djohan Abdul Rahman  
 
   
@@ -23,29 +18,23 @@ third_nav_title: Academic Departments
 
 
 Mdm Tan Sai Kee  
-
-Ms Teo Ying Hui
-
+Ms Teo Ying Hui<br>
 Mr Wang Yadong  
-
 Ms Poh Shi Hui
 
   
 
-Malay Language Teachers:
+**Malay Language Teachers:**
 
-Mr Abdul Matiin bin Kassim
-
-Ms Nurain Bte Tajudeen
-
+Mr Abdul Matiin bin Kassim<br>
+Ms Nurain Bte Tajudeen<br>
 Mdm Nur Umaira Bte Muhd Zulkifi
 
   
 
-Tamil Language Teachers: 
+**Tamil Language Teachers:**
 
-Mdm Anadhagirl Kasthuri
-
+Mdm Anadhagirl Kasthuri<br>
 Dr Thirunavukarasu Duarisamy
 
   
