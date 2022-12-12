@@ -17,7 +17,7 @@ third_nav_title: SOAR
 **_SOAR_** **is integrated in our Curriculum**
 ----------------------------------------------
 
-All secondary 1 and 2 students undergo a 10 to 11 weeks of 1.5 hours aviation based curriculum lessons. These lessons involve elements of STEM and 21 CCs to ignite studentsâ€™ interests in aviation and develop their understanding of aeronautics. Some of the lessons activities include building of paper aircrafts, understanding the physics and dynamics of flight. Below are 2 basic activities that help students to understand flight.
+All secondary 1 and 2 students undergo a 10 to 11 weeks of 1.5 hours aviation based curriculum lessons. These lessons involve elements of STEM and 21 CCs to ignite students' interests in aviation and develop their understanding of aeronautics. Some of the lessons activities include building of paper aircrafts, understanding the physics and dynamics of flight. Below are 2 basic activities that help students to understand flight.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/cK6dDTWCW58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
