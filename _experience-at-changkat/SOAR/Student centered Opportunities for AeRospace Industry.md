@@ -1,16 +1,16 @@
 ---
 title: Student centered Opportunities for AeRospace Industry
-permalink: /experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry
+permalink: /experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/
 description: ""
 third_nav_title: SOAR
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-juulEaFrbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/-juulEaFrbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m4SlXeXI260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/m4SlXeXI260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSVVxGb5gZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZSVVxGb5gZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PjF0Fsnbbhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/PjF0Fsnbbhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center>SOAR at CCSS is an applied learning programme which is focused on the Aerospace and Aviation Management Industry where students will experience aviation related activities and enrichment. It also aims to develop knowledge and skills of applied learning in Science, Technology, Engineering and Mathematics for our students.</center>
 
@@ -19,11 +19,11 @@ third_nav_title: SOAR
 
 All secondary 1 and 2 students undergo a 10 to 11 weeks of 1.5 hours aviation based curriculum lessons. These lessons involve elements of STEM and 21 CCs to ignite studentsâ€™ interests in aviation and develop their understanding of aeronautics. Some of the lessons activities include building of paper aircrafts, understanding the physics and dynamics of flight. Below are 2 basic activities that help students to understand flight.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cK6dDTWCW58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/cK6dDTWCW58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center>A quick guide to Paper Dart</center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/phWhg8703DI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/phWhg8703DI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center>A quick guide to Paper Glider</center>
 
@@ -58,7 +58,7 @@ To have a more holistic programme, SOAR have partnerships with institute of high
      style="width:50%">
 <center>Learning Journey to Rolls-Royce</center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U9SgAXMNVbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/U9SgAXMNVbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center>Our Changkateer conducting a reverse interview with Rolls-Royce Aerospace during The Singapore Airshow</center>
 
