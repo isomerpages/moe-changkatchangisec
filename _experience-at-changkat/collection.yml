@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - National Digital Literacy Programme (NDLP).md
-      - SOAR/Aviation @ CCSS.md
-      - SOAR/Student centered Opportunities for AeRospace Industry.md
       - SOAR/.keep
+      - SOAR/Student centered Opportunities for AeRospace Industry.md
+      - SOAR/Aviation @ CCSS.md
       - Learning for Life Programme (LLP).md
       - Full Subject Based Banding (SBB).md
       - Academic Departments/English.md
