@@ -12,8 +12,6 @@ description: ""
 
 **[Student Learning Space (Instructions and FAQs)](/files/Student%20Learning%20Space%20(Instructions%20and%20FAQs).pdf)**
 
-[**MC Online Portal**](http://mconline.sg/)
-
 **[SWN Logout](http://portal.swn.moe.edu.sg/)**
 
 **[School Bag](http://www.schoolbag.sg/)**
