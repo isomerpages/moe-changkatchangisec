@@ -25,9 +25,9 @@ description: ""
 
 **1.  [Overview of Post-Secondary Education](https://www.moe.gov.sg/post-secondary/overview/)** 
 
-**2a.  2021 JIEN Information Booklet (For 4N Students)**
+**2a.  2022 JIEN Information Booklet (For 4N Students)**
 
-**2b.  [2022 JAE Information Booklet]() (For 4E/5N Students)**
+**2b.  2023 JAE Information Booklet (For 4E/5N Students)**
 
   
 
