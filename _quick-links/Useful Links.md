@@ -6,7 +6,7 @@ description: ""
 #### **Student Links**
 
 
-**[2022 Student Handbook]()**
+**[2022 Student Handbook](/files/CCSS_2022_Student_Handbook_2.pdf)**
 
 **[Student Learning Space](https://vle.learning.moe.edu.sg/login) (SLS)**
 
