@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /about-us/Principals-Message
+permalink: /about-us/Principals-Message/
 description: ""
 ---
 <img src="/images/download.png" 
@@ -30,7 +30,7 @@ We look forward to a meaningful year of learning with all of you. We wish for 20
 
 Together, We Flourish.
 
-Mr Ho Ming Da   
+**Mr Ho Ming Da**   
 Principal
 
 2021 Principal's Message
@@ -50,5 +50,5 @@ Our school motto ‘Through School to Nation’ reminds us that Changkat Changi 
 
 A warm welcome to the new academic year and best wishes for 2021!  
 
-Mr Ho Ming Da   
+**Mr Ho Ming Da**   
 Principal
