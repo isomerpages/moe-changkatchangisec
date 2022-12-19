@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Follow Us
           description: The Changkateer Experience
-          url: http://www.facebook.com/Changkateers/
+          url: https://www.facebook.com/Changkateers/
         - title: Learn with passion
           description: Learning is always exciting
           url: /experience-at-changkat/SOAR/Aviation-at-CCSS
