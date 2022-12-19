@@ -1,12 +1,11 @@
 ---
 title: Vision, Mission & Values
-permalink: /about-us/Vision-Mission-and-Values
+permalink: /about-us/Vision-Mission-and-Values/
 description: ""
 ---
 School Vision
 -------------
 
-*   Changkateers
 *   Learn with Passion,
 *   Serve with Humility,
 *   Succeed with Integrity.
