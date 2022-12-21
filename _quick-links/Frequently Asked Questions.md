@@ -65,16 +65,16 @@ School fees matters
 
   
 **Where can I find out more about Direct School Admission (DSA) to Changkat Changi Secondary School?**  
-[/experience-at-changkat/Direct-School-Admission](/experience-at-changkat/Direct-School-Admission)  
+[Click Here](/experience-at-changkat/Direct-School-Admission)  
 
 ###   **CCA:**
 
   
 **Where can I find out more about CCAs and related CCA matters in Changkat Changi Secondary School?**  
-[/experience-at-changkat/co-curricular-activities-ccas](/experience-at-changkat/co-curricular-activities-ccas)  
+[Click Here](/co-curricular-activities/LEAPS-2/School-CCA-Policy)  
   
 **What is the CCA Grading System?**  
-[/experience-at-changkat/co-curricular-activities-ccas/leaps-2-0/introduction-to-leaps-2-0](/experience-at-changkat/co-curricular-activities-ccas/leaps-2-0/introduction-to-leaps-2-0)  
+[Click Here](/experience-at-changkat/co-curricular-activities-ccas/leaps-2-0/introduction-to-leaps-2-0)  
   
 **Can my child join more than one CCA?**  
 Students may join more than one CCA provided there are no clashes in the schedules    
