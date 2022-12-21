@@ -7,7 +7,7 @@ description: ""
 
 
 **How do I contact Changkat Changi Secondary School?**  
-[/about-us/contact-us](/about-us/contact-us)    
+[Contact Us](/about-us/contact-us)    
   
 **Where do I buy school uniforms?**  
 \-   The uniform vendor will open in school every Wednesday from 9am to 3pm.  
@@ -42,7 +42,7 @@ Email: [dyccss3013@gmail.com](mailto:dyccss3013@gmail.com)
 
 ### **When are the school terms/ school holidays?**
 
-[https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)  
+[Click Here](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)  
 
 ### **Finance Matters :**  
 
@@ -58,7 +58,7 @@ School fees matters
 \-   Please refer to website above to pay via SG QR, SingPost Website, SAM Mobile App and SAM Kiosk at various locations. 
 
     
-**Financial Assistance Scheme and Bursaries** -   [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)[](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas))  
+**Financial Assistance Scheme and Bursaries** -   [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 \-   Approach General Office    
 
 ### **DSA:**  
