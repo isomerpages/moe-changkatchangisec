@@ -74,14 +74,13 @@ School fees matters
 [Click Here](/co-curricular-activities/LEAPS-2/School-CCA-Policy)  
   
 **What is the CCA Grading System?**  
-[Click Here](/experience-at-changkat/co-curricular-activities-ccas/leaps-2-0/introduction-to-leaps-2-0)  
+[Click Here](/co-curricular-activities/LEAPS-2/Introduction-to-LEAPS-2)  
   
 **Can my child join more than one CCA?**  
 Students may join more than one CCA provided there are no clashes in the schedules    
   
 
-###   
-**Academic Matters:**
+###   **Academic Matters:**
 
   
 
