@@ -86,11 +86,9 @@ Students may join more than one CCA provided there are no clashes in the schedul
 
 ### **Secondary 2 streaming exercise:**
 
-  
 [https://changkatsec.adminbreeze.com/](https://changkatsec.adminbreeze.com/)  
 
-###   
-**Miscellaneous:**
+###   **Miscellaneous:**
 
   
 **Are students allowed to bring mobile phones to school?**  
