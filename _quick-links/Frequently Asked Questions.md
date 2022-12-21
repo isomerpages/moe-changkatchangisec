@@ -65,10 +65,9 @@ School fees matters
 
   
 **Where can I find out more about Direct School Admission (DSA) to Changkat Changi Secondary School?**  
-[/experience-at-changkat/direct-school-admission](/experience-at-changkat/direct-school-admission)  
+[/experience-at-changkat/Direct-School-Admission](/experience-at-changkat/Direct-School-Admission)  
 
-###   
-**CCA:**
+###   **CCA:**
 
   
 **Where can I find out more about CCAs and related CCA matters in Changkat Changi Secondary School?**  
