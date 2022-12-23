@@ -20,3 +20,42 @@ Awardees from Speech Day 1
 ![](/images/20221.jpeg)
 ![](/images/spgp2.jpeg)
 ![](/images/spgp3.jpeg)
+
+SATHEESH KUMAR NAVEEN<br>
+\- Top in Sec One Express<br>
+\- 1st in Class<br>
+\- Best in Art
+
+  
+
+EVA GUTNIK<br>
+\- Top in Sec One Normal(Academic)<br>
+\- 1st in Class<br>
+\- Best in Art, Geography, History, Science
+
+  
+
+NG KI WING<br>
+\- Top in Sec Two Express<br>
+\- 1st in Class, <br>
+\- Best in English, Geography
+
+  
+
+SOFIA GRACE PEARL MCDONALD<br>
+\- Top in Sec Two Normal(Academic)<br>
+\- 1st in Class
+
+  
+
+HE YATI<br>
+\- Top in Sec Three Express, <br>
+\- 1st in Class, <br>
+\- Best in Additional Mathematics, Mathematics, Combined Humanities (SS/History), Higher Chinese
+
+  
+
+NGO XUAN LINH<br>
+\- Top in Sec Three Normal(Academic)<br>
+\- 1st in Class<br>
+\- Best in Mathematics, Science (Physics/Chemistry)
