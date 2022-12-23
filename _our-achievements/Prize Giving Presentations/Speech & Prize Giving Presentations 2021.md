@@ -347,3 +347,111 @@ Awardees from Speech Day 4
 ![](/images/spgp8.jpeg)
 ![](/images/spgp9.jpeg)
 ![](/images/spgp10.jpeg)
+
+GAO YA<br>
+\- Best in Chinese
+
+  
+
+CHEW EN JIA<br>
+\- Best in Design & Technology
+
+  
+
+WEE SI MIN SHARMAIN<br>
+\- Best in English
+
+  
+
+PRAKASH SANJAY<br>
+\- Best in History
+
+  
+
+DANKER KIMBERLY HELENA<br>
+\- Best in Mathematics
+
+  
+
+KUMAR HARISHIYA<br>
+\- Best in Tamil
+
+  
+
+TAN XING YU<br>
+\- Best in Chinese
+
+  
+
+ZHANG NA<br>
+\- Best in Design & Technology
+
+  
+
+SHIYA ELINA BINTE MOHAMMED DALIS<br>
+\- Best in Literature
+
+  
+
+NUR SHIFA RAMADANEE BINTE ABDUL RAHMAN<br>
+\- Best in Malay
+
+  
+
+SIA HUI QI<br>
+\- Best in Design & Technology
+
+  
+
+DHIA FALISYA BINTE FAZRIZAN<br>
+\- Best in Food & Consumer Education
+
+  
+
+LUTFIL ARIEL BIN JAMALUDIN<br>
+\- Best in Malay
+
+  
+
+SURESHKUMAR AVINASH<br>
+\- Best in Tamil
+
+  
+
+MUHAMMAD IRFAN REZA BIN MUHAMMAD IMRAN<br>
+\- Best in Art
+
+  
+
+DARREN CHIA ZHI FONG<br>
+\- Best in Chinese
+
+  
+
+SHAZVIN MUHAMMAD BIN MUHAMMAD HAZIRKIR<br>
+\- Best in Science, Design & Technology
+
+  
+
+ADANY ALYA BINTE MOHAMMAD FADZLY<br>
+\- Best in Literature
+
+  
+
+SAMEERA BEGUM BINTE RUSTAM ALI<br>
+\- Best in Malay
+
+  
+
+KOLAVALI SANJANA<br>
+\- Best in Mathematics
+
+  
+
+ANGEL SAJITHA D/O JOSEPH<br>
+\- Best in Tamil N(A)
+
+  
+
+Awardees from Speech Day 5
+--------------------------
