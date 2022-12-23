@@ -267,3 +267,79 @@ Awardees from Speech Day 3
 
 ![](/images/spgp6.jpeg)
 ![](/images/spgp7.jpeg)
+
+LI CHING FUNG MAVERICK GIDEON<br>
+\- 2nd in Class<br>
+\- Best in Chemistry, Physics
+
+  
+
+LING YUYANG<br>
+\- 3rd in Class
+
+  
+
+HAN WENXIU<br>
+\- 1st in Class<br>
+\- Best in English, Principle Of Accounts
+
+  
+
+TAI WAN TING<br>
+\- 2nd in Class<br>
+\- Best in Chinese, Science (Physics/Chemistry)
+
+  
+
+MUHAMMAD FIKRI RIFAI BIN MOHAMMED RIDWAN<br>
+\- 3rd in Class<br>
+\- Best in Science (Chemistry/Biology)
+
+  
+
+CINDY NG QIAN HUI<br>
+\- 2nd in Class<br>
+\- Best in Additional Mathematics
+
+  
+
+PUAH PIN CHEN<br>
+\- 3rd in Class<br>
+\- Best in English
+
+  
+
+ILHAM RUSYAIDI BIN MOHAMMAD AZLI<br>
+\- 1st in Class
+
+  
+
+FATIMAH SAAYIMAH BINTE MOHAMED AMIN<br>
+\- 2nd in Class<br>
+\- Best in Food & Nutrition
+
+  
+
+NOR SHABIRIN D/O K A RAVOFF<br>
+\- 3rd in Class
+
+  
+
+HENG JIA JUN, JULIAN JOSIAH<br>
+\- 1st in Class
+
+  
+
+EDGAR NEO KANG WEI<br>
+\- 2nd in Class<br>
+\- Best in Combined Humanities (SS/Geography)
+
+  
+
+DARYL LEE MING HAN<br>
+\- 3rd in Class
+
+  
+
+Awardees from Speech Day 4
+--------------------------
