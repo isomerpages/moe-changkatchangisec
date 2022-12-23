@@ -408,3 +408,101 @@ BLYTHE GAY MIN
 #### Awardees from Speech Day 4
 
 ![](/images/d4.png)
+
+GAO XUE
+
+*   Sec 1E Best in Subject Award (Chinese SBB) 
+
+  
+
+AARUSHI MANJUNATH YERMAL
+
+*   Sec 1E Best in Subject Award (English) 
+
+  
+
+YUSRA HASHIM
+
+*   Sec 1E Best in Subject Award (Food and Consumer Education) 
+
+  
+
+SHARAFYNNA BINTE ABDUL SHAHID
+
+*   Sec 1E Best in Subject Award (Literature) 
+
+  
+
+NURSAFFIYAH BINTE ABDUL RAHMAN
+
+*   Sec 1E Best in Subject Award (Malay) 
+
+  
+
+SURESHKUMAR AVINASH
+
+*   Sec 1E Best in Subject Award (Tamil) 
+
+  
+
+EBRON ANGELO JOAQUIN GUINTO
+
+*   Sec 1NA Best in Subject Award (Design & Technology) 
+
+  
+
+TYLER MARK NICHOLAS
+
+*   Sec 1NA Best in Subject Award (English) 
+
+  
+
+  
+
+ISRAEL LAUREN SHEY BETCO
+
+*   Sec 1NA Best in Subject Award (Geography) 
+
+  
+
+NUR ELYZA SYAFIQAH BINTE EDDY RIHAN
+
+*   Sec 1NA Best in Subject Award (Literature) 
+
+  
+
+SAMEERA BEGUM BINTE RUSTAM ALI
+
+*   Sec 1NA Best in Subject Award (Malay) 
+
+  
+
+LAU YUN HENG
+
+*   Sec 1NA Best in Subject Award (Mathematics) 
+
+  
+
+SEVILLEJA FRANCEVA ANGELI MARZAN
+
+*   Sec 1NA Best in Subject Award (Science) 
+
+  
+
+ANGEL SAJITHA D/O JOSEPH
+
+*   Sec 1NA Best in Subject Award (Tamil) 
+*   Good Progress Award
+
+  
+
+SUN HSUN WEN
+
+*   Overall Best student for the Four Express stream of 2019
+
+  
+
+#### Awardees from Speech Day 5
+
+![](/images/d5.png)
+
