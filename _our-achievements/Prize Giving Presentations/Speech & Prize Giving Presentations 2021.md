@@ -768,3 +768,8 @@ WANG YIZHI
 
 Awardees from Speech Day 8
 --------------------------
+![](/images/spgp18.jpeg)
+![](/images/spgp19.jpeg)
+![](/images/20.jpeg)
+![](/images/21.jpeg)
+![](/images/22.jpeg)
