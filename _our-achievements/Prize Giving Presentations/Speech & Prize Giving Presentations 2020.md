@@ -109,3 +109,302 @@ AIMAN HAKIM REZA
   
 
 #### Awardees from Speech Day 2
+![](/images/pgp.png)
+![](/images/pgp2.png)
+
+SEVILLEJA FRANCEVA ANGELI MARZAN 
+
+*   2nd in Class award
+*   Sec 1NA Best in Subject Award (Science) 
+
+  
+
+GONUGUNTA RAGA SWARUPA
+
+*   3rd in Class award
+
+  
+
+DO ROZARIO ISABELLA IMELDA
+
+*   1st in Class award
+
+  
+
+ZAYNA MULIYA BINTE HAIDER SIM
+
+*   2nd in Class award
+
+  
+
+ONG ZHI QIN
+
+*   3rd in Class award
+
+  
+
+ISRAEL LAUREN SHEY BETCO
+
+*   1st in Class award
+*   Sec 1NA Best in Subject Award (Geography) 
+
+  
+
+TRINA CHUA MIN
+
+*   2nd in Class award
+*   Good Progress Award
+*   Sec 1NA Best in Subject Award (Art) 
+
+  
+
+WONG YIN FEI, YIKO
+
+*   3rd in Class award
+
+  
+
+ANG WEI LIN
+
+*   2nd in Class award
+*   Sec 2E Best in Subject Award (Geography and Science) 
+
+  
+
+CHEYANNE NG
+
+*   3rd in Class award
+
+  
+
+JIHAN FAHIRAH BINTE ROSMAN
+
+*   1st in Class award
+*   Sec 2E Best in Subject Award (Design and Technology) 
+
+  
+
+NAWAL HANANI BINTI HISHAM BAKTI
+
+*   2nd in Class award
+
+  
+
+LUTH HARITH AFIF BIN NORFIFI
+
+*   3rd in Class award
+
+  
+
+NOR SHABIRIN D/O K A RAVOFF
+
+*   1st in Class award
+*   Sec 2N Best in Subject Award (Tamil) 
+
+  
+
+FATIMAH SAAYIMAH BINTE MOHAMED AMIN
+
+*   2nd in Class award
+*   Sec 2N Best in Subject Award (Food and Consumer Education) 
+
+  
+
+NGUYEN NGOC BAO CHAU
+
+*   3rd in Class award
+*   Sec 2N Best in Subject Award (Literature) 
+
+  
+
+TEO CUI EN ALICIA
+
+*   1st in Class award
+*   Sec 2N Best in Subject Award (Math and Chinese) 
+
+  
+
+NAYLI ALYA BINTE NASRUL
+
+*   2nd in Class award
+*   Sec 2N Best in Subject Award (Geography) 
+
+  
+
+YALAMANCHILI YUVRAJ
+
+*   3rd in Class award
+
+  
+
+JOVELLE WOO ZI NING
+
+*   2nd in Class award
+*   Good Progress Award
+
+  
+
+CINDY NG QIAN HUI
+
+*   3rd in Class award
+*   Sec 2N Best in Subject Award (Science and Art) 
+
+  
+
+LOOI PEI YIN
+
+*   2nd in Class award
+
+  
+
+#### Awardees from Speech Day 3
+
+![](/images/d3a.png)
+![](/images/d3b.png)
+
+AMANDA GLADYS BACHTIAR
+
+*   2nd in Class award
+*   Outstanding Service Award (Chinese String Ensemble)
+*   Sec 3E Best in Subject Award (English, History and Combine Science (Physics/Chemistry) 
+
+  
+
+DUONG LE KHANH MY
+
+*   3rd in Class award
+*   Sec 3E Best in Subject Award (Chemistry) 
+
+  
+
+YANG JIACHENG
+
+*   1st in Class award
+*   Sec 3E Best in Subject Award (Chinese, Geography and Mathematics) 
+
+  
+
+ANGELINE EFENDI
+
+*   2nd in Class award
+*   Outstanding Service Award (Malay Dance)
+*   Sec 3E Best in Subject Award (Design and Technology and Principle of Accounts) 
+
+  
+
+HIPOLITO JOAQUIN INIGO ALLAYBAN
+
+*   3rd in Class award
+*   Sec 3E Best in Subject Award (Art)
+
+  
+
+YEO SHENGHAN
+
+*   1st in Class award
+*   Sec 3NA Best in Subject Award (Geography, D&T, English and Combined Science (Physics/Chemistry)) 
+
+  
+
+WOON ZONG LIN
+
+*   2nd in Class award
+
+  
+
+HO ZHI MING JUNIOR
+
+*   3rd in Class award 
+
+  
+
+'ALIYYAH BINTE ISMAIL
+
+*   1st in Class award
+*   Outstanding Service Award (Girl Guides)
+*   Sec 3NA Best in Subject Award (Art) 
+
+  
+
+KIRK KENNETH WAYNE BAGTAS MORAIS
+
+*   2nd in Class award
+
+  
+
+NG NICHOLAS
+
+*   3rd in Class award
+
+  
+
+LOW YI LONG
+
+*   2nd in Class award
+*   Sec 3NA Best in Subject Award (Mathematics) 
+
+  
+
+MATTHEW LOKE ZHIHENG
+
+*   3rd in Class award
+
+  
+
+YANG KEXIN
+
+*   Sec 2E Best in Subject Award (Art, Chinese and Higher Chinese)
+
+  
+
+LI CHING FUNG MAVERICK GIDEON 
+
+*   Sec 2E Best in Subject Award (English)
+
+  
+
+QUEK SZE EN, SHANICE
+
+*   Sec 2E Best in Subject Award (Food and Consumer Education)
+
+  
+
+GERALDINE SOO JIE YEE
+
+*   Sec 2E Best in Subject Award (History and Literature)
+
+  
+
+HADHINAH SYAIRAH BINTE ZAKARIAH
+
+*   Sec 2E Best in Subject Award (Malay)
+
+  
+
+HE YATI
+
+*   Sec 2E Best in Subject Award (Mathematics)
+
+  
+
+PALANI RESHMI
+
+*   Sec 2E Best in Subject Award (Tamil)
+
+  
+
+PUAH PIN CHEN
+
+*   Sec 2NA Best in Subject Award (Design & Technology)
+
+  
+
+BLYTHE GAY MIN
+
+*   Sec 2NA Best in Subject Award (English)
+
+  
+
+#### Awardees from Speech Day 4
+
+![](/images/d4.png)
