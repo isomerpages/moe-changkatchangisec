@@ -162,3 +162,102 @@ MUBARAK BIN MUSTAFA<br>
 RODRIGUEZ XYZQRST MILLETE<br>
 \- 3rd in Class<br>
 \- Best in Food & Consumer Education
+
+Awardees from Speech Day 2
+--------------------------
+
+![](/images/spgp4.jpeg)
+![](/images/spgp5.jpeg)
+
+NAY KHATIYAPICH<br>
+\- 1st in Class
+
+  
+
+ELIJAH TANG YUN FEI<br>
+\- 2nd in Class<br>
+\- Best in LITERATURE
+
+  
+
+DIVYESH CHANDRAN<br>
+\- 3rd in Class
+
+  
+
+NG LIN XIANG<br>
+\- 1st in Class<br>
+\- Best in Higher Chinese
+
+  
+
+LOOI PEI YIN<br>
+\- 2nd in Class<br>
+\- Best in Science<br>
+\- Neo Choon Tiong Scholarship
+
+  
+
+LEUNG HOI WAI CAZ<br>
+\- 3rd in Class<br>
+\- Best in Art
+
+  
+
+CHOW TSZ CHING<br>
+\- 2nd in Class<br>
+\- Best in Mathematics, Chinese
+
+  
+
+LEE CHUN HEI<br>
+\- 3rd in Class<br>
+\- Best in History
+
+  
+
+GONUGUNTA RAGA SWARUPA<br>
+\- 2nd in Class<br>
+\- Best in Food & Consumer Education, Geography
+
+  
+
+EBRON ANGELO MIGUEL GUINTO<br>
+\- 3rd in Class
+
+  
+
+ANIKA SOFIA LAFORTEZA PAJA<br>
+\- 1st in Class
+
+  
+
+DO ROZARIO ISABELLA IMELDA<br>
+\- 2nd in Class<br>
+\- Best in English
+
+  
+
+TAN WEI ZHAO<br>
+\- 3rd in Class
+
+  
+
+NUR ELYZA SYAFIQAH BINTE EDDY RIHAN<br>
+\- 1st in Class
+
+  
+
+XIAO XUEJIA KENNY<br>
+\- 2nd in Class
+
+  
+
+SITI FARISSA BINTE FARIZAL<br>
+\- 3rd in Class<br>
+\- Best in History
+
+  
+
+WONG YIN FEI, YIKO<br>
+\- 3rd in Class
