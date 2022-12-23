@@ -506,3 +506,356 @@ SUN HSUN WEN
 
 ![](/images/d5.png)
 
+WU JUNYING
+
+*   Sec 3E Best in Subject Award (Higher Chinese) 
+
+  
+
+CASSIA KOH-REUBEN
+
+*   Sec 3E Best in Subject Award (Literature)
+*   Outstanding Service Award (Modern Dance) 
+
+  
+
+NUR SHAHIRA BINTE ROSLI
+
+*   Sec 3E Best in Subject Award (Malay)
+*   Outstanding Service Award (NCC Air Girls) 
+
+  
+
+RAMIRO JC GABRIEL ANGELES
+
+*   Sec 3E Best in Subject Award (Combined Science (Chemistry/Biology))
+*   Outstanding Service Award (The Boys’ Brigade) 
+
+  
+
+RAJENDRAN GEETHAPRIYA
+
+*   Sec 3E Best in Subject Award (Tamil)
+*   Outstanding Service Award (Girl Guides) 
+
+  
+
+GOH PEI SIM
+
+*   Sec 3NA Best in Subject Award (Chinese)
+
+  
+
+NURSHUADAH BINTE MOHD NOOR
+
+*   Sec 3NA Best in Subject Award (Combined Humanities (SS/History))
+*   Outstanding Service Award (NCC Air Girls) 
+
+  
+
+SANA DJURAEVA
+
+*   Sec 3NA Best in Subject Award (Food & Nutrition)
+*   Outstanding Service Award (Netball)
+
+  
+
+KALYISAH ADLINA BINTE MOHAMMAD NURUDDIN
+
+*   Sec 3NA Best in Subject Award (Malay)
+*   Outstanding Service Award (Girl Guides) 
+
+  
+
+YAM JIA YONG
+
+*   Overall Best student for the Four Normal Academic stream of 2019
+
+  
+
+#### Awardees from Speech Day 6
+
+![](/images/d6a.png)
+![](/images/d6b.png)
+
+DIVYESH CHANDRAN
+
+*   Good Progress Award
+
+  
+
+TAN YANG YUAN AARON
+
+*   Good Progress Award
+
+  
+
+HARENDRAN S/O SIVAGURU NATHAN
+
+*   Good Progress Award
+
+  
+
+JACQUELINE GOH JIE TING
+
+*   Good Progress Award
+
+  
+
+RABIATUL ADAWIYAH BINTE MOHAMAD ZAIN
+
+*   Good Progress Award
+
+  
+
+BERNICE ONG ZHI XUAN
+
+*   Good Progress Award
+
+  
+
+BRINA TEO YIN YUAN
+
+*   Good Progress Award
+
+  
+
+ERNEST KEE CHENG HAO
+
+*   Good Progress Award
+
+  
+
+TAN YU WEI MENFRED
+
+*   Good Progress Award
+
+  
+
+SEOW HUI XUAN EMILY
+
+*   Good Progress Award
+
+  
+
+KENDRICK TAN YU HAN
+
+*   Good Progress Award
+
+  
+
+PUAH PIN CHEN
+
+*   Good Progress Award
+
+  
+
+SANGITA SURAJKUMAR
+
+*   Good Progress Award
+
+  
+
+LOH WEE KIAT, ANDY
+
+*   Good Progress Award
+
+  
+
+MUHAMMAD SUFIAN BIN RASHID
+
+*   Good Progress Award
+*   Outstanding Service Award (Sepak Takraw) 
+
+  
+
+SUZIANA BINTE MOHD SHARIZAL
+
+*   Good Progress Award
+
+  
+
+NEO YU HAO 
+
+*   Overall Best student for the Four Normal Technical stream of 2019
+
+  
+
+#### Awardees from Speech Day 7
+
+![](/images/d7.png)
+
+PHATCHARARUANGKIJ RATTAWIT
+
+*   Outstanding Service Award (Badminton) 
+*   Outstanding Service Award (Student Council) 
+
+  
+
+HOW ZHENG LIANG
+
+*   Outstanding Service Award (Badminton) 
+
+  
+
+OW ZHENG YANG
+
+*   Outstanding Service Award (Chinese String Ensemble) 
+
+  
+
+TAYE RADIT ALVIN
+
+*   Outstanding Service Award (Chinese String Ensemble) 
+
+  
+
+DAING INTAN FARHANAH BINTE MUHAMMAD HAFIZ
+
+*   Outstanding Service Award (Malay Dance)
+
+  
+
+NUR FADHEELA SA'AD 
+
+*   Outstanding Service Award (Malay Dance)
+
+  
+
+TAN SI MIN CHARMAINE
+
+*   Outstanding Service Award (Modern Dance)
+
+  
+
+CHEN JIA SHAN JESSICA
+
+*   Outstanding Service Award (Modern Dance)
+
+  
+
+N J ESHANI
+
+*   Outstanding Service Award (English Drama Society)
+*   Outstanding Service Award (Student Council)
+
+  
+
+THAKSHIKA MYLVANNAN
+
+*   Outstanding Service Award (English Drama Society)
+
+  
+
+MA HNIN YADANA PHOO
+
+*   Outstanding Service Award (National Civil Defence Cadet Corps)
+
+  
+
+NADRA SOPHIA HUSAIN ALIAS
+
+*   Outstanding Service Award (National Civil Defence Cadet Corps)
+
+  
+
+#### Awardees from Speech Day 8
+
+![](/images/d8a.png)
+![](/images/d8b.png)
+
+ADAM IBRAHIM HOUGH
+
+*   Outstanding Service Award (NCC (Air) Boys) 
+
+  
+
+KOH AIK MOH
+
+*   Outstanding Service Award (NCC (Air) Boys) 
+
+  
+
+MUHAMMAD FAISAL BIN AMRAN
+
+*   Outstanding Service Award (NCC (Air) Boys) 
+
+  
+
+SITI MURFIQAH BINTI SHAHAR
+
+*   Outstanding Service Award (NCC (Air) Girls) 
+*   Outstanding Service Award (Student Council) 
+
+  
+
+QAISARA NORISHAM YAHYA
+
+*   Outstanding Service Award (Netball) 
+
+  
+
+MUHAMMAD NURUL HIDAYAT B RAIMI
+
+*   Outstanding Service Award (Sepak Takraw) 
+
+  
+
+MOHAMAD NUR ALIFF BIN MOHD ARIFF
+
+*   Outstanding Service Award (Sepak Takraw) 
+
+  
+
+CHAN LI JUN SARAH
+
+*   Outstanding Service Award (Student Council) 
+
+  
+
+CHRISTINE HUANG YAN XIN
+
+*   Outstanding Service Award (Track & Field) 
+
+  
+
+MUHAMAD HARIS BIN MOHAMAD NOH
+
+*   Outstanding Service Award (Track & Field) 
+
+  
+
+ONG KANG LE, JAMES
+
+*   Outstanding Service Award (Track & Field) 
+
+  
+
+NUR YUSDAYANTI BTE YUSMAN
+
+*   Top in Subject for GCE N Level (Malay)
+
+  
+
+SHAFRIN D/O SYED MUBARAK
+
+*   Top in Subject for GCE N Level (Tamil and Combined Humanities (SS/History))
+
+  
+
+YAM JIA YONG
+
+*   Top in Subject for GCE N Level (Additional Mathematics, Mathematics and Combined Science (Physics/Chemistry))
+
+  
+
+#### Scholarship Awardees
+
+![](/images/awardees.png)
+![](/images/awardees2.png)
+![](/images/awardees3.png)
+![](/images/awardees4.png)
+![](/images/awardees5.png)
+![](/images/awardees6.png)
+![](/images/awardees7.png)
+![](/images/awardees8.png)
