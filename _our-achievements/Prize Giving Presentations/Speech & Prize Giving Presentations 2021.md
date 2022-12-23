@@ -658,3 +658,9 @@ ALFRED SEETOH XIAO AN<br>
 
 NOR RAZIF BIN NOR HEZAM<br>
 \- Outstanding Service Award (NCC Air Boys)
+
+Awardees from Speech Day 7
+--------------------------
+
+![](/images/spgp16.jpeg)
+![](/images/spgp17.jpeg)
