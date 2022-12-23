@@ -546,3 +546,5 @@ CHOW CHENG BOCK, HAYDEN<br>
 
 Awardees from Speech Day 6
 --------------------------
+
+![](/images/spgp13.jpeg)
