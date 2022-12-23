@@ -664,3 +664,107 @@ Awardees from Speech Day 7
 
 ![](/images/spgp16.jpeg)
 ![](/images/spgp17.jpeg)
+
+NUR NATASHA BINTE MOHAMED RIDUWAN<br>
+\- Outstanding Service Award (NCC Air Girls)
+
+  
+
+SITI HAWA BINTE MOHAMAD ISA
+<br>
+\- Outstanding Service Award (NCC Air Girls & Student Council)
+
+  
+
+TIARA CHOO MEI SIN
+<br>
+\- Outstanding Service Award (Netball)
+
+  
+
+QUEK SZE EN, SHANICE
+<br>
+\- Outstanding Service Award (Netball)
+
+  
+
+NAWAL HANANI BINTI HISHAM BAKTI
+<br>
+\- Outstanding Service Award (Netball & Student Council)
+
+  
+
+MUHAMMAD IRSYAD BIN ZAHRI
+<br>
+\- Outstanding Service Award (Sepak takraw)
+
+  
+
+CHEYANNE IMMANUEL NG
+<br>
+\- Outstanding Service Award (Student Council)
+
+  
+
+TAN JIE YU
+<br>
+\- Outstanding Service Award (Student Council)
+
+  
+
+KIRRTHANA SRE SIVAKUMAR
+<br>
+\- Outstanding Service Award (Student Council)
+
+  
+
+JOVELLE WOO ZI NING
+<br>
+\- Outstanding Service Award (Student Council)
+
+  
+
+RIAN CHONG YU XIANG
+<br>
+\- Outstanding Service Award (The Boys' Brigade)
+
+  
+
+YEN ZHONG ZHI
+<br>
+\- Outstanding Service Award (The Boys' Brigade)
+
+  
+
+LYE WEE YONG ALOYSIUS
+<br>
+\- Outstanding Service Award (The Boys' Brigade)
+
+  
+
+ERNEST KEE CHENG HAO
+<br>
+\- Outstanding Service Award (The Boys' Brigade)
+
+  
+
+SHIV ANAND PATEL
+<br>
+\- Outstanding Service Award (Track And Field)
+
+  
+
+BASHEER ABDUR RAQUIB SHERIFF
+<br>
+\- Outstanding Service Award (Track And Field)
+
+  
+
+WANG YIZHI
+<br>
+\- Outstanding Service Award (Track And Field)
+
+  
+
+Awardees from Speech Day 8
+--------------------------
