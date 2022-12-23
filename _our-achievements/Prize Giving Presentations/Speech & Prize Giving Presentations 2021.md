@@ -59,3 +59,106 @@ NGO XUAN LINH<br>
 \- Top in Sec Three Normal(Academic)<br>
 \- 1st in Class<br>
 \- Best in Mathematics, Science (Physics/Chemistry)
+
+NGUYEN NHU NGOC<br>
+\- 1st in Class<br>
+\- Best in Science
+
+  
+
+MOHAMED RIYAZ SUFI BIN MOHAMED RIZAL<br>
+\- 2nd in Class
+
+  
+
+ALLWINKUMAR RANHITA <br>
+\- 3rd in Class
+
+  
+
+AILEEN LILIAN ZAIN<br>
+\- 1st in Class
+
+  
+
+ANUSHREE BISWASRAY <br>
+\- 2nd in Class<br>
+\- Best in Food & Consumer Education<br>
+\- Soar Scholarship
+
+  
+
+LOH JIE HUI<br>
+\- 3rd in Class
+
+  
+
+AQIL KURLE BIN ZULKARNAIN ABDULLAH KURLE<br>
+\- 2nd in Class<br>
+\- Best in Geography, Malay
+
+  
+
+TAY RUI SIAN JEWEL <br>
+\- 3rd in Class<br>
+\- Best in Literature
+
+  
+
+MOHAN THIBURSIUS RAJ RUFINA MIRZA<br>
+\- 1st in Class
+
+  
+
+CLIVE NAH<br>
+\- 2nd in Class<br>
+\- Neo Choon Tiong Scholarship
+
+  
+
+LAKSHANA SWAMINATHAN<br>
+\- 3rd in Class
+
+  
+
+TRISTAN JORELL MALLARI OVISO<br>
+\- 2nd in Class
+
+  
+
+NUR FIRZANAH BADRIYYAH BINTE MOHAMED FAZLY<br>
+\- 3rd in Class
+
+  
+
+DYLAN SINGH BASRA<br>
+\- 1st in Class<br>
+\- Best in Mathematics
+
+  
+
+SRIDHAR KUMAR SAHANA<br>
+\- 2nd in Class<br>
+\- Best in Tamil
+
+  
+
+FERNANDEZ AERIEL LHOREIGN GONZALES<br>
+\- 3rd in Class
+
+  
+
+NURUL HABIB NUH D/O SHAHUL HAMEED<br>
+\- 1st in Class<br>
+\- Best in English
+
+  
+
+MUBARAK BIN MUSTAFA<br>
+\- 2nd in Class
+
+  
+
+RODRIGUEZ XYZQRST MILLETE<br>
+\- 3rd in Class<br>
+\- Best in Food & Consumer Education
