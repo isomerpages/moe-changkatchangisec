@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /about-us/Announcements
+permalink: /about-us/Announcements/
 description: ""
 ---
 ##### 2022
@@ -352,4 +352,3 @@ MOE will be enhancing precautionary measures in view of the novel coronavirus si
 Please click [here](/files/Parents%20Letter%20(Covid%2019).pdf) for more information.
 
 An infographic on the Do's and Don'ts during this period can be found [here](/files/btb.pdf) as well.
-
