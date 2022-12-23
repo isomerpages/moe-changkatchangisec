@@ -548,3 +548,113 @@ Awardees from Speech Day 6
 --------------------------
 
 ![](/images/spgp13.jpeg)
+![](/images/spgp14.jpeg)
+![](/images/spgp15.jpeg)
+
+CHANTEL YEO JIA XI<br>
+\- Outstanding Service Award (Badminton)
+
+  
+
+TAN JIE YING JERILYN<br>
+\- Outstanding Service Award (Badminton)
+
+  
+
+DARYL LEE MING HAN<br>
+\- Outstanding Service Award (Badminton)
+
+  
+
+GOH JET YUN<br>
+\- Outstanding Service Award (Badminton)
+
+  
+
+TAN YU WEI MENFRED<br>
+\- Outstanding Service Award (Chinese Instrumental Ensemble)
+
+  
+
+GERALDINE SOO JIE YEE<br>
+\- Outstanding Service Award (Chinese Instrumental Ensemble)
+
+  
+
+NURUL ASYIRIN BINTE ABDUL HAMID<br>
+\- Outstanding Service Award (Chinese Instrumental Ensemble)
+
+  
+
+CHOW CHENG BOCK, HAYDEN<br>
+\- Outstanding Service Award (Chinese Instrumental Ensemble)
+
+  
+
+ABDUL HADI BIN ABDUL LATIFF<br>
+\- Outstanding Service Award (Concert Band)
+
+  
+
+MUHAMMAD FIKRI RIFAI BIN MOHAMMED RIDWAN<br>
+\- Outstanding Service Award (Concert Band)
+
+  
+
+SHAYNE LOW XUAN YU<br>
+\- Outstanding Service Award (Concert Band)
+
+  
+
+SHANEEZ ELISYA ADRIYANNA BINTE SHAHRIMAN<br>
+\- Outstanding Service Award (Girl Guides)
+
+  
+
+TAI WAN TING<br>
+\- Outstanding Service Award (Girl Guides)
+
+  
+
+JIHAN FAHIRAH BINTE ROSMAN<br>
+\- Outstanding Service Award (Girl Guides & Student Council)
+
+  
+
+HECTOR ZENG GUO XUAN<br>
+\- Outstanding Service Award (Infocomm Technology (Media Production))
+
+  
+
+SRI NORADILLA BINTE ABDULLAH<br>
+\- Outstanding Service Award (Malay Dance)
+
+  
+
+INSHIRAH<br>
+\- Outstanding Service Award (Malay Dance)
+
+  
+
+HAN WENXIU<br>
+\- Outstanding Service Award (Modern Dance)
+
+  
+
+AMANDA CHUA JING XUAN<br>
+\- Outstanding Service Award (Modern Dance)
+
+  
+
+TAN SI MIN CHARMAINE<br>
+\- Outstanding Service Award (Modern Dance)
+
+  
+
+ALFRED SEETOH XIAO AN<br>
+\- Outstanding Service Award (NCC Air Boys)
+
+  
+
+NOR RAZIF BIN NOR HEZAM<br>
+\- Outstanding Service Award (NCC Air Boys)
