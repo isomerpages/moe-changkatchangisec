@@ -455,3 +455,94 @@ ANGEL SAJITHA D/O JOSEPH<br>
 
 Awardees from Speech Day 5
 --------------------------
+
+![](/images/spgp11.jpeg)
+![](/images/spgp12.jpeg)
+
+TIARA CHOO MEI SIN<br>
+\- Best In Art
+
+  
+
+HAN WENXIU<br>
+\- Best in Combined Humanities (SS/Geography)
+
+  
+
+HECTOR ZENG GUO XUAN<br>
+\- Best in Design & Technology
+
+  
+
+GERALDINE SOO JIE YEE<br>
+\- Best in Literature
+
+  
+
+HADHINAH SYAIRAH BINTE ZAKARIAH<br>
+\- Best in Malay
+
+  
+
+PALANI RESHMI<br>
+\- Best in Tamil
+
+  
+
+NURUL ASYIRIN BINTE ABDUL HAMID<br>
+\- Best in Art
+
+  
+
+DENG RAN<br>
+\- Best in Chinese
+
+  
+
+SHERYL YEO JING XIN<br>
+\- Best in Combined Humanities (SS/History)
+
+  
+
+FARHAH FATANAH KHAIRULLAH KHAN<br>
+\- Best in Design & Technology
+
+  
+
+DAYANG ADILAH BINTI ABDUL HAMID<br>
+\- Best in Malay
+
+  
+
+AMANDA CHUA JING XUAN<br>
+\- Best in Principles Of Accounts
+
+  
+
+KESHINI KIMBERLY APPADURAI<br>
+\- Best in Tamil
+
+  
+
+RAMASAMY AZHAGURANI<br>
+\- Neo Choon Tiong Scholarship
+
+  
+
+JIHAN FAHIRAH BINTE ROSMAN<br>
+\- Neo Choon Tiong Scholarship, Good Progress Award
+
+  
+
+KRISH KAPOOR<br>
+\- SOAR ALP Scholarship
+
+  
+
+CHOW CHENG BOCK, HAYDEN<br>
+\- SOAR ALP Scholarship
+
+  
+
+Awardees from Speech Day 6
+--------------------------
