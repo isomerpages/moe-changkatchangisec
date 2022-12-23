@@ -343,3 +343,7 @@ DARYL LEE MING HAN<br>
 
 Awardees from Speech Day 4
 --------------------------
+
+![](/images/spgp8.jpeg)
+![](/images/spgp9.jpeg)
+![](/images/spgp10.jpeg)
