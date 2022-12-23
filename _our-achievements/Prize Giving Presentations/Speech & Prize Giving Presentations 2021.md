@@ -262,3 +262,8 @@ SITI FARISSA BINTE FARIZAL<br>
 WONG YIN FEI, YIKO<br>
 \- 3rd in Class
 
+Awardees from Speech Day 3
+--------------------------
+
+![](/images/spgp6.jpeg)
+![](/images/spgp7.jpeg)
