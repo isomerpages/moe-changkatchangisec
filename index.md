@@ -45,9 +45,9 @@ sections:
       button: Download here
       url: https://changkatchangisec.moe.edu.sg/qql/slot/u144/Announcements/booklist2023.zip
   - infobar:
-      title: OPEN HOUSE 2022
+      title: INFORMATION AND PROGRAMMES FOR TERM 1
       subtitle: Announcements
-      description: For more details on our Open House 2022
+      description: Dear Parents, our term 1 letter to parents is available here.
       button: Click here
       url: /experience-at-changkat/E-Open-House-2021
 ---
