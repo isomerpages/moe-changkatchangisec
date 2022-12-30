@@ -49,5 +49,5 @@ sections:
       subtitle: Announcements
       description: Dear Parents, our term 1 letter to parents is available here.
       button: Click here
-      url: /experience-at-changkat/E-Open-House-2021
+      url: https://drive.google.com/file/d/1sh7_Gojq0UCahsIztUAmHmt-j-QH7ZeV/view?usp=share_link
 ---
