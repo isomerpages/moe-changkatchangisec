@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
 ---
-<img ![](/images/2023.png)
+![](/images/2023.png)
 
 Dear Members of the Changkat Community,
 
