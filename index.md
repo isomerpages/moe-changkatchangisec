@@ -32,6 +32,12 @@ sections:
       button: Read More
       url: /our-achievements/Changkat-Moments
   - infobar:
+      title: INFORMATION AND PROGRAMMES FOR TERM 1
+      subtitle: Announcements
+      description: Dear Parents, our term 1 letter to parents is available here.
+      button: Click here
+      url: https://drive.google.com/file/d/1sh7_Gojq0UCahsIztUAmHmt-j-QH7ZeV/view?usp=share_link
+  - infobar:
       title: NATIONAL DIGITAL LITERACY PROGRAMME
       subtitle: Announcements
       description: Dear Parents,   Details on the NDLP for the 2022 Secondary 1 cohort
@@ -44,10 +50,4 @@ sections:
       description: Dear Parents, booklist for 2023 is available here
       button: Download here
       url: https://changkatchangisec.moe.edu.sg/qql/slot/u144/Announcements/booklist2023.zip
-  - infobar:
-      title: INFORMATION AND PROGRAMMES FOR TERM 1
-      subtitle: Announcements
-      description: Dear Parents, our term 1 letter to parents is available here.
-      button: Click here
-      url: https://drive.google.com/file/d/1sh7_Gojq0UCahsIztUAmHmt-j-QH7ZeV/view?usp=share_link
 ---
