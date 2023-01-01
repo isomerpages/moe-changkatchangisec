@@ -10,7 +10,8 @@ description: ""
 		<input type="checkbox" id="accordion1">  
     <label for="accordion1">INFORMATION AND PROGRAMMES FOR TERM 3</label>  
     <div>
-<p>Dear Parents, our term 3 letter to parents is available [here](/files/Term%203%20Letter%20to%20Parents%202022%20Final.pdf)</p>
+<p>Dear Parents, our term 3 letter to parents is available [here](/files/Term%203%20Letter%20to%20Parents%202022%20Final.pdf)
+</p>
 </div>  
 </li>
 	
