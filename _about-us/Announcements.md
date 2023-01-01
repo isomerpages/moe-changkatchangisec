@@ -15,10 +15,17 @@ description: ""
 </div>  
 </li>
 	
-###### INFORMATION AND PROGRAMMES FOR TERM 2
+  <li>
+		<input type="checkbox" id="accordion1">  
+    <label for="accordion1">INFORMATION AND PROGRAMMES FOR TERM 2 </label>  
+    <div>
+<p>Dear Parents, our term 2 letter to parents is available <a href="/files/Term%202%20Letter%20to%20Parents%202022_For%20Distribution.pdf">here</a>
+</p>
+</div>  
+</li>
 
 
-Dear Parents, our term 2 letter to parents is available [here](/files/Term%202%20Letter%20to%20Parents%202022_For%20Distribution.pdf)
+
 
 ###### INSTRUCTIONS FOR SEC 1 CCA REPORTING - TERM 1 WEEK 8
 
