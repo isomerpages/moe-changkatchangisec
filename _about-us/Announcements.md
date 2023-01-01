@@ -16,8 +16,8 @@ description: ""
 </li>
 	
   <li>
-		<input type="checkbox" id="accordion1">  
-    <label for="accordion1">INFORMATION AND PROGRAMMES FOR TERM 2 </label>  
+		<input type="checkbox" id="accordion2">  
+    <label for="accordion2">INFORMATION AND PROGRAMMES FOR TERM 2 </label>  
     <div>
 <p>Dear Parents, our term 2 letter to parents is available <a href="/files/Term%202%20Letter%20to%20Parents%202022_For%20Distribution.pdf">here</a>
 </p>
@@ -25,8 +25,8 @@ description: ""
 </li>
 
 <li>
-		<input type="checkbox" id="accordion1">  
-    <label for="accordion1">INSTRUCTIONS FOR SEC 1 CCA REPORTING - TERM 1 WEEK 8 </label>  
+		<input type="checkbox" id="accordion3">  
+    <label for="accordion3">INSTRUCTIONS FOR SEC 1 CCA REPORTING - TERM 1 WEEK 8 </label>  
     <div>
 <p>Dear Sec 1s. Congratulations on your CCA allocation. The CCAs are ready to receive you this week. Some exciting activities await! Please click the link below to view your reporting details for each CCA. Do continue to check your CCA's noticeboard in the coming weeks to be updated of your CCA's happenings.
 </p>
@@ -44,8 +44,8 @@ description: ""
 ### 2021
 
 <li>
-		<input type="checkbox" id="accordion1">  
-    <label for="accordion1">Release of GCE O-Level Results 2021</label>  
+		<input type="checkbox" id="accordion4">  
+    <label for="accordion4">Release of GCE O-Level Results 2021</label>  
     <div>
 <p>The 2021 GCE O-Level results will be released on Wednesday, 12 Jan 2022.
 </p>
@@ -62,8 +62,8 @@ description: ""
 </li>
 
 <li>
-		<input type="checkbox" id="accordion1">  
-    <label for="accordion1">Appeal to Changkat Changi Secondary School</label>  
+		<input type="checkbox" id="accordion5">  
+    <label for="accordion5">Appeal to Changkat Changi Secondary School</label>  
     <div>
 <p>Sec 1 students (2022) who wish to appeal to transfer to Changkat Changi Secondary School based on non-medical reasons can click <a href="https://form.gov.sg/61bd59630a66890013898b98">here</a> to complete the online appeal form. The deadline for the submission is 23 December 2021, 5pm.
 </p>
@@ -73,8 +73,8 @@ description: ""
 
  
 <li>
-		<input type="checkbox" id="accordion1">  
-    <label for="accordion1">SECONDARY 1 STUDENTS AND PARENTS/GUARDIANS 2022</label>  
+		<input type="checkbox" id="accordion6">  
+    <label for="accordion6">SECONDARY 1 STUDENTS AND PARENTS/GUARDIANS 2022</label>  
     <div>
 <p>Welcome to the Changkateer family! We are glad that you will be joining us for your secondary school journey.   
 </p>
