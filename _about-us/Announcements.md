@@ -24,7 +24,7 @@ description: ""
 </div>  
 </li>
 
-  <li>
+<li>
 		<input type="checkbox" id="accordion1">  
     <label for="accordion1">INSTRUCTIONS FOR SEC 1 CCA REPORTING - TERM 1 WEEK 8 </label>  
     <div>
@@ -41,18 +41,32 @@ description: ""
 
 
 
-##### 2021
+### 2021
 
-###### Release of GCE O-Level Results 2021
+<li>
+		<input type="checkbox" id="accordion1">  
+    <label for="accordion1">Release of GCE O-Level Results 2021</label>  
+    <div>
+<p>The 2021 GCE O-Level results will be released on Wednesday, 12 Jan 2022.
+</p>
+<p>All students are expected to report to the respective venues by **1.45pm** in full school uniform, school shoes, socks with a proper haircut. In addition, no coloured or dyed hair will be accepted. 
+</p>
+<p>
+	*The MOE press release can be found <a href="https://www.moe.gov.sg/news/press-releases/20220105-release-of-2021-singapore-cambridge-gce-o-level-examination-results-and-2022-joint-admissions-exercise#:~:text=1.,12%20January%202022%2C%202.00pm.">here</a>
+</p>
+<p>We would like to wish our students all the best!
+</p>
+			<p><a href="/files/SCH%20WEBSITE%20INFO%20SEC%201%20CCA%20REPORTING%20INSTRUCTIONS%20-%20TERM%201%20WEEK%208.pdf">Link</a>
+			</p>
+</div>  
+</li>
 
 
-The 2021 GCE O-Level results will be released on Wednesday, 12 Jan 2022.
 
-All students are expected to report to the respective venues by **1.45pm** in full school uniform, school shoes, socks with a proper haircut. In addition, no coloured or dyed hair will be accepted. 
 
-*The MOE press release can be found [here](https://www.moe.gov.sg/news/press-releases/20220105-release-of-2021-singapore-cambridge-gce-o-level-examination-results-and-2022-joint-admissions-exercise#:~:text=1.,12%20January%202022%2C%202.00pm.).
 
-We would like to wish our students all the best!
+
+
 
 ###### Appeal to Changkat Changi Secondary School
 
