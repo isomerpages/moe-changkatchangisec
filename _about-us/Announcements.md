@@ -24,15 +24,22 @@ description: ""
 </div>  
 </li>
 
+  <li>
+		<input type="checkbox" id="accordion1">  
+    <label for="accordion1">INSTRUCTIONS FOR SEC 1 CCA REPORTING - TERM 1 WEEK 8 </label>  
+    <div>
+<p>Dear Sec 1s. Congratulations on your CCA allocation. The CCAs are ready to receive you this week. Some exciting activities await! Please click the link below to view your reporting details for each CCA. Do continue to check your CCA's noticeboard in the coming weeks to be updated of your CCA's happenings.
+</p>
+			<p><a href="/files/SCH%20WEBSITE%20INFO%20SEC%201%20CCA%20REPORTING%20INSTRUCTIONS%20-%20TERM%201%20WEEK%208.pdf">Link</a>
+			</p>
+</div>  
+</li>
 
 
 
-###### INSTRUCTIONS FOR SEC 1 CCA REPORTING - TERM 1 WEEK 8
 
 
-Dear Sec 1s. Congratulations on your CCA allocation. The CCAs are ready to receive you this week. Some exciting activities await! Please click the link below to view your reporting details for each CCA. Do continue to check your CCA's noticeboard in the coming weeks to be updated of your CCA's happenings.
 
-[Link](/files/SCH%20WEBSITE%20INFO%20SEC%201%20CCA%20REPORTING%20INSTRUCTIONS%20-%20TERM%201%20WEEK%208.pdf)
 
 ##### 2021
 
