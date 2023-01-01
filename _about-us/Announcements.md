@@ -3,12 +3,14 @@ title: Announcements
 permalink: /about-us/Announcements/
 description: ""
 ---
-##### 2022
+### 2022
 
-###### INFORMATION AND PROGRAMMES FOR TERM 3
-
-
-Dear Parents, our term 3 letter to parents is available [here](/files/Term%203%20Letter%20to%20Parents%202022%20Final.pdf)
+<ul class="jekyllcodex_accordion">  
+  <li>
+		<input type="checkbox" id="accordion1">  
+    <label for="accordion1">INFORMATION AND PROGRAMMES FOR TERM 3</label>  
+    <div>
+<p>Dear Parents, our term 3 letter to parents is available [here](/files/Term%203%20Letter%20to%20Parents%202022%20Final.pdf)</p>
 
 ###### INFORMATION AND PROGRAMMES FOR TERM 2
 
