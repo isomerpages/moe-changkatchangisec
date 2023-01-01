@@ -59,8 +59,7 @@ Changkat Changi Secondary School
 |Please complete the form by **27 December 2022 (Wed), 5 PM**.  | The deadline for the submission of appeals is on **27 December 2022, 5 PM**.  Late submission will not be allowed.  
 
 
-\[D\]     Purchase of School Books and Uniform
-----------------------------------------------
+**[D\]     Purchase of School Books and Uniform**
 
   
 **1.  School Books and Supplies**
@@ -102,12 +101,10 @@ Students are expected to report to school in uniform, white shoes, and white soc
 
 For more details on the purchase of uniform, please click [here](https://go.gov.sg/ccss2023s1uniform).   
 
-\[E\]    Information for Students and Parents/Guardians
--------------------------------------------------------
+**[E\]    Information for Students and Parents/Guardians**
 
   
-**1.   Instructions for reporting on the first day of school (3 January 2023, Tuesday)  
-**  
+**1.   Instructions for reporting on the first day of school (3 January 2023, Tuesday)**  
 
 *   Students are supposed to report to the school by **7.50 AM**. Please arrive at least 10 mins earlier.
 *   Students are to bring their water bottle, snacks, writing materials and school tie. A digital thermometer will be provided to every student on the first day.
@@ -125,7 +122,7 @@ For more details on the purchase of uniform, please click [here](https://go.gov
 
   
 
-3.   Kickstart – Sec 1 Orientation Day, CCA Orientation and Parents’ Briefing, Cohort Camp (3D2N Outdoor Adventure Learning)
+**3.   Kickstart – Sec 1 Orientation Day, CCA Orientation and Parents’ Briefing, Cohort Camp (3D2N Outdoor Adventure Learning)**
 
   
 
@@ -133,7 +130,7 @@ Kickstart 2023 which includes Sec 1 Orientation, CCA Orientation and 3D2N Cohort
 
   
 
-4.   Frequently Asked Questions (FAQs)
+**4.   Frequently Asked Questions (FAQs)**
 
   
 
@@ -154,8 +151,8 @@ Please click on this [link](https://go.gov.sg/ccss2023s1faq) for the set of FA
 *   For the step-by-step guide to onboard Parents Gateway, click [here](https://changkatchangisec-moe-edu-sg-admin.cwp.sg/qql/slot/u149/Parents%20Gateway%20Onboarding.pdf).
 *   For the FAQ regarding Parents Gateway, click [here](https://changkatchangisec-moe-edu-sg-admin.cwp.sg/qql/slot/u149/FAQ%20For%20Parents%20(Parent%27s%20Gateway).pdf).
 
-\[F\]     Information for students under MOE Financial Assistance Scheme (FAS)
-------------------------------------------------------------------------------
+**\[F\]     Information for students under MOE Financial Assistance Scheme (FAS)**
+
 
   
 **1.   Students with MOE FAS approval by Primary School:**  
@@ -174,35 +171,8 @@ Please click on this [link](https://go.gov.sg/ccss2023s1faq) for the set of FA
 
   
 
-3.   Additional Points to Note:
+**3.   Additional Points to Note:**
 
   
 
 Families with more than 5 children in government and government-aided schools. Please call the school’s General Office at 6785 9790 for assistance.  
-
-HOME
-
-*   [National Digital Literacy Programme (NDLP)](https://changkatchangisec.moe.edu.sg/experience-at-changkat/national-digital-literacy-programme-ndlp)
-*   **Sec 1 (2023) Registration**
-
-*   [S.O.A.R. (Student centered Opportunities for AeRospace Industry)](https://changkatchangisec.moe.edu.sg/experience-at-changkat/s-o-a-r-student-centered-opportunities-for-aerospace-industry)
-*   [Learning for Life Programme (LLP)](https://changkatchangisec.moe.edu.sg/experience-at-changkat/learning-for-life-programme-llp)
-*   [Full Subject-Based Banding (SBB)](https://changkatchangisec.moe.edu.sg/experience-at-changkat/full-subject-based-banding-sbb)
-*   [Academic Departments](https://changkatchangisec.moe.edu.sg/experience-at-changkat/academic-departments)
-*   [Co-Curricular Activities (CCAs)](https://changkatchangisec.moe.edu.sg/experience-at-changkat/co-curricular-activities-ccas)
-*   [Character and Citizenship Education](https://changkatchangisec.moe.edu.sg/experience-at-changkat/character-and-citizenship-education)
-*   [Project Work](https://changkatchangisec.moe.edu.sg/experience-at-changkat/project-work)
-*   [Scholarship Opportunities](https://changkatchangisec.moe.edu.sg/experience-at-changkat/scholarship-opportunities)
-*   [Direct School Admission](https://changkatchangisec.moe.edu.sg/experience-at-changkat/direct-school-admission)
-*   [Open House](https://changkatchangisec.moe.edu.sg/experience-at-changkat/open-house)
-
-Social Links
-------------
-
-*   [Facebook](https://www.facebook.com/changkateers/ "Facebook")
- *   [Instagram](https://www.instagram.com/ccss_sg/ "Instagram")
- *   [Twitter](https://twitter.com/ccss_sg "Twitter")
-
-*   [Contact Us](https://changkatchangisec.moe.edu.sg/about-us/contact-us)
- *   [Privacy Statement](https://changkatchangisec.moe.edu.sg/privacy-statement)
- *   [Terms of Use](https://changkatchangisec.moe.edu.sg/terms-of-use)       [Report Vulnerability](https://www.tech.gov.sg/report_vulnerability)
