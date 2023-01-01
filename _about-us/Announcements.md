@@ -61,26 +61,28 @@ description: ""
 </div>  
 </li>
 
+<li>
+		<input type="checkbox" id="accordion1">  
+    <label for="accordion1">Appeal to Changkat Changi Secondary School</label>  
+    <div>
+<p>Sec 1 students (2022) who wish to appeal to transfer to Changkat Changi Secondary School based on non-medical reasons can click <a href="https://form.gov.sg/61bd59630a66890013898b98">here</a> to complete the online appeal form. The deadline for the submission is 23 December 2021, 5pm.
+</p>
+			<p>For appeals based on medical reasons (serious medical conditions or severe physical impairments), please make your request through the posted school before 23 December 2021, 12pm.</p>
+</div>  
+</li>
 
-
-
-
-
-
-
-###### Appeal to Changkat Changi Secondary School
-
-Sec 1 students (2022) who wish to appeal to transfer to Changkat Changi Secondary School based on non-medical reasons can click [here](https://form.gov.sg/61bd59630a66890013898b98) to complete the online appeal form. The deadline for the submission is 23 December 2021, 5pm.
  
-For appeals based on medical reasons (serious medical conditions or severe physical impairments), please make your request through the posted school before 23 December 2021, 12pm.
+<li>
+		<input type="checkbox" id="accordion1">  
+    <label for="accordion1">SECONDARY 1 STUDENTS AND PARENTS/GUARDIANS 2022</label>  
+    <div>
+<p>Welcome to the Changkateer family! We are glad that you will be joining us for your secondary school journey.   
+</p>
+			<p>In view of safe management measures put in place due to COVID-19, Sec 1 Registration as well as the purchase of school books and uniform will be conducted online. Students and parents should not report physically to school. </p>
+			<p>Please click [here]() to complete the Sec 1 e-Registration form and to obtain details required to prepare for start of school.</p>
+</div>  
+</li>
 
-###### SECONDARY 1 STUDENTS AND PARENTS/GUARDIANS 2022
-
-Welcome to the Changkateer family! We are glad that you will be joining us for your secondary school journey.   
-
-In view of safe management measures put in place due to COVID-19, Sec 1 Registration as well as the purchase of school books and uniform will be conducted online. Students and parents should not report physically to school. 
-
-Please click [here]() to complete the Sec 1 e-Registration form and to obtain details required to prepare for start of school.
 
 ###### Chinese Special Programme (CSP) Registration for Successful Applicants
 
