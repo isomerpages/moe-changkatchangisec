@@ -79,7 +79,7 @@ description: ""
 <p>Welcome to the Changkateer family! We are glad that you will be joining us for your secondary school journey.   
 </p>
 			<p>In view of safe management measures put in place due to COVID-19, Sec 1 Registration as well as the purchase of school books and uniform will be conducted online. Students and parents should not report physically to school. </p>
-			<p>Please click [here]() to complete the Sec 1 e-Registration form and to obtain details required to prepare for start of school.</p>
+			<p>Please click <a href="/experience-at-changkat/Sec-1-2023-Registration/">here</a> to complete the Sec 1 e-Registration form and to obtain details required to prepare for start of school.</p>
 </div>  
 </li>
 
