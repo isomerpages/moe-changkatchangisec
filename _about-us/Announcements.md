@@ -54,8 +54,6 @@ description: ""
 </p>
 <p>We would like to wish our students all the best!
 </p>
-			<p><a href="/files/SCH%20WEBSITE%20INFO%20SEC%201%20CCA%20REPORTING%20INSTRUCTIONS%20-%20TERM%201%20WEEK%208.pdf">Link</a>
-			</p>
 </div>  
 </li>
 
