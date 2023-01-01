@@ -36,13 +36,10 @@ description: ""
 </li>
 
 
-
-
-
-
-
+</ul>
 ### 2021
 
+<ul class="jekyllcodex_accordion">  
 <li>
 		<input type="checkbox" id="accordion4">  
     <label for="accordion4">Release of GCE O-Level Results 2021</label>  
