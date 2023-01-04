@@ -216,31 +216,62 @@ description: ""
     <div>
 			<p>Chinese (Special Programme) is a 4-year programme leading to the GCE O Level Examination. Attendance for lessons is compulsory.</p>
 			<p>Lessons will take place on Wednesday or Thursday afternoons from 3 pm to 6 pm. Please refer to the table below for your day of lesson.</p>
+			<table style="width:100%">
+  <tr>
+    <th>Wednesday (13 Jan Onwards)</th>
+    <th>Thursday (14 Jan Onwards) </th>
+  </tr>
+  <tr>
+    <td>Beatty Sec Sch </td>
+    <td>Dunman Sec Sch  </td>
+  </tr>
+  <tr>
+    <td>Changkat Changi Sec Sch</td>
+    <td>Ngee Ann Sec Sch</td>
+  </tr>
+  <tr>
+    <td>CHIJ Sec (Toa Payoh)</td>
+    <td>Paya Lebar Methodist Girls' Sch (Sec)</td>
+  </tr>
+  <tr>
+    <td>CHIJ Sec (Toa Payoh)</td>
+    <td>Raffles Institution</td>
+  </tr>
+  <tr>
+    <td>Edgefield Sec Sch</td>
+    <td>School of The Arts, Singapore</td>
+  </tr>
+  <tr>
+    <td>Kuo Chuan Presbyterian Sec Sch</td>
+    <td>Tanjong Katong Girls' Sch</td>
+  </tr>
+  <tr>
+    <td>Pei Hwa Sec Sch</td>
+    <td>Temasek JC</td>
+  </tr>
+  <tr>
+    <td>St. Andrew's Sec Sch</td>
+    <td>Temasek Sec Sch</td>
+  </tr>
+  <tr>
+    <td>St. Anthony's Canossian Sec Sch</td>
+  </tr>
+  <tr>
+    <td>St. Patrick's Sch</td>
+  </tr>
+  <tr>
+    <td>Tanjong Katong Sec Sch</td>
+  </tr>
+  <tr>
+    <td>Victoria Sch</td>
+  </tr>
+  <tr>
+    <td>Xinmin Sec Sch</td>
+  </tr>
+</table>
 </div>  
 </li>
-###### 
 
-
-
-
-
-
-
-| Wednesday (13 Jan Onwards) | Thursday (14 Jan Onwards)  | 
-| -------- | -------- | 
-| Beatty Sec Sch     | Dunman Sec Sch     | 
-|Changkat Changi Sec Sch|Ngee Ann Sec Sch
-|CHIJ Sec (Toa Payoh)|Paya Lebar Methodist Girls' Sch (Sec)
-|CHIJ St. Joseph's Convent|Raffles Institution
-| Edgefield Sec Sch|School of The Arts, Singapore
-|Kuo Chuan Presbyterian Sec Sch| Tanjong Katong Girls' Sch
-| Pei Hwa Sec Sch|Temasek JC
-|St. Andrew's Sec Sch|Temasek Sec Sch
-|St. Anthony's Canossian Sec Sch||
-| St. Patrick's Sch||
-| Tanjong Katong Sec Sch||
-|Victoria Sch||
-|Xinmin Sec Sch||
 
 Access the online e-registration form at [https://go.gov.sg/cspregistration](https://go.gov.sg/cspregistration) or via the QR code below.
 
