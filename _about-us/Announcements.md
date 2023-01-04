@@ -387,21 +387,15 @@ description: ""
 </div>  
 </li>
 
-######  
+<li>
+		<input type="checkbox" id="accordion30">  
+    <label for="accordion30">Information and Programmes for Term 3</label>  
+    <div>
+			<p>Dear Parents, our term 2 letter to parents is available <a href="/files/Term%203%20Letter%20to%20Parents%202020_%20Finalv1.pdf">here</a></p>
+</div>  
+</li>
 
 
-
-
-
-
-  
-
-
-
-
-######  Information and Programmes for Term 3
-
-Dear Parents, our term 2 letter to parents is available [here](/files/Term%203%20Letter%20to%20Parents%202020_%20Finalv1.pdf)
 
 ###### Back to School Transition Plans for Graduating Class Students
 
