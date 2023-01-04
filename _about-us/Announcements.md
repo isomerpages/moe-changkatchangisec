@@ -318,26 +318,27 @@ description: ""
     <label for="accordion23">E-OPEN HOUSE 2020</label>  
     <div>
 			<p>Our E-Open House will be held on Saturday 28 Nov 2020 via a Facebook Live Session from 9am - 10am and 12pm - 1pm. </p>
-			<p>Click on [this] to visit the E-Open House page.
+			<p>Click on <a href="/experience-at-changkat/Open-House/">this</a> to visit the E-Open House page.
 </p>
 </div>  
 </li>
 
+<li>
+		<input type="checkbox" id="accordion24">  
+    <label for="accordion24">Last Day of Term Letter 2020</label>  
+    <div>
+			<p>Dear Parents, our last day of term letter is available <a href="/files/Last%20Day%20of%20Term%20Letter%20to%20Parents%202020_%20Final.pdf">here</a></p>
+</div>  
+</li>
 
-###### 
+<li>
+		<input type="checkbox" id="accordion25">  
+    <label for="accordion25">Information and Programmes for Term 4</label>  
+    <div>
+			<p>Dear Parents, our term 4 letter to parents is available <a href="/files/Term%204%20Letter%20to%20Parents%202020_%20Final.pdf">here</a></p>
+</div>  
+</li>
 
-
-
-  
-
-
-###### Last Day of Term Letter 2020
-
-Dear Parents, our last day of term letter is available [here](/files/Last%20Day%20of%20Term%20Letter%20to%20Parents%202020_%20Final.pdf)
-
-###### Information and Programmes for Term 4
-
-Dear Parents, our term 4 letter to parents is available [here](/files/Term%204%20Letter%20to%20Parents%202020_%20Final.pdf)
 
 ###### Speech & Prize Giving Presentations 2020
 
