@@ -428,28 +428,34 @@ description: ""
 </div>  
 </li>
 
+<li>
+		<input type="checkbox" id="accordion34">  
+    <label for="accordion34">Information and Programmes for Term 2</label>  
+    <div>
+			<p>Dear Parents, our term 2 letter to parents is available <a href="/files/Term%202%20Parents%20Letter%202020.pdf">here</a></p>
+</div>  
+</li>
+
+<li>
+		<input type="checkbox" id="accordion35">  
+    <label for="accordion35">Sec 2 PTC Information</label>  
+    <div>
+			<p>Dear Secondary 2 Parents, the information shared during the Sec 2 PTC on streaming and other aspects can be found <a href="/files/Sec%202%20PTC%20slides%202020%20for%20sch%20website_12%20Mar.pdf">here</a></p>
+</div>  
+</li>
+
+<li>
+		<input type="checkbox" id="accordion36">  
+    <label for="accordion36">Enhanced School Measures For Novel Coronavirus</label>  
+    <div>
+			<p>Dear Parents/Guardians,</p>
+			<p>MOE will be enhancing precautionary measures in view of the novel coronavirus situation.</p>
+			<p>Please click <a href="/files/Parents%20Letter%20(Covid%2019).pdf">here</a> for more information.</p>
+			<p>An infographic on the Do's and Don'ts during this period can be found [here](/files/btb.pdf) as well.</p>
+</div>  
+</li>
 
 
 
 
-###### Information and Programmes for Term 2
 
-
-Dear Parents, our term 2 letter to parents is available [here](/files/Term%202%20Parents%20Letter%202020.pdf)
-
-###### Sec 2 PTC Information
-
-Dear Secondary 2 Parents, the information shared during the Sec 2 PTC on streaming and other aspects can be found [here](/files/Sec%202%20PTC%20slides%202020%20for%20sch%20website_12%20Mar.pdf)
-
-###### Enhanced School Measures For Novel Coronavirus
-
-
-Dear Parents/Guardians,
-
-  
-
-MOE will be enhancing precautionary measures in view of the novel coronavirus situation.
-
-Please click [here](/files/Parents%20Letter%20(Covid%2019).pdf) for more information.
-
-An infographic on the Do's and Don'ts during this period can be found [here](/files/btb.pdf) as well.
