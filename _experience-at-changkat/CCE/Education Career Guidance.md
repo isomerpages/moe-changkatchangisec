@@ -36,7 +36,7 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 		 
 ##### ACADEMIC PATHWAYS EXPLORATION
 
-
+<p>&nbsp;</p>
 <table style="border-collapse: collapse; width: 100%; height: 234px;" border="1">
 <tbody>
 <tr style="height: 18px;">
@@ -161,27 +161,17 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 </tr>
 <tr style="height: 18px;">
 <td style="width: 27.0742%; height: 18px;">ECG Centre at MOE</td>
-<td style="width: 47.1616%; height: 18px;">
-<p>Email: <a href="mailto:MOE_ECG@moe.gov.sg">MOE_ECG@moe.gov.sg</a></p>
-<p>E-appointment system: <a href="https://go.gov.sg/moe-ecg-centre">https://go.gov.sg/moe-ecg-centre</a></p>
-<p><a href="https://go.gov.sg/whats-next">https://go.gov.sg/whats-next </a></p>
-</td>
+<td style="width: 47.1616%; height: 18px;">Email: <a href="mailto:MOE_ECG@moe.gov.sg">MOE_ECG@moe.gov.sg</a><br />E-appointment system: <a href="https://go.gov.sg/moe-ecg-centre">https://go.gov.sg/moe-ecg-centre</a><a href="https://go.gov.sg/whats-next">https://go.gov.sg/whats-next </a></td>
 <td style="width: 25.7641%; height: 18px;">The ECG Centre (51 Grange Road) provides ECG counselling services for students during periods such as the release of their GCE N-Level, O-Level and A-Level examination results.</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 27.0742%; height: 18px;">Private Education Institution</td>
-<td style="width: 47.1616%; height: 18px;">
-<p><a href="https://go.gov.sg/pei">https://go.gov.sg/pei </a></p>
-<p><a href="https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/infographic--8-things-you-should-know-before-you-enrol-in-a-priv.html">https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/infographic--8-things-you-should-know-before-you-enrol-in-a-priv.html</a></p>
-</td>
+<td style="width: 47.1616%; height: 18px;"><a href="https://go.gov.sg/pei">https://go.gov.sg/pei </a><a href="https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/infographic--8-things-you-should-know-before-you-enrol-in-a-priv.html">https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/infographic--8-things-you-should-know-before-you-enrol-in-a-priv.html</a></td>
 <td style="width: 25.7641%; height: 18px;">Information for students who are planning to pursue a course with a Private Education Institution (PEI)</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 27.0742%; height: 18px;">Community-based Helplines</td>
-<td style="width: 47.1616%; height: 18px;">
-<p><a href="https://www.mindline.sg/">https://www.mindline.sg/ </a></p>
-<p><a href="https://www.ec2.sg/">https://www.ec2.sg/ </a></p>
-</td>
+<td style="width: 47.1616%; height: 18px;"><a href="https://www.mindline.sg/">https://www.mindline.sg/ </a><a href="https://www.ec2.sg/">https://www.ec2.sg/ </a></td>
 <td style="width: 25.7641%; height: 18px;">For students who would like to have someone to talk to in times of need or to approach the School Counsellor.</td>
 </tr>
 </tbody>
