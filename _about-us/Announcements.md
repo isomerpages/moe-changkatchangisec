@@ -202,9 +202,6 @@ description: ""
     <label for="accordion18">Information and Programmes for Term 1</label>  
     <div>
 			<p>Dear Parents, our term 1 letter to parents is available<a href="/files/Term%201%20Letter%20to%20Parents%202021_Final.pdf">here</a></p>
-				
-				<p></p>
-			<p><a href="/files/CCA%20Selection%20Trials%20Schedule.pdf">CCA Selection Trials Schedule.pdf</a></p>
 </div>  
 </li>
 
@@ -213,12 +210,19 @@ description: ""
 ### 2020
 
 <ul class="jekyllcodex_accordion"> 
-	
-###### Chinese Special Programme (CSP) Registration for Successful Applicants
+<li>
+		<input type="checkbox" id="accordion19">  
+    <label for="accordion19">Chinese Special Programme (CSP) Registration for Successful Applicants</label>  
+    <div>
+			<p>Chinese (Special Programme) is a 4-year programme leading to the GCE O Level Examination. Attendance for lessons is compulsory.</p>
+			<p>Lessons will take place on Wednesday or Thursday afternoons from 3 pm to 6 pm. Please refer to the table below for your day of lesson.</p>
+</div>  
+</li>
+###### 
 
-Chinese (Special Programme) is a 4-year programme leading to the GCE O Level Examination. Attendance for lessons is compulsory.
 
-Lessons will take place on Wednesday or Thursday afternoons from 3 pm to 6 pm. Please refer to the table below for your day of lesson.
+
+
 
 
 
