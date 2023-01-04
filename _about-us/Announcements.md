@@ -109,24 +109,26 @@ description: ""
 </div>  
 </li>
 
+<li>
+		<input type="checkbox" id="accordion9">  
+    <label for="accordion9">TIMETABLE FOR T4W7</label>  
+    <div>
+			<p>Dear Students, Timetable for T4W7  is available <a href="/files/For%20Students%20T4W7_CLASS%20timetable.pdf">here</a></p>
+</div>  
+</li>
+
+<li>
+		<input type="checkbox" id="accordion10">  
+    <label for="accordion10">INFORMATION AND PROGRAMMES FOR TERM 4</label>  
+    <div>
+			<p>Dear Parents, our term 4 letter to parents is available <a href="/files/Term%204%20Letter%20to%20Parents%202021%2012%20Sep.pdf">here</a></p>
+</div>  
+</li>
 
 
 
 
-  
 
-
-
-  
-
-
-###### TIMETABLE FOR T4W7
-
-Dear Students, Timetable for T4W7  is available [here](/files/For%20Students%20T4W7_CLASS%20timetable.pdf).
-
-###### INFORMATION AND PROGRAMMES FOR TERM 4
-
-Dear Parents, our term 4 letter to parents is available [here](/files/Term%204%20Letter%20to%20Parents%202021%2012%20Sep.pdf)
 
 ###### INFORMATION AND PROGRAMMES FOR TERM 3
 
