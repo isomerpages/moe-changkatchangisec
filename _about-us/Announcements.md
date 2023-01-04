@@ -126,44 +126,59 @@ description: ""
 </li>
 
 
+<li>
+		<input type="checkbox" id="accordion11">  
+    <label for="accordion11">INFORMATION AND PROGRAMMES FOR TERM 3</label>  
+    <div>
+			<p>Dear Parents, our term 3 letter to parents is available <a href="/files/Term%203%20Letter%20to%20Parents%202021_Final.pdf">here</a></p>
+</div>  
+</li>
 
+<li>
+		<input type="checkbox" id="accordion12">  
+    <label for="accordion12">POLICE ADVISORY ON SCAM TARGETING STEAM ACCOUNT USERS</label>  
+    <div>
+			<p>Dear Changkateers, please read the<a href="/files/Police%20Advisory%20on%20scam%20targeting%20Steam%20account%20users.pdf">Police Advisory</a>on Scam Targeting Steam Account Users.</p>
+</div>  
+</li>
 
+<li>
+		<input type="checkbox" id="accordion13">  
+    <label for="accordion13">INFORMATION AND PROGRAMMES FOR TERM 2</label>  
+    <div>
+			<p>Dear Parents, our term 2 letter to parents is available<a href="/files/Term%202%20Letter%20to%20Parents%202021_Final.pdf">here</a>.</p>
+</div>  
+</li>
 
-
-###### INFORMATION AND PROGRAMMES FOR TERM 3
-
-Dear Parents, our term 3 letter to parents is available [here](/files/Term%203%20Letter%20to%20Parents%202021_Final.pdf).
-
-###### POLICE ADVISORY ON SCAM TARGETING STEAM ACCOUNT USERS
-
-Dear Changkateers, please read the [Police Advisory](/files/Police%20Advisory%20on%20scam%20targeting%20Steam%20account%20users.pdf) on Scam Targeting Steam Account Users.
-
-###### INFORMATION AND PROGRAMMES FOR TERM 2
-
-Dear Parents, our term 2 letter to parents is available [here](/files/Term%202%20Letter%20to%20Parents%202021_Final.pdf).
-
-###### Sec 2/3/4/5 MTP Information (12 March 2021)
-
-Dear Secondary 2/3/4/5 Parents,  
+<li>
+		<input type="checkbox" id="accordion14">  
+    <label for="accordion14">Sec 2/3/4/5 MTP Information (12 March 2021)</label>  
+    <div>
+			<p>Dear Secondary 2/3/4/5 Parents,</p>  
   
-The information shared during the Sec 2 MTP on streaming and the information shared during the Secondary 3/4/5 MTP  can be found below.
+<p>The information shared during the Sec 2 MTP on streaming and the information shared during the Secondary 3/4/5 MTP can be found below.</p>
+			<p><a href="/files/2E%20MTP%20Information.pdf">Sec 2E</a></p>
+			<p><a href="/files/2NA%20MTP%20Information.pdf">Sec 2NA</a></p>
+			<p><a href="/files/Sec%203%20AYH%20Sharing%20MTP%20Briefing%2012%20Mar_final.pdf">Sec 3</a></p>
+			<p><a href="">Sec 4 and 5</a></p>
+</div>  
+</li>
+
+<li>
+		<input type="checkbox" id="accordion15">  
+    <label for="accordion15">Sec 2/3/4/5 MTP Information (12 March 2021)</label>  
+    <div>
+			<p>Dear Secondary 2 Parents,</p>
+				
+				<p>The information shared during the Sec 2 MTP on streaming can be found below.</p>
+</div>  
+</li>
+
+
 
   
 
-[Sec 2E](/files/2E%20MTP%20Information.pdf)
 
-[Sec 2NA](/files/2NA%20MTP%20Information.pdf)
-
-[Sec 3](/files/Sec%203%20AYH%20Sharing%20MTP%20Briefing%2012%20Mar_final.pdf)
-
-[Sec 4 and 5]
-
-
-Dear Secondary 2 Parents, 
-
-  
-
-The information shared during the Sec 2 MTP on streaming can be found below.
 
 ###### CCA Orientation
 
