@@ -174,45 +174,46 @@ description: ""
 </div>  
 </li>
 
+<li>
+		<input type="checkbox" id="accordion16">  
+    <label for="accordion16">CCA Orientation</label>  
+    <div>
+			<p>The CCA Orientation slides and CCA audition/interview/trial dates can be found in the link below. </p>
+				
+				<p><a href="/files/CCA%20Orientation%20Briefing%20For%20Parents%202021.pdf">CCA Orientation Briefing For Parents 2021.pdf</a></p>
+			<p><a href="/files/CCA%20Selection%20Trials%20Schedule.pdf">CCA Selection Trials Schedule.pdf</a></p>
+</div>  
+</li>
+	
+<li>
+		<input type="checkbox" id="accordion17">  
+    <label for="accordion17">Release of GCE O-Level Results 2020</label>  
+    <div>
+			<p>The 2020 GCE O-Level results will be released on Monday, 11 January 2021.</p>
+				
+				<p>All students are expected to report to the respective venues by **1.45pm** in full school uniform, school shoes, socks with a proper haircut. In addition, no coloured or dyed hair will be accepted. </p>
+			<p>*The MOE press release can be found <a href="https://www.moe.gov.sg/news/press-releases/release-of-2020-singapore-cambridge-gce-o-level-examination-results-and-2021-joint-admissions-exercise">here</a>.  </p>
+			<p>We would like to wish our students all the best!</p>
+</div>  
+</li>
 
+<li>
+		<input type="checkbox" id="accordion18">  
+    <label for="accordion18">Information and Programmes for Term 1</label>  
+    <div>
+			<p>Dear Parents, our term 1 letter to parents is available<a href="/files/Term%201%20Letter%20to%20Parents%202021_Final.pdf">here</a></p>
+				
+				<p></p>
+			<p><a href="/files/CCA%20Selection%20Trials%20Schedule.pdf">CCA Selection Trials Schedule.pdf</a></p>
+</div>  
+</li>
 
-  
+</ul>
 
+### 2020
 
-
-###### CCA Orientation
-
-The CCA Orientation slides and CCA audition/interview/trial dates can be found in the link below.  
-  
-  
-
-[CCA Orientation Briefing For Parents 2021.pdf](/files/CCA%20Orientation%20Briefing%20For%20Parents%202021.pdf)
-  
-
-[CCA Selection Trials Schedule.pdf](/files/CCA%20Selection%20Trials%20Schedule.pdf)
-
-###### Release of GCE O-Level Results 2020
-
-The 2020 GCE O-Level results will be released on Monday, 11 January 2021.
-
-  
-
-All students are expected to report to the respective venues by **1.45pm** in full school uniform, school shoes, socks with a proper haircut. In addition, no coloured or dyed hair will be accepted. 
-
-  
-
-\*The MOE press release can be found [here](https://www.moe.gov.sg/news/press-releases/release-of-2020-singapore-cambridge-gce-o-level-examination-results-and-2021-joint-admissions-exercise).  
-
-  
-
-We would like to wish our students all the best!
-
-###### Information and Programmes for Term 1
-
-Dear Parents, our term 1 letter to parents is available [here](/files/Term%201%20Letter%20to%20Parents%202021_Final.pdf)
-
-##### 2020
-
+<ul class="jekyllcodex_accordion"> 
+	
 ###### Chinese Special Programme (CSP) Registration for Successful Applicants
 
 Chinese (Special Programme) is a 4-year programme leading to the GCE O Level Examination. Attendance for lessons is compulsory.
