@@ -339,50 +339,65 @@ description: ""
 </div>  
 </li>
 
+<li>
+		<input type="checkbox" id="accordion25">  
+    <label for="accordion25">Speech & Prize Giving Presentations 2020</label>  
+    <div>
+			<p>The Annual Speech & Prize-Giving Day is an event for us to celebrate the achievements of our Changkateers together with their families. This year, in consideration of the safe management measures that need to be put in place due to the COVID-19 crisis, we have taken a different approach to celebrating the event.</p>
+			<p>Click on [this] to learn who the prize winners are and how the prize giving was like!</p>
+</div>  
+</li>
+	
+<li>
+		<input type="checkbox" id="accordion26">  
+    <label for="accordion26">Early Dismissal Info (Thur 9 July)</label>  
+    <div>
+			<p>Dear Parents/Guardians, </p>
+			<p>Our school premises will be used as a venue for Polling day on Friday, 10 July.</p>
+			<p>The staggered dismissal timings for the different levels on Thursday, 9 July, can be found <a href="/files/Letter%20to%20Parents%20on%20early%20dismissal%20for%209%20July_Final.pdf">here</a>.</p>
+</div>  
+</li>
 
-###### Speech & Prize Giving Presentations 2020
+<li>
+		<input type="checkbox" id="accordion27">  
+    <label for="accordion27">Updates for Term 3</label>  
+    <div>
+			<p>Dear Parents/Guardians, </p>
+			<p>Updates regarding the return of all students to school on 29 June (Monday) can be found <a href="/files/Parents%20Letter%20Term%203%20Updates%20v2.pdf">here</a></p>
+</div>  
+</li>
 
-The Annual Speech & Prize-Giving Day is an event for us to celebrate the achievements of our Changkateers together with their families. This year, in consideration of the safe management measures that need to be put in place due to the COVID-19 crisis, we have taken a different approach to celebrating the event.
+<li>
+		<input type="checkbox" id="accordion28">  
+    <label for="accordion28">Digital Delivery of CCA (e-CCA)</label>  
+    <div>
+			<p>Dear parents,</p>
+			<p>Please be informed that our school will be introducing e-CCA to our Sec 1 to 3 students, starting from 5 June, Friday, 2.30pm. For more information, please click on the link <a href="/files/Parents%20Letter%20for%20eCCA.pdf">here</a></p>
+</div>  
+</li>
+	
+<li>
+		<input type="checkbox" id="accordion29">  
+    <label for="accordion29">Home-Based Learning For Term 3</label>  
+    <div>
+			<p>Full details on HBL for Term 3 can be found [here]</p>
+			<p>For student self-help resources for HBL, please click <a href="https://go.gov.sg/ccsshbl">here</a>.  </p>
+			<p>Dear Parents,  </p>
+			<p>The Parent kit providing tips on how you can support your child's HBL and addressing some of your concerns can be found <a href="/files/Resource%20Kit%20-%20HBL.pdf">here</a></p>
+</div>  
+</li>
+
+######  
+
+
+
+
+
 
   
 
-Click on [this] to learn who the prize winners are and how the prize giving was like!
-
-###### Early Dismissal Info (Thur 9 July)
-
-Dear Parents/Guardians, 
-
-  
-
-Our school premises will be used as a venue for Polling day on Friday, 10 July.
-
-The staggered dismissal timings for the different levels on Thursday, 9 July, can be found [here](/files/Letter%20to%20Parents%20on%20early%20dismissal%20for%209%20July_Final.pdf).
-
-###### Updates for Term 3
-
-Dear Parents/Guardians,
-
-Updates regarding the return of all students to school on 29 June (Monday) can be found [here](/files/Parents%20Letter%20Term%203%20Updates%20v2.pdf)
-
-###### Digital Delivery of CCA (e-CCA)
-
-Dear parents,
-
-  
-
-Please be informed that our school will be introducing e-CCA to our Sec 1 to 3 students, starting from 5 June, Friday, 2.30pm. For more information, please click on the link [here](/files/Parents%20Letter%20for%20eCCA.pdf)
-
-######  Home-Based Learning For Term 3
-
-Full details on HBL for Term 3 can be found [here]
-
-For student self-help resources for HBL, please click [here](https://go.gov.sg/ccsshbl).  
 
 
-  
-Dear Parents,  
-
-The Parent kit providing tips on how you can support your child's HBL and addressing some of your concerns can be found [here](/files/Resource%20Kit%20-%20HBL.pdf)
 
 ######  Information and Programmes for Term 3
 
