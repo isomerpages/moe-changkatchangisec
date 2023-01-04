@@ -79,37 +79,46 @@ description: ""
 </div>  
 </li>
 
-
-###### Chinese Special Programme (CSP) Registration for Successful Applicants
-
-Chinese (Special Programme) is a 4-year programme leading to the GCE O Level Examination. Attendance for lessons is compulsory.
-
-Lessons will take place on Wednesday afternoons from 3 pm to 6 pm.  The first lesson will commence on 12 January 2022.
-
-Access the online e-registration form at [https://go.gov.sg/2022csp](https://go.gov.sg/2022csp) or via the QR code below to confirm your acceptance of the offer and to complete the online registration.
-
-This form will take you around 5 minutes to complete. Please complete the registration form between **23 December 2021 to 7 January 2022, 12 pm**.
-
-<img src="/images/qrcode.jpeg" 
+<li>
+		<input type="checkbox" id="accordion7">  
+    <label for="accordion7">Chinese Special Programme (CSP) Registration for Successful Applicants</label>  
+    <div>
+<p>Chinese (Special Programme) is a 4-year programme leading to the GCE O Level Examination. Attendance for lessons is compulsory.   
+</p>
+			<p>Lessons will take place on Wednesday afternoons from 3 pm to 6 pm.  The first lesson will commence on 12 January 2022.</p>
+			<p>Access the online e-registration form at <a href="https://go.gov.sg/2022csp">https://go.gov.sg/2022csp</a> or via the QR code below to confirm your acceptance of the offer and to complete the online registration.</p>
+			<p>This form will take you around 5 minutes to complete. Please complete the registration form between **23 December 2021 to 7 January 2022, 12 pm**.</p>
+			<img src="/images/qrcode.jpeg" 
      style="width:50%">
-		 
-Textbooks will be available for sale in our school bookshop from January onwards.
+			<p>Textbooks will be available for sale in our school bookshop from January onwards.</p>
+			<p>Contact details of school bookshop: 87648813, or visit its website: <a href="https://ccss.chalamay.com/">https://ccss.chalamay.com</a> if you require information to order online.</p>
+</div>  
+</li>
 
-Contact details of school bookshop: 87648813, or visit its website: [https://ccss.chalamay.com](https://ccss.chalamay.com/) if you require information to order online.
 
-###### Release of GCE N-Level Results 2021
+<li>
+		<input type="checkbox" id="accordion8">  
+    <label for="accordion8">Release of GCE N-Level Results 2021</label>  
+    <div>
+<p>The 2021 GCE N-Level results will be released on Friday, 17 December 2021. 
+</p>
+			<p>All students are expected to report to the allocated classrooms by 1.45pm in full school uniform, schools shoes and socks with a proper haircut. In addition, no coloured or dyed hair will be accepted.</p>
+			<p>*The MOE press release can be found <a href="https://www.moe.gov.sg/news/press-releases/20211210-release-of-the-2021-singapore-cambridge-gce-na-nt-level-examination-results-on-17-december-2021#:~:text=1.,17%20December%202021%2C%202.30pm.">here</a></p>
+			<p>We would like to wish our students all the best!
+			</p>
+</div>  
+</li>
 
-The 2021 GCE N-Level results will be released on Friday, 17 December 2021.
 
-All students are expected to report to the allocated classrooms by 1.45pm in full school uniform, schools shoes and socks with a proper haircut. In addition, no coloured or dyed hair will be accepted.
+
+
 
   
 
-\*The MOE press release can be found [here](https://www.moe.gov.sg/news/press-releases/20211210-release-of-the-2021-singapore-cambridge-gce-na-nt-level-examination-results-on-17-december-2021#:~:text=1.,17%20December%202021%2C%202.30pm.).
+
 
   
 
-We would like to wish our students all the best!
 
 ###### TIMETABLE FOR T4W7
 
