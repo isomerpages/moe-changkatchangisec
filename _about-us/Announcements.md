@@ -395,51 +395,42 @@ description: ""
 </div>  
 </li>
 
+<li>
+		<input type="checkbox" id="accordion31">  
+    <label for="accordion31">Back to School Transition Plans for Graduating Class Students</label>  
+    <div>
+			<p>As part of the gradual easing of "circuit breaker" measures, schools will start to bring back students in small groups for face-to-face lessons from May 19.</p>
+			<p>The following is the link to the instructions and schedule for the Sec 4 and 5 students.</p>
+			<p>Instructions and schedule can be found <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCr1v5sUazZI1OJXZljW7Mwny0czgb_tK1OI434wUBBVJzyid6MVzxHLf-4kwXLy-BIRu2rmE3rNn1/pubhtml">here</a>.</p>
+</div>  
+</li>
+
+<li>
+		<input type="checkbox" id="accordion32">  
+    <label for="accordion32">Direct School Admission (DSA) Exercise to Secondary School </label>  
+    <div>
+			<p>The Direct School Admission (DSA) exercise for admission to secondary schools and junior colleges (JCs) in 2021 will open for applications on 12 May 2020. See press release at this [link](https://www.moe.gov.sg/news/press-releases/start-of-2020-direct-school-admission-exercises)</p>
+			<p>Changkat Changi Secondary School offers Direct School Admission through our Applied Learning Programme (ALP) and our Learning for Life Programme (LLP).</p>
+			<p>Please click below for more information about our talent areas: </p>
+			<p><a href="/experience-at-changkat/Direct-School-Admission/ALP">Direct School Admission through Student centered opportunities in AeRospace Industries (ALP)</a></p>
+			<p><a href="/experience-at-changkat/Direct-School-Admission/LLP">Direct School Admission through Leadership and Service through School to Nation (LLP)</a></p>
+</div>  
+</li>
+	
+<li>
+		<input type="checkbox" id="accordion33">  
+    <label for="accordion33">[Parent Kit\] Home-Based Learning</label>  
+    <div>
+			<p>Dear Parents,</p>
+			<p>The Parent kit providing tips on how you can support your child's HBL and addressing some of your concerns can be found <a href="/files/Resource%20Kit%20-%20HBL.pdf">here</a></p>
+			<p>Join MOE’s Facebook Live Session, “Ask Me Anything About… Home-Based Learning” on 1 April 2020, 8pm, to learn more about what HBL really means and the role you can play in your child’s HBL. </p>
+			<p>Click <a href="http://bit.ly/moe-amaa-hbl">here to RSVP</a>.</p>
+</div>  
+</li>
 
 
-###### Back to School Transition Plans for Graduating Class Students
 
 
-As part of the gradual easing of "circuit breaker" measures, schools will start to bring back students in small groups for face-to-face lessons from May 19.
-
-  
-
-The following is the link to the instructions and schedule for the Sec 4 and 5 students.
-
-  
-
-Instructions and schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCr1v5sUazZI1OJXZljW7Mwny0czgb_tK1OI434wUBBVJzyid6MVzxHLf-4kwXLy-BIRu2rmE3rNn1/pubhtml).
-
-###### Direct School Admission (DSA) Exercise to Secondary School 
-
-
-The Direct School Admission (DSA) exercise for admission to secondary schools and junior colleges (JCs) in 2021 will open for applications on 12 May 2020. See press release at this [link](https://www.moe.gov.sg/news/press-releases/start-of-2020-direct-school-admission-exercises)
-
-  
-
-Changkat Changi Secondary School offers Direct School Admission through our Applied Learning Programme (ALP) and our Learning for Life Programme (LLP).
-
-  
-
-Please click below for more information about our talent areas: 
-
-[Direct School Admission through Student centered opportunities in AeRospace Industries (ALP)]
-
-[Direct School Admission through Leadership and Service through School to Nation (LLP)]
-
-###### [Parent Kit\] Home-Based Learning
-
-Dear Parents,
-
-  
-
-The Parent kit providing tips on how you can support your child's HBL and addressing some of your concerns can be found [here](/files/Resource%20Kit%20-%20HBL.pdf)
-
-  
-
-Join MOE’s Facebook Live Session, “Ask Me Anything About… Home-Based Learning” on 1 April 2020, 8pm, to learn more about what HBL really means and the role you can play in your child’s HBL. 
-
-Click [here to RSVP](http://bit.ly/moe-amaa-hbl).
 
 ###### Information and Programmes for Term 2
 
