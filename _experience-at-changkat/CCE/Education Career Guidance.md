@@ -36,8 +36,7 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 		 
 ##### ACADEMIC PATHWAYS EXPLORATION
 
-<p>&nbsp;</p>
-<p><strong>ACADEMIC PATHWAYS EXPLORATION</strong></p>
+
 <table style="border-collapse: collapse; width: 100%; height: 234px;" border="1">
 <tbody>
 <tr style="height: 18px;">
