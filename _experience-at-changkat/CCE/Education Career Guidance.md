@@ -51,9 +51,7 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 </tr>
 <tr style="height: 18px;">
 <td style="width: 27.0742%; height: 18px;">Course Finder</td>
-<td style="width: 47.1616%; height: 18px;">
-<p><a href="https://go.gov.sg/coursefinder">https://go.gov.sg/coursefinder</a></p>
-</td>
+<td style="width: 47.1616%; height: 18px;"><a href="https://go.gov.sg/coursefinder">https://go.gov.sg/coursefinder</a></td>
 <td style="width: 25.7641%; height: 18px;">Exp, N(A), N(T) <br />Online tool to explore and shortlist courses offered by polytechnics and ITE</td>
 </tr>
 <tr style="height: 18px;">
@@ -93,9 +91,7 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 </tr>
 <tr style="height: 18px;">
 <td style="width: 27.0742%; height: 18px;">Nanyang Academic of Fine Arts (NAFA) Foundation Programme</td>
-<td style="width: 47.1616%; height: 18px;">
-<p><a href="https://go.gov.sg/applynafafp">https://go.gov.sg/applynafafp</a></p>
-</td>
+<td style="width: 47.1616%; height: 18px;"><a href="https://go.gov.sg/applynafafp">https://go.gov.sg/applynafafp</a></td>
 <td style="width: 25.7641%; height: 18px;">N(A)</td>
 </tr>
 <tr style="height: 18px;">
@@ -122,7 +118,7 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 <tr style="height: 18px;">
 <td style="width: 27.0742%; height: 18px;">2023 JAE Booklet</td>
 <td style="width: 47.1616%; height: 18px;"><a href="http://www.moe.gov.sg/jaebooklet">http://www.moe.gov.sg/jaebooklet</a></td>
-<td style="width: 25.7641%; height: 18px;">O-level students <br />4N(A) students who are interested in PFP </td>
+<td style="width: 25.7641%; height: 18px;">O-level students <br />4N(A) students who are interested in PFP</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 27.0742%; height: 18px;">2023 JIE Booklet</td>
@@ -131,7 +127,7 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 </tr>
 <tr style="height: 18px;">
 <td style="width: 27.0742%; height: 18px;">My-Skills-Future Portal (Secondary)</td>
-<td style="width: 47.1616%; height: 18px;"><a href="https://go.gov.sg/mysfsec">https://go.gov.sg/mysfsec</a> <br /><a href="https://go.gov.sg/industrylandscape-sec">https://go.gov.sg/industrylandscape-sec</a> <br /><a href="https://go.gov.sg/ecgportalvideos">https://go.gov.sg/ecgportalvideos</a> </td>
+<td style="width: 47.1616%; height: 18px;"><a href="https://go.gov.sg/mysfsec">https://go.gov.sg/mysfsec</a> <br /><a href="https://go.gov.sg/industrylandscape-sec">https://go.gov.sg/industrylandscape-sec</a> <br /><a href="https://go.gov.sg/ecgportalvideos">https://go.gov.sg/ecgportalvideos</a></td>
 <td style="width: 25.7641%; height: 18px;">ECG Portal to explore the world of work and plan education pathways</td>
 </tr>
 <tr style="height: 18px;">
