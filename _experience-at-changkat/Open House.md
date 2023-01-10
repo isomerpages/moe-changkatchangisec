@@ -89,7 +89,7 @@ Thank You.
 | -------- | -------- | -------- |-------- |
 ||||
 
-<img src="/images/.jpeg" style="width:25%;float:left">
+<img src="/images/Malay%20Dance.jpg" style="width:25%;float:left">
 
 <img src="/images/.jpeg" style="width:25%;float:left">
 
