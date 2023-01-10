@@ -110,7 +110,7 @@ Thank You.
 
 <img src="/images/Badminton.jpg" style="width:25%;float:left">
 
-<img src="/images/.jpeg" style="width:25%;float:left">
+<img src="/images/Netball.jpg" style="width:25%;float:left">
 
 <br><br>
 <b>Clubs</b>
