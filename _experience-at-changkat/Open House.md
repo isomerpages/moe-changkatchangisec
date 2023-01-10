@@ -104,7 +104,7 @@ Thank You.
 | -------- | -------- | -------- |-------- |
 ||||
 
-<img src="/images/.jpeg" style="width:25%;float:left">
+<img src="/images/ST.jpeg" style="width:25%;float:left">
 
 <img src="/images/tnf.png" style="width:25%;float:left">
 
