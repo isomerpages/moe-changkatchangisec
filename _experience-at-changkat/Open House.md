@@ -95,7 +95,7 @@ Thank You.
 
 <img src="/images/Concert%20Band.jpg" style="width:25%;float:left">
 
-<img src="/images/.jpeg" style="width:25%;float:left">
+<img src="/images/Chinese%20String%20Ensemble.jpg" style="width:25%;float:left">
 
 <b>Sports and Games</b>
 
