@@ -45,7 +45,7 @@ Thank You.
 
 
 
-| [Applied Learning Programme](/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/) | [Learning For Life Programme](/experience-at-changkat/Learning-for-Life-Programme-LLP) | [Learning Highlights](https://www.youtube.com/watch?v=ZHKWhwCReVw) |
+|[Applied Learning Programme](/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/)|[Learning For Life Programme](/experience-at-changkat/Learning-for-Life-Programme-LLP)|[Learning Highlights](https://www.youtube.com/watch?v=ZHKWhwCReVw)|
 | -------- | -------- | -------- |
 |     |      |      |
 
