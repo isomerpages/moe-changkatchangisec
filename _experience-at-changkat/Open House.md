@@ -8,7 +8,7 @@ description: ""
   
 _Best viewed on desktop._
 
-### <center> Principal's Message</center>
+#### <center> Principal's Message</center>
 
 
 <img src="/images/Selected%20for%20cover%20page.jpeg">
@@ -37,8 +37,13 @@ Thank You.
 
 <img src="/images/Student's%20voices.jpeg" style="width:50%;float:left">
 
+
 <br>
-<center> Signature Changkat Experiences</center>
+
+#### <center> Signature Changkat Experiences</center>
+
+
+#### <center> CCA Videos</center>
 
 Uniformed Group
 	
