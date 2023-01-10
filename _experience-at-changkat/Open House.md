@@ -54,7 +54,7 @@ Thank You.
 
 <img src="/images/LLP.jpg" style="width:33.3%;float:left">
 
-<img src="/images/NCC%20Air%20Boys.jpg" style="width:33.3%;float:left">
+<img src="/images/Academic%20Prog.jpg" style="width:33.3%;float:left">
 
 
 
