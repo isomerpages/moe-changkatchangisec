@@ -54,7 +54,7 @@ Uniformed Group
 ||||
 
 
-<img src="/images/.jpeg" style="width:25%;float:left">
+<img src="/images/Boys%20Brigade.jpg" style="width:25%;float:left">
 
 <img src="/images/.jpeg" style="width:25%;float:left">
 
