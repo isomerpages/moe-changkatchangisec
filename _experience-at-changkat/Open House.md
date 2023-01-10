@@ -121,9 +121,9 @@ Thank You.
 | -------- | -------- | -------- |-------- |
 ||||
 
-<img src="/images/Multimedia%20Club.jpg" style="width:25%;float:left">
+<img src="/images/Multimedia%20Club.jpg" style="width:50%;float:left">
 
-<img src="/images/.png" style="width:25%;float:left">
+<img src="/images/Youth%20Flying%20Club.jpg" style="width:50%;float:left">
 
 <br><br>
 ##### Alumni Voices - Proud to be a Changkateer!
