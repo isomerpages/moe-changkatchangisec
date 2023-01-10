@@ -8,7 +8,7 @@ description: ""
   
 _Best viewed on desktop._
 
-<center> Principal's Message</center>
+### <center> Principal's Message</center>
 
 
 <img src="/images/Selected%20for%20cover%20page.jpeg">
