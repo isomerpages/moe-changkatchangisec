@@ -45,9 +45,9 @@ Thank You.
 
 
 
-| Applied | Column 2 | Column 3 |
+| [Applied Learning Programme](/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/) | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+|     | Text     | Text     |
 
 
 
