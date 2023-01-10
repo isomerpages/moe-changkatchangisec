@@ -60,7 +60,7 @@ Uniformed Group
 
 <img src="/images/NCC%20Air%20Boys.jpg" style="width:25%;float:left">
 
-<img src="/images/.jpeg" style="width:25%;float:left">
+<img src="/images/NCC%20Air%20Girls.jpg" style="width:25%;float:left">
 
 
 
