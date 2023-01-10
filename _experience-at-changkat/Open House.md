@@ -63,7 +63,7 @@ Thank You.
 
 #### <center> CCA Videos</center>
 
-Uniformed Groups
+<b>Uniformed Groups</b>
 	
 
 
@@ -82,7 +82,7 @@ Uniformed Groups
 
 
 
-Performing Arts
+<b>Performing Arts</b>
 
 
 | [Malay Dance](/co-curricular-activities/Performing-Arts/Malay-Dance)| [Modern Dance](/co-curricular-activities/Performing-Arts/Modern-Dance) | [Concert Band](/co-curricular-activities/Performing-Arts/Concert-Band) | [Chinese String Ensemble](/co-curricular-activities/Performing-Arts/Chinese-String-Ensemble)
@@ -97,7 +97,7 @@ Performing Arts
 
 <img src="/images/.jpeg" style="width:25%;float:left">
 
-Sports and Games
+<b>Sports and Games</b>
 
 
 | [Sepak Takraw](/co-curricular-activities/Sports-and-Games/Sepak-Takraw) | [Track and Field](/co-curricular-activities/Sports-and-Games/Track-and-Field) | [Badminton](/co-curricular-activities/Sports-and-Games/Badminton) | [Netball](/co-curricular-activities/Sports-and-Games/Netball)
@@ -113,7 +113,7 @@ Sports and Games
 <img src="/images/.jpeg" style="width:25%;float:left">
 
 <br><br>
-Clubs
+<b>Clubs</b>
 
 
 | [Multimedia Club](/co-curricular-activities/Clubs/Multimedia-Club) | [Youth Flying Club](/co-curricular-activities/Clubs/Youth-Flying-Club) | ||
