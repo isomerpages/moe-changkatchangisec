@@ -108,7 +108,7 @@ Thank You.
 
 <img src="/images/tnf.png" style="width:25%;float:left">
 
-<img src="/images/.jpeg" style="width:25%;float:left">
+<img src="/images/Badminton.jpg" style="width:25%;float:left">
 
 <img src="/images/.jpeg" style="width:25%;float:left">
 
