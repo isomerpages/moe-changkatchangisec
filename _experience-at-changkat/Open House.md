@@ -58,7 +58,7 @@ Uniformed Group
 
 <img src="/images/Girl%20Guides.jpg" style="width:25%;float:left">
 
-<img src="/images/.jpeg" style="width:25%;float:left">
+<img src="/images/NCC%20Air%20Boys.jpg" style="width:25%;float:left">
 
 <img src="/images/.jpeg" style="width:25%;float:left">
 
