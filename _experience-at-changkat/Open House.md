@@ -112,7 +112,8 @@ Thank You.
 
 <img src="/images/Netball.jpg" style="width:25%;float:left">
 
-<br><br>
+
+
 <b>Clubs</b>
 
 
@@ -120,7 +121,7 @@ Thank You.
 | -------- | -------- | -------- |-------- |
 ||||
 
-<img src="/images/.jpeg" style="width:25%;float:left">
+<img src="/images/Multimedia%20Club.jpg" style="width:25%;float:left">
 
 <img src="/images/.png" style="width:25%;float:left">
 
