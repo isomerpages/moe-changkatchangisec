@@ -3,7 +3,6 @@ title: Open House
 permalink: /experience-at-changkat/Open-House/
 description: ""
 ---
-
 **Come join the Changkateer Experience!**
 
   
