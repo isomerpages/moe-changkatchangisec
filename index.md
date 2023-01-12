@@ -22,7 +22,7 @@ sections:
           description: Success is built upon values
           url: /our-achievements/CCA-Achievements
   - resources:
-      title: Information
+      title: Latest Happenings
       button: Information
   - infobar:
       title: Aviation @ CCSS
