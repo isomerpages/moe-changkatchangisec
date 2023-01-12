@@ -34,17 +34,4 @@ sections:
       description: Re-live the best moments
       button: Read More
       url: /our-achievements/Changkat-Moments
-  - infobar:
-      title: NATIONAL DIGITAL LITERACY PROGRAMME
-      subtitle: Announcements
-      description: Dear Parents,   Details on the NDLP for the 2022 Secondary 1 cohort
-        can be found on this page.
-      button: Read more
-      url: /experience-at-changkat/National-Digital-Literacy-Programme-NDLP
-  - infobar:
-      title: BOOK LIST FOR 2023
-      subtitle: Announcements
-      description: Dear Parents, booklist for 2023 is available here
-      button: Download here
-      url: https://changkatchangisec.moe.edu.sg/qql/slot/u144/Announcements/booklist2023.zip
 ---
