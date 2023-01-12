@@ -23,7 +23,7 @@ sections:
           url: /our-achievements/CCA-Achievements
   - resources:
       title: Latest Happenings
-      button: Information
+      button: Read More
   - infobar:
       title: Aviation @ CCSS
       description: Aviation Programme
