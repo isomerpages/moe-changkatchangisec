@@ -21,6 +21,9 @@ sections:
         - title: Succeed with Integrity
           description: Success is built upon values
           url: /our-achievements/CCA-Achievements
+  - resources:
+      title: Information
+      button: Information
   - infobar:
       title: Aviation @ CCSS
       description: Aviation Programme
