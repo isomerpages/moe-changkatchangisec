@@ -14,4 +14,4 @@ All students are expected to report to the respective venues by **1.45pm** in
 
   
 
-We would like to wish our students all the best!s
+We would like to wish our students all the best!
