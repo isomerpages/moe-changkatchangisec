@@ -17,7 +17,7 @@ sections:
           url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
         - title: APPLIED LEARNING PROGRAMME (ALP) – SOAR @ CCSS
           description: ""
-          url: /experience-at-changkat/SOAR/Aviation-at-CCSS
+          url: /experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/
         - title: LEARNING FOR LIFE PROGRAMME (LLP)
           description: ""
           url: /experience-at-changkat/Learning-For-Life-Programme-LLP
@@ -28,7 +28,7 @@ sections:
       title: LEARN WITH PASSION
       subtitle: Learning is always exciting
       button: Read
-      url: https://staging.d2qn7m8qwv3497.amplifyapp.com/experience-at-changkat/SOAR/Aviation-at-CCSS
+      url: /experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/
       image: /images/Learn with passion.png
       alt: learn with passion
   - infopic:
