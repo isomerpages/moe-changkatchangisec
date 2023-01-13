@@ -62,6 +62,6 @@ sections:
         school!
       button: Follow
       url: www.facebook.com/changkateers/
-      image: /images/follow us.png
+      image: /images/follow us1.png
       alt: Image alt text
 ---
