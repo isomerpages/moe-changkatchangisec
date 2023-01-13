@@ -34,4 +34,11 @@ sections:
       description: Re-live the best moments
       button: Read More
       url: /our-achievements/Changkat-Moments
+  - infopic:
+      title: LEARN WITH PASSION
+      subtitle: Learning is always exciting
+      button: Read
+      url: https://staging.d2qn7m8qwv3497.amplifyapp.com/experience-at-changkat/SOAR/Aviation-at-CCSS
+      image: /images/Learn with passion.png
+      alt: Image alt text
 ---
