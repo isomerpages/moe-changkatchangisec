@@ -55,4 +55,13 @@ sections:
       url: https://staging.d2qn7m8qwv3497.amplifyapp.com/our-achievements/CCA-Achievements
       image: /images/succeed with integrity.png
       alt: SUCCEED WITH INTEGRITY
+  - infopic:
+      title: Follow Us
+      subtitle: Our social media
+      description: Follow us on our official social media for the latest happenings in
+        school!
+      button: Follow
+      url: www.facebook.com/changkateers/
+      image: /images/follow us.png
+      alt: Image alt text
 ---
