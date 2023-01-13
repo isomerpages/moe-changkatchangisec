@@ -48,4 +48,11 @@ sections:
       url: https://staging.d2qn7m8qwv3497.amplifyapp.com/experience-at-changkat/Learning-For-Life-Programme-LLP
       image: /images/serve with humility.png
       alt: SERVE WITH HUMILITY
+  - infopic:
+      title: SUCCEED WITH INTEGRITY
+      subtitle: Success is built upon values
+      button: Read
+      url: https://staging.d2qn7m8qwv3497.amplifyapp.com/our-achievements/CCA-Achievements
+      image: /images/succeed with integrity.png
+      alt: SUCCEED WITH INTEGRITY
 ---
