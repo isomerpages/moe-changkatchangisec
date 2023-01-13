@@ -40,5 +40,12 @@ sections:
       button: Read
       url: https://staging.d2qn7m8qwv3497.amplifyapp.com/experience-at-changkat/SOAR/Aviation-at-CCSS
       image: /images/Learn with passion.png
-      alt: Image alt text
+      alt: learn with passion
+  - infopic:
+      title: SERVE WITH HUMILITY
+      subtitle: Serving is always an honour
+      button: Button Text
+      url: https://staging.d2qn7m8qwv3497.amplifyapp.com/experience-at-changkat/Learning-For-Life-Programme-LLP
+      image: /images/serve with humility.png
+      alt: SERVE WITH HUMILITY
 ---
