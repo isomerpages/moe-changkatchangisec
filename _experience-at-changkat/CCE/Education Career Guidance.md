@@ -158,8 +158,8 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click [https
 <tr style="height: 18px;">
 <td style="width: 27.0742%; height: 18px;">ECG Centre at MOE</td>
 <td style="width: 47.1616%; height: 18px;">
-<p>Email: <a href="mailto:MOE_ECG@moe.gov.sg">MOE_ECG@moe.gov.sg</a><br />E-appointment system: <a href="https://go.gov.sg/moe-ecg-centre">https://go.gov.sg/moe-ecg-centre</a></p>
-<p><a href="https://go.gov.sg/whats-next">https://go.gov.sg/whats-next </a></p>
+<p>Email: <a href="mailto:MOE_ECG@moe.gov.sg">MOE_ECG@moe.gov.sg</a><br />E-appointment system: <a href="https://go.gov.sg/moe-ecg-centre">https://go.gov.sg/moe-ecg-centre</a><br/>
+<a href="https://go.gov.sg/whats-next">https://go.gov.sg/whats-next </a></p>
 </td>
 <td style="width: 25.7641%; height: 18px;">The ECG Centre (51 Grange Road) provides ECG counselling services for students during periods such as the release of their GCE N-Level, O-Level and A-Level examination results.</td>
 </tr>
