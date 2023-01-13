@@ -25,11 +25,6 @@ sections:
       title: Announcements
       button: Read More
   - infobar:
-      title: Aviation @ CCSS
-      description: Aviation Programme
-      button: Read More
-      url: /experience-at-changkat/SOAR/Aviation-at-CCSS
-  - infobar:
       title: Many Moments, One School
       description: Re-live the best moments
       button: Read More
