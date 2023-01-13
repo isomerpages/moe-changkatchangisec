@@ -24,11 +24,6 @@ sections:
   - resources:
       title: Announcements
       button: Read More
-  - infobar:
-      title: Many Moments, One School
-      description: Re-live the best moments
-      button: Read More
-      url: /our-achievements/Changkat-Moments
   - infopic:
       title: LEARN WITH PASSION
       subtitle: Learning is always exciting
