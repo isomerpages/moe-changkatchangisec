@@ -9,18 +9,18 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Follow Us
-          description: The Changkateer Experience
-          url: https://www.facebook.com/Changkateers/
-        - title: Learn with passion
-          description: Learning is always exciting
+        - title: Many Moments, One School
+          description: Re-live the best moments
+          url: /our-achievements/Changkat-Moments
+        - title: FULL SUBJECT-BASED BANDING (FSBB)
+          description: ""
+          url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
+        - title: APPLIED LEARNING PROGRAMME (ALP) – SOAR @ CCSS
+          description: ""
           url: /experience-at-changkat/SOAR/Aviation-at-CCSS
-        - title: Serve with Humility
-          description: Serving is always an honour
-          url: /experience-at-changkat/Learning-for-Life-Programme-LLP
-        - title: Succeed with Integrity
-          description: Success is built upon values
-          url: /our-achievements/CCA-Achievements
+        - title: LEARNING FOR LIFE PROGRAMME (LLP)
+          description: ""
+          url: /experience-at-changkat/Learning-For-Life-Programme-LLP
   - resources:
       title: Announcements
       button: Read More
