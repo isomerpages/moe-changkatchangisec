@@ -2,8 +2,8 @@ title: Changkat Changi Secondary School
 url: https://changkatchangisec.moe.edu.sg
 favicon: /images/logo01.jpeg
 colors:
-  primary-color: "#53920e"
-  secondary-color: "#3b6809"
+  primary-color: "#3b6809"
+  secondary-color: "#53920e"
   media-colors:
     - title: media-color-one
       color: "#49759a"
