@@ -3,12 +3,11 @@ title: Learning for Life Programme (LLP)
 permalink: /experience-at-changkat/Learning-for-Life-Programme-LLP/
 description: ""
 ---
-
 Service and Leadership, through School to Nation is our school's Learning for Life programme.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uXKUyRZUUog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uXKUyRZUUog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wPo0WmnupOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/wPo0WmnupOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ![](/images/for-Life-Pyramid.png)
 
