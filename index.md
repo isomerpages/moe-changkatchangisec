@@ -17,7 +17,7 @@ sections:
           url: /experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/
         - title: LLP
           description: LEARNING FOR LIFE PROGRAMME
-          url: https://changkatchangisec.moe.edu.sg/experience-at-changkat/Learning-for-Life-Programme-LLP
+          url: /experience-at-changkat/Learning-for-Life-Programme-LLP
         - title: FULL SUBJECT-BASED BANDING
           description: (FSBB)
           url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
