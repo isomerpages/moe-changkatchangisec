@@ -12,14 +12,14 @@ sections:
         - title: Many Moments, One School
           description: Re-live the best moments
           url: /our-achievements/Changkat-Moments
-        - title: FULL SUBJECT-BASED BANDING (FSBB)
-          description: ""
+        - title: FULL SUBJECT-BASED BANDING
+          description: (FSBB)
           url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
-        - title: APPLIED LEARNING PROGRAMME (ALP) – SOAR @ CCSS
-          description: ""
+        - title: SOAR @ CCSS
+          description: APPLIED LEARNING PROGRAMME
           url: /experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/
-        - title: LEARNING FOR LIFE PROGRAMME (LLP)
-          description: ""
+        - title: LEARNING FOR LIFE PROGRAMME
+          description: " (LLP)"
           url: /experience-at-changkat/Learning-For-Life-Programme-LLP
   - resources:
       title: Announcements
@@ -55,4 +55,3 @@ sections:
       image: /images/follow us1.png
       alt: Image alt text
 ---
-
