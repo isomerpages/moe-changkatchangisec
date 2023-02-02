@@ -35,7 +35,8 @@ details[open] summary {
 <body>
 	<details>
 		<summary>Accordion One</summary>
-		Body Content 1
+		1. Body Content 1 	
+![](/images/20.jpeg)
 	</details>
 	<details>
 		<summary>Accordion Two</summary>
