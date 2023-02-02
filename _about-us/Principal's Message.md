@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
 ---
-<h3><strong><span style="color: #339966;">Growing Resilience, Enriching Character</span></strong></h3>
+<h3><strong><span style="color: #3b6809;">Growing Resilience, Enriching Character</span></strong></h3>
 <strong><span style="color: #3b6809;">1 January 2023</span></strong>
 
 Dear Members of the Changkat Community,
