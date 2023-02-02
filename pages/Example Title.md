@@ -7,7 +7,7 @@ description: ""
 <head>
 <style>
 details {
-    border: 5px solid #d4d4d4;    
+    border: 1px solid #d4d4d4;    
     padding: .75em .75em 0;
 	margin-top: 20px;
 	box-shadow:0 0 20px #d4d4d4;
@@ -28,7 +28,7 @@ details[open] {
 
 details[open] summary {
     border-bottom: 1px solid #d4d4d4;
-    margin-bottom: 20px;
+    margin-bottom: 1px;
 }
 </style>
 </head>
