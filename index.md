@@ -35,7 +35,7 @@ sections:
       title: SERVE WITH HUMILITY
       subtitle: Serving is always an honour
       button: Read
-      url: https://staging.d2qn7m8qwv3497.amplifyapp.com/experience-at-changkat/Learning-For-Life-Programme-LLP
+      url: https://staging.d2qn7m8qwv3497.amplifyapp.com/experience-at-changkat/Learning-for-Life-Programme-LLP
       image: /images/serve with humility1.png
       alt: SERVE WITH HUMILITY
   - infopic:
