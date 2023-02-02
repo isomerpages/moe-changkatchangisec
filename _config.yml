@@ -3,14 +3,14 @@ url: https://changkatchangisec.moe.edu.sg
 favicon: /images/School Logo/school_logo.jpg
 colors:
   primary-color: "#3b6809"
-  secondary-color: "#53920e"
+  secondary-color: "#f2e422"
   media-colors:
     - title: media-color-one
       color: "#3b6809"
     - title: media-color-two
       color: "#9b9b9b"
     - title: media-color-three
-      color: "#9b9b9b"
+      color: "#3b6809"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
