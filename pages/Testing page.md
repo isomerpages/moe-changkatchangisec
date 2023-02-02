@@ -3,7 +3,6 @@ title: Testing page
 permalink: /testing-page/
 description: ""
 ---
-
 <html>
 <head>
 <style>
@@ -56,7 +55,8 @@ details[open] summary {
 	</details>
 	<details>
 		<summary>12</summary>
-		asdgf
+		<p><img src="https://drive.google.com/uc?export=view&amp;id=1zcJA_uZtg_CCNp7K4jt_3-h11JQ0N9hm" alt="" /></p>
 	</details>
 </body>
+
 </html>
