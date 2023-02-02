@@ -15,11 +15,11 @@ sections:
         - title: SOAR @ CCSS
           description: APPLIED LEARNING PROGRAMME
           url: /experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/
-        - title: LLP
-          description: LEARNING FOR LIFE PROGRAMME
+        - title: LEARNING FOR LIFE PROGRAMME
+          description: LLP
           url: /experience-at-changkat/Learning-for-Life-Programme-LLP
         - title: FULL SUBJECT-BASED BANDING
-          description: (FSBB)
+          description: FSBB
           url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
   - resources:
       title: Announcements
