@@ -23,7 +23,6 @@ sections:
           url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
   - resources:
       title: Announcements
-      subtitle: Resources Section Subtitle
       button: Read More
   - infopic:
       title: LEARN WITH PASSION
