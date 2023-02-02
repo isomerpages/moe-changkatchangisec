@@ -3,15 +3,13 @@ title: Example Title
 permalink: /example-title/
 description: ""
 ---
-
-
 <html>
 <head>
 <style>
 details {
-    border: 1px solid #d4d4d4;    
+    border: 5px solid #d4d4d4;    
     padding: .75em .75em 0;
-	margin-top: 10px;
+	margin-top: 20px;
 	box-shadow:0 0 20px #d4d4d4;
 }
 
@@ -30,7 +28,7 @@ details[open] {
 
 details[open] summary {
     border-bottom: 1px solid #d4d4d4;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 </style>
 </head>
