@@ -16,8 +16,7 @@ third_nav_title: Academic Departments
 
 **Chinese Language Teachers:**
 
-
-Mdm Tan Sai Kee  
+ 
 Ms Teo Ying Hui<br>
 Mr Wang Yadong  
 Ms Poh Shi Hui
