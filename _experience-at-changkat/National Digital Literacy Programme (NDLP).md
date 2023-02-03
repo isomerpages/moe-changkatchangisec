@@ -76,7 +76,7 @@ Building up Good Learning Habits with the PLD
 #### FAQs for DMA Options
 
 
-<table style="width: 100%; border-collapse: collapse; border-style: solid; margin-left: auto; margin-right: auto;" border="1">
+<table style="width: 100%; border-collapse: collapse; border-style: solid; margin-left: auto; margin-right: auto; border-color: #000000; background-color: #ffffff;" border="1">
 <tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><strong>Default Option<br /></strong><strong style="text-align: start;"><img src="/images/dma%20default%20qr%20code.png" ></strong>Scan the QR code above or<br />click&nbsp;<a href="https://go.gov.sg/dmadefault" target="_blank" rel="noopener">here</a><strong><br /></strong></td>
