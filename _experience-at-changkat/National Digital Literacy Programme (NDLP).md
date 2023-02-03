@@ -80,13 +80,13 @@ Building up Good Learning Habits with the PLD
 <table style="width: 100%; border-collapse: collapse; border-style: solid; margin-left: auto; margin-right: auto; border=">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Default Option<br></strong><strong style="text-align: start;"><img src="/images/dma%20default%20qr%20code.png"></strong>Scan the QR code above or<br>click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/dmadefault">here</a><strong><br></strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Option A<br></strong><img src="/images/dma%20option%20A%20qr%20code.png">Scan the QR code above or<br>click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/dmaoptiona">here</a><strong><br></strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Option B<br></strong><img src="/images/dma%20option%20B%20qr%20code.png">Scan the QR code above or<br>click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/dmaoptionb">here</a><strong><br></strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong>Default Option<br></strong><strong style="text-align: start;"><img src="/images/dma%20default%20qr%20code.png"></strong>Scan the QR code above or<br>click&nbsp;<a href="https://go.gov.sg/dmadefault" target="_blank" rel="noopener">here</a><strong><br></strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong>Option A<br></strong><img src="/images/dma%20option%20A%20qr%20code.png">Scan the QR code above or<br>click&nbsp;<a href="https://go.gov.sg/dmaoptiona" target="_blank" rel="noopener">here</a><strong><br></strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong>Option B<br></strong><img src="/images/dma%20option%20B%20qr%20code.png">Scan the QR code above or<br>click&nbsp;<a href="https://go.gov.sg/dmaoptionb" target="_blank" rel="noopener">here</a><strong><br></strong></td>
 </tr>
 <tr>
-<td colspan="2" style="width: 66.6666%; text-align: center;">
-<p><br>If you have other queries not answered in the FAQs, you may wish to submit your queries via QR code on the right or click&nbsp;<a rel="noopener" target="_blank" href="https://go.gov.sg/dmaoq">here</a></p>
+<td style="width: 66.6666%; text-align: center;" colspan="2">
+<p><br>If you have other queries not answered in the FAQs, you may wish to submit your queries via QR code on the right or click&nbsp;<a href="https://go.gov.sg/dmaoq" target="_blank" rel="noopener">here</a></p>
 </td>
 <td style="width: 33.3333%;"><img src="/images/dmaoq.png"></td>
 </tr>
