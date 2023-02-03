@@ -1,6 +1,6 @@
 ---
 title: National Digital Literacy Programme (NDLP)
-permalink: /experience-at-changkat/National-Digital-Literacy-Programme-NDLP
+permalink: /experience-at-changkat/National-Digital-Literacy-Programme-NDLP/
 description: ""
 ---
 ##### The Personal Learning Devices (PLD) will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS)- as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.  
@@ -18,13 +18,12 @@ description: ""
 *   Seek Joy in learning
 *   Are reflective and motivated to excel
 
-3.  Collaborative Contributors who
+2.  Collaborative Contributors who
 
 *   Work effectively in teams
 *   Are innovative
 
-5.  A Confident Person who is 
-
+3.  A Confident Person who is
 *   Digitally literate
 *   A discerning user of technology
 
@@ -77,29 +76,19 @@ Building up Good Learning Habits with the PLD
 #### FAQs for DMA Options
 
 
-
-||||
-| -------- | -------- | -------- |
-| **Default Option**     | **Option A**     | **Option B**     |
-
-<img src="/images/dma%20default%20qr%20code.png" 
-     style="width:33%;float:left"><img src="/images/dma%20option%20A%20qr%20code.png" 
-     style="width:33%;float:left"><img src="/images/dma%20option%20B%20qr%20code.png" 
-     style="width:33%">
-		 
-||||
-| -------- | -------- | -------- |
-|Scan the QR code above or  
-click [here](https://go.gov.sg/dmadefault)  | Scan the QR code above or  
-click [here](https://go.gov.sg/dmaoptiona)    | Scan the QR code above or  
-click [here](https://go.gov.sg/dmaoptionb)|
-
-
-
-
-
-
-If you have other queries not answered in the FAQs, you may wish to submit your queries via QR code on the right or click [here](https://go.gov.sg/dmaoq)
-
-<img src="/images/dmaoq.png" 
-     style="width:33%">
+<table style="width: 100%; border-collapse: collapse; border-style: solid; margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><strong>Default Option<br /></strong><strong style="text-align: start;"><img src="/images/dma%20default%20qr%20code.png" ></strong>Scan the QR code above or<br />click&nbsp;<a href="https://go.gov.sg/dmadefault" target="_blank" rel="noopener">here</a><strong><br /></strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong>Option A<br /></strong><img src="/images/dma%20option%20A%20qr%20code.png" >Scan the QR code above or<br />click&nbsp;<a href="https://go.gov.sg/dmaoptiona" target="_blank" rel="noopener">here</a><strong><br /></strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong>Option B<br /></strong><img src="/images/dma%20option%20B%20qr%20code.png" >Scan the QR code above or<br />click&nbsp;<a href="https://go.gov.sg/dmaoptionb" target="_blank" rel="noopener">here</a><strong><br /></strong></td>
+</tr>
+<tr>
+<td style="width: 66.6666%; text-align: center;" colspan="2">
+<p><br />If you have other queries not answered in the FAQs, you may wish to submit your queries via QR code on the right or click&nbsp;<a href="https://go.gov.sg/dmaoq" target="_blank" rel="noopener">here</a></p>
+</td>
+<td style="width: 33.3333%;"><img src="/images/dmaoq.png"></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
