@@ -1,6 +1,6 @@
 ---
 title: Craft and Technology
-permalink: /experience-at-changkat/Academic-Departments/Craft-and-Technology
+permalink: /experience-at-changkat/Academic-Departments/Craft-and-Technology/
 description: ""
 third_nav_title: Academic Departments
 ---
@@ -8,7 +8,7 @@ third_nav_title: Academic Departments
   
 **Subject Head:** Mr Chia Heok Meng  
   
-**ART Coordinator:** Ms Nur Rashidah Binte A Rashid  
+**ART Coordinator:** Mdm Angeline Neo Swee Ting  
   
 **NFS Coordinator:** Mdm Siti Zubaidah Binte Ismail  
   
@@ -20,7 +20,6 @@ Mr Tan Boon Lee
 Mdm Angeline Neo Swee Ting  
 Mr Soo Sheng Lih  
 Mdm Shahnaz D/O Sheik Abdul Karim  
-Ms Rachel Tang  
 Mdm Linda Yap  
 
 ##### DESIGN & TECHNOLOGY (D&T) 
