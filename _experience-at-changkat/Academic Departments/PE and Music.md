@@ -1,6 +1,6 @@
 ---
 title: PE and Music
-permalink: /experience-at-changkat/Academic-Departments/PE-and-Music
+permalink: /experience-at-changkat/Academic-Departments/PE-and-Music/
 description: ""
 third_nav_title: Academic Departments
 ---
@@ -13,8 +13,7 @@ third_nav_title: Academic Departments
 **Teachers:**  
 Mr Abdul Nasir  
 Mr Iskandar Ishak  
-Ms Rachel Tang  
-Ms Samantha Tee  
+Mr  Muhammad Yusuf  
 Ms Dawn Wu  
   
 
