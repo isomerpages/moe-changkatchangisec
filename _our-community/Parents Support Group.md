@@ -1,6 +1,6 @@
 ---
 title: Parents Support Group
-permalink: /our-community/Parents-Support-Group
+permalink: /our-community/Parents-Support-Group/
 description: ""
 ---
 ##### Vision
@@ -46,7 +46,7 @@ One Heart, One Mind, One Family.
 
 ##### Please scan the QR code below to join our PSG
 
-<img style="width:50%" src="/images/PSG.jpeg">
+<img src="/images/PSG.jpeg" style="width:50%">
 		 
 Triple P upcoming seminars (for all)  
 
@@ -59,9 +59,9 @@ Triple P&nbsp;upcoming seminars (for sec 1 parents only)
 
 [https://forms.office.com/Pages/ResponsePage.aspx?id=QuR79Ie6rE2o6tyWYE-P9mIQPq67nQpMrZvi4GXEp0lUQ05CTThIR0hIVUU3MzlXTVkyNkZOWEtQSS4u&amp;qrcode=true](https://forms.office.com/Pages/ResponsePage.aspx?id=QuR79Ie6rE2o6tyWYE-P9mIQPq67nQpMrZvi4GXEp0lUQ05CTThIR0hIVUU3MzlXTVkyNkZOWEtQSS4u&amp;qrcode=true)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwZ86aqy9gjtvZgrhxs8Xrd9khxsqimZbcqLukE_0LrG2dIBeqp7EobkMWMHnbaMYevPq4ByoUqc2H/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHsx6v15azts9PZZlClPEf7YiXT8UmCWM4wBNNwRSARDuDd86CsWckGZ1yAQviMCbYbEUta2lX1EtC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-<img style="width:25%" src="/images/logo-275x300.jpeg">
+<img src="/images/logo-275x300.jpeg" style="width:25%">
 		 
 ##### PSG Committee
 
@@ -77,4 +77,3 @@ Triple P&nbsp;upcoming seminars (for sec 1 parents only)
 ||Mr David Tan Kian Eng
 
 For more information on Parent Support Group and the programmes/ activities, you can contact Mdm Mufeedah at 67859790.
-
