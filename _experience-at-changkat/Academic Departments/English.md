@@ -22,14 +22,10 @@ Mr Sebastian Thng
 Mdm Shahnaz d/o Sheikh Abdul Karim  
 Mr Venkateswaran Balakrishnan  
 Ms Yeo Tze Qing  
-Mr Mohamed Syafiq Bin Mohamed Rafid  
-
-Ms Audra Amir Liow
-
-Mdm Katherine Yeung See Mun
-
-Miss Aliah Aman Aljunied
-
+Mr Mohamed Syafiq Bin Mohamed Rafid       
+Ms Audra Amir Liow     
+Mdm Katherine Yeung See Mun     
+Miss Aliah Aman Aljunied     
 Mr Yeo Shao Hui Timothy  
 
 
