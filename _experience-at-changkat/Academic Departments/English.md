@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /experience-at-changkat/Academic-Departments/English
+permalink: /experience-at-changkat/Academic-Departments/English/
 description: ""
 third_nav_title: Academic Departments
 ---
@@ -32,11 +32,7 @@ Miss Aliah Aman Aljunied
 
 Mr Yeo Shao Hui Timothy  
 
-  
 
-**AED:**
-
-Mr Clarence Cheong
 
   
 The English Language Department aims to develop students into empathetic communicators, discerning readers and creative inquirers who are confident and competent in their use of the English Language. To this end, the department offers structured programmes which allow students to discover their passions in the various language areas. In particular, the Public Speaking Programme helps our students grow as orators.  
