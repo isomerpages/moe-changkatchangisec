@@ -4,7 +4,8 @@ permalink: /testing-page/
 description: ""
 ---
 <html>
-<head>
+							
+	<head>
 <style>
 details {
 	 font-size: 16px;
@@ -47,17 +48,15 @@ details[open] summary {
 		Body Content 2
 		Body Content 2
 		Body Content 2
-		Body Content 2
-		Body Content 2
-		Body Content 2
-		Body Content 2
-		Body Content 2
-		Body Content 2
+1. 		Body Content 2<br>
+		 asdgfasdgf</body>
 		Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2Body Content 2
 	</details>
 	<details>
 		<summary>asdf</summary>
-		<p><img src="https://drive.google.com/uc?export=view&amp;id=1zcJA_uZtg_CCNp7K4jt_3-h11JQ0N9hm" alt="" /></p>
+		<img src="https://drive.google.com/uc?export=view&amp;id=1zcJA_uZtg_CCNp7K4jt_3-h11JQ0N9hm" alt="" />
+			<br>
+		<img src="https://drive.google.com/uc?export=view&amp;id=1zcJA_uZtg_CCNp7K4jt_3-h11JQ0N9hm" alt="" />
 	</details>
 </body>
 
