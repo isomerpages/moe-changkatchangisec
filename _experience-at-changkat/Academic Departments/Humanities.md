@@ -6,7 +6,7 @@ third_nav_title: Academic Departments
 ---
 **Head of Department:** Ms Lai Han Wei  
   
-**Subject Head:** Mr Muhammad Firdaus Zainal  
+**Subject Head:** Ms Nur Syazana 
   
 **Senior Teacher:** Ms Nuriahtu Bte Farhati Mohamed Ali   
   
