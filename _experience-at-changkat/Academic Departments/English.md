@@ -16,12 +16,10 @@ third_nav_title: Academic Departments
 Ms Norhafizah Bte Ma’arof  
 Ms Nuraini Abu Bakar  
 Ms Nuriahtu Bte Farhati Mohamed Ali  
-Ms Rachel Tang  
 Mdm Rosazlin Bte Mohamad  
 Mr Sebastian Thng  
 Mdm Shahnaz d/o Sheikh Abdul Karim  
 Mr Venkateswaran Balakrishnan  
-Ms Yeo Tze Qing  
 Mr Mohamed Syafiq Bin Mohamed Rafid       
 Ms Audra Amir Liow     
 Mdm Katherine Yeung See Mun     
