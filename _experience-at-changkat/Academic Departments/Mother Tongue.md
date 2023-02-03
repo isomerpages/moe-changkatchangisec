@@ -19,8 +19,8 @@ third_nav_title: Academic Departments
  
 Ms Teo Ying Hui<br>
 Mr Wang Yadong  
-Ms Poh Shi Hui
-
+Ms Poh Shi Hui   
+Ms Khoo Kai Leng Esther 
   
 
 **Malay Language Teachers:**
