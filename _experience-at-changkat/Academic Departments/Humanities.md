@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /experience-at-changkat/Academic-Departments/Humanities
+permalink: /experience-at-changkat/Academic-Departments/Humanities/
 description: ""
 third_nav_title: Academic Departments
 ---
@@ -18,15 +18,12 @@ Ms Namira Mohamed
 Mr Sebastian Thng  
 Ms Huan Zhenling  
 Ms Debi Lim  
-Mr Khalid Bin Othman  
+Mr Khalid Bin Othman          
+Mr Yeo Shao Hui Timothy       
+Mrs Mohana Sivaprasad        
+Mdm Katherine Yeung See Mun
 
-Mdm Katherine Yeung See Mun 
 
-Mr Yeo Shao Hui Timothy  
-
-Mrs Mohana Sivaprasad   
-
-  
 
 The Humanities Department seeks to prepare students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human experience. Through inquiry and authentic learning experiences, it is envisioned that learners will come to possess the dispositions that will enable them to be empathetic and concerned thinkers who are committed to contribute to society.
 
