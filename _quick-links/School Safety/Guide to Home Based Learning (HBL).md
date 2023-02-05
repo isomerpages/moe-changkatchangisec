@@ -78,9 +78,8 @@ The [Singapore StudentLearning Space (SLS)](http://learning.moe.edu.sg/) will 
 A key student self help resource during this HBL period can be found [here](http://go.gov.sg/ccsshbl).  
   
 In case your child/ward encounters issue accessing SLS, please follow the steps shown in the SLS recovery poster below.  
-  
-![](/images/Login%20to%20SLS%20FAQ.jpeg) 
-  
+   
+  ![](/images/hbl%20help.jpeg)
   
   
   
