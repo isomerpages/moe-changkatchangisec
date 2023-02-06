@@ -5,9 +5,38 @@ description: ""
 ---
 26 October 2022 - Aviation Day
 
-<p><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad01.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad02.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad03.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad04.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/DC3.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/DC4.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/dc1.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/dc2.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202204.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202204.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202204.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202204.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202204.jpg"><img class="jekyllcodex_accordion">
+<p><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad01.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad02.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad03.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad04.jpg"><img></p>
+
+21 October 2022 - Deepavali Celebration
+<p>
+<img style="width:50%;float:left" src="/images/Changkat%20Moment/DC3.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/DC4.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/dc1.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/dc2.jpg"><img></p>
+
+31 August 2022 - Teacher's Day Celebration
+
+<p>
+<img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202204.jpg"><img></p>
 	
-		&nbsp;&nbsp;</p><li>
+9 Aug - National Day Observance Ceremony 2022
+	
+	
+<p>
+<img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202204.jpg"><img></p>
+
+18 July 2022 - Racial Harmony Day
+
+<p>
+<img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202204.jpg"><img></p>
+																	 
+1 June 2022 - Aircraft Structure Repair Workshop																	 
+																	 
+<p>
+<img style="width:50%;float:left" 																	 
+src="/images/Changkat%20Moment/ASRW202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202204.jpg"><img class="jekyllcodex_accordion"></p>
+	
+	
+	
+
+</p><li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
 
