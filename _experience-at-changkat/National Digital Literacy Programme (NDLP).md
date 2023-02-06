@@ -3,7 +3,7 @@ title: National Digital Literacy Programme (NDLP)
 permalink: /experience-at-changkat/National-Digital-Literacy-Programme-NDLP/
 description: ""
 ---
-##### The Personal Learning Devices (PLD) will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS)- as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.  
+The Personal Learning Devices (PLD) will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS)- as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.  
 
   
 
