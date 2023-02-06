@@ -89,7 +89,7 @@ description: ""
 <li><input id="accordion15" type="checkbox">
 <label for="accordion15">21 July 2021 – Racial Harmony Day</label>
 <div><p><img style="width:50%;float:left" src="/images/RHD1.jpeg"><img style="width:50%" src="/images/RHD2.jpeg"></p>
-</div></li><li>
+</div></li>
 
 
 <li><input id="accordion16" type="checkbox">
