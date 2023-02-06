@@ -1,163 +1,131 @@
 ---
 title: Changkat Moments
-permalink: /our-achievements/Changkat-Moments
+permalink: /our-achievements/Changkat-Moments/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">
+26 October 2022 - Aviation Day
+
+<p><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad01.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad02.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad03.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ad04.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/DC3.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/DC4.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/dc1.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/dc2.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202204.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202204.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202204.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/RHD202204.jpg"><img><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ASRW202204.jpg"><img class="jekyllcodex_accordion">
 	
-		  <li>
+		&nbsp;&nbsp;</p><li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
 
-    <label for="accordion1">14 February 2022 - Total Defence Day</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">14 February 2022 - Total Defence Day</label>
 
-    <div>
-			<p><img src="/images/Total%20Defence%20Pix%202.jpeg" 
-     style="width:50%;float:left"><img src="/images/Total%20Defence%20pix%203.jpeg" 
-     style="width:50%"><img src="/images/Total%20Defence%20Pix%201.png" 
-     style="width:50%;float:left"><img src="/images/Total%20Defence%20Pix%204.jpeg" 
-     style="width:50%"></p>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+			<p><img style="width:50%;float:left" src="/images/Total%20Defence%20Pix%202.jpeg"><img style="width:50%" src="/images/Total%20Defence%20pix%203.jpeg"><img style="width:50%;float:left" src="/images/Total%20Defence%20Pix%201.png"><img style="width:50%" src="/images/Total%20Defence%20Pix%204.jpeg"></p>
 			
-			<li>
+			</div></li><li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
 
-    <label for="accordion2">31 January 2022 - CNY Celebration</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">31 January 2022 - CNY Celebration</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 			
-		<p><img src="/images/CNY%20Pix%203.jpeg" 
-     style="width:50%;float:left"><img src="/images/CNY%20Pix%201.jpg" 
-     style="width:50%"><img src="/images/CNY%20Pix%202.jpeg" 
-     style="width:50%;float:left"><img src="/images/CNY%20Pix%204.jpeg" 
-																			 style="width:50%"></p>
+		<p><img style="width:50%;float:left" src="/images/CNY%20Pix%203.jpeg"><img style="width:50%" src="/images/CNY%20Pix%201.jpg"><img style="width:50%;float:left" src="/images/CNY%20Pix%202.jpeg"><img style="width:50%" src="/images/CNY%20Pix%204.jpeg"></p>
 			
-			<li>
+			</div></li><li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
 
-    <label for="accordion3">4 January 2022 -  Kickstart 2022</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">4 January 2022 - &nbsp;Kickstart 2022</label>
 
-    <div>
-		<p><img src="/images/IMG_1957.jpeg" 
-     style="width:50%;float:left"><img src="/images/IMG_1898.jpeg" 
-     style="width:50%"><img src="/images/IMG_1887.jpeg" 
-     style="width:50%;float:left"><img src="/images/IMG_1913.jpeg" 
-																			 style="width:50%"></p>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+		<p><img style="width:50%;float:left" src="/images/IMG_1957.jpeg"><img style="width:50%" src="/images/IMG_1898.jpeg"><img style="width:50%;float:left" src="/images/IMG_1887.jpeg"><img style="width:50%" src="/images/IMG_1913.jpeg"></p>
 			
-			<li>
+			</div></li><li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion4" type="checkbox">
 
-    <label for="accordion4">28 October 2021 – Deepavali celebration </label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">28 October 2021 – Deepavali celebration </label>
 			<div>
-			<p><img src="/images/Deepavali%201.jpeg" 
-     style="width:50%;float:left"><img src="/images/Deepavali%202.jpeg" 
-     style="width:50%"><img src="/images/Deepavali%203.jpeg" 
-     style="width:50%;float:left"><img src="/images/Deepavali%204.jpeg" style="width:50%"></p>
+			<p><img style="width:50%;float:left" src="/images/Deepavali%201.jpeg"><img style="width:50%" src="/images/Deepavali%202.jpeg"><img style="width:50%;float:left" src="/images/Deepavali%203.jpeg"><img style="width:50%" src="/images/Deepavali%204.jpeg"></p>
 				
-<li>
+</div></li><li>
 
-    <input type="checkbox" id="accordion5">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion5" type="checkbox">
 
-    <label for="accordion5">2 September 2021 - Teacher's Day Celebration</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">2 September 2021 - Teacher's Day Celebration</label>
 			<div>
-			<p><img src="/images/DSC04440.jpeg" 
-     style="width:50%;float:left"><img src="/images/DSC04456.jpeg" 
-     style="width:50%"><img src="/images/DSC04462.jpeg" 
-     style="width:50%;float:left"><img src="/images/DSC04475.jpeg" style="width:50%"></p>
+			<p><img style="width:50%;float:left" src="/images/DSC04440.jpeg"><img style="width:50%" src="/images/DSC04456.jpeg"><img style="width:50%;float:left" src="/images/DSC04462.jpeg"><img style="width:50%" src="/images/DSC04475.jpeg"></p>
 				
-				<li>
+				</div></li><li>
 
-    <input type="checkbox" id="accordion6">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">
 
-    <label for="accordion6">29 October 2021 – Changkateer featured in RIA 89.7fm </label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">29 October 2021 – Changkateer featured in RIA 89.7fm&nbsp;</label>
 			<div>
-			<p><img src="/images/RIA%20897FM.jpg" 
-							style="width:50%"></p>
+			<p><img style="width:50%" src="/images/RIA%20897FM.jpg"></p>
 								
-				<li>
+				</div></li><li>
 
-    <input type="checkbox" id="accordion7">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion7" type="checkbox">
 
-    <label for="accordion7">6 August 2021 – National Day Celebrations</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">6 August 2021 – National Day Celebrations</label>
 				<div>
-				<p><img src="/images/DSC04425.jpeg" 
-     style="width:50%;float:left"><img src="/images/DSC04433.jpeg" 
-     style="width:50%"><img src="/images/DSC04423.jpeg" 
-     style="width:50%;float:left"><img src="/images/IMG_1420.jpeg" style="width:50%"></p>
+				<p><img style="width:50%;float:left" src="/images/DSC04425.jpeg"><img style="width:50%" src="/images/DSC04433.jpeg"><img style="width:50%;float:left" src="/images/DSC04423.jpeg"><img style="width:50%" src="/images/IMG_1420.jpeg"></p>
 					
-					<li>
+					</div></li><li>
 
-    <input type="checkbox" id="accordion8">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion8" type="checkbox">
 
-    <label for="accordion8">21 July 2021 – Racial Harmony Day</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion8">21 July 2021 – Racial Harmony Day</label>
 				<div>
-				<p><img src="/images/RHD1.jpeg" 
-     style="width:50%;float:left"><img src="/images/RHD2.jpeg" style="width:50%"></p>
+				<p><img style="width:50%;float:left" src="/images/RHD1.jpeg"><img style="width:50%" src="/images/RHD2.jpeg"></p>
 
-					<li>
+					</div></li><li>
 
-    <input type="checkbox" id="accordion9">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion9" type="checkbox">
 
-    <label for="accordion9">6 August 2021 – National Day Celebrations</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion9">6 August 2021 – National Day Celebrations</label>
 				<div>
 					<p>content</p>
 					
-					<li>
+					</div></li><li>
 
-    <input type="checkbox" id="accordion10">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion10" type="checkbox">
 
-    <label for="accordion10">1 July 2021 - NCC Day</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion10">1 July 2021 - NCC Day</label>
 				<div>
 				<p>The NCC Day is observed on 1 July 2021 which coincides with Singapore Armed Forces (SAF) Day. The event commemorates the founding of the SAF on 1 July.<br>Congratulations to the following cadets from our school who will be receiving the Outstanding Cadet Award:<br>Master Sergeant Alfred Seetoh Xiao An from the NCC Air Boys<br>Master Sergeant Nur Natasha Binte Mohamed Riduwan from the NCC Air Girls</p>
-					<p><img src="/images/Alfred%20Seeto.jpeg" 
-     style="width:50%;float:left"><img src="/images/Nur%20Natasha.jpeg" 
-     style="width:50%"><img src="/images/IMG_1184.jpeg" style="width:50%;float:left"><img src="/images/IMG_1185.jpeg" style="width:50%"></p>
+					<p><img style="width:50%;float:left" src="/images/Alfred%20Seeto.jpeg"><img style="width:50%" src="/images/Nur%20Natasha.jpeg"><img style="width:50%;float:left" src="/images/IMG_1184.jpeg"><img style="width:50%" src="/images/IMG_1185.jpeg"></p>
 					
-					<li>
+					</div></li><li>
 
-    <input type="checkbox" id="accordion11">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion11" type="checkbox">
 
-    <label for="accordion11">16 February 2021 - Total Defence Day</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion11">16 February 2021 - Total Defence Day</label>
 				<div>
 				<p>Changkateers commemorating Total Defence Week through games and insightful sharing sessions</p>
-				<p><img src="/images/TDD2021-1.jpeg" 
-     style="width:50%;float:left"><img src="/images/TDD2021-2.jpeg" 
-     style="width:50%"><img src="/images/TDD2021-3.jpeg" style="width:50%;float:left"><img src="/images/TDD2021-4.jpeg" style="width:50%"><img src="/images/TDD2021-5.jpeg" style="width:50%;float:left"></p>
+				<p><img style="width:50%;float:left" src="/images/TDD2021-1.jpeg"><img style="width:50%" src="/images/TDD2021-2.jpeg"><img style="width:50%;float:left" src="/images/TDD2021-3.jpeg"><img style="width:50%" src="/images/TDD2021-4.jpeg"><img style="width:50%;float:left" src="/images/TDD2021-5.jpeg"></p>
 					
-					<li>
+					</div></li><li>
 
-    <input type="checkbox" id="accordion12">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion12" type="checkbox">
 
-    <label for="accordion12">11 February 2021 - Chinese New Year Celebration</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion12">11 February 2021 - Chinese New Year Celebration</label>
 				<div>
 					<p>Changkateers ushering in the Year of the Ox. 牛年大吉!</p>
-					<p><img src="/images/DSC_0444.jpeg" 
-     style="width:33%;float:left"><img src="/images/DSC_0477.jpeg" 
-																			 style="width:33%;float:left"><img src="/images/DSC_0536.jpeg" style="width:33%"><img src="/images/IMG_0130.jpeg" style="width:50%"></p>
+					<p><img style="width:33%;float:left" src="/images/DSC_0444.jpeg"><img style="width:33%;float:left" src="/images/DSC_0477.jpeg"><img style="width:33%" src="/images/DSC_0536.jpeg"><img style="width:50%" src="/images/IMG_0130.jpeg"></p>
 					
-						<li>
+						</div></li><li>
 
-    <input type="checkbox" id="accordion13">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion13" type="checkbox">
 
-    <label for="accordion13">8 February 2021- Mother Tongue Fortnight</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion13">8 February 2021- Mother Tongue Fortnight</label>
 				<div>
 					<p>Changkateers having fun at the various activity booth.</p>
-					<p><img src="/images/IMG_0503.jpeg" 
-     style="width:50%;float:left"><img src="/images/IMG_0515.jpeg" 
-																			 style="width:50%;float:left"><img src="/images/IMG_0555.jpeg" style="width:50%;float:left"><img src="/images/IMG_0519.jpeg" style="width:50%"></p>
+					<p><img style="width:50%;float:left" src="/images/IMG_0503.jpeg"><img style="width:50%;float:left" src="/images/IMG_0515.jpeg"><img style="width:50%;float:left" src="/images/IMG_0555.jpeg"><img style="width:50%" src="/images/IMG_0519.jpeg"></p>
 					
-										<li>
+										</div></li><li>
 
-    <input type="checkbox" id="accordion14">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion14" type="checkbox">
 
-    <label for="accordion14">4 January - Kickstart ! Programme</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion14">4 January - Kickstart ! Programme</label>
 				<div>
 					<p>Our Secondary one students getting to know their classmates better through various activities.</p>
-					<p><img src="/images/1.jpeg" 
-     style="width:50%;float:left"><img src="/images/2.jpeg" style="width:50%"><img src="/images/3.jpeg" style="width:50%;float:left"><img src="/images/4.jpeg" style="width:50%"></p>
+					<p><img style="width:50%;float:left" src="/images/1.jpeg"><img style="width:50%" src="/images/2.jpeg"><img style="width:50%;float:left" src="/images/3.jpeg"><img style="width:50%" src="/images/4.jpeg"></p>
 					<p>Secondary 3 students enjoying their time in Camp Courage.</p>
-					<p><img src="/images/5.jpeg" 
-     style="width:50%;float:left"><img src="/images/6.jpeg" style="width:50%"><img src="/images/7.jpeg" style="width:50%;float:left"><img src="/images/8.jpeg" style="width:50%"></p>
-					
+					<p><img style="width:50%;float:left" src="/images/5.jpeg"><img style="width:50%" src="/images/6.jpeg"><img style="width:50%;float:left" src="/images/7.jpeg"><img style="width:50%" src="/images/8.jpeg"></p></div></li>
