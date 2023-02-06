@@ -1,0 +1,16 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - Sec 2 Streaming Exercise.md
+      - Useful Links.md
+      - Class Timetable.md
+      - Examination Matters.md
+      - ICT Related Matters.md
+      - NEU PC Plus Programme.md
+      - School Safety/School Safety.md
+      - School Safety/Safety Annoucement.md
+      - School Safety/Haze Management Measures.md
+      - School Safety/Guide to Home Based Learning (HBL).md
+      - School Safety/.keep
+      - Frequently Asked Questions.md

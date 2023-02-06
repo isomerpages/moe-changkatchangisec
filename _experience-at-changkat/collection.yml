@@ -1,0 +1,38 @@
+collections:
+  experience-at-changkat:
+    output: true
+    order:
+      - National Digital Literacy Programme (NDLP).md
+      - Sec 1 (2023) Registration.md
+      - SOAR/.keep
+      - SOAR/Student centered Opportunities for AeRospace Industry.md
+      - SOAR/Aviation @ CCSS.md
+      - Learning for Life Programme (LLP).md
+      - Full Subject Based Banding (FSBB).md
+      - Academic Departments/.keep
+      - Academic Departments/English.md
+      - Academic Departments/Mother Tongue.md
+      - Academic Departments/Mathematics.md
+      - Academic Departments/Science.md
+      - Academic Departments/PE and Music.md
+      - Academic Departments/Humanities.md
+      - Academic Departments/Craft and Technology.md
+      - CCE/.keep
+      - CCE/Student Leadership Programme.md
+      - CCE/National Education and VIA.md
+      - CCE/Sexuality Education.md
+      - CCE/Discipline.md
+      - CCE/Education Career Guidance.md
+      - Project Work.md
+      - Scholarship Opportunities/.keep
+      - Scholarship Opportunities/Chua Soo Chiew Scholarship.md
+      - Scholarship Opportunities/Neo Choon Tiong Scholarship.md
+      - Scholarship Opportunities/Changkat Changi Secondary School SOAR ALP
+        Scholarship.md
+      - Direct School Admission/.keep
+      - Direct School Admission/Direct School Admission.md
+      - Direct School Admission/Direct School Admission through Applied Learning
+        Programme.md
+      - Direct School Admission/Direct School Admission through Learning for
+        Life Programme (LLP).md
+      - Open House.md

@@ -1,15 +1,37 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/School Logo/sch website logo png.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Our Achievements
+    collection: our-achievements
+  - title: experience@changkat
+    url: /experience-at-changkat/National-Digital-Literacy-Programme-NDLP
+    sublinks:
+      - title: National Digital Literacy
+        url: /experience-at-changkat/National-Digital-Literacy-Programme-NDLP
+      - title: Sec 1 (2023) Registration
+        url: /experience-at-changkat/Sec-1-2023-Registration/
+      - title: S.O.A.R.
+        url: /experience-at-changkat/SOAR/Aviation-at-CCSS
+      - title: Learning For Life
+        url: /experience-at-changkat/Learning-for-Life-Programme-LLP/
+      - title: "Full Subject Based Banding "
+        url: "/experience-at-changkat/Full-Subject-Based-Banding-SBB "
+      - title: Academic Departments
+        url: /experience-at-changkat/Academic-Departments/English
+      - title: Co-Curricular Activities
+        url: /co-curricular-activities/LEAPS-2/School-CCA-Policy
+      - title: CCE
+        url: /experience-at-changkat/CCE/Student-Leadership-Programme
+      - title: Project Work
+        url: /experience-at-changkat/Project-Work
+      - title: Scholarship Opportunities
+        url: /experience-at-changkat/Scholarship-Opportunities/Chua-Soo-Chiew-Scholarship
+      - title: Direct School Admission
+        url: /experience-at-changkat/Direct-School-Admission
+      - title: "Open House "
+        url: /experience-at-changkat/Open-House/
+  - title: Our Community
+    collection: our-community
+  - title: Quick Links
+    collection: quick-links
