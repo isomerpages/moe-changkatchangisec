@@ -122,5 +122,4 @@ description: ""
 <div><p>Our Secondary one students getting to know their classmates better through various activities.</p>
 <p><img style="width:50%;float:left" src="/images/1.jpeg"><img style="width:50%" src="/images/2.jpeg"><img style="width:50%;float:left" src="/images/3.jpeg"><img style="width:50%" src="/images/4.jpeg"></p>
 <p>Secondary 3 students enjoying their time in Camp Courage.</p>
-<p><img style="width:50%;float:left" src="/images/5.jpeg"><img style="width:50%" src="/images/6.jpeg"><img style="width:50%;float:left" src="/images/7.jpeg"><img style="width:50%" src="/images/8.jpeg"></p></div></li>
-</ul>
+<p><img style="width:50%;float:left" src="/images/5.jpeg"><img style="width:50%" src="/images/6.jpeg"><img style="width:50%;float:left" src="/images/7.jpeg"><img style="width:50%" src="/images/8.jpeg"></p></div></li></ul>
