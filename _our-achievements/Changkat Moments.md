@@ -18,9 +18,12 @@ description: ""
 	
 9 Aug - National Day Observance Ceremony 2022
 	
-	
 <p>
-<img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/TD202204.jpg"><img></p>
+<img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/ND202204.jpg"><img></p>
+
+8 August 2022 - National Day Celebration
+<p>
+<img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202201.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202202.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202203.jpg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/NDC202204.jpg"><img></p>
 
 18 July 2022 - Racial Harmony Day
 
