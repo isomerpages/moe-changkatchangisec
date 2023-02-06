@@ -7,4 +7,4 @@ image: ""
 external: staging.d2qn7m8qwv3497.amplifyapp.com/quick-links/School-Safety/Guide-to-Home-Based-Learning-HBL/
 permalink: /announcements/2023/permalink/
 ---
-
+For more information on Home Based Learning , click [here](http://staging.d2qn7m8qwv3497.amplifyapp.com/quick-links/School-Safety/Guide-to-Home-Based-Learning-HBL/)
