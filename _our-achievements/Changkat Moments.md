@@ -91,37 +91,34 @@ description: ""
 <div><p><img style="width:50%;float:left" src="/images/RHD1.jpeg"><img style="width:50%" src="/images/RHD2.jpeg"></p>
 </div></li><li>
 
-<input id="accordion16" type="checkbox">
-<label for="accordion16">6 August 2021 – National Day Celebrations</label>
-<div><p>content</p></div></li>
 
-<li><input id="accordion17" type="checkbox">
-<label for="accordion17">1 July 2021 - NCC Day</label>
+<li><input id="accordion16" type="checkbox">
+<label for="accordion16">1 July 2021 - NCC Day</label>
 <div><p>The NCC Day is observed on 1 July 2021 which coincides with Singapore Armed Forces (SAF) Day. The event commemorates the founding of the SAF on 1 July.<br>Congratulations to the following cadets from our school who will be receiving the Outstanding Cadet Award:<br>Master Sergeant Alfred Seetoh Xiao An from the NCC Air Boys<br>Master Sergeant Nur Natasha Binte Mohamed Riduwan from the NCC Air Girls</p>
 <p><img style="width:50%;float:left" src="/images/Alfred%20Seeto.jpeg"><img style="width:50%" src="/images/Nur%20Natasha.jpeg"><img style="width:50%;float:left" src="/images/IMG_1184.jpeg"><img style="width:50%" src="/images/IMG_1185.jpeg"></p>
 </div></li>
 
-<li><input id="accordion18" type="checkbox">
-<label for="accordion18">16 February 2021 - Total Defence Day</label>
+<li><input id="accordion17" type="checkbox">
+<label for="accordion17">16 February 2021 - Total Defence Day</label>
 <div>
 <p>Changkateers commemorating Total Defence Week through games and insightful sharing sessions</p>
 <p><img style="width:50%;float:left" src="/images/TDD2021-1.jpeg"><img style="width:50%" src="/images/TDD2021-2.jpeg"><img style="width:50%;float:left" src="/images/TDD2021-3.jpeg"><img style="width:50%" src="/images/TDD2021-4.jpeg"><img style="width:50%;float:left" src="/images/TDD2021-5.jpeg"></p>
 </div></li>
 
-<li><input id="accordion19" type="checkbox">
-<label for="accordion19">11 February 2021 - Chinese New Year Celebration</label>
+<li><input id="accordion18" type="checkbox">
+<label for="accordion18">11 February 2021 - Chinese New Year Celebration</label>
 <div><p>Changkateers ushering in the Year of the Ox. 牛年大吉!</p>
 <p><img style="width:33%;float:left" src="/images/DSC_0444.jpeg"><img style="width:33%;float:left" src="/images/DSC_0477.jpeg"><img style="width:33%" src="/images/DSC_0536.jpeg"><img style="width:50%" src="/images/IMG_0130.jpeg"></p>
 </div></li>
 
-<li><input id="accordion20" type="checkbox">
-<label for="accordion20">8 February 2021- Mother Tongue Fortnight</label>
+<li><input id="accordion19" type="checkbox">
+<label for="accordion19">8 February 2021- Mother Tongue Fortnight</label>
 <div><p>Changkateers having fun at the various activity booth.</p>
 <p><img style="width:50%;float:left" src="/images/IMG_0503.jpeg"><img style="width:50%;float:left" src="/images/IMG_0515.jpeg"><img style="width:50%;float:left" src="/images/IMG_0555.jpeg"><img style="width:50%" src="/images/IMG_0519.jpeg"></p>	
 </div></li>
 
-<li><input id="accordion21" type="checkbox">
-<label for="accordion21">4 January - Kickstart ! Programme</label>
+<li><input id="accordion20" type="checkbox">
+<label for="accordion20">4 January - Kickstart ! Programme</label>
 <div><p>Our Secondary one students getting to know their classmates better through various activities.</p>
 <p><img style="width:50%;float:left" src="/images/1.jpeg"><img style="width:50%" src="/images/2.jpeg"><img style="width:50%;float:left" src="/images/3.jpeg"><img style="width:50%" src="/images/4.jpeg"></p>
 <p>Secondary 3 students enjoying their time in Camp Courage.</p>
