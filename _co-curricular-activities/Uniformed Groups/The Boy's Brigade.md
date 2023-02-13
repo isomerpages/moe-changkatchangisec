@@ -1,6 +1,6 @@
 ---
 title: The Boy's Brigade
-permalink: /co-curricular-activities/Uniformed-Groups/The-Boys-Brigade
+permalink: /co-curricular-activities/Uniformed-Groups/The-Boys-Brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -10,10 +10,10 @@ third_nav_title: Uniformed Groups
 
   
 
-*   **Mr Kelvin Yap Meng Wei (I/C)**
+*   **Mr Sean Han (I/C)**
 *   Ms Salome Sim (2 I/C)
-*   Ms Teo Ying Hui
-*   Mr Bryan Yong Zhishan  
+*   Mr Muhammad Yusuf
+*   Ms Esther Khoo
     
 
 ###   Training time & venue:  
