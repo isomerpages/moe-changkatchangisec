@@ -1,6 +1,6 @@
 ---
 title: Girl Guides
-permalink: /co-curricular-activities/Uniformed-Groups/Girl-Guides
+permalink: /co-curricular-activities/Uniformed-Groups/Girl-Guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -10,11 +10,11 @@ third_nav_title: Uniformed Groups
 
 *   **Mdm Siti Zubaidah (I/C)**  
     
-*   Mdm Linda Yap (2 I/C)  
+*   Ms Salome Sim (covering i/c)
     
-*   Dr Perema d/o Ramasamy (Advisor)  
+*   Ms Teo Ying Hui (Sem 1)
     
-*   Ms Nurhafizah
+*   Ms Ling Geok Keng
 
   
 
