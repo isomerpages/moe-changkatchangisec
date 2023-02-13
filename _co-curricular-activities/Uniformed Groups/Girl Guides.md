@@ -10,11 +10,11 @@ third_nav_title: Uniformed Groups
 
 *   **Mdm Siti Zubaidah (I/C)**  
     
-*   Ms Salome Sim (covering i/c)
+*   Ms Norhafizah (2i/c)
     
-*   Ms Teo Ying Hui (Sem 1)
+*   Dr Perema (Advisor)
     
-*   Ms Ling Geok Keng
+*   Mdm Habsa
 
   
 
