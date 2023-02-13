@@ -1,6 +1,6 @@
 ---
 title: NCC (Air) Girls Unit
-permalink: /co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit
+permalink: /co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -10,10 +10,11 @@ third_nav_title: Uniformed Groups
 
   
 
-*   **Ms Geraldine Koon (I/C)**
-*   Ms Low Yan Fang (2 I/C)  
+*   **Ms Geraldine Koon (I/C) (Sem 2)**
+*   Ms Low Yan Fang (covering I/C)  
     
 *   Ms Debi Lim
+*   Ms Wang Xiao Hui
 
 ###   Training time & venue:
 
