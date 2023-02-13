@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /co-curricular-activities/Sports-and-Games/Netball
+permalink: /co-curricular-activities/Sports-and-Games/Netball/
 description: ""
 third_nav_title: Sports and Games
 ---
@@ -12,8 +12,8 @@ third_nav_title: Sports and Games
 
 *   **Ms Wong Siew Yin (I/C)**
 *   Ms Huang Yaling (2 I/C)
-*   Ms Ong Hui Yan (Term 2)
-*   Mdm Katherine Yeung  
+*   Ms Ong Hui Yan
+*   Ms Poh Shi Hui
     
 
    
