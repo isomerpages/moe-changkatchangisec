@@ -1,6 +1,6 @@
 ---
 title: School CCA Policy
-permalink: /co-curricular-activities/LEAPS-2/School-CCA-Policy
+permalink: /co-curricular-activities/LEAPS-2/School-CCA-Policy/
 description: ""
 third_nav_title: LEAPS 2
 ---
@@ -12,4 +12,3 @@ third_nav_title: LEAPS 2
 4.  When persistent absenteeism and misbehavior occurs, the student may be subject to disciplinary action.
 5.  All pupils must be in their proper PE/CCA attire when reporting and participating in their CCA activities.
 
-For the latest information shared during 2018 Sec 1 CCA Orientation, click [here](/files/B-CCA-info.pdf).
