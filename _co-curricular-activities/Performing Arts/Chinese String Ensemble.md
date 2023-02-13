@@ -1,6 +1,6 @@
 ---
 title: Chinese String Ensemble
-permalink: /co-curricular-activities/Performing-Arts/Chinese-String-Ensemble
+permalink: /co-curricular-activities/Performing-Arts/Chinese-String-Ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -11,11 +11,10 @@ third_nav_title: Performing Arts
   
 
 *   **Mr Wang Yadong (I/C)**
-*   Ms Ling Geok Keng (2 I/C)  
+*  Ms Teo Ying Hui (Sem 2) 
     
 *   Ms Sim Jia En
-*   Mdm Tan Sai Kee  
-    Ms Ng Shiru (I/C Term 1)
+*   Ms Huan Zhenling
 *   Mr Neo Yong Soon Wilson (Conductor)
 *   Mr Li Yu Long (Instructor)
 
