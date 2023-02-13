@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /co-curricular-activities/Sports-and-Games/Badminton
+permalink: /co-curricular-activities/Sports-and-Games/Badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
@@ -14,7 +14,7 @@ third_nav_title: Sports and Games
     
 *   Ms Daphne Khoo (2 I/C)
 *   Mr Khalid Bin Othman
-*   Mr Sng Fook Chong/ Poh Shi Hui
+*   Dr Thirunavakarasu D
 
  
 

@@ -14,7 +14,6 @@ description: ""
 
 **[SWN Logout](http://portal.swn.moe.edu.sg/)**
 
-**[School Bag](http://www.schoolbag.sg/)**
 
 **GCE Examinations Guide for Students (4N/4E/5N)**
 

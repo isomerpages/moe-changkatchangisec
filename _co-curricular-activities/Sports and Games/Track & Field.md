@@ -1,6 +1,6 @@
 ---
 title: Track & Field
-permalink: /co-curricular-activities/Sports-and-Games/Track-and-Field
+permalink: /co-curricular-activities/Sports-and-Games/Track-and-Field/
 description: ""
 third_nav_title: Sports and Games
 ---
@@ -11,9 +11,9 @@ third_nav_title: Sports and Games
   
 
 *   **Mr Sean Han (I/C)**
-*   Ms Rachel Tang (2 i/C)
-*   Ms Huan Zhenling
-*   Ms Lim Shan Yan
+*   Ms Lim Shan Yan (2i/c) (Sem 2)
+*   Mr Muhammad Yusuf
+*   Ms Esther Khoo
 
   
 

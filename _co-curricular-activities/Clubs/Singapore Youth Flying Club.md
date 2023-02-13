@@ -1,6 +1,6 @@
 ---
 title: Singapore Youth Flying Club
-permalink: /co-curricular-activities/Clubs/Singapore-Youth-Flying-Club
+permalink: /co-curricular-activities/Clubs/Singapore-Youth-Flying-Club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -10,7 +10,7 @@ third_nav_title: Clubs
   
 
 *   Mrs Joyce Leung (IC)
-*   Ms Ng Shiru (2 I/C Term 2)
+*   Ms Ng Shiru (2 I/C)
 *   Mr Rishvinder
 
 ###   Training time & venue:

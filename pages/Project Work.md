@@ -1,8 +1,9 @@
 ---
 title: Project Work
-permalink: /experience-at-changkat/Project-Work
+permalink: /experience-at-changkat/Project-Work/
 description: ""
 ---
+
 Project Work is a subject taken by Secondary 1 and 2 students that provides them with the opportunity to develop their character and 21st Century Competency Skills. At the end of two years, we hope that the Changkateers would acquire the skills which enable them to:  
   
 • be self-directed and reflective learners,  

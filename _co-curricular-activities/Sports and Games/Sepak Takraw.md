@@ -1,6 +1,6 @@
 ---
 title: Sepak Takraw
-permalink: /co-curricular-activities/Sports-and-Games/Sepak-Takraw
+permalink: /co-curricular-activities/Sports-and-Games/Sepak-Takraw/
 description: ""
 third_nav_title: Sports and Games
 ---
@@ -10,10 +10,10 @@ third_nav_title: Sports and Games
 
   
 
-*   **Mr Abdul Matiin (I/C)**
-*   Mr Iskandar Ishak (2 I/C)  
+*   **Mr Iskandar Ishak (I/C)**
+*   Mr Abdul Matiin (2i/c)
     
-*   Mr Clarence Cheong
+*   Mr Syed Ahmad
 
 ###   Training Time & Venue:
 

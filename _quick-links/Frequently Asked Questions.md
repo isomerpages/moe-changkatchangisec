@@ -34,7 +34,7 @@ Email: sales@itu.com.sg
   
 
 D Y Education Service Trading<br>
-Enquiry: 96341538 (Steven)/ 91061391 (Office)<br>
+Enquiry: 91061391 (Office)<br>
 Website: [https://dyeducation.net/](https://dyeducation.net/)<br>
 Email: [dyccss3013@gmail.com](mailto:dyccss3013@gmail.com)
 
