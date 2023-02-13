@@ -1,6 +1,6 @@
 ---
 title: NCC (Air) Boys Unit
-permalink: /co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit
+permalink: /co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -14,6 +14,7 @@ third_nav_title: Uniformed Groups
     
 *   Mr Mohamed Syafiq(2 I/C)
 *   Mr Wan Bing Khiang
+*   Mr Tristan Goh
 
   
 
