@@ -1,6 +1,6 @@
 ---
 title: Multimedia Club
-permalink: /co-curricular-activities/Clubs/Multimedia-Club
+permalink: /co-curricular-activities/Clubs/Multimedia-Club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -11,9 +11,8 @@ third_nav_title: Clubs
 
 
 *   **Mr Soo Sheng Lih (I/C)**
-*   Dr Thirunavakarasu (2 I/C)
-*   Ms Ong Hui Yan (Advisor Term 1)
-*   Ms Angeline Neo  
+*   Ms Angeline Neo (2 I/C)
+*   Mdm Linda Yap
     
 
 ###   Training time & venue:
