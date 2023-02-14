@@ -4,7 +4,7 @@ permalink: /experience-at-changkat/CCE/
 description: ""
 third_nav_title: CCE
 ---
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5
+| Student  | Column 2 | Column 3 | Column 4 | Column 5
 | -------- | -------- | -------- | -------- | -------- |
 |     |      |      |      |      |
 
@@ -25,4 +25,4 @@ third_nav_title: CCE
 <img src="/images/5-5.png" style="width:20%;float:left">
 
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%;float:left" src="/images/xxx.png"></a></p>
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:20%;float:left" src="/images/1-5.png"></a></p>
