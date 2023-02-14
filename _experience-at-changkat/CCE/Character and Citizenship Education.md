@@ -4,14 +4,6 @@ permalink: /experience-at-changkat/CCE/
 description: ""
 third_nav_title: CCE
 ---
-
-
-
-
-
-
-
-
 <p><a href="/experience-at-changkat/CCE/Student-Leadership-Programme"><img style="width:20%;float:left" src="/images/1-5.png"></a></p>
 
 
