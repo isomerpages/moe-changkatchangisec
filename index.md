@@ -53,5 +53,4 @@ sections:
       button: Follow
       url: www.facebook.com/changkateers/
       image: /images/follow us1.png
-      alt: Image alt text
 ---
