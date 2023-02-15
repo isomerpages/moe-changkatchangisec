@@ -4,8 +4,9 @@ date: 2023-02-03
 layout: link
 description: ""
 image: ""
-external: https://quick-links/School-Safety/Guide-to-Home-Based-Learning-HBL/
+external: https://changkatchangisec.moe.edu.sg/quick-links/School-Safety/Guide-to-Home-Based-Learning-HBL/
 ---
+
 
 
 
