@@ -52,6 +52,4 @@ sections:
         school <a href="https://www.facebook.com/changkateers/">here</a>!
       image: /images/follow us1.png
       alt: Changkat Changi Facebook
-      button: Follow
-      url: <a href="https://www.facebook.com/changkateers/"></a>
 ---
