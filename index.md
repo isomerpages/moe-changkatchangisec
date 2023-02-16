@@ -51,4 +51,5 @@ sections:
       description: Follow us on our official social media for the latest happenings in
         school!
       image: /images/follow us1.png
+      alt: Changkat Changi Facebook
 ---
