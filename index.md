@@ -46,11 +46,9 @@ sections:
       image: /images/succeed with integrity.png
       alt: SUCCEED WITH INTEGRITY
   - infopic:
-      title: Follow Us
+      title: <a href="www.facebook.com/changkateers/">Follow Us</a>
       subtitle: Our social media
       description: Follow us on our official social media for the latest happenings in
         school!
-      button: Follow
-      url: www.facebook.com/changkateers/
       image: /images/follow us1.png
 ---
