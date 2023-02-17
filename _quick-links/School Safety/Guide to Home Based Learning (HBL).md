@@ -14,9 +14,9 @@ HBL lesson instructions via lesson guides for all classes can be found in the fo
 <table style="height: 215px; width: 84.3736%; border-collapse: collapse; background-color: #f0f0f0; border-style: none; margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr style="height: 18px; background-color: #ffffff;">
-<td style="width: 20%; height: 27px; border-style: none; background-color: #ffffff; text-align: center; vertical-align: middle;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIkwBjNG9XkZ9yvY9rArT_RG6ER0YGIF4s23noFKRn0vPw9eZP10KvNm7hIH4Bvst7TzoZUtsa3Gnx/pubhtml" target="_blank"><span style="text-decoration: underline;"><strong>Sec 1 G1</strong></span></a></td>
-<td style="width: 20%; height: 27px; border-style: none; background-color: #ffffff; text-align: center; vertical-align: middle;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0cc7i1P8B0w_gKRWuTQDyjxwjDr9zh8QaCc2EKdokajSuA18AULwrFLXQe2_HWiV5yPshLV9-Xwv4/pubhtml"><span style="text-decoration: underline;"><strong>Sec 1 G2/G3</strong></span></a></td>
-<td style="width: 20%; height: 27px; border-style: none; background-color: #ffffff; text-align: center; vertical-align: middle;">&nbsp;</td>
+<td style="width: 20%; height: 27px; border-style: none; background-color: #ffffff; text-align: center; vertical-align: middle;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0cc7i1P8B0w_gKRWuTQDyjxwjDr9zh8QaCc2EKdokajSuA18AULwrFLXQe2_HWiV5yPshLV9-Xwv4/pubhtml" target="_blank"><span style="text-decoration: underline;"><strong>Sec 1 G1</strong></span></a></td>
+<td style="width: 20%; height: 27px; border-style: none; background-color: #ffffff; text-align: center; vertical-align: middle;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIkwBjNG9XkZ9yvY9rArT_RG6ER0YGIF4s23noFKRn0vPw9eZP10KvNm7hIH4Bvst7TzoZUtsa3Gnx/pubhtml"><span style="text-decoration: underline;"><strong>Sec 1 G2</strong></span></a></td>
+<td style="width: 20%; height: 27px; border-style: none; background-color: #ffffff; text-align: center; vertical-align: middle;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR17oyzjUiNWdRmTuc8gsR9pULJBTMbSCvuk2b8WzBOnfD_mKNnbAi_nrpSOUG_Md41xo1f95kW08Np/pubhtml"><span style="text-decoration: underline;"><strong>Sec 1 G3</strong></span></a></td>
 <td style="width: 20%; height: 27px; border-style: none; background-color: #ffffff; text-align: center; vertical-align: middle;">&nbsp;</td>
 </tr>
 <tr style="height: 18px;">
