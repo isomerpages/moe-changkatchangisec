@@ -49,9 +49,7 @@ sections:
       title: Follow Us
       subtitle: Our social media
       description: Follow us on our official social media for the latest happenings in
-        school!
-      button: Follow
-      url: www.facebook.com/changkateers/
+        school <a href="https://www.facebook.com/changkateers/">here</a>!
       image: /images/follow us1.png
-      alt: Image alt text
+      alt: Changkat Changi Facebook
 ---
