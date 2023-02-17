@@ -52,8 +52,6 @@ description: ""
 ### **Staff Links**
 
 **[SC Mobile](https://scmobile.moe.edu.sg/)**
-<br>**[PaC@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)** **(Internet)**
-<br>**[PaC@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)** **(Intranet)**
 <br>**[MOE Intranet](https://intranet.moe.gov.sg/)**
 <br>**[iCON 2.0](https://workspace.google.com/dashboard)**
 <br>**[School Cockpit 2.0](http://schoolcockpit.moe.gov.sg/)**
