@@ -1,6 +1,6 @@
 ---
 title: PE, CCA and Music
-permalink: /about-us/School-Staff/PE-CCA-and-Music
+permalink: /about-us/School-Staff/PE-CCA-and-Music/
 description: ""
 third_nav_title: School Staff
 ---
@@ -14,5 +14,3 @@ third_nav_title: School Staff
      style="width:33%;float:left"><img src="/images/Mr%20Iskandar%20Bin%20Ishak.jpg" 
      style="width:33%">
 
-<img src="/images/Miss%20Tang%20Zhuo%20Min,%20Rachel.jpg" 
-     style="width:33%;float:left">
