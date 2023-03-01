@@ -1,6 +1,6 @@
 ---
 title: Neo Choon Tiong Scholarship
-permalink: /experience-at-changkat/Scholarship-Opportunities/Neo-Choon-Tiong-Scholarship
+permalink: /experience-at-changkat/Scholarship-Opportunities/Neo-Choon-Tiong-Scholarship/
 description: ""
 third_nav_title: Scholarship Opportunities
 ---
@@ -32,6 +32,6 @@ Each scholarship award is valued at $1,000 each.
 
 ##### Application and Selection Process
 
-Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00am to 5.00pm, or downloaded [here](/files/NCT%20Scholarship%20Application%20Form%202022.pdf) 
+Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00am to 5.00pm, or downloaded [here](/files/Scholarship/NCT%20Scholarship%20Application%20Form%202023.pdf) 
   
 Please note that Short-listed candidates will be invited for an interview.
