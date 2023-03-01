@@ -1,6 +1,6 @@
 ---
 title: Chua Soo Chiew Scholarship
-permalink: /experience-at-changkat/Scholarship-Opportunities/Chua-Soo-Chiew-Scholarship
+permalink: /experience-at-changkat/Scholarship-Opportunities/Chua-Soo-Chiew-Scholarship/
 description: ""
 third_nav_title: Scholarship Opportunities
 ---
@@ -22,14 +22,14 @@ In the event that no student meets that above criteria, the Chua Soo Chiew Schol
 1 scholarship to be awarded annually for three year period, commencing Academic Year.
 
 ##### Tenure and Benefits
-•Tenable for three year commencing July 2019  
+•Tenable for three year commencing from the Academic Year awarded
 •Valued at $1,000 per year for each of the 3 year course duration  
 •The recipients may be offered an internship opportunity with the Donor  
   
 ##### Applications 
-Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00 am to 5.00 pm, or downloaded [here](/files/CSC%20Scholarship%20Application%20Form%202022.pdf) Applications will close on 11th Feb 2022.  
+Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00 am to 5.00 pm, or downloaded [here](/files/Scholarship/CSC%20Scholarship%20Application%20Form%202023.pdf) Applications will close on 10th Feb 2023.  
   
-Please note that only shortlisted candidates would be notified, and may be called up for an interview on  28th Feb 2022.  
+Please note that only shortlisted candidates would be notified, and may be called up for an interview on  28th Feb 2023 onwards.  
   
 ##### Enquiries  
 Changkat Changi Secondary School  
