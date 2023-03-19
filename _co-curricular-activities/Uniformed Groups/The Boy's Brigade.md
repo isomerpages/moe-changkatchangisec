@@ -20,7 +20,8 @@ third_nav_title: Uniformed Groups
 ###   Training time & venue:  
   
 
-*   Saturday 9.00am - 1.00pm (BB Room/ ISH Level 1/ Parade Square)
+*   Tuesday, 1600 - 1800 (Bedok Methodist Church)
+*   Saturday, 0900 - 1300 (Bedok Methodist Church)
 
 ###   CCA Objectives
 
