@@ -10,10 +10,11 @@ third_nav_title: Uniformed Groups
 
   
 
-*   **Mr Sean Han (I/C)**
-*   Ms Salome Sim (2 I/C)
-*   Mr Muhammad Yusuf
-*   Ms Esther Khoo
+*   **Mr Kelvin Yap (I/C) (Sem 2)**
+*   Ms Salome Sim (Covering I/C)
+*   Ms Teo Ying Hui (Sem 1)
+*   Ms Ling Geok Keng
+*   Ms Chia Ying Yin (Term 2)
     
 
 ###   Training time & venue:  
