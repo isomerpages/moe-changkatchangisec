@@ -22,8 +22,8 @@ third_nav_title: Sports and Games
 
   
 
-Tuesday  3.30pm - 5.30pm (Old ISH)  
-Thursday 4.15pm - 6.15pm (Old ISH)
+Tuesday,  1530 - 1800 (Old ISH)  
+Thursday, 1530 - 1800 (Old ISH)
 
  
 
