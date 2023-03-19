@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Performing-Arts/Modern-Dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-SwsABK63gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ### Teacher in Charge:
@@ -20,8 +19,8 @@ third_nav_title: Visual & Performing Arts
 
   
 
-*   Tuesday 3.30pm - 6.30pm (Learning Hub)
-*   Thursday 3.30pm - 6.30pm (Learning Hub/ Music Room)
+*   Tuesday, 1530 - 1830 (Learning Hub)
+*   Thursday, 1530 - 1830 (AVA/ Music Room)
 
 ###   CCA Objectives
 
