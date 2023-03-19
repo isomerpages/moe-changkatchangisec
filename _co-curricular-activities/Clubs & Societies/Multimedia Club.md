@@ -4,21 +4,20 @@ permalink: /co-curricular-activities/Clubs/Multimedia-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19jFNyUFjq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 
 ### Teacher in Charge:
 
 
-*   **Mr Soo Sheng Lih (I/C)**
-*   Ms Angeline Neo (2 I/C)
+*   **Ms Angeline Neo (2 I/C)**
 *   Mdm Linda Yap
+*   Ms Samantha Tee
     
 
 ###   Training time & venue:
 
-Tuesday/ Thursday 3.30pm to 6.00pm (Computer Lab 2, 3 & 4)  
+Thursday, 1530 - 1800 (Computer Lab 2, 3 & 4)  
   
 
 ### CCA Objectives
