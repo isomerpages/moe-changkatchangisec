@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Performing-Arts/Malay-Dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wn6CY39Fhos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Teacher in Charge:
@@ -20,8 +19,8 @@ third_nav_title: Visual & Performing Arts
 
 ###   Training time & venue:
 
-Tuesday 3.30pm - 6.30pm (Music Room)  
-Thursday 3.30pm - 6.30pm (CCS)  
+Tuesday, 1530 - 1830 (Music Room)  
+Thursday, 1530 - 1830 (Learning Hub)  
   
 
 ### CCA Objectives
