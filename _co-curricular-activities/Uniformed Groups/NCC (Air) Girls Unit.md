@@ -10,8 +10,7 @@ third_nav_title: Uniformed Groups
 
   
 
-*   **Ms Geraldine Koon (I/C) (Sem 2)**
-*   Ms Low Yan Fang (covering I/C)  
+*   **Ms Low Yan Fang (covering I/C) ** 
     
 *   Ms Debi Lim
 *   Ms Wang Xiao Hui
@@ -20,8 +19,8 @@ third_nav_title: Uniformed Groups
 
   
 
-Tuesday 3:30pm - 5:30pm (CCA Room & Parade Square)  
-Thursday 3.30pm - 5.30pm (CCA Room & Parade Square)
+Tuesday, 1530 - 1730 (CCA Room & Parade Square)  
+Thursday, 1530 - 1730 (CCA Room & Parade Square)
 
  
 
