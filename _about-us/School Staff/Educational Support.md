@@ -1,6 +1,6 @@
 ---
 title: Educational Support
-permalink: /about-us/School-Staff/Educational-Support
+permalink: /about-us/School-Staff/Educational-Support/
 description: ""
 third_nav_title: School Staff
 ---
@@ -15,9 +15,7 @@ third_nav_title: School Staff
      style="width:33%">
 		 
 <img src="/images/A02%20MR%20MUHAMMAD%20NURRUL%20HADI%20BIN%20ABDUL%20RAHMAN.jpeg" 
-     style="width:33%;float:left"><img src="/images/Mr%20Rosli%20Bin%20Ahmad.jpg" 
      style="width:33%;float:left"><img src="/images/Ms%20Pauline%20Low.jpg" 
+     style="width:33%;float:left"><img src="/images/Mdm%20Yee%20Kit%20Cheng%20(Mrs%20Tho).jpg" 
      style="width:33%">
 		 
-<img src="/images/Mdm%20Yee%20Kit%20Cheng%20(Mrs%20Tho).jpg" 
-     style="width:33%;float:left">

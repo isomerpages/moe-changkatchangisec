@@ -1,6 +1,6 @@
 ---
 title: Changkat Changi Secondary School SOAR ALP Scholarship
-permalink: /experience-at-changkat/Scholarship-Opportunities/SOAR-ALP-Scholarship
+permalink: /experience-at-changkat/Scholarship-Opportunities/SOAR-ALP-Scholarship/
 description: ""
 third_nav_title: Scholarship Opportunities
 ---
@@ -20,7 +20,7 @@ Any Secondary 1-3, or 4NA CCSS student who fulfils the criteria and is shortlist
 
 **(i)           Excellent academic and/or competition results**
 
-Attained top academic positions in the Express, Normal Academic or Normal Technical Stream[\[1\]](file:///C:/Users/S8402792H/Desktop/ALP%20scholarship%20write%20up%202019.docx#_ftn1) **OR** outstanding results in national/international competitions related to aerospace/aviation/STEM based field[\[2\]](file:///C:/Users/S8402792H/Desktop/ALP%20scholarship%20write%20up%202019.docx#_ftn2);
+Attained top academic positions in the Express, Normal Academic or Normal Technical Stream **OR** outstanding results in national/international competitions related to aerospace/aviation/STEM based field
 
 **(ii)**          **Good display of R3ICH values**
 
@@ -34,15 +34,15 @@ Holds any leadership position in class, CCA or school. Real-world problems in to
 
 Observable passion and interest in aerospace/aviation OR STEM-based field  (as evident from their VIA commitment, participation in enrichment activities etc.).
 
-[\[1\]](file:///C:/Users/S8402792H/Desktop/ALP%20scholarship%20write%20up%202019.docx#_ftnref1) Including internal and external academic awards that are recognised by the school
+[1\] Including internal and external academic awards that are recognised by the school
 
-[\[2\]](file:///C:/Users/S8402792H/Desktop/ALP%20scholarship%20write%20up%202019.docx#_ftnref2) E.g robotics, computing, design, health sciences)
+[2\] E.g robotics, computing, design, health sciences)
 
 ##### **2. Application and Selection Process**
 
 **1)**      Application
 
-·       Students may apply for the scholarship by filling in the scholarship application form available from the school’s General Office after the release of EOY SA2 results. The form is also available [here](/files/ALP%20Scholarship%20Application%20Form%202020_2021.pdf).
+·       Students may apply for the scholarship by filling in the scholarship application form available from the school’s General Office after the release of EOY SA2 results. The form is also available [here](/files/Scholarship/ALP%20Scholarship%20Application%20Form%202023.pdf).
 
 ·       Alternatively, teachers may also nominate students by completing and submitting the application form.
 
