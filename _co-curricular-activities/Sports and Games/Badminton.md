@@ -8,11 +8,8 @@ third_nav_title: Sports and Games
 
 ### Teacher in Charge:
 
-  
-
-*   **Mr Balakrishnan ( I/C)**  
-    
-*   Ms Daphne Khoo (2 I/C)
+     
+*   **Ms Daphne Khoo (covering I/C)**
 *   Mr Khalid Bin Othman
 *   Dr Thirunavakarasu D
 
@@ -20,8 +17,8 @@ third_nav_title: Sports and Games
 
 ### Training time & venue:
 
-Tuesday 3.30pm - 5.30pm (Indoor Sports Hall)  
-Thursday 3.30pm - 5.30pm (Indoor Sports Hall)
+Tuesday 1530 - 1800 (Indoor Sports Hall)  
+Thursday 1530 - 1800 (Indoor Sports Hall)
 
   
 
