@@ -11,7 +11,6 @@ third_nav_title: Sports and Games
   
 
 *   **Mr Sean Han (I/C)**
-*   Ms Lim Shan Yan (2i/c) (Sem 2)
 *   Mr Muhammad Yusuf
 *   Ms Esther Khoo
 
@@ -21,8 +20,8 @@ third_nav_title: Sports and Games
 
   
 
-Tuesday 3.30pm - 5.30pm (Bedok Stadium/ Bedok Reservoir/ School Gym/ ISH Level 1)  
-Thursday 3.30pm - 5.30pm (Bedok Stadium/ Bedok Reservoir/ School Gym/ ISH Level 1)
+Tuesday, 1600 - 1800 (Bedok Stadium/ Bedok Reservoir/ School Gym/ ISH Level 1)  
+Thursday, 1600 - 1800 (Bedok Stadium/ Bedok Reservoir/ School Gym/ ISH Level 1)
 
    
 

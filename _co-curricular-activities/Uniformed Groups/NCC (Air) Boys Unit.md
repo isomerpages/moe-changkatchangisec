@@ -20,8 +20,8 @@ third_nav_title: Uniformed Groups
 
 ### Training time & venue:
 
-Tuesday 3.30pm - 5.30pm (CCA Room & Parade Square)  
-Thursday 3.30pm - 5.30pm (CCA Room & Parade Square)  
+Tuesday, 1530 - 1730 (CCA Room & Parade Square)  
+Thursday, 1530 - 1730 (CCA Room & Parade Square)  
 
  
 

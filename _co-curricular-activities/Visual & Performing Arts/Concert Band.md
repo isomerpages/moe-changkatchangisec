@@ -2,7 +2,7 @@
 title: Concert Band
 permalink: /co-curricular-activities/Performing-Arts/Concert-Band/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ThXLTMav09E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
@@ -18,8 +18,8 @@ third_nav_title: Performing Arts
 
 ### Training time & venue:
 
-Tuesday 3.30pm - 6.00pm (AV Room/ CCS)  
-Thursday 3.30pm - 6.00pm (AV Room)
+Tuesday, 1530 - 1800 (CCS)  
+Thursday, 1530 - 1800 (CCS)
 
  
 

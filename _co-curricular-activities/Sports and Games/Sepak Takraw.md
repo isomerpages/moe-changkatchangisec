@@ -18,8 +18,8 @@ third_nav_title: Sports and Games
 ###   Training Time & Venue:
 
   
-           Tuesday 3.30pm - 6.30pm (School Hall)  
-           Thursday 3.30pm - 6.30pm (Old ISH)  
+           Tuesday, 1530 - 1830 (School Hall)  
+           Thursday, 1530 - 1830 (School Hall)  
  
 
 ###   CCA Objectives

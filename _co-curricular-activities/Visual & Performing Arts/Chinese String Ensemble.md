@@ -2,7 +2,7 @@
 title: Chinese String Ensemble
 permalink: /co-curricular-activities/Performing-Arts/Chinese-String-Ensemble/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ds87K2L0rc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -10,9 +10,7 @@ third_nav_title: Performing Arts
 
   
 
-*   **Mr Wang Yadong (I/C)**
-*  Ms Teo Ying Hui (Sem 2) 
-    
+*   **Mr Wang Yadong (I/C)** 
 *   Ms Sim Jia En
 *   Ms Huan Zhenling
 *   Mr Neo Yong Soon Wilson (Conductor)
@@ -24,8 +22,8 @@ third_nav_title: Performing Arts
 
   
 
-Tuesday 3.30pm - 6:30pm (ITR 3)  
-Friday 2.30pm - 5.30pm (ITR 3)
+Tuesday, 1530 - 1830 (ITR 3)  
+Thursday, 1530 - 1830 (ITR 3)
 
 ###   CCA Objectives
 

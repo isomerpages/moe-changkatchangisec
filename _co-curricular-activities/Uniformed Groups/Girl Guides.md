@@ -22,8 +22,8 @@ third_nav_title: Uniformed Groups
 
   
 
-Selected Tuesdays 3:30pm - 5:30pm (GG Room & Parade Square)  
-Thursdays 3.30pm - 5:30pm (GG Room & Parade Square)
+Selected Tuesdays, 1530 - 1730 (GG Room & Parade Square)  
+Thursdays, 1530 - 1730 (GG Room & Parade Square)
 
   
 
