@@ -18,18 +18,18 @@ SOAR aims to develop Changkateers by connecting Science, Technology, Engineering
 
 All lower secondary Changkateers undergo weekly ALP lessons based on the context of Aviation where they learn about Principles of Flight, build gliders and practise drone programming. Students who show interest and aptitude will receive opportunities to participate in competitions such as Singapore Amazing Flying Machine Competition (SAFMC), attend workshops conducted by our tertiary partners such as Singapore Polytechnic, and participate in aviation exchange programme and visit the aviation hub in Toulouse, France.
 
-<img src="/images/Picture1.jpeg" style="width:50%">
+<img src="/images/Picture1.jpeg" style="width:80%">
 <center> Photo 1: Our Sec 1 Changkateers launching a glider that they have just made.</center>
 
-<img src="/images/Picture2.jpeg" style="width:50%">
+<img src="/images/Picture2.jpeg" style="width:80%">
 <center>Photo 2: Changkateers learning to fly the Flight Simulator as part of their CCA.</center>
 
 
-<img src="/images/dsa%20-%20alp1.jpg" style="width:50%">
+<img src="/images/dsa%20-%20alp1.jpg" style="width:80%">
 <center>Photo 3: Changkateers attending an Aircraft Structural Repair workshop conducted by Singapore Polytechnic in 2023</center>
 
 
-<img src="/images/dsa-alp2.png" style="width:50%">
+<img src="/images/dsa-alp2.png" style="width:80%">
 <center>Photo 4: Changkateers participating in a virtual exchange with French students in 2023 due to covid travel restrictions</center>
 
 ##### Admission Criteria  
