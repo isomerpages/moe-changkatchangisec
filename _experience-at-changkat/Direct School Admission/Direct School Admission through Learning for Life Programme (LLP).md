@@ -79,14 +79,14 @@ The application timeline for 2022 is as follows:
 
 Our LLP programme aims to develop leaders who have the skills and competency to improve the community around them. The programme aims to develop social advocates who are able to influence people in helping others in the community.&nbsp; Students who go through the programme will develop the 21st century competencies which will help students excel in future.&nbsp;&nbsp;
 
-All&nbsp;lower secondary students will go through Project Work programme in which they develop solutions for school based and community problems. Students will also attend leadership training to help develop their skills in influencing and leading others.&nbsp; For upper secondary students, they will go through advance leadership and service learning training through workshops and camps, and be given opportunities to work with the community via organisations such as PA and CDCs.  
+All students will go through the Learning for Life Programme where they learn about different aspects of sustainability and contribute their learning to solve societal problems. Students will also attend leadership training to help develop their skills in influencing and leading others.  
 
   
 
 ##### FAQ
 
 1.  **How many places can CCSS Secondary offer in DSA Exercise?**  
-    All secondary schools can admit up to 20% of their 2023 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec. This allows students to better access school programmes to grow their talents and interests through DSA.  
+    All secondary schools can admit up to 20% of their 2024 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec. This allows students to better access school programmes to grow their talents and interests through DSA.  
     &nbsp;
 
 2.  **How does it value-add to my child?**  
