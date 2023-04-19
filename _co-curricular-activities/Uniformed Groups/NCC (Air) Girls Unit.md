@@ -10,7 +10,7 @@ third_nav_title: Uniformed Groups
 
   
 
-*   **Ms Low Yan Fang (covering I/C) ** 
+*   **Ms Low Yan Fang (covering I/C)**
     
 *   Ms Debi Lim
 *   Ms Wang Xiao Hui
