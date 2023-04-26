@@ -64,7 +64,7 @@ Students can indicate up to three choices (maximum of two choices for the same s
 
   
 
-The application timeline for 2022 is as follows:
+The application timeline for 2023 will be updated on 3 May 2023.
 
 | Date | Event | 
 | -------- | -------- | 
