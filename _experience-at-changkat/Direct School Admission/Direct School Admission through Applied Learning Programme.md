@@ -82,7 +82,7 @@ Students can indicate up to three choices (maximum of two choices for the same s
 
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to**&nbsp;**the talent they are selected for from year 1-4.**
 
-The application timeline for 2022 is as follows:
+The application timeline for 2023 will be updated on 3 May 2023.
 
 
 
