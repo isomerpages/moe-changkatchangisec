@@ -26,4 +26,4 @@ description: ""
 **Health Promotion Board - Healthy Food, Happier Children**
 -----------------------------------------------------------
 
-**For more info Click [Here](/files/HPB.pdf)**
+**For more info Click [Here](/files/hpb001.pdf)**
