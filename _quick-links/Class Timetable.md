@@ -3,7 +3,7 @@ title: Class Timetable
 permalink: /quick-links/Class-Timetable/
 description: ""
 ---
-2022 Term 3 Timetable
+2023 Timetable
 ---------------------
 
 ##### Sec 1

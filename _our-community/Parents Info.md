@@ -1,6 +1,6 @@
 ---
 title: Parents Info
-permalink: /our-community/Parents-Info
+permalink: /our-community/Parents-Info/
 description: ""
 ---
 **Parent Teacher Conference**
@@ -13,11 +13,11 @@ description: ""
 
 | Event |Date | 
 | -------- | -------- | 
-| Secondary 1 Parent-Teacher Conference	     | Term 1, 2022     |
-|Secondary 1 CCA Orientation 	| Term 1, 2022 
-|Secondary 2, 3, 4 and 5 Parent-Teacher Conference| Term 1, 2022 
-|Mid-Year Meet-the-Parents' Session	| Term 2, 2022
-|End-Of-Year Meet-the-Parents’ Session	|Term 4, 2022
+| Secondary 1 Parent-Teacher Conference	     | Term 1, 2023     |
+|Secondary 1 CCA Orientation 	| Term 1, 2023 
+|Secondary 2, 3, 4 and 5 Parent-Teacher Conference| Term 1, 2023 
+|Mid-Year Meet-the-Parents' Session	| Term 2, 2023
+|End-Of-Year Meet-the-Parents’ Session	|Term 4, 2023
 
 **Resources for Parents**  
 
@@ -26,4 +26,4 @@ description: ""
 **Health Promotion Board - Healthy Food, Happier Children**
 -----------------------------------------------------------
 
-**For more info Click [Here](/files/HPB.pdf)**
+**For more info Click [Here](/files/hpb001.pdf)**
