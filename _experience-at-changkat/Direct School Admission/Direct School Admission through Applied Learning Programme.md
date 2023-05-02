@@ -82,18 +82,18 @@ Students can indicate up to three choices (maximum of two choices for the same s
 
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to**&nbsp;**the talent they are selected for from year 1-4.**
 
-The application timeline for 2023 will be updated on 3 May 2023.
+The application timeline for 2023 is as follows:
 
 
 
 | Date | Event | 
 | -------- | -------- | 
-| 5 May to 1 June 2022, 3pm     | Submit your child's application online through the DSA-Sec portal by 3pm on the final day.     | 
-|17 Jun to 9 July 2022|School’s notification of shortlisted candidates. We regret to inform that&nbsp;**only shortlisted students**&nbsp;will be notified of the interview dates.
-|28 June to 1 September 2022|School-based in-person interview for shortlisted applicants.
-|By 12 September 2022|All applicants will receive a reply from the school on the outcome of the application as follows:<br>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected. 
-|31 October to 4 November 2022, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive notification on the School Preference Submission in Oct 2021. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
-|Late-Nov 2022|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively late Nov 2022.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.&nbsp;  <br>**Successful DSA-Sec Students.**&nbsp;Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.&nbsp;  <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.&nbsp;  <br>Students are also&nbsp;**NOT**&nbsp;allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.**&nbsp;They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
+| 4 May to 31 May 2023, 3pm     | Submit your child's application online through the DSA-Sec portal by 3pm on the final day.     | 
+|15 Jun to 7 July 2023|School’s notification of shortlisted candidates. We regret to inform that&nbsp;**only shortlisted students**&nbsp;will be notified of the interview dates.
+|26 June to 11 September 2023|School-based in-person interview for shortlisted applicants.
+|By 11 September 2023|All applicants will receive a reply from the school on the outcome of the application as follows:<br>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected. 
+|23 to 27 October 2023, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive notification on the School Preference Submission in Oct 2023. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
+|Early - Mid November 2023|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively mid-Nov 2023.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.&nbsp;  <br>**Successful DSA-Sec Students.**&nbsp;Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.&nbsp;  <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.&nbsp;  <br>Students are also&nbsp;**NOT**&nbsp;allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.**&nbsp;They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
 
 ##### Why Join Us?
 
