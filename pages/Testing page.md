@@ -34,81 +34,67 @@ description: ""
 	
 <p> Uniformed Groups</p>
 
-<p>NCC Air (Boys)</p>
+<p>NCC Air (Boys)<br>
+- Unit Recognition – Distinction
+<br>
+- Outstanding Cadet Award, awarded to Mohamed Syaif Al Din Bin Mohamed Sulfadin (4E3)</p>
 	
-* Unit Recognition – Distinction
-* Outstanding Cadet Award, awarded to Mohamed Syaif Al Din Bin Mohamed Sulfadin (4E3)
 
 
-<p>NCC Air (Girls)</p>
-
-* Unit Recognition – Distinction
-* Outstanding Cadet Award, awarded to Siti Aisha Binte Abdul Jalil (4N2)
+<p>NCC Air (Girls)
+<br>- Unit Recognition – Distinction
+<br>- Outstanding Cadet Award, awarded to Siti Aisha Binte Abdul Jalil (4N2)</p>
 
   
 
-<p>The Boys’ Brigade</p>
+<p>The Boys’ Brigade
+<br>- J M Fraser Award – Gold
+<br>- BB Week - Peter Foo Chien Ho Challenge Trophy
+<br>- BB AdventuRe:Ignite – Gold Honour Roll
+<br>- Best Boy Award, awarded to Tan Yang Yuan Aaron (4E1)
+</p>
 
-* J M Fraser Award – Gold
-* BB Week - Peter Foo Chien Ho Challenge Trophy
-* BB AdventuRe:Ignite – Gold Honour Roll
-* Best Boy Award, awarded to Tan Yang Yuan Aaron (4E1)
-
-<p>Girl Guides</p>
-
-* Puan Noor Aishah (PNA) Award – Gold
-* Baden Powell Award, awarded to  Megan Leong Shu Ling (4E1); Nurul Nayima Binte Mohamad Raze (4E2); Gonugunta Raga Swarupa (4E2); Siti Fatimah Binte Abdul Jalil (4E3)
+<p>Girl Guides<br>
+- Puan Noor Aishah (PNA) Award – Gold
+<br>- Baden Powell Award, awarded to  Megan Leong Shu Ling (4E1); Nurul Nayima Binte Mohamad Raze (4E2); Gonugunta Raga Swarupa (4E2); Siti Fatimah Binte Abdul Jalil (4E3)</p>
 
   
 
 <p>Sports and Games</p>
+<p>Badminton<br>
+- 2022 NSG C Division Boys – 2nd round
+<br>- 2022 St Patrick’s Challenge – 3rd position
+</p>
 
-<p>Badminton</p>
+<p>Netball
+<br>- 2022 NSG C Division Girls – East Zone Top 8
+<br>- 2022 Springfield Challenge:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- C Division Girls - Champions
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- B Division Girls 2nd position
+<br>- 2023 NSG B Division Girls – East Zone Top 8
 
-* 2022 NSG C Division Boys – 2nd round
-* 2022 St Patrick’s Challenge – 3rd position
+</p><p>Sepak Takraw<br>
+- 2022 NSG B Division Boys – 2nd position
+<br>- 2022 NSG C Division Boys – 4th position
+	</p>
 
-
-<p>Netball</p>
-
-* 2022 NSG C Division Girls – East Zone Top 8
-* 2022 Springfield Challenge:
-  * C Division Girls - Champions
-
-  * B Division Girls 2nd position
-
-* 2023 NSG B Division Girls – East Zone Top 8
-
-<p>Sepak Takraw</p>
-
-* 2022 NSG B Division Boys – 2nd position
-* 2022 NSG C Division Boys – 4th position
-
-<p>Track &amp; Field</p>
-
-2022 National School Games (NSG):
-
-* B Division Boys – 4 x 100m Relay Semifinalists
-
-* B Division Girls – 4 x 100m Relay Semifinalists
-
-* C Division Girls – 4 x 100m Relay Semifinalists
-
-* C Division Boys – 200m Individual Semifinalist (Chadalavada Sujit, 2E3)
-
-* A Division Girls – Shot Put Finalist (Fernandez Aeriel Lhoreign Gonzales, 3N1)
-
+	
+<p>Track &amp; Field<br>
+- 2022 National School Games (NSG):<br>&nbsp;&nbsp;&nbsp;&nbsp;
+- B Division Boys – 4 x 100m Relay Semifinalists
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- B Division Girls – 4 x 100m Relay Semifinalists
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- C Division Girls – 4 x 100m Relay Semifinalists
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- C Division Boys – 200m Individual Semifinalist (Chadalavada Sujit, 2E3)
+<br>- A Division Girls – Shot Put Finalist (Fernandez Aeriel Lhoreign Gonzales, 3N1)
+</p>
 
 <p>Clubs &amp; Societies</p>
 
-<p>Singapore Youth Flying Club (SYFC)</p>
-
+<p>Singapore Youth Flying Club (SYFC)<br>
 Singapore Amazing Flying Machine Competition (SAFMC):
-
-* Best Presentation – 2nd Position
-
-* Best Creative &amp; Aesthetic – 3rd Position
-
+<br>- Best Presentation – 2nd Position
+<br>- Best Creative &amp; Aesthetic – 3rd Position
+	</p>
 	
 				</div></li><li>
 
