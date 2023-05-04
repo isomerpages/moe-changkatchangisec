@@ -4,6 +4,31 @@ permalink: /our-achievements/Changkat-Moments/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
+
+	
+	
+<li><input id="accordion23" type="checkbox">
+<label for="accordion1">27 April 2023 - Hari Raya Celebrations</label>
+<div>
+<p><img style="width:50%;float:left" src="/images/Changkat%20Moment/hrs202304.jpeg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/hrs202303.jpeg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/hrs202302.jpeg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/hrs202301.jpeg"><img></p>
+</div></li>
+	
+	
+<li><input id="accordion22" type="checkbox">
+<label for="accordion1">6 April 2023 - Speech Day and Student Leaders Investiture</label>
+<div>
+<p><img style="width:50%;float:left" src="/images/Changkat%20Moment/sd202304.jpeg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/sd202303.jpeg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/sd202302.jpeg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/sd202301.jpeg"><img></p>
+</div></li>
+	
+
+	
+<li><input id="accordion21" type="checkbox">
+<label for="accordion1">10 March 2023 - Annual Cross Country</label>
+<div>
+<p><img style="width:50%;float:left" src="/images/Changkat%20Moment/acc202304.jpeg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/acc202303.jpeg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/acc202302.jpeg"><img style="width:50%;float:left" src="/images/Changkat%20Moment/acc202301.jpeg"><img></p>
+</div></li>
+
+
 <li><input id="accordion1" type="checkbox">
 <label for="accordion1">26 October 2022 - Aviation Day</label>
 <div>
