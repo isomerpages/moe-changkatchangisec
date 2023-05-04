@@ -29,10 +29,9 @@ description: ""
 
 				</div></li><li>
 
-		&nbsp;&nbsp;</li><li>
+		&nbsp;&nbsp;</li>
 
-
-			&nbsp;&nbsp;</li><li>
+	<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
 
@@ -104,9 +103,8 @@ Singapore Amazing Flying Machine Competition (SAFMC):
 <br>- Best Creative &amp; Aesthetic – 3rd Position
 	</p>
 	
-				</div></li><li>
-
-		&nbsp;&nbsp;</li><li>
+				</div></li>
+	<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
