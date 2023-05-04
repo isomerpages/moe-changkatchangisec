@@ -32,7 +32,7 @@ description: ""
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 	
-<p><b>Uniformed Groups</b></p>
+#### Uniformed Groups
 
 **NCC Air (Boys)**
 
