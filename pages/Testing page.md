@@ -3,30 +3,38 @@ title: Testing page
 permalink: /testing-page/
 description: ""
 ---
-### 2023 Achievements
-
-##### PERFORMING ARTS
-
-**MALAY DANCE**
-* SYF 2023 (Certificate of Distinction)
-
-**MODERN DANCE**
-* SYF 2023 (Certificate of Distinction)
-
-**CHINESE STRING ENSEMBLE**
-* SYF 2023 (Certificate of Distinction)
-
-**CONCERT BAND**
-* SYF 2023 (Certificate of Commendation)
-
-
-
+### CCA Achievements
 
 <ul class="jekyllcodex_accordion">
 	
-			&nbsp;&nbsp;<li>
+				&nbsp;&nbsp;<li>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+<input checked="" type="checkbox" id="accordion8">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input checked="" type="checkbox" id="accordion7">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion8">2023 Achievements</label>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<p><b>Performing Arts</b>
+<br>MALAY DANCE<br>
+- SYF 2023 (Certificate of Distinction)
+<br>
+<br>MODERN DANCE
+<br>- SYF 2023 (Certificate of Distinction)
+<br><br>CHINESE STRING ENSEMBLE
+<br>- SYF 2023 (Certificate of Distinction)
+<br>
+<br>CONCERT BAND
+<br>- SYF 2023 (Certificate of Commendation)
+</p>
+
+				</div></li><li>
+
+		&nbsp;&nbsp;</li><li>
+
+
+			&nbsp;&nbsp;</li><li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">2022 Achievements</label>
 
