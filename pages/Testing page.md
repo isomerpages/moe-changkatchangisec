@@ -26,7 +26,7 @@ description: ""
 	
 			&nbsp;&nbsp;<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
+&nbsp;&nbsp;&nbsp;&nbsp;<input checked="" type="checkbox" id="accordion7">
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">2022 Achievements</label>
 
