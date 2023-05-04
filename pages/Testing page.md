@@ -7,7 +7,7 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
 	
-<li>
+				&nbsp;&nbsp;<li>
 <input checked="" type="checkbox" id="accordion8">
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion8">2023 Achievements</label>
