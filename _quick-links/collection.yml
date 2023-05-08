@@ -2,15 +2,15 @@ collections:
   quick-links:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Sec 2 Streaming Exercise.md
       - Useful Links.md
       - Class Timetable.md
       - Examination Matters.md
       - ICT Related Matters.md
+      - School Safety/.keep
       - School Safety/School Safety.md
       - School Safety/Safety Annoucement.md
       - School Safety/Haze Management Measures.md
       - School Safety/Guide to Home Based Learning (HBL).md
-      - School Safety/.keep
+      - School Canteen Advertisement.md
       - Frequently Asked Questions.md
