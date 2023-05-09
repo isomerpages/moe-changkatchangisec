@@ -18,7 +18,7 @@ description: ""
 *  [Application Form](/files/appexistingsch.pdf)
 2.  Attached the following documents together with the application form:
 *   Photocopy of the NRIC (front and back)
-*   List if proposed menu and pricing for all items
+*   List of proposed menu and pricing for all items
 *   Photocopy of relevant certificates such as Basic Food Hygine Course, etc
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 *  Address: Changkat Changi Secondary School  23 Simei Street 3 Singapore 529894
