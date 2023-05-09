@@ -8,7 +8,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Western Food    | 31 May 2023     | To provide halal Western food    |
+| Western Food    | 31 May 2023     | To provide halal Western food.    |
 | Japanese Food   | 31 May 2023 | To provide halal Japanese Food.|
 |
 
