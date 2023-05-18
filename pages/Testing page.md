@@ -9,7 +9,10 @@ description: ""
 
 <img src="/images/Selected%20for%20cover%20page.jpeg">
 
+
 Please click [here](https://www.youtube.com/watch?v=r260Uwuywas) to view our Principal's Address.
+
+
 
 Dear Parents,
 
