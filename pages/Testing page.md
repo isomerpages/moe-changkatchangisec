@@ -141,43 +141,90 @@ Thank You.
 
 <b>Clubs</b>
 
-
-| [Multimedia Club](/co-curricular-activities/Clubs/Multimedia-Club) | [Youth Flying Club](/co-curricular-activities/Clubs/Youth-Flying-Club) | ||
-| -------- | -------- | -------- |-------- |
-||||
-
-<img src="/images/Multimedia%20Club.jpg" style="width:50%;float:left">
-
-<img src="/images/Youth%20Flying%20Club.jpg" style="width:50%;float:left">
-
-<br><br>
-##### Alumni Voices - Proud to be a Changkateer!
-
-<img src="/images/Lim%20Qi%20Hui.jpeg" style="width:50%">
-
-
-| Lim Qi Hui (Class of 2017)  <br>School of Dentistry undergraduate @ National University of Singapore  <br>Changkat Changi Secondary School Alumni | "Changkat really helped me become the person I am today. I really have to thank the teachers that pushed me. The friends I made while I was there also made me feel really at home in the school. All in all Changkat Changi really helped me grow as a student and as a person!"| 
-| -------- | -------- | 
-|||
-
-<img src="/images/Tan%20Li%20Tong,%20Nicole.jpg" style="width:50%">
-
-| Tan Li Tong, Nicole (Class of 2016)  <br>Ngee Ann Polytechnic Graduate with a Diploma in Product Design &amp; Innovation  <br>Changkat Changi Secondary School Alumni| "I am proud to be a Changkateer because it provided me with a lot of opportunities and the school's values have nurtured me to be a better version of myself.”| 
-| -------- | -------- | 
-|||
-
-<img src="/images/Tasmeen%20Tan.jpg" style="width:50%">
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%;">
+<p><img src="/images/Multimedia%20Club.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Clubs/Multimedia-Club"><strong>Multimedia Club</strong></a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Youth%20Flying%20Club.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Clubs/Youth-Flying-Club">Youth Flying Club</a></strong></p>
+</td>
+<td style="width: 25%;">
+<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+</td>
+<td style="width: 25%;">
+<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
-|Tasmeen Tan (Class of 2016)  <br>Undergraduate @ Singapore Management University  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the Asiamalls Management Prize and the Beacon Consulting Prize| "As students of Changkat Changi, our school values are often emphasized in our school days and inculcated in us through our Character and Citizenship classes. We instill these values through various experiences and events in school in which it has provided us with many learning opportunities aside from academic wise for students to build their character and personal growth. Examples of opportunities include various workshops such as leadership and teambuilding and seminars to better prepare students for the next phase in life. One value; Integrity, stood out to me the most. Changkat Changi gave students responsibilities such as leadership roles in class. It made me realise the value of being the leader of any group projects, allowing me to gain valuable leadership qualities and learn how to work with different people. I believe my experience at Changkat Changi has played a part in allowing me to achieve what I have accomplished today."| 
-| -------- | -------- | 
-|||
+<h3><center>Alumni Voices - Proud to be a Changkateer!</center></h3>
 
-<img src="/images/Tammy%20Soh.jpeg" style="width:50%">
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th style="width: 49.9025%;border-style: hidden;"><img src="/images/Lim%20Qi%20Hui.jpeg" style="width:100%"></th>
+<th style="width: 49.9025%; text-align:left; border-style: hidden;">Lim Qi Hui (Class of 2017)<br>School of Dentistry undergraduate @ National University of Singapore<br>Changkat Changi Secondary School Alumni</th>
+</tr>
+<tr>
+<td colspan="2" style="width: 99.805%;"><strong>"Changkat really helped me become the person I am today. I really have to thank the teachers that pushed me. The friends I made while I was there also made me feel really at home in the school. All in all Changkat Changi really helped me grow as a student and as a person!"</strong></td>
+</tr>
+</tbody>
+</table>
 
-| Tammy Soh (Class of 2016)  <br>Faculty of Arts and Social Sciences Undergraduate @ National University of Singapore  <br>Recipient of the Jumbo Group of Restaurants Course Bronze Medal|"The strong support system in Changkat Changi has helped me realize my true potential to get to where I am today. The school has provided me with ample opportunities to develop myself and to pursue my passion. As a student councillor, I was given the chance to assist in the planning and execution of learning journeys and various other school events. Additionally, the science competitions that I participated in have also given me more exposure to various global issues. Through these experiences, I learnt to work as a critical thinker and overcame different challenges to get to where I am today.<br>Although there were many enjoyable moments in Changkat Changi, the most memorable event that I will always remember is the Unity Scientific Innovation Challenge competition in 2014. It was a national science competition to apply scientific principles to develop an innovative solution to various issues. That was undoubtedly a challenging competition for me as it was the first time that I was exposed to such scientific issues. Eventually, with the assiduity and stalwart support from my teachers, my team was rewarded with the Most Innovative Project and I learnt to step out of my comfort zone to voice out my opinion and to view issues from various perspectives. The Changkat Challenge in 2016 is also a memorable event for me. The graduating cohort that year was given the opportunity to paint on the walls in the school. That was a great bonding session for our class as we work together to paint on the wall. The friendships forged and the memories made while I was in Changkat Changi will always stay with me."| 
-| -------- | -------- | 
-|||
+<br>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th style="width: 49.9025%;border-style: hidden;"><img src="/images/Tan%20Li%20Tong,%20Nicole.jpg" style="width:100%"></th>
+<th style="width: 49.9025%; text-align: left;border-style: hidden;">Tan Li Tong, Nicole (Class of 2016)<br>Ngee Ann Polytechnic Graduate with a Diploma in Product Design &amp; Innovation<br>Changkat Changi Secondary School Alumni</th>
+</tr>
+<tr>
+<td colspan="2" style="width: 99.805%;"><strong>"I am proud to be a Changkateer because it provided me with a lot of opportunities and the school's values have nurtured me to be a better version of myself.”</strong></td>
+</tr>
+</tbody>
+</table>
+	
+<br>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th style="width: 49.9025%;border-style: hidden;"><img src="/images/Tasmeen%20Tan.jpg" style="width:100%"></th>
+<th style="width: 49.9025%; text-align: left;border-style: hidden;">Tasmeen Tan (Class of 2016)<br>Undergraduate @ Singapore Management University<br>Changkat Changi Secondary School Alumni<br>Recipient of the Asiamalls Management Prize and the Beacon Consulting Prize</th>
+</tr>
+<tr>
+<td colspan="2" style="width: 99.805%;"><strong>"As students of Changkat Changi, our school values are often emphasized in our school days and inculcated in us through our Character and Citizenship classes. We instill these values through various experiences and events in school in which it has provided us with many learning opportunities aside from academic wise for students to build their character and personal growth. Examples of opportunities include various workshops such as leadership and teambuilding and seminars to better prepare students for the next phase in life. One value; Integrity, stood out to me the most. Changkat Changi gave students responsibilities such as leadership roles in class. It made me realise the value of being the leader of any group projects, allowing me to gain valuable leadership qualities and learn how to work with different people. I believe my experience at Changkat Changi has played a part in allowing me to achieve what I have accomplished today."</strong></td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th style="width: 49.9025%;border-style: hidden;"><img src="/images/Tammy%20Soh.jpeg" style="width:100%"></th>
+<th style="width: 49.9025%; text-align: left;border-style: hidden;">Tammy Soh (Class of 2016)<br>Faculty of Arts and Social Sciences Undergraduate @ National University of Singapore<br>Recipient of the Jumbo Group of Restaurants Course Bronze Medal</th>
+</tr>
+<tr>
+<td colspan="2" style="width: 99.805%;"><strong>"The strong support system in Changkat Changi has helped me realize my true potential to get to where I am today. The school has provided me with ample opportunities to develop myself and to pursue my passion. As a student councillor, I was given the chance to assist in the planning and execution of learning journeys and various other school events. Additionally, the science competitions that I participated in have also given me more exposure to various global issues. Through these experiences, I learnt to work as a critical thinker and overcame different challenges to get to where I am today.</strong><br><strong>Although there were many enjoyable moments in Changkat Changi, the most memorable event that I will always remember is the Unity Scientific Innovation Challenge competition in 2014. It was a national science competition to apply scientific principles to develop an innovative solution to various issues. That was undoubtedly a challenging competition for me as it was the first time that I was exposed to such scientific issues. Eventually, with the assiduity and stalwart support from my teachers, my team was rewarded with the Most Innovative Project and I learnt to step out of my comfort zone to voice out my opinion and to view issues from various perspectives. The Changkat Challenge in 2016 is also a memorable event for me. The graduating cohort that year was given the opportunity to paint on the walls in the school. That was a great bonding session for our class as we work together to paint on the wall. The friendships forged and the memories made while I was in Changkat Changi will always stay with me."</strong></td>
+</tr>
+</tbody>
+</table>
+	
+<br>
+	
+
+
 
 <img src="/images/Lam%20Jia%20Yi.jpg" style="width:50%">
 
