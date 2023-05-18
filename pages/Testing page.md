@@ -89,20 +89,29 @@ Thank You.
 
 <b>Performing Arts</b>
 
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%;">
+<p><img src="/images/Malay%20Dance.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Malay-Dance">Malay Dance</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Modern%20Dance.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Modern-Dance">Modern Dance</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Concert%20Band.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Concert-Band">Concert Band</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Chinese%20String%20Ensemble.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-String-Ensemble">Chinese String Ensemble</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
-
-
-| [Malay Dance](/co-curricular-activities/Performing-Arts/Malay-Dance)| [Modern Dance](/co-curricular-activities/Performing-Arts/Modern-Dance) | [Concert Band](/co-curricular-activities/Performing-Arts/Concert-Band) | [Chinese String Ensemble](/co-curricular-activities/Performing-Arts/Chinese-String-Ensemble)
-| -------- | -------- | -------- |-------- |
-||||
-
-<img src="/images/Malay%20Dance.jpg" style="width:25%;float:left">
-
-<img src="/images/Modern%20Dance.jpg" style="width:25%;float:left">
-
-<img src="/images/Concert%20Band.jpg" style="width:25%;float:left">
-
-<img src="/images/Chinese%20String%20Ensemble.jpg" style="width:25%;float:left">
 
 <b>Sports and Games</b>
 
