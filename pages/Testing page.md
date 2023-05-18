@@ -3,278 +3,198 @@ title: Testing page
 permalink: /testing-page/
 description: ""
 ---
-### CCA Achievements
+**Come join the Changkateer Experience!**
 
-<ul class="jekyllcodex_accordion">
+<h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Principal's Message</strong></span></h3>
+
+<img src="/images/Selected%20for%20cover%20page.jpeg">
+
+
+Please click [here](https://www.youtube.com/watch?v=r260Uwuywas) to view our Principal's Address.
+
+
+
+Dear Parents,
+
+Thank you for attending our E-Open House Facebook Live Panel session on 27 Nov.
+We have put together a FAQ on some of the questions asked during the session.
+Click [here](https://go.gov.sg/ccssopenhousefaq) to view the FAQ. 
+Click [here]() to view our E-Open House Brochure.  
+
+Thank You.
+
+
+<table border="1" style="border-collapse: collapse; width: 100%; height: 36px;">
+<tbody>
+<tr style="height: 18px; border-style: hidden;">
+<td style="width: 50%; text-align: center; height: 18px;"><strong><a href="https://www.youtube.com/watch?v=fFe4z_o6mzw">School Tour</a></strong><center><strong><a href="https://www.youtube.com/watch?v=fFe4z_o6mzw"><img src="/images/School%20Tour.jpeg" style="width:100%;"></a></strong></center></td>
+<td style="width: 50%; text-align: center; height: 18px;"><strong><a href="https://www.youtube.com/watch?v=JSnOdK5GjWs">Student's Voices</a></strong><center><strong><a href="https://www.youtube.com/watch?v=JSnOdK5GjWs"><img src="/images/Student's%20voices.jpeg" style="width:100%;float:left"></a></strong></center></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50%; height: 18px;">&nbsp;</td>
+<td style="width: 50%; height: 18px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+
+<h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Signature Changkat Experiences</strong></span></h3>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center; border-style: none;">
+<p><img src="/images/ALP.jpg" style="width:100%;float:left"></p>
+<p><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/"><strong>Applied Learning Programme</strong></a></p>
+</td>
+<td style="width: 33.3333%; text-align: center;">
+<p><img src="/images/LLP.jpg" style="width:100%;float:left"></p>
+<p><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/Learning-for-Life-Programme-LLP"><strong>Learning for Life Programme</strong></a></p><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/Learning-for-Life-Programme-LLP">
+</a></td>
+<td style="width: 33.3333%; text-align: center;">
+<p><img src="/images/Academic%20Prog.jpg" style="width:100%;float:left"></p>
+<p><a href="https://www.youtube.com/watch?v=ZHKWhwCReVw"><strong>Learning Highlights</strong></a></p><a href="https://www.youtube.com/watch?v=ZHKWhwCReVw">
+</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3 style="text-align: center;"><span style="color: #3366ff;"><strong>CCA Videos</strong></span></h3>
+
+**Uniformed Groups**
 	
-				&nbsp;&nbsp;<li>
-<input checked="" type="checkbox" id="accordion8">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion8">2023 Achievements</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-<p><b>Performing Arts</b>
-<br>MALAY DANCE<br>
-- SYF 2023 (Certificate of Distinction)
-<br>
-<br>MODERN DANCE
-<br>- SYF 2023 (Certificate of Distinction)
-<br><br>CHINESE STRING ENSEMBLE
-<br>- SYF 2023 (Certificate of Distinction)
-<br>
-<br>CONCERT BAND
-<br>- SYF 2023 (Certificate of Commendation)
-</p>
-
-				</div></li><li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">2022 Achievements</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-	
-<p> Uniformed Groups</p>
-
-<p>NCC Air (Boys)<br>
-- Unit Recognition – Distinction
-<br>
-- Outstanding Cadet Award, awarded to Mohamed Syaif Al Din Bin Mohamed Sulfadin (4E3)</p>
-	
-
-
-<p>NCC Air (Girls)
-<br>- Unit Recognition – Distinction
-<br>- Outstanding Cadet Award, awarded to Siti Aisha Binte Abdul Jalil (4N2)</p>
-
-  
-
-<p>The Boys’ Brigade
-<br>- J M Fraser Award – Gold
-<br>- BB Week - Peter Foo Chien Ho Challenge Trophy
-<br>- BB AdventuRe:Ignite – Gold Honour Roll
-<br>- Best Boy Award, awarded to Tan Yang Yuan Aaron (4E1)
-</p>
-
-<p>Girl Guides<br>
-- Puan Noor Aishah (PNA) Award – Gold
-<br>- Baden Powell Award, awarded to  Megan Leong Shu Ling (4E1); Nurul Nayima Binte Mohamad Raze (4E2); Gonugunta Raga Swarupa (4E2); Siti Fatimah Binte Abdul Jalil (4E3)</p>
-
-  
-
-<p>Sports and Games</p>
-<p>Badminton<br>
-- 2022 NSG C Division Boys – 2nd round
-<br>- 2022 St Patrick’s Challenge – 3rd position
-</p>
-
-<p>Netball
-<br>- 2022 NSG C Division Girls – East Zone Top 8
-<br>- 2022 Springfield Challenge:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- C Division Girls - Champions
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- B Division Girls 2nd position
-<br>- 2023 NSG B Division Girls – East Zone Top 8
-
-</p><p>Sepak Takraw<br>
-- 2022 NSG B Division Boys – 2nd position
-<br>- 2022 NSG C Division Boys – 4th position
-	</p>
-
-	
-<p>Track &amp; Field<br>
-- 2022 National School Games (NSG):<br>&nbsp;&nbsp;&nbsp;&nbsp;
-- B Division Boys – 4 x 100m Relay Semifinalists
-<br>&nbsp;&nbsp;&nbsp;&nbsp;- B Division Girls – 4 x 100m Relay Semifinalists
-<br>&nbsp;&nbsp;&nbsp;&nbsp;- C Division Girls – 4 x 100m Relay Semifinalists
-<br>&nbsp;&nbsp;&nbsp;&nbsp;- C Division Boys – 200m Individual Semifinalist (Chadalavada Sujit, 2E3)
-<br>- A Division Girls – Shot Put Finalist (Fernandez Aeriel Lhoreign Gonzales, 3N1)
-</p>
-
-<p>Clubs &amp; Societies</p>
-
-<p>Singapore Youth Flying Club (SYFC)<br>
-Singapore Amazing Flying Machine Competition (SAFMC):
-<br>- Best Presentation – 2nd Position
-<br>- Best Creative &amp; Aesthetic – 3rd Position
-	</p>
-	
-				</div></li><li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">2021 Achievements</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			
-			<p><b>Performing Arts</b></p>
-			<br>
-			<p>Malay Dance<br>- SYF 2021 (Certificate of Distinction)</p>
-			<p>Chinese String Ensemble<br>-SYF 2021 (Certification of Accomplishment)</p>
-			<p>Malay Dance<br>- SYF 2021 (Certificate of Distinction)</p>
-			<p>Military Band<br>-SYF 2021 (Certification of Commendation)</p>
-			<p>Modern Dance<br>-SYF 2021 (Certification of Distinction)</p>
-			<p><b>Uniformed Groups</b></p>
-			<br>
-			<p>The Boys’ Brigade<br>- Founder’s Award: Yen Zhong Zhi</p>
-			<p>Girl Guides<br>- Baden Powell Award: Parikh Khushi Sachin &amp; Ong Shi Ya Crystal</p>
-			<p>NCC Air Boys<br>- Outstanding Cadet Award: Master Sergeant Alfred Seetoh Xiao An</p>
-			<p>NCC Air Girls<br>- Outstanding Cadet Award: Master Sergeant Nur Natasha Binte Mohamed Riduwan</p>
-			
-			</div></li><li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">2020 Achievements</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			
-			<p><b>Uniformed Groups</b></p>
-			<br>
-			<p>The Boys’ Brigade<br>- JM Fraser: Gold Award&nbsp;</p>
-			<p>Girl Guides<br>- Outstanding Award for Smoke Free Ambassador</p>
-			<p>NCC (Air) Boys<br>- Adam Ibrahim Hough: HQNCC Outstanding Cadet Award</p>
-			<p>NCC (Air) Girls<br>- Nur Shahira Binte Rosli: HQNCC Outstanding Cadet Award<br>- Nurshuadah Binte Mohd Noor: HQNCC Outstanding Cadet Award</p>
-			
-			<p><b>Performing Arts</b></p>
-<br>
-			<p>English Drama<br>- 2020 Human Values Drama Festival (Certificate of Excellence (Consolation))
-				
-				</p></div></li><li>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%;">
+<p><img src="/images/Boys%20Brigade.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/The-Boys-Brigade">Boys Brigade</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Girl%20Guides.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/Girl-Guides">Girl Guides</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/NCC%20Air%20Boys.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit">NCC Air Boys</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/NCC%20Air%20Girls.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit">NCC Air Girls</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">2019 Achievements</label>
+<b>Performing Arts</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			
-			<p><b>Uniformed Groups</b></p>
-			<br>
-			<p>The Boys’ Brigade<br>- JM Fraser: Gold Award&nbsp;<br>- Benjamin Yeo received the BB Founder's Award</p>
-			<p>Girl Guides<br>- Puan Noor Aishah Award: Gold Award (1st &amp; 2nd Coy)</p>
-			<p>NCC (Air)&nbsp;Boys<br>- Best Unit Competition: Gold Award</p>
-			<p>NCC (Air) Girls<br>- Best Unit Competition: Gold Award</p>
-			
-			<p><b>Performing Arts</b></p>
-			<br>
-			<p>Chinese String Esemble<br>- SYF 2019 (Certificate of&nbsp;Distinction)</p>
-			<p>Malay Dance<br>- SYF 2019 (Certificate of&nbsp;Accomplishment)&nbsp;</p>
-			<p>Modern Dance<br>- SYF 2019 (Certificate of Accomplishment)</p>
-			<p>Military&nbsp;&nbsp;Band<br>- SYF 2019 (Certificate of Accomplishment)</p>
-			<p>English Drama<br>- SYF 2019 (Certificate of&nbsp;Accomplishment)</p>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%;">
+<p><img src="/images/Malay%20Dance.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Malay-Dance">Malay Dance</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Modern%20Dance.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Modern-Dance">Modern Dance</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Concert%20Band.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Concert-Band">Concert Band</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Chinese%20String%20Ensemble.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-String-Ensemble">Chinese String Ensemble</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
-			<p><b>Sports and Games</b></p>
-			<br>
-			<p>Netball<br>- M1 League: Semi-finalist</p>
-				
-				</div></li><li>
+<b>Sports and Games</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">2018 Achievements</label>
+| [Sepak Takraw](/co-curricular-activities/Sports-and-Games/Sepak-Takraw) | [Track and Field](/co-curricular-activities/Sports-and-Games/Track-and-Field) | [Badminton](/co-curricular-activities/Sports-and-Games/Badminton) | [Netball](/co-curricular-activities/Sports-and-Games/Netball)
+| -------- | -------- | -------- |-------- |
+||||
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-				
-			<p><b>Uniformed Groups</b></p>
-			<br>
-			<p>The Boys’ Brigade<br>- JM Fraser: Gold Award<br>- 14th BB Pipes &amp; Drums Festival&nbsp;<br>Band Category: 2nd&nbsp;<br>Pipes Junior Novice: 2nd&nbsp;<br> Pipes Senior Novice: 1st&nbsp;<br>Snare Junior Novice: 1st&nbsp;<br>Snare Senior Novice: 2nd&nbsp;<br>Snare Senior Event 2: 2nd&nbsp;<br>- Huan Sheng received the BB Founder's Award</p>
+<img src="/images/ST.jpeg" style="width:25%;float:left">
 
-  
-		<p>Girl Guides<br>- Puan Noor Aishah Award: Gold Award (1st &amp; 2nd Coy)<br>- Wee Kim Wee Challenge 2018: 1st (Division), 2nd Runner Up (National)<br>- Yang Shu Ting, Shebiya Judes Robin and Aishwarya Ajith Kumar won the Baden-Powell Award</p>
+<img src="/images/tnf.png" style="width:25%;float:left">
 
-  
-			<p>NCC (Air)&nbsp;Boys<br>- Best Unit Competition: Gold Award<br>- Freestyle Exhibition Drill Competition - 2nd&nbsp;<br>- Abdul Hakim and Yeo Kee Xuan won the HQNCC Outstanding Cadet Award</p>
+<img src="/images/Badminton.jpg" style="width:25%;float:left">
 
-			<p>NCC (Air)&nbsp;Boys<br>- Best Unit Competition: Gold Award<br>- Freestyle Exhibition Drill Competition - 2nd&nbsp;<br>- Abdul Hakim and Yeo Kee Xuan won the HQNCC Outstanding Cadet Award</p>
+<img src="/images/Netball.jpg" style="width:25%;float:left">
 
-				<p>NCC (Air) Girls<br>- Best Unit Competition: Gold Award<br>- Fitness Challenge Competition: 2nd<br>- Sports and Games Competition: 2nd (Soccer Category)<br>- Air Competition - 1st Runner Up for Simulated Spot Landing Category<br>- Nurul Aaliyah Deduyo won the HQNCC Outstanding Cadet Award and NDP superstar Award
 
-					
-			</p><p><b>Sports and Games</b></p>
-<br>
-			<p>Track and Field<br>- National Inter-school&nbsp;&nbsp;Track and Field Competition:&nbsp;<br>&nbsp;400m (C division Girls) – 4th&nbsp;&nbsp;<br>4X100m (C division Girls) – 7th&nbsp;<br>4X400m (C division Girls) – 7th  <br>- NYP Track and Field Invitational&nbsp;<br>400m&nbsp;C Division Girls - 1st
-				
-				</p></div></li><li>
+<b>Clubs</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">2017 Achievements</label>
+| [Multimedia Club](/co-curricular-activities/Clubs/Multimedia-Club) | [Youth Flying Club](/co-curricular-activities/Clubs/Youth-Flying-Club) | ||
+| -------- | -------- | -------- |-------- |
+||||
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			
-			<p><b>Uniformed Groups</b></p>&nbsp;&nbsp;
-			<br>
-			<p>The Boys’ Brigade<br>- JM Fraser Gold Award&nbsp;<br>- He Li&nbsp;and Adrain Chan&nbsp;received the BB Founder's Award</p>
+<img src="/images/Multimedia%20Club.jpg" style="width:50%;float:left">
 
-			<p>Girl Guides<br>- Puan Noor Aishah Award 2017 (Gold) &nbsp;for 1st and 2nd Coy</p>
+<img src="/images/Youth%20Flying%20Club.jpg" style="width:50%;float:left">
 
-			<p>NCC (Air) Girls<br>- Gold Award&nbsp;&nbsp;</p>
+<br><br>
+##### Alumni Voices - Proud to be a Changkateer!
 
-			<p>NCC (Air)&nbsp;Boys<br>- Silver Award&nbsp;<br>- Freestyle Exhibition Drill Competition<br>&nbsp;- 3rd Runner Up</p>
+<img src="/images/Lim%20Qi%20Hui.jpeg" style="width:50%">
 
-  
-			<p><b>Sports and Games</b></p>&nbsp;
-<br>
-			<p>Track and Field<br>National Inter-school Track and Field Competition:<br>- 200m B division Boys – 8th&nbsp;
-				<br>NYP Track and Field Invitational<br>- 4X100m B Division Boys - 2nd&nbsp;</p>
 
-  
-			<p>Sepak Takraw<br>- Inter-school Sepak Takraw Tournament 2017:&nbsp;National Top 8 (B Division)</p>
+| Lim Qi Hui (Class of 2017)  <br>School of Dentistry undergraduate @ National University of Singapore  <br>Changkat Changi Secondary School Alumni | "Changkat really helped me become the person I am today. I really have to thank the teachers that pushed me. The friends I made while I was there also made me feel really at home in the school. All in all Changkat Changi really helped me grow as a student and as a person!"| 
+| -------- | -------- | 
+|||
 
-			<p><b>Performing Arts</b></p>&nbsp;
-<br>
-			<p>Malay Dance<br>- SYF 2017 (Certificate of Distinction)&nbsp;</p>
+<img src="/images/Tan%20Li%20Tong,%20Nicole.jpg" style="width:50%">
 
-			<p>Modern Dance<br>- SYF 2017 (Certificate of Accomplishment)</p>
+| Tan Li Tong, Nicole (Class of 2016)  <br>Ngee Ann Polytechnic Graduate with a Diploma in Product Design &amp; Innovation  <br>Changkat Changi Secondary School Alumni| "I am proud to be a Changkateer because it provided me with a lot of opportunities and the school's values have nurtured me to be a better version of myself.”| 
+| -------- | -------- | 
+|||
 
+<img src="/images/Tasmeen%20Tan.jpg" style="width:50%">
 
-			<p>Military&nbsp;&nbsp;Band<br>- SYF 2017 (Certificate of Accomplishment)</p>
 
+|Tasmeen Tan (Class of 2016)  <br>Undergraduate @ Singapore Management University  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the Asiamalls Management Prize and the Beacon Consulting Prize| "As students of Changkat Changi, our school values are often emphasized in our school days and inculcated in us through our Character and Citizenship classes. We instill these values through various experiences and events in school in which it has provided us with many learning opportunities aside from academic wise for students to build their character and personal growth. Examples of opportunities include various workshops such as leadership and teambuilding and seminars to better prepare students for the next phase in life. One value; Integrity, stood out to me the most. Changkat Changi gave students responsibilities such as leadership roles in class. It made me realise the value of being the leader of any group projects, allowing me to gain valuable leadership qualities and learn how to work with different people. I believe my experience at Changkat Changi has played a part in allowing me to achieve what I have accomplished today."| 
+| -------- | -------- | 
+|||
 
-			<p>Chinese Orchestra<br>- SYF 2017 (Certificate of Accomplishment)</p>
+<img src="/images/Tammy%20Soh.jpeg" style="width:50%">
 
+| Tammy Soh (Class of 2016)  <br>Faculty of Arts and Social Sciences Undergraduate @ National University of Singapore  <br>Recipient of the Jumbo Group of Restaurants Course Bronze Medal|"The strong support system in Changkat Changi has helped me realize my true potential to get to where I am today. The school has provided me with ample opportunities to develop myself and to pursue my passion. As a student councillor, I was given the chance to assist in the planning and execution of learning journeys and various other school events. Additionally, the science competitions that I participated in have also given me more exposure to various global issues. Through these experiences, I learnt to work as a critical thinker and overcame different challenges to get to where I am today.<br>Although there were many enjoyable moments in Changkat Changi, the most memorable event that I will always remember is the Unity Scientific Innovation Challenge competition in 2014. It was a national science competition to apply scientific principles to develop an innovative solution to various issues. That was undoubtedly a challenging competition for me as it was the first time that I was exposed to such scientific issues. Eventually, with the assiduity and stalwart support from my teachers, my team was rewarded with the Most Innovative Project and I learnt to step out of my comfort zone to voice out my opinion and to view issues from various perspectives. The Changkat Challenge in 2016 is also a memorable event for me. The graduating cohort that year was given the opportunity to paint on the walls in the school. That was a great bonding session for our class as we work together to paint on the wall. The friendships forged and the memories made while I was in Changkat Changi will always stay with me."| 
+| -------- | -------- | 
+|||
 
-			<p>English Drama<br>- SYF 2017 (Certificate of Commendation)</p>
-			
-			</div></li><li>
+<img src="/images/Lam%20Jia%20Yi.jpg" style="width:50%">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">
+|Lam Jia Yi (Class of 2016)  <br>Business School Undergraduate @ Nanyang Technological University  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the Kelly Services Course Bronze Medal| "I am proud to be a Changkateer because it has shaped me into who I am today. Having been part of the Changkat family is a fond memory that I would always look back to even after graduation. The friendships forged, memories made and the teachers who have helped me in so many ways even beyond the academics. Being the Vice-Chairman of my class when I was in Secondary 3 and 4 allowed me to build upon my leadership skills and become more competent in organising events such as class bonding sessions and celebrations. Furthermore, I had the chance to participate in the International Model United Nations Conference (IMUNC) in 2015 where I got to step out of my comfort zone and understand the importance of keeping up with the current affairs locally and internationally. As such, Changkat Changi had provided me with many opportunities to gain exposure and develop my skills."| 
+| -------- | -------- | 
+|||
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">2016 Achievements</label>
+<img src="/images/Hoh%20Kah%20Yee.jpg" style="width:50%">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			
-			<p><b>Uniformed Groups</b></p>
-<br>
-			<p>Boys’ Brigade<br>- JM Fraser Gold Award<br>- Alaster Chan and Ng Zhe Javier received the BB Founder's Award<br>- National Bagpipe Competition - 2nd &amp; 3rd&nbsp;</p>
-			<p>Girl Guides<br>- Puan Noor Aishah Award 2016 (Gold) &nbsp;for 1st and 2nd Coy&nbsp;</p>
+|Hoh Kah Yee (Class of 2016)  <br>Civil and Environmental Engineering Undergraduate @ Nanyang Technological University  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the Castlery Prize and the C-Bulk Liners Prize| "There are many moments that were memorable. I can't choose so I will list some. One would be being part of the Golden Jubilee celebrations. I am also very honoured to take part of the first House Olympics where the school was filled with a joyous atmosphere. The last would be the Changkat Challenge where we are all dressed in yellow (the shirt for the event) buzzing around in our different activities. Our class painted a mural of a tree which symbolised our journey in school! I have made so many great memories at Changkat that I couldn't list them all."| 
+| -------- | -------- | 
+|||
 
-			<p>NCC (Air) Girls<br>- Gold Award&nbsp;</p>
+<img src="/images/Nabillah%20Binte%20Ismail.jpg" style="width:50%">
 
-			<p><b>Sports and Games</b></p>
-<br>
-			<p>Track and Field<br>National Inter-school Track and Field Competition:&nbsp;<br>- 4x100m Relay B division Boys – 6th<br>- 4x400m Relay B division Boys – 8th<br>- 100m B division Boys&nbsp;&nbsp;– 5th&nbsp;<br>- 200m B division Boys&nbsp;&nbsp;– 5th&nbsp;</p>
+|Nabillah Binte Ismail (Class of 2015)  <br>Process Associate @ Genpact  <br>Changkat Changi Secondary School Alumni| "What makes me proud to be a Changkateer? Honestly it was the culture of the school. It was this unique warm and ‘homey’ feeling I got whenever I went to school, getting to see and socialise with my friends and teachers. The lifelong friends I made&nbsp; at Changkat Changi became my support system when I was struggling with academic work. Even now when we are transitioning into adulthood, they are still by my side. On top of that, being in a CCA also helped me shape the professional side of myself. It gave me a taste of what discipline was — things like punctuality, teamwork and upholding your responsibility as a leader."| 
+| -------- | -------- | 
+|||
 
-			<p>Sepak Takraw<br>- Inter-school Sepak Takraw Tournament&nbsp;&nbsp;2016:&nbsp;National Top 8 (B Division)</p>
+<img src="/images/Jonahthan%20Kuek%20Jia%20Hao.jpg" style="width:50%">
 
-			<p>Taekwondo&nbsp;<br>- Inter-school Nationals: Sparring category (Black Belt) – Bronze&nbsp;</p>
+|Jonathan Kuek Jia Hao (Class of 2016)  <br>Temasek Polytechnic Graduate with a Diploma in Business Information Technology  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the SAP Asia Prize| "I am proud to be a Changkateer because it’s like a second home to me where I made many friends and wonderful memories. Additionally, if you have any problems you can always rely on the teachers and staff who are ready to go the extra mile for you. Changkat provided me with a conducive environment with a highly supportive school community, where I was able to reach my fullest potential and excel without any worries."| 
+| -------- | -------- | 
+|||
 
-  
+<img src="/images/Indra%20DO%20Balakrishnan.jpg" style="width:50%">
 
-			<p><b>Performing Arts</b></p>
-
-			<p>Malay Dance<br>- SYF 2015 (Certificate of Accomplishment)&nbsp;</p>
-
-			<p>Modern Dance<br>- SYF 2015 (Certificate of Accomplishment)</p>
-
-  
-
-			<p>English Drama<br>- SYF 2015 (Certificate of Accomplishment)</p>
-
-  
-
-			<p>Military Band<br>- SYF 2015 (Certificate of Commendation)</p>
-
-  
-
-			<p>Chinese Orchestra<br>- SYF 2015 (Certificate of Commendation)</p></div></li></ul>
+|Indra D/O Balakrishnan (Class of 2016)  <br>Currently studying a Diploma in Fine Arts @ LASALLE College of the Arts  <br>Changkat Changi Secondary School Alumni| "I am truly proud to call myself a Changkateer because Changkat Changi helped shape me to be the responsible, independent, and goal driven young lady I am today. The strong values and morals have taught me to stand up for what I believe in, even in the face of handling tough circumstances. Changkat Changi also helped me to get to where I am today, because of the constant affirmation and recognition I received for my performances academically and non-academically. It motivated me to strive better in everything I did. Moreover, the valuable life lessons and core values I had learnt during my CCA (Girl Guides) days were also very useful as they polished my attitude towards overcoming hardship which kept me optimistic through my struggles."| 
+| -------- | -------- | 
+|||
