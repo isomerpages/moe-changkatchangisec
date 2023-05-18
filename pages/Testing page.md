@@ -223,35 +223,71 @@ Thank You.
 	
 <br>
 	
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th style="width: 49.9025%;border-style: hidden;"><img src="/images/Lam%20Jia%20Yi.jpg" style="width:100%"></th>
+<th style="width: 49.9025%; text-align: left;border-style: hidden;">Lam Jia Yi (Class of 2016)<br>Business School Undergraduate @ Nanyang Technological University<br>Changkat Changi Secondary School Alumni<br>Recipient of the Kelly Services Course Bronze Medal</th>
+</tr>
+<tr>
+<td colspan="2" style="width: 99.805%;"><strong>"I am proud to be a Changkateer because it has shaped me into who I am today. Having been part of the Changkat family is a fond memory that I would always look back to even after graduation. The friendships forged, memories made and the teachers who have helped me in so many ways even beyond the academics. Being the Vice-Chairman of my class when I was in Secondary 3 and 4 allowed me to build upon my leadership skills and become more competent in organising events such as class bonding sessions and celebrations. Furthermore, I had the chance to participate in the International Model United Nations Conference (IMUNC) in 2015 where I got to step out of my comfort zone and understand the importance of keeping up with the current affairs locally and internationally. As such, Changkat Changi had provided me with many opportunities to gain exposure and develop my skills."</strong></td>
+</tr>
+</tbody>
+</table>
 
+<br>
 
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th style="width: 49.9025%;border-style: hidden;"><img src="/images/Hoh%20Kah%20Yee.jpg" style="width:100%"></th>
+<th style="width: 49.9025%; text-align: left;border-style: hidden;">Hoh Kah Yee (Class of 2016)<br>Civil and Environmental Engineering Undergraduate @ Nanyang Technological University<br>Changkat Changi Secondary School Alumni<br>Recipient of the Castlery Prize and the C-Bulk Liners Prize</th>
+</tr>
+<tr>
+<td colspan="2" style="width: 99.805%;"><strong>"There are many moments that were memorable. I can't choose so I will list some. One would be being part of the Golden Jubilee celebrations. I am also very honoured to take part of the first House Olympics where the school was filled with a joyous atmosphere. The last would be the Changkat Challenge where we are all dressed in yellow (the shirt for the event) buzzing around in our different activities. Our class painted a mural of a tree which symbolised our journey in school! I have made so many great memories at Changkat that I couldn't list them all."</strong></td>
+</tr>
+</tbody>
+</table>
 
-<img src="/images/Lam%20Jia%20Yi.jpg" style="width:50%">
+<br>
 
-|Lam Jia Yi (Class of 2016)  <br>Business School Undergraduate @ Nanyang Technological University  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the Kelly Services Course Bronze Medal| "I am proud to be a Changkateer because it has shaped me into who I am today. Having been part of the Changkat family is a fond memory that I would always look back to even after graduation. The friendships forged, memories made and the teachers who have helped me in so many ways even beyond the academics. Being the Vice-Chairman of my class when I was in Secondary 3 and 4 allowed me to build upon my leadership skills and become more competent in organising events such as class bonding sessions and celebrations. Furthermore, I had the chance to participate in the International Model United Nations Conference (IMUNC) in 2015 where I got to step out of my comfort zone and understand the importance of keeping up with the current affairs locally and internationally. As such, Changkat Changi had provided me with many opportunities to gain exposure and develop my skills."| 
-| -------- | -------- | 
-|||
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th style="width: 49.9025%;border-style: hidden;"><img src="/images/Nabillah%20Binte%20Ismail.jpg" style="width:100%"></th>
+<th style="width: 49.9025%; text-align: left;border-style: hidden;">Nabillah Binte Ismail (Class of 2015)<br>Process Associate @ Genpact<br>Changkat Changi Secondary School Alumni</th>
+</tr>
+<tr>
+<td colspan="2" style="width: 99.805%;"><strong>"There are many moments that were memorable. I can't choose so I will list some. One would be being part of the Golden Jubilee celebrations. I am also very honoured to take part of the first House Olympics where the school was filled with a joyous atmosphere. The last would be the Changkat Challenge where we are all dressed in yellow (the shirt for the event) buzzing around in our different activities. Our class painted a mural of a tree which symbolised our journey in school! I have made so many great memories at Changkat that I couldn't list them all."</strong></td>
+</tr>
+</tbody>
+</table>
 
-<img src="/images/Hoh%20Kah%20Yee.jpg" style="width:50%">
+<br>
 
-|Hoh Kah Yee (Class of 2016)  <br>Civil and Environmental Engineering Undergraduate @ Nanyang Technological University  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the Castlery Prize and the C-Bulk Liners Prize| "There are many moments that were memorable. I can't choose so I will list some. One would be being part of the Golden Jubilee celebrations. I am also very honoured to take part of the first House Olympics where the school was filled with a joyous atmosphere. The last would be the Changkat Challenge where we are all dressed in yellow (the shirt for the event) buzzing around in our different activities. Our class painted a mural of a tree which symbolised our journey in school! I have made so many great memories at Changkat that I couldn't list them all."| 
-| -------- | -------- | 
-|||
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th style="width: 49.9025%;border-style: hidden;"><img src="/images/Jonahthan%20Kuek%20Jia%20Hao.jpg" style="width:100%"></th>
+<th style="width: 49.9025%; text-align: left;border-style: hidden;">Jonathan Kuek Jia Hao (Class of 2016)<br>Temasek Polytechnic Graduate with a Diploma in Business Information Technology<br>Changkat Changi Secondary School Alumni<br>Recipient of the SAP Asia Prize</th>
+</tr>
+<tr>
+<td colspan="2" style="width: 99.805%;"><strong>"I am proud to be a Changkateer because it’s like a second home to me where I made many friends and wonderful memories. Additionally, if you have any problems you can always rely on the teachers and staff who are ready to go the extra mile for you. Changkat provided me with a conducive environment with a highly supportive school community, where I was able to reach my fullest potential and excel without any worries."</strong></td>
+</tr>
+</tbody>
+</table>
 
-<img src="/images/Nabillah%20Binte%20Ismail.jpg" style="width:50%">
+<br>
 
-|Nabillah Binte Ismail (Class of 2015)  <br>Process Associate @ Genpact  <br>Changkat Changi Secondary School Alumni| "What makes me proud to be a Changkateer? Honestly it was the culture of the school. It was this unique warm and ‘homey’ feeling I got whenever I went to school, getting to see and socialise with my friends and teachers. The lifelong friends I made&nbsp; at Changkat Changi became my support system when I was struggling with academic work. Even now when we are transitioning into adulthood, they are still by my side. On top of that, being in a CCA also helped me shape the professional side of myself. It gave me a taste of what discipline was — things like punctuality, teamwork and upholding your responsibility as a leader."| 
-| -------- | -------- | 
-|||
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th style="width: 49.9025%;border-style: hidden;"><img src="/images/Indra%20DO%20Balakrishnan.jpg" style="width:100%"></th>
+<th style="width: 49.9025%; text-align: left;border-style: hidden;">Indra D/O Balakrishnan (Class of 2016)<br>Currently studying a Diploma in Fine Arts @ LASALLE College of the Arts<br>Changkat Changi Secondary School Alumni</th>
+</tr>
+<tr>
+<td colspan="2" style="width: 99.805%;"><strong>"I am truly proud to call myself a Changkateer because Changkat Changi helped shape me to be the responsible, independent, and goal driven young lady I am today. The strong values and morals have taught me to stand up for what I believe in, even in the face of handling tough circumstances. Changkat Changi also helped me to get to where I am today, because of the constant affirmation and recognition I received for my performances academically and non-academically. It motivated me to strive better in everything I did. Moreover, the valuable life lessons and core values I had learnt during my CCA (Girl Guides) days were also very useful as they polished my attitude towards overcoming hardship which kept me optimistic through my struggles."</strong></td>
+</tr>
+</tbody>
+</table>
 
-<img src="/images/Jonahthan%20Kuek%20Jia%20Hao.jpg" style="width:50%">
-
-|Jonathan Kuek Jia Hao (Class of 2016)  <br>Temasek Polytechnic Graduate with a Diploma in Business Information Technology  <br>Changkat Changi Secondary School Alumni  <br>Recipient of the SAP Asia Prize| "I am proud to be a Changkateer because it’s like a second home to me where I made many friends and wonderful memories. Additionally, if you have any problems you can always rely on the teachers and staff who are ready to go the extra mile for you. Changkat provided me with a conducive environment with a highly supportive school community, where I was able to reach my fullest potential and excel without any worries."| 
-| -------- | -------- | 
-|||
-
-<img src="/images/Indra%20DO%20Balakrishnan.jpg" style="width:50%">
-
-|Indra D/O Balakrishnan (Class of 2016)  <br>Currently studying a Diploma in Fine Arts @ LASALLE College of the Arts  <br>Changkat Changi Secondary School Alumni| "I am truly proud to call myself a Changkateer because Changkat Changi helped shape me to be the responsible, independent, and goal driven young lady I am today. The strong values and morals have taught me to stand up for what I believe in, even in the face of handling tough circumstances. Changkat Changi also helped me to get to where I am today, because of the constant affirmation and recognition I received for my performances academically and non-academically. It motivated me to strive better in everything I did. Moreover, the valuable life lessons and core values I had learnt during my CCA (Girl Guides) days were also very useful as they polished my attitude towards overcoming hardship which kept me optimistic through my struggles."| 
-| -------- | -------- | 
-|||
