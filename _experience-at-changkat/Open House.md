@@ -31,8 +31,8 @@ Thank You.
 <td style="width: 50%; text-align: center; height: 18px;"><strong><a href="https://www.youtube.com/watch?v=JSnOdK5GjWs">Student's Voices</a></strong><center><strong><a href="https://www.youtube.com/watch?v=JSnOdK5GjWs"><img src="/images/Student's%20voices.jpeg" style="width:100%;float:left"></a></strong></center></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 50%; height: 18px;">&nbsp;</td>
-<td style="width: 50%; height: 18px;">&nbsp;</td>
+<td style="width: 50%; height: 18px;border-style: hidden;">&nbsp;</td>
+<td style="width: 50%; height: 18px;border-style: hidden;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
