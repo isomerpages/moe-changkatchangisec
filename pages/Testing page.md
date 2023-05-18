@@ -68,19 +68,19 @@ Thank You.
 <tr>
 <td style="width: 25%;">
 <p><img src="/images/Boys%20Brigade.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/The-Boys-Brigade">Boys Brigade</a></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/The-Boys-Brigade">Boys Brigade</a></strong></p>
 </td>
 <td style="width: 25%;">
 <p><img src="/images/Girl%20Guides.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/Girl-Guides">Girl Guides</a></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/Girl-Guides">Girl Guides</a></strong></p>
 </td>
 <td style="width: 25%;">
 <p><img src="/images/NCC%20Air%20Boys.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit">NCC Air Boys</a></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit">NCC Air Boys</a></strong></p>
 </td>
 <td style="width: 25%;">
 <p><img src="/images/NCC%20Air%20Girls.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit">NCC Air Girls</a></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit">NCC Air Girls</a></strong></p>
 </td>
 </tr>
 </tbody>
@@ -94,19 +94,19 @@ Thank You.
 <tr>
 <td style="width: 25%;">
 <p><img src="/images/Malay%20Dance.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Malay-Dance">Malay Dance</a></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Malay-Dance">Malay Dance</a></strong></p>
 </td>
 <td style="width: 25%;">
 <p><img src="/images/Modern%20Dance.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Modern-Dance">Modern Dance</a></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Modern-Dance">Modern Dance</a></strong></p>
 </td>
 <td style="width: 25%;">
 <p><img src="/images/Concert%20Band.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Concert-Band">Concert Band</a></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Concert-Band">Concert Band</a></strong></p>
 </td>
 <td style="width: 25%;">
 <p><img src="/images/Chinese%20String%20Ensemble.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-String-Ensemble">Chinese String Ensemble</a></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-String-Ensemble">Chinese String Ensemble</a></strong></p>
 </td>
 </tr>
 </tbody>
@@ -115,18 +115,28 @@ Thank You.
 
 <b>Sports and Games</b>
 
-
-| [Sepak Takraw](/co-curricular-activities/Sports-and-Games/Sepak-Takraw) | [Track and Field](/co-curricular-activities/Sports-and-Games/Track-and-Field) | [Badminton](/co-curricular-activities/Sports-and-Games/Badminton) | [Netball](/co-curricular-activities/Sports-and-Games/Netball)
-| -------- | -------- | -------- |-------- |
-||||
-
-<img src="/images/ST.jpeg" style="width:25%;float:left">
-
-<img src="/images/tnf.png" style="width:25%;float:left">
-
-<img src="/images/Badminton.jpg" style="width:25%;float:left">
-
-<img src="/images/Netball.jpg" style="width:25%;float:left">
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%;">
+<p><img src="/images/ST.jpeg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Sports-and-Games/Sepak-Takraw">Sepak Takraw</a></strong></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/tnf.png" style="width:100%;float:left"></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Sports-and-Games/Track-and-Field">Track and Field</a></strong></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Badminton.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Sports-and-Games/Badminton">Badminton</a></strong></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Netball.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Sports-and-Games/Netball">Netball</a></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <b>Clubs</b>
