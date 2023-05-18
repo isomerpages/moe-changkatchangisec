@@ -63,23 +63,33 @@ Thank You.
 
 **Uniformed Groups**
 	
-
-| [Boys Brigade](/co-curricular-activities/Uniformed-Groups/The-Boys-Brigade)| [Girl Guides](/co-curricular-activities/Uniformed-Groups/Girl-Guides) | [NCC Air Boys](/co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit) | [NCC Air Girls](/co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit)
-| -------- | -------- | -------- |-------- |
-||||
-
-
-<img src="/images/Boys%20Brigade.jpg" style="width:25%;float:left">
-
-<img src="/images/Girl%20Guides.jpg" style="width:25%;float:left">
-
-<img src="/images/NCC%20Air%20Boys.jpg" style="width:25%;float:left">
-
-<img src="/images/NCC%20Air%20Girls.jpg" style="width:25%;float:left">
-
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%;">
+<p><img src="/images/Boys%20Brigade.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/The-Boys-Brigade">Boys Brigade</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/Girl%20Guides.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/Girl-Guides">Girl Guides</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/NCC%20Air%20Boys.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit">NCC Air Boys</a></p>
+</td>
+<td style="width: 25%;">
+<p><img src="/images/NCC%20Air%20Girls.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit">NCC Air Girls</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <b>Performing Arts</b>
+
+
 
 
 | [Malay Dance](/co-curricular-activities/Performing-Arts/Malay-Dance)| [Modern Dance](/co-curricular-activities/Performing-Arts/Modern-Dance) | [Concert Band](/co-curricular-activities/Performing-Arts/Concert-Band) | [Chinese String Ensemble](/co-curricular-activities/Performing-Arts/Chinese-String-Ensemble)
