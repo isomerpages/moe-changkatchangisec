@@ -45,15 +45,15 @@ Thank You.
 <tr>
 <td style="width: 33.3333%; text-align: center; border-style: none;">
 <p><img src="/images/ALP.jpg" style="width:100%;float:left"></p>
-<p><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/"><strong>Applied Learning Programme</strong></a></p>
+<p><strong><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/">Applied Learning Programme</a></strong></p>
 </td>
 <td style="width: 33.3333%; text-align: center;">
 <p><img src="/images/LLP.jpg" style="width:100%;float:left"></p>
-<p><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/Learning-for-Life-Programme-LLP"><strong>Learning for Life Programme</strong></a></p><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/Learning-for-Life-Programme-LLP">
+<p><strong><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/Learning-for-Life-Programme-LLP">Learning for Life Programme</a></strong></p><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/Learning-for-Life-Programme-LLP">
 </a></td>
 <td style="width: 33.3333%; text-align: center;">
 <p><img src="/images/Academic%20Prog.jpg" style="width:100%;float:left"></p>
-<p><a href="https://www.youtube.com/watch?v=ZHKWhwCReVw"><strong>Learning Highlights</strong></a></p><a href="https://www.youtube.com/watch?v=ZHKWhwCReVw">
+<p><strong><a href="https://www.youtube.com/watch?v=ZHKWhwCReVw">Learning Highlights</a></strong></p><a href="https://www.youtube.com/watch?v=ZHKWhwCReVw">
 </a></td>
 </tr>
 </tbody>
@@ -146,7 +146,7 @@ Thank You.
 <tr>
 <td style="width: 25%;">
 <p><img src="/images/Multimedia%20Club.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Clubs/Multimedia-Club"><strong>Multimedia Club</strong></a></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Clubs/Multimedia-Club">Multimedia Club</a></strong></p>
 </td>
 <td style="width: 25%;">
 <p><img src="/images/Youth%20Flying%20Club.jpg" style="width:100%;float:left"></p>
