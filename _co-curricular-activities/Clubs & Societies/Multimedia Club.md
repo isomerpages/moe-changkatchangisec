@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs/Multimedia-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/19jFNyUFjq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19jFNyUFjq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
 
 
 ### Teacher in Charge:
@@ -12,12 +12,12 @@ third_nav_title: Clubs & Societies
 
 *   **Ms Angeline Neo (2 I/C)**
 *   Mdm Linda Yap
-*   Ms Samantha Tee
+*   Ms Noor Ewanny Binte Alwi
     
 
-###   Training time & venue:
+###   Training time &amp; venue:
 
-Thursday, 1530 - 1800 (Computer Lab 2, 3 & 4)  
+Thursday, 1530 - 1800 (Computer Lab 2, 3 &amp; 4)  
   
 
 ### CCA Objectives
