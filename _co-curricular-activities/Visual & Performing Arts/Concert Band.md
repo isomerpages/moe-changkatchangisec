@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/Concert-Band/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ThXLTMav09E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ThXLTMav09E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
 
 ### Teacher in Charge:
 
@@ -12,16 +12,16 @@ third_nav_title: Visual & Performing Arts
 
 *   **Ms Aileen Tay (I/C)**
 *   Mr Sebastian Thng (2 I/C)
-*   Mr Yeo Shao Hui, Timothy
+*   Mr Timothy Yeo
 
- 
+&nbsp;
 
-### Training time & venue:
+### Training time &amp; venue:
 
 Tuesday, 1530 - 1800 (CCS)  
 Thursday, 1530 - 1800 (CCS)
 
- 
+&nbsp;
 
 ### CCA Objectives
 
