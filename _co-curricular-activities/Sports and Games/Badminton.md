@@ -9,7 +9,7 @@ third_nav_title: Sports and Games
 ### Teacher in Charge:
 
      
-*   **Ms Daphne Khoo (covering I/C)**
+*   **Ms Daphne Khoo (I/C)**
 *   Mr Khalid Bin Othman
 *   Dr Thirunavakarasu D
 *   Mr Han Zi Ding
