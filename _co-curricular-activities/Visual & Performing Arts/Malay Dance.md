@@ -4,20 +4,19 @@ permalink: /co-curricular-activities/Performing-Arts/Malay-Dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wn6CY39Fhos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wn6CY39Fhos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Teacher in Charge:
 
   
 
-*   **Ms Nurain Tajuddin (I/C)**
-*   Ms Nur Umaira (2 I/C)  
+*   **Ms Nur Umaira (I/C)**
+*   Mdm Shahnaz Sheikh Abdul Karim 
     
 *   Ms Namira Bte Muhammad
-*   Mdm Shahnaz Sheikh Abdul Karim  
     
 
-###   Training time & venue:
+###   Training time &amp; venue:
 
 Tuesday, 1530 - 1830 (Music Room)  
 Thursday, 1530 - 1830 (Learning Hub)  
