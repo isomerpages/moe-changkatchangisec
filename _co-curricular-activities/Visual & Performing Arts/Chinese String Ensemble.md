@@ -4,13 +4,14 @@ permalink: /co-curricular-activities/Performing-Arts/Chinese-String-Ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ds87K2L0rc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ds87K2L0rc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Teacher in Charge:
 
   
 
 *   **Mr Wang Yadong (I/C)** 
+*   Ms Teo Ying Hui
 *   Ms Sim Jia En
 *   Ms Huan Zhenling
 *   Mr Neo Yong Soon Wilson (Conductor)
@@ -32,7 +33,7 @@ Thursday, 1530 - 1830 (ITR 3)
 *   To promote an exchange of ideas and experiences among musically oriented institutions and individuals
 *   To build teamwork among members
 
- 
+&nbsp;
 
 ###   Key Programmes
 
@@ -45,7 +46,7 @@ Thursday, 1530 - 1830 (ITR 3)
 *   Weekly Sectional and combined training
 *   Music theory lessons and test for new members
 
- 
+&nbsp;
 
 ###   CCA Achievements
 
@@ -54,7 +55,7 @@ Thursday, 1530 - 1830 (ITR 3)
 *   2015-Singapore Youth Festival: Certificate of Commendation
 *   2013-Singapore Youth Festival: Certificate of Accomplishment
 
-  ![](/images/cca%20oreintation.jpeg)
+&nbsp; ![](/images/cca%20oreintation.jpeg)
 <center> CCA Orientation </center>
 
 ![](/images/cello%20section.jpeg)
