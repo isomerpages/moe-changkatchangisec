@@ -4,20 +4,19 @@ permalink: /co-curricular-activities/Uniformed-Groups/The-Boys-Brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PfMnmEor9Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PfMnmEor9Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Teachers-in-charge:
 
   
 
-*   **Mr Kelvin Yap (I/C) (Sem 2)**
-*   Ms Salome Sim (Covering I/C)
-*   Ms Teo Ying Hui (Sem 1)
+*   **Mr Kelvin Yap (I/C)**
+*   Ms Salome Sim (2 I/C)
 *   Ms Ling Geok Keng
-*   Ms Chia Ying Yin (Term 2)
+*   Ms Chia Ying Yin
     
 
-###   Training time & venue:  
+###   Training time &amp; venue:  
   
 
 *   Tuesday, 1600 - 1800 (Bedok Methodist Church)
@@ -31,7 +30,7 @@ The Boys’ Brigade adopts values of leadership and service to nurture youths to
 ###   Key Programmes
 
   
-Trap/Skeet Shooting, hiking, Overnight Cycling, outdoor camping, Overseas trip, Community Service (BB CARES), BB Share-a-Gift, Pipes & Drums band
+Trap/Skeet Shooting, hiking, Overnight Cycling, outdoor camping, Overseas trip, Community Service (BB CARES), BB Share-a-Gift, Pipes &amp; Drums band
 
 ###   Achievements
 
