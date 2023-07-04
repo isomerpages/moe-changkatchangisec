@@ -4,30 +4,30 @@ permalink: /co-curricular-activities/Uniformed-Groups/NCC-Air-Girls-Unit/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t0mr594V418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t0mr594V418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Teachers in Charge:
 
   
 
-*   **Ms Low Yan Fang (covering I/C)**
+*   **Ms Low Yan Fang&nbsp;(I/C)**
     
 *   Ms Debi Lim
 *   Ms Wang Xiao Hui
 
-###   Training time & venue:
+###   Training time &amp; venue:
 
   
 
-Tuesday, 1530 - 1730 (CCA Room & Parade Square)  
-Thursday, 1530 - 1730 (CCA Room & Parade Square)
+Tuesday, 1530 - 1730 (CCA Room &amp; Parade Square)  
+Thursday, 1530 - 1730 (CCA Room &amp; Parade Square)
 
- 
+&nbsp;
 
 ### CCA Objectives
 
   
-A NCC Cadet is “Cadet Strong”, with a resilient mind, fit body and committed heart. The NCC (air) Girls squadron aims to develop responsible and resilient leaders through fun and challenging military-related activities.  As an Air Squadron, cadets get to experience aviation related events such as the RSAF open house and Singapore Airshow and learn aeromodelling skills. Cadets would also get a chance to handle SAR21 rifles during IMT and Live Range practice sessions and are also given the opportunity to participate in the Free-Style Drill (FSD) competition and National Day Parade.
+A NCC Cadet is “Cadet Strong”, with a resilient mind, fit body and committed heart. The NCC (air) Girls squadron aims to develop responsible and resilient leaders through fun and challenging military-related activities.&nbsp; As an Air Squadron, cadets get to experience aviation related events such as the RSAF open house and Singapore Airshow and learn aeromodelling skills. Cadets would also get a chance to handle SAR21 rifles during IMT and Live Range practice sessions and are also given the opportunity to participate in the Free-Style Drill (FSD) competition and National Day Parade.
 
 *   Character and leadership development
 *   Contribution to school and community (local and overseas)
@@ -45,7 +45,7 @@ A NCC Cadet is “Cadet Strong”, with a resilient mind, fit body and committed
   
 *   2018: Unit Recognition Award - Distinction (2018)
 *   2017: 2nd place in Fitness Challenge (Girls Category)
-*   2017: 2nd place in Sports & Games Competition – Soccer
+*   2017: 2nd place in Sports &amp; Games Competition – Soccer
 *   2017: Siti Mufiqah Binti Shahar clinching 2nd place in the Simulator Spot Landing Category in the Air Competition
 *   2017: Lim Qihui and Bay Jessie receiving the Outstanding Cadet Award by HQ NCC
 *   2017: Lim Qihui awarded the Overall Best Trainee Award at the Advanced Drills Course

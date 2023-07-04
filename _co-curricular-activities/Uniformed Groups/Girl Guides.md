@@ -4,13 +4,13 @@ permalink: /co-curricular-activities/Uniformed-Groups/Girl-Guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HwQDReN2CUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HwQDReN2CUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Teachers-in-charge: 
 
 *   **Mdm Siti Zubaidah (I/C)**  
     
-*   Ms Norhafizah (2i/c)
+*   Ms Norhafizah (2 I/C)
     
 *   Dr Perema (Advisor)
     
@@ -18,12 +18,12 @@ third_nav_title: Uniformed Groups
 
   
 
-### Training time & venue:
+### Training time &amp; venue:
 
   
 
-Selected Tuesdays, 1530 - 1730 (GG Room & Parade Square)  
-Thursdays, 1530 - 1730 (GG Room & Parade Square)
+Selected Tuesdays, 1530 - 1730 (GG Room &amp; Parade Square)  
+Thursdays, 1530 - 1730 (GG Room &amp; Parade Square)
 
   
 
@@ -38,10 +38,10 @@ Thursdays, 1530 - 1730 (GG Room & Parade Square)
 ###   Key programmes
 
   
-Motto : **Be Prepared** A comprehensive 5-Point Programme enables Girl Guides to develop in 5 areas:
+Motto :&nbsp;**Be Prepared**&nbsp;A comprehensive 5-Point Programme enables Girl Guides to develop in 5 areas:
 
   
-*   Personal & Social Development
+*   Personal &amp; Social Development
 *   Home
 *   Outdoor
 *   Community
@@ -50,7 +50,7 @@ Motto : **Be Prepared** A comprehensive 5-Point Programme enables Girl Guides 
   
 The programmes craft inline to the 5-Point Programme teaches girls vital life skills – such as personal goal-setting, decision-making and team-building – in a safe and supportive environment.  
   
-Leadership camps for  Company Leaders, Patrol Leaders, Camp training , Girl conference 2018 ,& other  school -based leadership camps.  
+Leadership camps for&nbsp; Company Leaders, Patrol Leaders, Camp training , Girl conference 2018 ,&amp; other&nbsp; school -based leadership camps.  
   
 Training sessions: Garden By the Bay Ambassador Programme, GGS Singapore Cancer Society -Smoke Free Ambassador, GGS TTSH Care for the Elderly will be when guides enjoy working for interest badges and awards that will help them develop new skills as well as being prepared to help others through meaningful community service, such as caring for the elderly to volunteering to help the less privileged!  
   
@@ -64,7 +64,7 @@ Other Proficiency and Interest Badge Programes: More importantly, Guiding provid
   
 
 1.  Puan Noor Aishah (Gold) Awards:  
-    Gold Award CCS 1st Coy : 2003 - 2018       
+    Gold Award CCS 1st Coy : 2003 - 2018&nbsp; &nbsp; &nbsp;  
     Gold Award CCS 2nd Coys(Wef 2006): 2007 -to 2018
 2.  The Baden-Powell Award (BPA) 2017 : 4 Guides were awarded .
 3.  Sustained Achievement Award: Uniform Group (2008 – 2011)

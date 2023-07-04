@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/Track-and-Field/
 description: ""
 third_nav_title: Sports and Games
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1Uvf-PCZFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1Uvf-PCZFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Teacher in Charge:
 
@@ -13,17 +13,18 @@ third_nav_title: Sports and Games
 *   **Mr Sean Han (I/C)**
 *   Mr Muhammad Yusuf
 *   Ms Esther Khoo
+*   Ms Jael Ng Geng Hui
 
   
 
-### Training time & venue:
+### Training time &amp; venue:
 
   
 
 Tuesday, 1600 - 1800 (Bedok Stadium/ Bedok Reservoir/ School Gym/ ISH Level 1)  
 Thursday, 1600 - 1800 (Bedok Stadium/ Bedok Reservoir/ School Gym/ ISH Level 1)
 
-   
+&nbsp;  
 
 ### CCA Objectives
 
@@ -53,14 +54,14 @@ Annual Track and Field Camp
 8th for 200m C Boys - Nicholas Koh from 2E3  
 7th for 4X100 C Boys - Nicholas Koh ( 2E3), Nigel Diep (2N1), Bryan Seet (2N1), Lim Rayen (1N1)\\**  
   
-Singapore Youth & Junior Athletics Championships**  
+Singapore Youth &amp; Junior Athletics Championships**  
   
 1st for 400m B Girls - Ng Jia Yi from 4E3  
   
 Mohd Reyhan Amierul B A H  
   
 
-*   19th for the National Inter-School Cross-Country Championships 2011
-*   1st for his 800m event for the National Inter-School Track and Field Championships 2011
+*   19th&nbsp;for the National Inter-School Cross-Country Championships 2011
+*   1st&nbsp;for his 800m event for the National Inter-School Track and Field Championships 2011
 
 ![](/images/tnf8.png)

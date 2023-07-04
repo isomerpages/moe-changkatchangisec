@@ -4,18 +4,19 @@ permalink: /co-curricular-activities/Sports-and-Games/Badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VUK-rywehR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUK-rywehR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Teacher in Charge:
 
      
-*   **Ms Daphne Khoo (covering I/C)**
+*   **Ms Daphne Khoo (I/C)**
 *   Mr Khalid Bin Othman
 *   Dr Thirunavakarasu D
+*   Mr Han Zi Ding
 
- 
+&nbsp;
 
-### Training time & venue:
+### Training time &amp; venue:
 
 Tuesday 1530 - 1800 (Indoor Sports Hall)  
 Thursday 1530 - 1800 (Indoor Sports Hall)
