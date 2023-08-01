@@ -12,3 +12,6 @@ third_nav_title: LEAPS 2
 4.  When persistent absenteeism and misbehavior occurs, the student may be subject to disciplinary action.
 5.  All pupils must be in their proper PE/CCA attire when reporting and participating in their CCA activities.
 
+##### CCA Schedule 2023
+
+To view all CCA schedules, please click [here](/files/cca%20schedule.pdf).
