@@ -8,20 +8,20 @@ Class Timetable
 
 ##### Sec 1
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSg6_OHQK-2vXEzom_dP8F4z8IqUEx-dF1FGjqjGlj-WyW5Ezwj8fXeH-7Uqa5YQl-Ew3uAT1kgFHiT/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiOAaaF-7Jgp00KyAP3jKMI83t2bE1b6GpVxCxTYakyGxamt63QI6Jl5uq6eUv-tgtVluWItFxyypi/embed?start=false&amp;loop=false&amp;delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ##### Sec 2
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScrv_giP-T4baPvGiw6wvva9kQlz5C055nsj37FCve7HrMkKAK5iFZY7tKnzADwYfGAuRxESRZ12L7/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4xo-kHAaVSmKggKk8D6nAHTxEJ-RdSBGaP3oW-531npOJhbrMOHYLeTgp17kIz7wVolIgWY8mcMhQ/embed?start=false&amp;loop=false&amp;delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ##### Sec 3
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSgkNbn70840zhr5RryZgxUaGoj1BJx6MKg2iSntaWaJ3YmBpZe1IKqoh_BUIgRTRV-8C7kS8XOvyBu/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzdM11-LVe7AmUg4pd0DpvJy2VA6DsQNCHM5lowZmtd2bofwrMmevvYrNQeBNOSPe_wBNg3zJhaSsL/embed?start=false&amp;loop=false&amp;delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ##### Sec 4
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0Fq00p5l3pFi0EjX2b1MGLvxl91FPoy49aqcOCSTFZDlhHmJBJ18MJs3HjLH1imaidHGf5naTHPOU/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAufMVlSZccwE5vRdX2r7gKBo3qbmPSbCF5nhweTaxiOgtN_QevTyFHzpntzWMe-8pp1OuVnksKNCa/embed?start=false&amp;loop=false&amp;delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ##### Sec 5
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpndVOaPa6umojrCohViVG-iHCxElOfCsev9jiG1FRDn7RBaIbB9nk_hCEyXRq9EG3jxzUjurj507I/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTI7SpDlBDXIOlioUkTKzfsB90qeu0ghsDAROYj0iRLuVE1dAg3Z5mBVz1a-baCHj2baI25_qPed3jg/embed?start=false&amp;loop=false&amp;delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
