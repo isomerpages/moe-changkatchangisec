@@ -25,6 +25,11 @@ description: ""
 | HOD Humanities     | Ms Lai Han Wei    |
 | HOD Character and Citizenship Education     | Ms Lee Li’Neng, Marie    |
 | HOD Discipline     | Mr Nahar Azmi Bin Abdul Majid     |
+| HOD Craft and Technology     | Mr Ong Khim Ghee Samuel     |
+| HOD Physical Education & CCA     | Mr Sim Chong Ghee    |
+| HOD Information & Communication Technology     | Mr Tan Teck Tang Glen     |
+| Text     | Text     |
+| Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
