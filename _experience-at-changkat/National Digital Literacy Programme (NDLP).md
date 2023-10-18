@@ -40,17 +40,17 @@ FOR STUDENTS
 FOR PARENTS
 -----------
 
-##### Purchase of Devices (2022)&nbsp;
+##### Purchase of Devices (2023)&nbsp;
 
 | | | 
 | -------- | -------- | 
-| 1.&nbsp; Information on device     | [Briefing during 2022 Sec 1 PTC](/files/Parent%20Engagement%20Deck_%2015%20Jan%202022%20FOR%20WEBSITE%20R.pdf)  <br>[Frequently Asked Questions (FAQ)](/files/FAQ%20For%20Parents%20and%20Website%20R.pdf)   |
+| 1.&nbsp; Information on device     | [Briefing during 2023 Sec 1 PTC](/files/parent%20engagement%20deck_%20(for%20website)_13_jan.pdf)  <br>[Frequently Asked Questions (FAQ)](/files/FAQ%20For%20Parents%20and%20Website%20R.pdf)   |
 |2\. Giving Consent for Purchase|Click&nbsp;**[here](https://go.gov.sg/pdlpadmin)**&nbsp;to give consent
 |3. Insurance &amp; Warranty Info 	|Click&nbsp;**[here](/files/PLD%20Insurance%20%20Warranty%202022.pdf)**&nbsp;for more information
 |4.&nbsp; SOPs for device issues|Click&nbsp;**[here](/files/SOPs%20for%20Device%20Issues%202021.pdf)**&nbsp; for more information
 |5\. Other Useful Information|[Service Centre &amp; Vendor Contacts](/files/Service%20Centre%20%20Vendor%20Contacts.pdf)
 
-_Information&nbsp;above correct as of 15 Jan 2022_
+_Information&nbsp;above correct as of 13 Jan 2023_
 
 
 #### Cyber Wellness&nbsp;
@@ -60,8 +60,8 @@ Building up Good Learning Habits with the PLD
 
   
 
-*   [Parent’s Handbook on 1-1 Learning](/files/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)&nbsp;(Part 1)
-*   [Parent's Handbook on 1-1 Learning](https://changkatchangisec-moe-edu-sg-admin.cwp.sg/qql/slot/u149/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)&nbsp;(Part 2)
+*   [Parent’s Handbook on 1-1 Learning](/files/parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023%20(website).pdf)&nbsp;(Part 1)
+*   [Parent’s Handbook on 1-1 Learning](/files/2e%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023%20(website).pdf)&nbsp;(Part 2)
 *   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)
 
 #### Device Management Application (DMA)
