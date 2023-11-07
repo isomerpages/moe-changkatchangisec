@@ -3,7 +3,10 @@ title: School CCA Policy
 permalink: /co-curricular-activities/LEAPS-2/School-CCA-Policy/
 description: ""
 third_nav_title: LEAPS 2
+variant: markdown
 ---
+Click [here](https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Uniformed-Groups/The-Boys-Brigade/) for our CCAs.
+
 ##### School CCA Policy
 
 1.  Every student must have at least ONE CCA throughout their 4 or 5 year stay in school.
