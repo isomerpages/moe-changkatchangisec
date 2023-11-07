@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Chinese Special Programme (CSP).md
       - Sec 2 Streaming Exercise.md
       - Useful Links.md
       - Class Timetable.md
@@ -13,5 +12,6 @@ collections:
       - School Safety/Safety Annoucement.md
       - School Safety/Haze Management Measures.md
       - School Safety/Guide to Home Based Learning (HBL).md
+      - Chinese Special Programme (CSP).md
       - School Canteen Advertisement.md
       - Frequently Asked Questions.md
