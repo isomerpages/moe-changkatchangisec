@@ -33,3 +33,5 @@ Please Read Carefully Before Applying:
 * Textbooks will be available for purchase in our school bookshop from end of December onwards, you may call 97127885 or 91061391 to enquire about availability before purchasing.  The school bookshop is located behind the canteen.
 
 * For more information, refer to our Padlet page: [https://qr.page/g/1PPLXHjrQpM](https://qr.page/g/1PPLXHjrQpM)
+
+![csp](/images/chinese%20special%20programme.png)
