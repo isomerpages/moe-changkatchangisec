@@ -3,20 +3,35 @@ title: Admin and Support Staff
 permalink: /about-us/School-Staff/Admin-and-Support-Staff/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
-<img src="/images/Mr%20Mustafa%20Bin%20Mohamed.jpg" style="width:33%;float:left"><img src="/images/Mr%20George%20Goh%20Chee%20Chong.jpg" style="width:33%;float:left"><img src="/images/Miss%20Ng%20Koh%20Yee.jpg" style="width:33%">
-		 
-<img src="/images/Mr%20Ho%20Peng%20Fatt%20Donald.jpg" style="width:33%;float:left"><img src="/images/Mdm%20Noor%20Rina%20Mohamad%20Moktar.jpg" style="width:33%;float:left"><img src="/images/Mdm%20Fazillah%20Bte%20Salleh.jpg" style="width:33%">
-		 
-<img src="/images/Mdm%20Rafidah%20Bte%20Abu%20Bakar.jpg" style="width:33%;float:left"><img src="/images/SHIRLEY.jpeg" style="width:33%;float:left"><img src="/images/Mdm%20Vellachi%20D_O%20Ramu.jpg" style="width:33%">
-		 
-<img src="/images/Mdm%20Azizah%20Bte%20Ali.jpg" style="width:33%;float:left"><img src="/images/E06%20MR%20ISMIL%20BIN%20MOHD%20ALI.jpeg" style="width:33%;float:left"><img src="/images/Mr%20Pang%20Toh%20Ting.jpg" style="width:33%">
-		 
-<img src="/images/Mr%20Woo%20Chee%20Kwong.jpg" style="width:33%;float:left"><img src="/images/Mr%20Unais%20Bin%20Yusof.jpg" style="width:33%;float:left"><img src="/images/Mr%20Tan%20Boon%20Lee.jpg" style="width:33%">
-		 
-<img src="/images/Mdm%20Nabilah%20Binti%20Razali.jpg" style="width:33%;float:left"><img src="/images/Miss%20Fadilah%20Binte%20Abdul%20Aziz.jpg" style="width:33%;float:left"><img src="/images/Mdm%20Lee%20Suan%20Eng.jpg" style="width:33%">
-		 
-<img src="/images/Mdm%20Hamidah%20Bte%20Hassan.jpg" style="width:33%;float:left"><img src="/images/Mr%20Wong%20Khay%20Onn.jpg" style="width:33%;float:left"><img src="/images/Mr%20Denny%20Chan.jpg" style="width:33%">
-		 
-<img src="/images/Mr%20Dzulkarnaen%20Bin%20Hamdi.jpg" style="width:33%;float:left"><img src="/images/S07%20SITI%20AMIRAH%20BINTE%20AHMAD.jpeg" style="width:33%;float:left">
-		 
+<center><img alt="centered image" src="/images/EL%20Dept_e.png"></center>
+
+
+
+| Appointment | Name | 
+| -------- | -------- | 
+| Administrations Manager    | Ms  Ng Koh Yee   | 
+| Operations Manager     | Mr Mustafa Bin Mohamed  | 
+| Operations Manager     | Mr George Goh Chee Chong  | 
+| ICT Manager    | Mr Ho Peng Fatt Donald    | 
+| Administrative Executive    | Mdm Noor Rina Mohamad Moktar     | 
+| CSO     | Mdm Fazillah Bte Salleh     | 
+| CSO     | Mdm Rafidah Bte Abu Bakar    | 
+| EAS     | Ms Shirley Tay Siew Yong     | 
+| OSO     | Mdm Vellachi D/O Ramu   | 
+| AA     | Mdm Azizah Bte Ali    | 
+| OSO     | Mr Ismil Bin Mohd Ali    |
+| OSO     | Mr Pang Toh Ting    |
+| OSO     | Mr Woo Chee Kwong   |
+| TSO     | Mr Unais Bin Yusof    |
+| TSO     | Mr Tan Boon Lee    |
+| TSO    | Mdm Nabilah Binti Razali   |
+| TSO     | Miss Fadilah Binte Abdul Aziz    |
+| OSO     | Mdm Lee Suan Eng    |
+| HA    | Mdm Hamidah Bte Hassan    |
+| AV Tech     | Mr Wong Khay Onn    |
+| ICT Executive     | Mr Denny Chan    |
+| Desktop Engineer     | Mr Dzulkarnaen Bin Hamdi    |
+| Desktop Engineer     | Mr Venkateswaran S/O Murugiah Balakrishnan    |
+| Teacher     | Ms Siti Amirah Binte Ahmad    |
