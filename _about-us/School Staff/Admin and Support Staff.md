@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-<center><img alt="centered image" src="/images/EL%20Dept_e.png"></center>
+<center><img alt="centered image" src="/images/Dept%20Photo/EXECUTIVE___ADMIN_SUPPORT_6020A_P1.jpg"></center>
 
 
 
