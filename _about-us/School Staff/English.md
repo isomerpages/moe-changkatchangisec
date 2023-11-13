@@ -20,3 +20,4 @@ variant: markdown
 | Teacher     | Mdm Shahnaz D/O Sheikh Abdul Karim    | 
 | Teacher     | Mr Thng Shunyang Sebastian    | 
 | Teacher     | Mr Venkateswaran S/O Murugiah Balakrishnan    |
+| Teacher     | Mr Han Zi Ding    |
