@@ -5,9 +5,7 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-<center><img alt="centered image" src="/images/EL%20Dept_e.png"></center>
-
-
+![](/images/Dept%20Photo/ENGLISH_DEPARTMENT_2808_FORMAL.jpg)
 
 | Appointment | Name | 
 | -------- | -------- | 
