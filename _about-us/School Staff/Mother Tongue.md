@@ -14,6 +14,7 @@ variant: markdown
 | LT Tamil Language     | Dr Perema D/O Ramasamy    | 
 | LT Malay Language    | Mr Djohan Bin Abdul Rahman    | 
 | Teacher     | Ms Lee Hwey Ping     | 
+| Teacher     | Ms Khoo Kai Leng Esther     |
 | Teacher     | Ms Poh Shi Hui     | 
 | Teacher     | Ms Teo Ying Hui    | 
 | Teacher     | Mr Wang Yadong    | 
