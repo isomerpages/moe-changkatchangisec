@@ -15,6 +15,7 @@ variant: markdown
 | Teacher     | Mdm Angeline Neo Swee Ting    | 
 | Teacher     | Mr Han Ban Siew Sean     | 
 | Teacher     | Ms Linda Yap    | 
+| Teacher     | Mdm Shahnaz D/O Sheikh Abdul Karim   |
 | Teacher     | Ms Sim Jia En     | 
 | Teacher     | Mdm Siti Zubaidah Bte Ismail    | 
 | Teacher     | Mr Sng Fook Chong    |
