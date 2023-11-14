@@ -17,6 +17,7 @@ variant: markdown
 | SH CCE     | Mr Samson Hu Song En    | 
 | Assistant Year Head    | Mr Imran Hussain Shah    | 
 | Teacher     | Mr Goh Cheng Ze Tristan     | 
+| Teacher     | Ms Lau Jia Qi     |
 | Teacher     | Ms Lim Yi Xuan Debi     | 
 | Teacher     | Ms Norhafizah Bte Ma'Arof    | 
 | Teacher     | Mrs Mohana Sivaprasad     | 
