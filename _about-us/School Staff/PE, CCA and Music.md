@@ -17,4 +17,4 @@ variant: markdown
 | Teacher     | Dr Dawn Wu Chuang-Mae     | 
 | Teacher     | Mr Iskandar Bin Ishak     | 
 | Teacher     | Mr Syed Ahmad Bin Syed Sagoff Alqadri     | 
-| Teacher     | Ms Lau Jia Qi     | 
+| Teacher     | Ms Chia Ying Yin     |
