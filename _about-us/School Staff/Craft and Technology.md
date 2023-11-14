@@ -16,5 +16,5 @@ variant: markdown
 | Teacher     | Mr Han Ban Siew Sean     | 
 | Teacher     | Ms Linda Yap    | 
 | Teacher     | Ms Sim Jia En     | 
-| Teacher     | Mdm% Siti Zubaidah Bte Ismail    | 
-| Teacher     | Mr Sng Fook Chong    | 
+| Teacher     | Mdm Siti Zubaidah Bte Ismail    | 
+| Teacher     | Mr Sng Fook Chong    |
