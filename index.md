@@ -29,21 +29,21 @@ sections:
       subtitle: Learning is always exciting
       button: Read
       url: /experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/
-      image: /images/Learn with passion.png
+      image: /images/Photos/LEARN_WITH_PASSION.jpg
       alt: learn with passion
   - infopic:
       title: SERVE WITH HUMILITY
       subtitle: Serving is always an honour
       button: Read
       url: https://staging.d2qn7m8qwv3497.amplifyapp.com/experience-at-changkat/Learning-for-Life-Programme-LLP
-      image: /images/serve with humility1.png
+      image: /images/Photos/SERVE_WITH_HUMILITY.jpg
       alt: SERVE WITH HUMILITY
   - infopic:
       title: SUCCEED WITH INTEGRITY
       subtitle: Success is built upon values
       button: Read
       url: https://staging.d2qn7m8qwv3497.amplifyapp.com/our-achievements/CCA-Achievements
-      image: /images/succeed with integrity.png
+      image: /images/Photos/SUCCEED_WITH_INTEGRITY.jpg
       alt: SUCCEED WITH INTEGRITY
   - infopic:
       title: Follow Us
