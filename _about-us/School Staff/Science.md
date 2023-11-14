@@ -26,3 +26,4 @@ variant: markdown
 | Teacher     | Mr Rishvinder Singh    |
 | Teacher     | Dr Seah Mei Ying Jessica    |
 | Teacher     | Mr Wan Bing Khiang    |
+| Teacher     | Ms Wang Xiao Hui     |
