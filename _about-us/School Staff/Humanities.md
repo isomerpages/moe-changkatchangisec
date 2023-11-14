@@ -12,6 +12,7 @@ variant: markdown
 | -------- | -------- | 
 | HOD Humanities    | Ms Lai Han Wei   | 
 | HOD Discipline     | Mr Nahar Azmi Bin Abdul Majid    | 
+| SH Humanities     | Ms Nur Syazana Binte Shahul Hameed     |
 | SH Geography     | Ms Nuriahtu Farhati Mohamed Ali    | 
 | SH CCE     | Mr Samson Hu Song En    | 
 | Assistant Year Head    | Mr Imran Hussain Shah    | 
