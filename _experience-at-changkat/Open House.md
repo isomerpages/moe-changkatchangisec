@@ -2,24 +2,24 @@
 title: Open House
 permalink: /experience-at-changkat/Open-House/
 description: ""
+variant: markdown
 ---
 **Come join the Changkateer Experience!**
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Principal's Message</strong></span></h3>
 
-<img src="/images/Selected%20for%20cover%20page.jpeg">
+<img src="/images/Principal_s_Photo.JPG">
 
 
-Please click [here](https://www.youtube.com/watch?v=r260Uwuywas) to view our Principal's Address.
+Please click [here](https://youtu.be/IcGtTZDrIaw?si=vF8MJuK69EIe6KeZ) to view our Principal's Address.
 
 
 
 Dear Parents,
 
-Thank you for attending our E-Open House Facebook Live Panel session on 27 Nov.
-We have put together a FAQ on some of the questions asked during the session.
-Click [here](https://go.gov.sg/ccssopenhousefaq) to view the FAQ. 
-Click [here]() to view our E-Open House Brochure.  
+We will be having our Open House on 25 Nov from 9.00 am – 1.00 pm. Join us!
+
+Click [here](/files/Brochure_2023__FINAL_.pdf) to view our E-Open House Brochure.  
 
 Thank You.
 
@@ -27,7 +27,7 @@ Thank You.
 <table border="1" style="border-collapse: collapse; width: 100%; height: 36px;">
 <tbody>
 <tr style="height: 18px; border-style: hidden;">
-<td style="width: 50%; text-align: center; height: 18px;"><strong><a href="https://www.youtube.com/watch?v=fFe4z_o6mzw">School Tour</a></strong><center><strong><a href="https://www.youtube.com/watch?v=fFe4z_o6mzw"><img src="/images/School%20Tour.jpeg" style="width:100%;"></a></strong></center></td>
+<td style="width: 50%; text-align: center; height: 18px;"><strong><a href="https://youtu.be/rDDwxf7nptU?si=9EOwZyNlTWdC1rPv">School Tour</a></strong><center><strong><a href="https://youtu.be/rDDwxf7nptU?si=9EOwZyNlTWdC1rPv"><img src="/images/School%20Tour.jpeg" style="width:100%;"></a></strong></center></td>
 <td style="width: 50%; text-align: center; height: 18px;"><strong><a href="https://www.youtube.com/watch?v=JSnOdK5GjWs">Student's Voices</a></strong><center><strong><a href="https://www.youtube.com/watch?v=JSnOdK5GjWs"><img src="/images/Student's%20voices.jpeg" style="width:100%;float:left"></a></strong></center></td>
 </tr>
 <tr style="height: 18px;">
