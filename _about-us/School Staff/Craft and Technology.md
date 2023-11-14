@@ -13,6 +13,7 @@ variant: markdown
 | HOD D&T    | Mr Ong Khim Ghee Samuel   | 
 | SH D&T     | Mr Chia Heok Meng   | 
 | Teacher     | Mdm Angeline Neo Swee Ting    | 
+| Teacher     | Ms Edith Cheng Eng Eng     | 
 | Teacher     | Mr Han Ban Siew Sean     | 
 | Teacher     | Ms Linda Yap    | 
 | Teacher     | Mdm Shahnaz D/O Sheikh Abdul Karim   |
