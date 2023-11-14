@@ -9,7 +9,7 @@ variant: markdown
 
 | Appointment | Name | 
 | -------- | -------- | 
-| HOD English Language    | Mr  Chong Teng Yuan, Kenneth   | 
+| HOD English Language    | Mr Chong Teng Yuan, Kenneth   | 
 | SH English Language     | Ms Huang Aili    | 
 | School Staff Developer     | Ms Nuraini bte Abu Bakar    | 
 | ST  English Language    | Mdm  Adibah Bte Abbas    | 
