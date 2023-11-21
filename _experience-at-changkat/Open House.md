@@ -15,6 +15,8 @@ Please click [here](https://youtu.be/a_fnqJk79vQ?si=vBM97EVrKhOAVZez) to view ou
 
 Please click [here](https://youtu.be/5rbiiSQDMYI?si=F1A7FxZDzk9DAxH8) to view our Open House video.
 
+
+
 Dear Parents,
 
 We will be having our Open House on 25 Nov from 9.00 am – 1.00 pm. Join us!
