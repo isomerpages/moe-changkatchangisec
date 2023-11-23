@@ -11,7 +11,9 @@ variant: markdown
 <img src="/images/Principal_s_Photo.JPG">
 
 
-Please click [here](https://youtu.be/IcGtTZDrIaw?si=vF8MJuK69EIe6KeZ) to view our Principal's Address.
+Please click [here](https://youtu.be/a_fnqJk79vQ?si=vBM97EVrKhOAVZez) to view our Principal's Address.
+
+Please click [here](https://youtu.be/5rbiiSQDMYI?si=F1A7FxZDzk9DAxH8) to view our Open House video.
 
 
 
