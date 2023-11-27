@@ -2,15 +2,15 @@
 title: School Canteen Advertisement
 permalink: /quick-links/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 # **School Canteen Advertisement**
 <br>
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Western Food    | 15 July 2023     | To provide halal Western food.    |
-| Japanese Food   | 15 July 2023 | To provide halal Japanese Food.|
-|
+| Chinese Food    | 15 Dec 2023     | To provide Chinese Noodle (Non-Halal).    |
+
 
 **Application Procedure**
 
