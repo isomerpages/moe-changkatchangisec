@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - National Digital Literacy Programme (NDLP).md
-      - Sec 1 Registration.md
       - SOAR/.keep
       - SOAR/Student centered Opportunities for AeRospace Industry.md
       - SOAR/Aviation @ CCSS.md
