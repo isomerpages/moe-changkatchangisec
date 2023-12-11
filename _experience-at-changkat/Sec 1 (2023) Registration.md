@@ -1,7 +1,8 @@
 ---
 title: Sec 1 (2023) Registration
-permalink: /experience-at-changkat/Sec-1-2023-Registration/
+permalink: /experience-at-changkat/sec-1-2023-registration/
 description: ""
+variant: tiptap
 ---
 Dear Secondary 1 Changkateers and Parents/Guardians,  
   
