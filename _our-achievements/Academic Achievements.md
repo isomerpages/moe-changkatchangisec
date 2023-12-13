@@ -16,13 +16,7 @@ Singapore Junior Physics Olympiad 2023: Bronze<br>
 Singapore Junior Chemistry Olympiad 2022: Gold<br>
 
 
-&nbsp;&nbsp;<p></p><li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">2022 Achievements</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+2022 Achievements
 
 Humanities<br>NUS Geography Challenge 2022<br>- Top Performing individual (Silver)
 
@@ -87,4 +81,4 @@ Others<br>Singapore Raffles International Music Festival Viola Competition<br>- 
 			
 			<p>Humanities<br>NUS Geography Challenge<br>- Geo-Trail Competition - Semi Finals</p>
 
-			<p>Malay Language<br>Bahas 4PM National Debate Competition&nbsp;<br>- Quarter Finals&nbsp;<br>- Nurul Aaliyah Deduyo won the Top 10 Debator Award</p></div></li></ul></div></li>
+			<p>Malay Language<br>Bahas 4PM National Debate Competition&nbsp;<br>- Quarter Finals&nbsp;<br>- Nurul Aaliyah Deduyo won the Top 10 Debator Award</p></div></li></ul>
