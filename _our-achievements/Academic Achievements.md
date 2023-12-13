@@ -4,7 +4,7 @@ permalink: /our-achievements/Academic-Achievements/
 description: ""
 variant: markdown
 ---
-### 2023 Achievements
+### **2023 Achievements**
 
 Academic Awards (Talent Development Programme):
 
@@ -14,9 +14,11 @@ ITE ignITE Skill Challenge 2023 (Mobile Robot): 1st<br>
 National Text Recital Competition 2023: Bronze<br>
 Singapore Junior Physics Olympiad 2023: Bronze<br>
 Singapore Junior Chemistry Olympiad 2022: Gold<br>
+Singapore Model Cabinet 2022: Best Position Paper<br>
+Temasek Engineering Olympiad 2022: Bronze, Commendation Award<br>
 
 
-2022 Achievements
+### **2022 Achievements**
 
 Humanities<br>NUS Geography Challenge 2022<br>- Top Performing individual (Silver)
 
