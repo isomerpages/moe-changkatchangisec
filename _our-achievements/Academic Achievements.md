@@ -18,9 +18,9 @@ Singapore Junior Chemistry Olympiad 2022: Gold<br>
 
 &nbsp;&nbsp;<p></p><li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">2022 Achievements</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">2022 Achievements</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
