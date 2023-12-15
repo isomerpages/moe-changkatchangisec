@@ -21,6 +21,7 @@ sections:
         - title: FULL SUBJECT-BASED BANDING
           description: FSBB
           url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
+      variant: image
   - resources:
       title: Announcements
       button: Read More
