@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
+      background: /images/homepage1.gif
       key_highlights:
         - title: Many Moments, One School
           description: Re-live the best moments
@@ -21,6 +21,7 @@ sections:
         - title: FULL SUBJECT-BASED BANDING
           description: FSBB
           url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
+      variant: image
   - resources:
       title: Announcements
       button: Read More
