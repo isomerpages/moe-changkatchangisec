@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage1.gif
+      background: /images/homepage2.gif
       key_highlights:
         - title: Many Moments, One School
           description: Re-live the best moments
