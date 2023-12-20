@@ -2,8 +2,8 @@
 title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
+variant: markdown
 ---
-
 ![](/images/p_message.jpeg)
 
 <h3><strong><span style="color: #3b6809;">Growing Resilience, Enriching Character</span></strong></h3>
@@ -32,7 +32,7 @@ I am grateful for the support you have rendered to the school. Our work at Chang
 
 Together, We Flourish.
 
-**Mr Ho Ming Da
+**Mr Ho Ming Da <br>
 Principal**
 
 
