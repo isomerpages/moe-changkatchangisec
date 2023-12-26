@@ -1,7 +1,8 @@
 ---
 title: ICT Related Matters
-permalink: /quick-links/ICT-Related-Matters
+permalink: /quick-links/ICT-Related-Matters/
 description: ""
+variant: markdown
 ---
 ### ICT Vision
 
@@ -41,13 +42,13 @@ Every student an engaged learner in a safe environment that prepares them for th
 **ICT Committee Members:**  
   
 
-
+*   Mr. Wan Bing Khiang (2 I/C)
 *   Ms. Nuraini Bte Abu Bakar
-*   Miss. Goh Ying Hsuan  
+*   Ms. Goh Ying Hsuan  
     
 *   Mr. Lee Chin Teck
-*   Mdm. Linda Yap
-*   Mr. Wan Bing Khiang  
-    
+*   Mdm. Siti Zubaidah Bte Ismail
+*   Ms. Lau Li Wei, Jenny 
+*   Mr. Quek Ming Yeow 
 *   Mr. Wong Khay Onn
 *   Mr. Dzulkarnaen Bin Hamdi
