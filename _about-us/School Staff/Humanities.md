@@ -15,10 +15,8 @@ variant: markdown
 | SH Humanities     | Ms Nur Syazana Binte Shahul Hameed     |
 | SH Geography     | Ms Nuriahtu Farhati Mohamed Ali    | 
 | SH CCE     | Mr Samson Hu Song En    | 
-| Assistant Year Head    | Mr Imran Hussain Shah    | 
 | Teacher     | Mr Goh Cheng Ze Tristan     | 
-| Teacher     | Ms Lau Jia Qi     |
-| Teacher     | Ms Lim Yi Xuan Debi     | 
+| Teacher     | Ms Lau Jia Qi     | 
 | Teacher     | Ms Norhafizah Bte Ma'Arof    | 
 | Teacher     | Mrs Mohana Sivaprasad     | 
 | Teacher     | Ms Namira Bte Mohamed    | 
