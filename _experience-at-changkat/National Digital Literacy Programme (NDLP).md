@@ -2,6 +2,7 @@
 title: National Digital Literacy Programme (NDLP)
 permalink: /experience-at-changkat/National-Digital-Literacy-Programme-NDLP/
 description: ""
+variant: markdown
 ---
 The Personal Learning Devices (PLD) will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS)- as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.  
 
@@ -34,7 +35,7 @@ FOR STUDENTS
 [Student Page on PLD and Digital Literacy skills](https://sites.google.com/moe.edu.sg/ccss-student-hbl-page)
 <br>[Student Kit for Cyber Wellness &amp; Learning with a PLD](https://drive.google.com/file/d/19HjmaoWJ1HTAxC6teSqugtKc7Lsca6hB/view?usp=drive_link)
 <br>[Acceptable Use Policy (AUP)](/files/2%20Acceptable%20Use%20Policy%20AUP%20Agreement%202022.pdf)&nbsp;for healthy use of PLDs in the school
-<br>[Student's Device Information Kit](/files/Appendix_1_-_Student_Device_Information_Kit_updated_12_Mar_-_edited.pdf)
+<br>[Student's Device Information Kit](/files/Student_Device_Information_Kit.pdf)
 <br>[Student Learning Space (SLS)](http://learning.moe.edu.sg/)
 
 FOR PARENTS
@@ -44,7 +45,7 @@ FOR PARENTS
 
 | | | 
 | -------- | -------- | 
-| 1.&nbsp; Information on device     | [Briefing during 2023 Sec 1 PTC](/files/parent%20engagement%20deck_%20(for%20website)_13_jan.pdf)  <br>[Frequently Asked Questions (FAQ)](/files/FAQ%20For%20Parents%20and%20Website%20R.pdf)   |
+| 1.&nbsp; Information on device     | [Briefing during 2023 Sec 1 PTC]  <br>[Frequently Asked Questions (FAQ)](/files/FAQ%20For%20Parents%20and%20Website%20R.pdf)   |
 |2\. Giving Consent for Purchase|Click&nbsp;**[here](https://go.gov.sg/pdlpadmin)**&nbsp;to give consent
 |3. Insurance &amp; Warranty Info 	|Click&nbsp;**[here](/files/pld%20insurance%20%20warranty%202023.pdf)**&nbsp;for more information
 |4.&nbsp; SOPs for device issues|Click&nbsp;**[here](/files/SOPs%20for%20Device%20Issues%202021.pdf)**&nbsp; for more information
