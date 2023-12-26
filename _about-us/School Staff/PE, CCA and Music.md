@@ -11,8 +11,7 @@ variant: markdown
 | Appointment | Name | 
 | -------- | -------- | 
 | HOD PE/CCA    | Mr Sim Chong Ghee   | 
-| HOD Educational Support     | Mr Abdul Nasir Bin Abdul Razzak    | 
-| SH PE/CCA     | Mr Jason Zhuo Gensheng    | 
+| HOD Educational Support     | Mr Abdul Nasir Bin Abdul Razzak    |  
 | ST  PE    | Mr Ong Kian Beng    | 
 | Teacher     | Dr Dawn Wu Chuang-Mae     | 
 | Teacher     | Mr Iskandar Bin Ishak     | 

@@ -9,7 +9,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Food    | 15 Dec 2023     | To provide Chinese Noodle (Non-Halal).    |
+| Chinese Food    | 15 Jan 2024     | To provide Chinese Noodle (Non-Halal).    |
 
 
 **Application Procedure**
