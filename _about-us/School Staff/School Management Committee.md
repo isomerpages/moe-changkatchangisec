@@ -30,17 +30,16 @@ variant: markdown
 | HOD Physical Education & CCA     | Mr Sim Chong Ghee    |
 | HOD Information & Communication Technology     | Mr Tan Teck Tang Glen     |
 | School Staff Developer    | Ms Nuraini Bte Abu Bakar     |
-| Year Head​ (Sec 1)     | Mr Lim Pia Leong     |
-| Year Head (Sec 3)     | Mdm Mufeedah Bte Senin     |
+| Year Head​ (Lower Sec)     | Mr Lim Pia Leong     |
+| Year Head (Upper Sec)     | Mdm Mufeedah Bte Senin     |
 | SH English Language     | Ms Huang Aili     |
 | SH Craft & Technology     | Mr Chia Heok Meng     |
 | SH Malay Language     | Mdm Hezrina Bte Johan Manikam     |
 | SH Character and Citizenship Education     | Mr Hu Song En Samson     |
 | SH Student Leadership     | Mr Tan Tze Siong     |
-| SH Physical Education & CCA     | Mr Jason Zhuo     |
 | LH Mathematics     | Mr Poh Wei En     |
 | Assistant Year Head     | Mr Quek Ming Yeow     |
-| Assistant Year Head     | Mr Imran Hussain Shah     |
+| Assistant Year Head     | Ms Ng Shiru     |
 | Administrative Manager     | Ms Ng Koh Yee    |
 | Operations Manager     | Mr Mustafa Bin Mohamed    |
 | Operations Manager     | Mr George Goh Chee Chong     |
