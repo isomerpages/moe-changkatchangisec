@@ -10,14 +10,12 @@ variant: markdown
 
 | Appointment | Name | 
 | -------- | -------- | 
-| HOD Science    | Ms Hang Si'En   | 
-| Master Teacher (Physics)     | Mr Yap Boon Chien    | 
+| HOD Science    | Ms Hang Si'En   |  
 | HOD CCE     | Ms Lee Li'Neng, Marie    | 
 | LT  (Physics)    | Mr Lee Chin Teck    | 
 | ST (Physics)     | Mr Hong Kam Kheun     | 
 | Teacher     | Mr Bryan Yong ZhiShan     | 
 | Teacher     | Ms Daphne Khoo Rui Yun    | 
-| Teacher     | Mr Khalid Bin Othman     | 
 | Teacher     | Ms Lim Shan Yan   | 
 | Teacher     | Miss Ling Geok Keng    | 
 | Teacher     | Miss Low Yan Fang    |
