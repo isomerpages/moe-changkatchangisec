@@ -48,7 +48,8 @@ Every student an engaged learner in a safe environment that prepares them for th
     
 *   Mr. Lee Chin Teck
 *   Mdm. Siti Zubaidah Bte Ismail
-*   Ms. Lau Li Wei, Jenny 
+*   Ms. Lau Li Wei, Jenny
+*   Ms. Npuriahtu Farhati Mohamed Ali
 *   Mr. Quek Ming Yeow 
 *   Mr. Wong Khay Onn
 *   Mr. Dzulkarnaen Bin Hamdi
