@@ -26,7 +26,7 @@ sections:
       title: Announcements
       button: Read More
   - infobar:
-      title: Home Based Learning
+      title: Home Based Learning (HBL)
       id: infobar
       description: Please click here for more info
       button: Here
