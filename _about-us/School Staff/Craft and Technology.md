@@ -20,4 +20,5 @@ variant: markdown
 | Teacher     | Ms Sim Jia En     | 
 | Teacher     | Mdm Siti Zubaidah Bte Ismail    | 
 | Teacher     | Mr Sng Fook Chong    |
-
+| Teacher     | Mdm Zubaidah Binte Ibrahim    |
+| Teacher     | Mdm Khasturi d/o Gonasaygnran    |
