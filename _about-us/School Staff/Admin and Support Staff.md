@@ -22,7 +22,6 @@ variant: markdown
 | OSO     | Mdm Vellachi D/O Ramu   | 
 | AA     | Mdm Azizah Bte Ali    | 
 | OSO     | Mr Ismil Bin Mohd Ali    |
-| OSO     | Mr Pang Toh Ting    |
 | OSO     | Mr Woo Chee Kwong   |
 | OSO     | Mdm Dalila Bte Esa     |
 | TSO     | Mr Unais Bin Yusof    |
