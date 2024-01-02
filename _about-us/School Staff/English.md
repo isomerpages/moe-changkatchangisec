@@ -20,4 +20,4 @@ variant: markdown
 | Teacher     | Mdm Shahnaz D/O Sheikh Abdul Karim    | 
 | Teacher     | Mr Venkateswaran S/O Murugiah Balakrishnan    |
 | Teacher     | Mr Han Zi Ding    |
-| Teacher     | Beatrice Goh Bee Kah    |
+| Teacher     | Mdm Beatrice Goh Bee Kah    |
