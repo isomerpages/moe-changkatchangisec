@@ -9,8 +9,8 @@ variant: markdown
 
 | Appointment | Name | 
 | -------- | -------- | 
-| HOD English Language    | Mr Chong Teng Yuan, Kenneth   | 
-| SH English Language     | Ms Huang Aili    | 
+| HOD English Language (Covering)   | Ms Huang Aili   | 
+| SH English Language (Covering)     | Mr Thng Shunyang Sebastian    | 
 | School Staff Developer     | Ms Nuraini bte Abu Bakar    | 
 | ST  English Language    | Mdm  Adibah Bte Abbas    | 
 | Teacher     | Ms Aliah Aman Aljunied     | 
@@ -18,6 +18,5 @@ variant: markdown
 | Teacher     | Ms Norhafizah Bte Ma'Arof    | 
 | Teacher     | Mdm Rosazlin  Bte Mohamed     | 
 | Teacher     | Mdm Shahnaz D/O Sheikh Abdul Karim    | 
-| Teacher     | Mr Thng Shunyang Sebastian    | 
 | Teacher     | Mr Venkateswaran S/O Murugiah Balakrishnan    |
 | Teacher     | Mr Han Zi Ding    |
