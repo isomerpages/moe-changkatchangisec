@@ -12,7 +12,7 @@ colors:
     - title: media-color-three
       color: "#3b6809"
     - title: media-color-four
-      color: "#00838f"
+      color: "#3b6809"
     - title: media-color-five
       color: "#00838f"
 description: ""
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: announcements
+google_analytics_ga4: ""
