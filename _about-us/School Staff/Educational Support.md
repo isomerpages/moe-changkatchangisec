@@ -19,3 +19,4 @@ variant: markdown
 | AED (LBS)     | Mr Muhammad Nurrul Hadi Bin Abdul Rahman    | 
 | ECG Counselor     | Ms Pauline Low    | 
 | AED (C)     | Mdm Yee Kit Cheng (Mrs Tho)    |
+| Senior Education & Career Guidance Counsellor     | Ms Pauline Low    |
