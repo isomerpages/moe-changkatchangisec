@@ -11,12 +11,13 @@ variant: markdown
 | Appointment | Name | 
 | -------- | -------- | 
 | HOD D&T    | Mr Ong Khim Ghee Samuel   | 
-| SH D&T     | Mr Chia Heok Meng   | 
+| SH D&T  (Covering)   | Mr Han Ban Siew Sean   | 
+| Teacher     | Mr Chia Heok Meng     |
 | Teacher     | Mdm Angeline Neo Swee Ting    | 
 | Teacher     | Ms Edith Cheng Eng Eng     | 
-| Teacher     | Mr Han Ban Siew Sean     | 
 | Teacher     | Ms Linda Yap    | 
 | Teacher     | Mdm Shahnaz D/O Sheikh Abdul Karim   |
 | Teacher     | Ms Sim Jia En     | 
 | Teacher     | Mdm Siti Zubaidah Bte Ismail    | 
 | Teacher     | Mr Sng Fook Chong    |
+
