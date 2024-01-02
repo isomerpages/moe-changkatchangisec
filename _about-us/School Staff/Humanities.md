@@ -21,3 +21,4 @@ variant: markdown
 | Teacher     | Mrs Mohana Sivaprasad     | 
 | Teacher     | Ms Namira Bte Mohamed    | 
 | Teacher     | Mr Yeo Shao Hui Timothy    |
+| Teacher     | Mr Camillus Chua Jin Bao    |
