@@ -19,7 +19,6 @@ variant: markdown
 | Teacher     | Mdm Habsa Bte Sulaiman    | 
 | Teacher     | Ms Huang Yaling     | 
 | Teacher     | Ms Koon Yuhua Geraldine    | 
-| Teacher     | Mr Thng Shunyang Sebastian    | 
 | Teacher     | Ms Lau Li Wei, Jenny    |
 | Teacher     | Ms Ong Hui Yan    |
 | Teacher     | Ms Sim Lin Ping Salome    |
