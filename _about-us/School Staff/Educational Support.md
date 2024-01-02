@@ -19,5 +19,4 @@ variant: markdown
 | AED (C) (Untrained)    | Ms Sarah Yew Mei Foong    |
 | AED (LBS)     | Ms Siti Aisyah Bte Mohd Mohaiyuddin     | 
 | AED (LBS)     | Mr Muhammad Nurrul Hadi Bin Abdul Rahman    | 
-| ECG Counselor     | Ms Pauline Low    | 
 | Senior Education & Career Guidance Counsellor     | Ms Pauline Low    |
