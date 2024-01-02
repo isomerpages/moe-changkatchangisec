@@ -26,3 +26,4 @@ variant: markdown
 | Teacher     | Dr Seah Mei Ying Jessica    |
 | Teacher     | Ms Wang Xiao Hui     |
 | Teacher     | Ms Kim Huang Jinjin    |
+| Teacher     | Mr Siddiq Suleiman    |
