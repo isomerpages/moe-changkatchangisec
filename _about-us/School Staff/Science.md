@@ -12,6 +12,8 @@ variant: markdown
 | -------- | -------- | 
 | HOD Science    | Ms Hang Si'En   |  
 | HOD CCE     | Ms Lee Li'Neng, Marie    | 
+| LH Science (Covering)    | Mr Wan Bing Khiang    | 
+| Assistant Year Head (Covering)     | Ms Ng Shi Ru    |
 | LT  (Physics)    | Mr Lee Chin Teck    | 
 | ST (Physics)     | Mr Hong Kam Kheun     | 
 | Teacher     | Mr Bryan Yong ZhiShan     | 
@@ -20,8 +22,8 @@ variant: markdown
 | Teacher     | Miss Ling Geok Keng    | 
 | Teacher     | Miss Low Yan Fang    |
 | Teacher     | Mdm Ng Hwee Koon Joyce    |
-| Teacher     | Ms Ng Shi Ru    |
 | Teacher     | Mr Rishvinder Singh    |
 | Teacher     | Dr Seah Mei Ying Jessica    |
-| Teacher     | Mr Wan Bing Khiang    |
 | Teacher     | Ms Wang Xiao Hui     |
+| Teacher     | Ms Kim Huang Jinjin    |
+| Teacher     | Mr Siddiq Suleiman    |

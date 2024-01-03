@@ -19,7 +19,7 @@ variant: markdown
 | Appointment | Name |
 | -------- | -------- |
 | HOD Educational Support     | Mr Abdul Nasir Bin Abdul Razzak     |
-| HOD English Language     | Mr Chong Teng Yuan, Kenneth     |
+| HOD English Language (Covering)    | Ms Huang Aili     |
 | HOD Mother Tongue Languages      | Ms Goh Ying Hsuan   |
 | HOD Science     | Ms Hang Si'En     |
 | HOD Mathematics     | Mr Ho Beng Khiaw     |
@@ -32,14 +32,16 @@ variant: markdown
 | School Staff Developer    | Ms Nuraini Bte Abu Bakar     |
 | Year Head​ (Lower Sec)     | Mr Lim Pia Leong     |
 | Year Head (Upper Sec)     | Mdm Mufeedah Bte Senin     |
-| SH English Language     | Ms Huang Aili     |
-| SH Craft & Technology     | Mr Chia Heok Meng     |
+| SH English Language (Covering)     | Mr Thng Shunyang Sebastian     |
+| SH Craft & Technology (Covering)     | Mr Han Ban Siew Sean     |
 | SH Malay Language     | Mdm Hezrina Bte Johan Manikam     |
 | SH Character and Citizenship Education     | Mr Hu Song En Samson     |
+| SH PE/CCA (Covering)     | Mr Iskandar Bin Ishak     |
 | SH Student Leadership     | Mr Tan Tze Siong     |
 | LH Mathematics     | Mr Poh Wei En     |
+| LH Science (Covering)     | Mr Wan Bing Khiang     |
 | Assistant Year Head     | Mr Quek Ming Yeow     |
-| Assistant Year Head     | Ms Ng Shiru     |
+| Assistant Year Head (Covering)     | Ms Ng Shiru     |
 | Administrative Manager     | Ms Ng Koh Yee    |
 | Operations Manager     | Mr Mustafa Bin Mohamed    |
 | Operations Manager     | Mr George Goh Chee Chong     |

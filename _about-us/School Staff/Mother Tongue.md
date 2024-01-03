@@ -24,3 +24,4 @@ variant: markdown
 | Teacher     | Mdm Anadhagirl Kasthuri    |
 | Teacher     | Dr Thirunavukarasu Duarisamy    |
 | Teacher     | Mr Tan Ik Ching     |
+| Teacher     | Ms Nadiah Binte Abdul Karim     |
