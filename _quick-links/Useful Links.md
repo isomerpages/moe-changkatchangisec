@@ -7,7 +7,7 @@ variant: markdown
 #### **Student Links**
 
 
-**[2024 Student Handbook](/files/CCSS_Student_Handbook_2024__FINAL_.pdf)**
+**[2024 Student Handbook](https://drive.google.com/file/d/19dNUAPAKo-VJ0grDlwL0D5vtNBRMTjhR/view?usp=drive_link)**
 
 **[Student Learning Space](https://vle.learning.moe.edu.sg/login)&nbsp;(SLS)**
 
