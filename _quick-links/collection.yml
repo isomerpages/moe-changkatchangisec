@@ -1,0 +1,17 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - Sec 2 Streaming Exercise.md
+      - Useful Links.md
+      - Class Timetable.md
+      - CSP Registration.md
+      - Examination Matters.md
+      - ICT Related Matters.md
+      - School Safety/.keep
+      - School Safety/School Safety.md
+      - School Safety/Safety Annoucement.md
+      - School Safety/Haze Management Measures.md
+      - School Safety/Guide to Home Based Learning (HBL).md
+      - School Canteen Advertisement.md
+      - Frequently Asked Questions.md

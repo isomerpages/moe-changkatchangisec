@@ -1,0 +1,25 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - LEAPS 2/School CCA Policy.md
+      - LEAPS 2/Introduction to LEAPS 2.md
+      - LEAPS 2/.keep
+      - Uniformed Groups/The Boy's Brigade.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC (Air) Boys Unit.md
+      - Uniformed Groups/NCC (Air) Girls Unit.md
+      - Uniformed Groups/.keep
+      - Sports and Games/Sepak Takraw.md
+      - Sports and Games/Track & Field.md
+      - Sports and Games/Badminton.md
+      - Sports and Games/Netball.md
+      - Sports and Games/.keep
+      - Visual & Performing Arts/Chinese String Ensemble.md
+      - Visual & Performing Arts/Malay Dance.md
+      - Visual & Performing Arts/Concert Band.md
+      - Visual & Performing Arts/Modern Dance.md
+      - Visual & Performing Arts/.keep
+      - Clubs & Societies/Multimedia Club.md
+      - Clubs & Societies/Singapore Youth Flying Club.md
+      - Clubs & Societies/.keep

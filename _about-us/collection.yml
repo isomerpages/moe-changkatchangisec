@@ -1,0 +1,22 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission & Values.md
+      - School Staff/School Management Committee.md
+      - School Staff/Admin and Support Staff.md
+      - School Staff/English.md
+      - School Staff/Mother Tongue.md
+      - School Staff/Mathematics.md
+      - School Staff/Science.md
+      - School Staff/PE, CCA and Music.md
+      - School Staff/Humanities.md
+      - School Staff/Craft and Technology.md
+      - School Staff/Educational Support.md
+      - School Staff/.keep
+      - History.md
+      - Announcements.md
+      - School Calendar.md
+      - Our Golden Jubilee.md
+      - Contact Us.md
