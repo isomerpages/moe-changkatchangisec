@@ -15,7 +15,8 @@ variant: markdown
 | SH Humanities     | Ms Nur Syazana Binte Shahul Hameed     |
 | SH Geography     | Ms Nuriahtu Farhati Mohamed Ali    | 
 | SH CCE     | Mr Samson Hu Song En    | 
-| Teacher     | Mr Goh Cheng Ze Tristan     | 
+| Teacher     | Mr Goh Cheng Ze Tristan     |
+| Teacher     | Ms Huan Zhenling     |
 | Teacher     | Ms Lau Jia Qi     | 
 | Teacher     | Ms Norhafizah Bte Ma'Arof    | 
 | Teacher     | Mrs Mohana Sivaprasad     | 
