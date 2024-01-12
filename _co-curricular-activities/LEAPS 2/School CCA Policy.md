@@ -15,6 +15,6 @@ Click [here](https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/U
 4.  When persistent absenteeism and misbehavior occurs, the student may be subject to disciplinary action.
 5.  All pupils must be in their proper PE/CCA attire when reporting and participating in their CCA activities.
 
-##### CCA Schedule 2023
+##### CCA Schedule 2024
 
-To view all CCA schedules, please click [here](/files/cca%20schedule.pdf).
+To view all CCA schedules, please click [here](/files/CCA_deployment_Schedule_2024_FINAL.pdf).
