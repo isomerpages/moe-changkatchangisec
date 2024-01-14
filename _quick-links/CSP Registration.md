@@ -28,10 +28,7 @@ Please Read Carefully Before Applying:
 
 * Any student who registered but fails to turn up for 3 lessons consecutively will be considered as unable to attend lessons and asked to fill up the withdrawal form.
 
-* Access the online e-registration form at [https://go.gov.sg/csp2024](https://go.gov.sg/csp2024) or via the QR code below to confirm your acceptance of the offer and to complete the online registration.
-
 * Textbooks will be available for purchase in our school bookshop from end of December onwards, you may call 97127885 or 91061391 to enquire about availability before purchasing.&nbsp; The school bookshop is located behind the canteen.
 
 * For more information, refer to our Padlet page: [https://qr.page/g/1PPLXHjrQpM](https://qr.page/g/1PPLXHjrQpM)
 
-<img src="/images/chinese%20special%20programme.png" style="width:50%">
