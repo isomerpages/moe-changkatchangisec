@@ -41,7 +41,7 @@ FOR STUDENTS
 FOR PARENTS
 -----------
 
-##### Purchase of Devices (2023)&nbsp;
+##### Purchase of Devices (2024)&nbsp;
 
 | | | 
 | -------- | -------- | 
