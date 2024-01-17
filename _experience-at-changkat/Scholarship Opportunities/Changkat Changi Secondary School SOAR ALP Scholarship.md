@@ -3,6 +3,7 @@ title: Changkat Changi Secondary School SOAR ALP Scholarship
 permalink: /experience-at-changkat/Scholarship-Opportunities/SOAR-ALP-Scholarship/
 description: ""
 third_nav_title: Scholarship Opportunities
+variant: markdown
 ---
 The SOAR ALP Scholarship is funded from a generous gift by Mr Ivan Neo, SAC Chairman and Alumni of Changkat Changi Secondary School (CCSS).
 
@@ -42,7 +43,7 @@ Observable passion and interest in aerospace/aviation OR STEM-based field  (as
 
 **1)**      Application
 
-·       Students may apply for the scholarship by filling in the scholarship application form available from the school’s General Office after the release of EOY SA2 results. The form is also available [here](/files/Scholarship/ALP%20Scholarship%20Application%20Form%202023.pdf).
+·       Students may apply for the scholarship by filling in the scholarship application form available from the school’s General Office after the release of EOY SA2 results. The form is also available [here](/files/Scholarship/ALP_Scholarship_Application_Form_2024.pdf).
 
 ·       Alternatively, teachers may also nominate students by completing and submitting the application form.
 
