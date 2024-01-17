@@ -3,12 +3,13 @@ title: Chua Soo Chiew Scholarship
 permalink: /experience-at-changkat/Scholarship-Opportunities/Chua-Soo-Chiew-Scholarship/
 description: ""
 third_nav_title: Scholarship Opportunities
+variant: markdown
 ---
 Chua Soo Chiew Scholarship is a scholarship funded from a generous gift by Mr Chua Soo Chiew.  
   
-The scholarship is aimed at motivating a deserving former Changkat Changi Secondary School student pursuing a full-time course at the Ngee Ann Polytechnic to achieve greater heights of excellence.  
+The scholarship is aimed at motivating a deserving former Changkat Changi Secondary School student pursuing a full-time course at the Ngee Ann Polytechnic to achieve greater heights of excellence. 
   
-In the event that no student meets that above criteria, the Chua Soo Chiew Scholarship Committee may decide to give the award to a student pursuing accountancy in other Singapore polytechnics.  
+In the event that no student meets that above criteria, the Chua Soo Chiew Scholarship Committee may decide to give the award to a student pursuing accountancy in other Singapore polytechnics. 
   
 **Eligibility Criteria**  
   
@@ -27,9 +28,9 @@ In the event that no student meets that above criteria, the Chua Soo Chiew Schol
 •The recipients may be offered an internship opportunity with the Donor  
   
 ##### Applications 
-Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00 am to 5.00 pm, or downloaded [here](/files/Scholarship/CSC%20Scholarship%20Application%20Form%202023.pdf) Applications will close on 10th Feb 2023.  
-  
-Please note that only shortlisted candidates would be notified, and may be called up for an interview on  28th Feb 2023 onwards.  
+Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00 am to 5.00 pm, or downloaded [here](/files/Scholarship/CSC_Scholarship_Application_Form_2024.pdf).
+ 
+Please note that only shortlisted candidates would be notified, and may be called up for an interview. 
   
 ##### Enquiries  
 Changkat Changi Secondary School  
