@@ -11,11 +11,11 @@ variant: markdown
 | Appointment | Name | 
 | -------- | -------- | 
 | HOD Science    | Ms Hang Si'En   |  
-| HOD CCE     | Ms Lee Li'Neng, Marie    | 
 | LH Science (Covering)    | Mr Wan Bing Khiang    | 
-| Assistant Year Head (Covering)     | Ms Ng Shi Ru    |
 | LT  (Physics)    | Mr Lee Chin Teck    | 
 | ST (Physics)     | Mr Hong Kam Kheun     | 
+| HOD CCE     | Ms Lee Li'Neng, Marie    | 
+| Assistant Year Head (Covering)     | Ms Ng Shi Ru    |
 | Teacher     | Mr Bryan Yong ZhiShan     | 
 | Teacher     | Ms Daphne Khoo Rui Yun    | 
 | Teacher     | Ms Lim Shan Yan   | 
