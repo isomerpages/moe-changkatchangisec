@@ -11,10 +11,9 @@ variant: markdown
 | Appointment | Name | 
 | -------- | -------- | 
 | HOD PE/CCA    | Mr Sim Chong Ghee   | 
-| HOD Educational Support     | Mr Abdul Nasir Bin Abdul Razzak    |  
 | SH PE/CCA (Covering)    | Mr Iskandar Bin Ishak    | 
 | ST  PE    | Mr Ong Kian Beng    | 
+| HOD Educational Support     | Mr Abdul Nasir Bin Abdul Razzak    |  
 | Teacher     | Dr Dawn Wu Chuang-Mae     | 
 | Teacher     | Mr Syed Ahmad Bin Syed Sagoff Alqadri     | 
 | Teacher     | Ms Chia Ying Yin     |
-
