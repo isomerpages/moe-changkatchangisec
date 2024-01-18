@@ -2,12 +2,13 @@
 title: DSA holding page
 permalink: /permalink/
 description: ""
+variant: markdown
 ---
 ### **Talent Area: STEM - AEROSPACE AND AVIATION**
 
 ##### Introduction  
 
-In 2015, Changkat Changi Secondary School started our Applied Learning Programme titled Student-centered Opportunities for AeRospace industry (SOAR).
+In 2015, Changkat Changi Secondary School started our Applied Learning Programme titled Student-centered Opportunities for AeRospace industry (SOAR). 
 
   
 
