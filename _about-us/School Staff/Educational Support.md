@@ -11,7 +11,6 @@ variant: markdown
 | Appointment | Name | 
 | -------- | -------- | 
 | HOD Educational Support    | Mr Abdul Nasir Bin Abdul Razzak   | 
-| Assistant Year Head     | Mr Imran Hussain Shah    | 
 | Teacher     | Mr Chong See Eng     | 
 | Teacher     | Mr Samuel Tay ZhiHeng     | 
 | AED (C)     | Ms Shamini D/O G Singaravel   | 
