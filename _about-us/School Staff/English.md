@@ -21,3 +21,6 @@ variant: markdown
 | Teacher     | Mr Venkateswaran S/O Murugiah Balakrishnan    |
 | Teacher     | Mr Han Zi Ding    |
 | Teacher     | Mdm Beatrice Goh Bee Kah    |
+| Teacher     | Ms Chia Ying Yin    |
+| Teacher     | Mrs Elsie Tan    |
+| Teacher     | Mdm Lim Bee Peng    |
