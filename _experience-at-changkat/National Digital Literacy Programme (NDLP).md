@@ -51,7 +51,7 @@ FOR PARENTS
 |4.&nbsp; SOPs for device issues|Click&nbsp;**[here](/files/SOPs%20for%20Device%20Issues%202021.pdf)**&nbsp; for more information
 |5\. Other Useful Information|[Service Centre &amp; Vendor Contacts](/files/Service%20Centre%20%20Vendor%20Contacts.pdf)
 
-_Information&nbsp;above correct as of 15 Jan 2024_
+_Information&nbsp;above correct as of 19 Jan 2024_
 
 
 #### Cyber Wellness&nbsp;
