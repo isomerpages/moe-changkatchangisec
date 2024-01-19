@@ -1,9 +1,12 @@
 ---
 title: Examination Matters
-permalink: /quick-links/Examination-Matters
+permalink: /quick-links/Examination-Matters/
 description: ""
+variant: markdown
 ---
-School Exams
+School Exam Dates
+
+Topics tested for Weighted Assessments and Examinations:
 
 
 
