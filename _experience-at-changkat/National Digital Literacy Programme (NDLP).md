@@ -45,7 +45,7 @@ FOR PARENTS
 
 | | | 
 | -------- | -------- | 
-| 1.&nbsp; Information on device     | [Briefing during 2024 Sec 1 PTC](/files/2a__Parent_Engagement_Deck_2024__Website_.pdf) <br>[Frequently Asked Questions (FAQ)]|
+| 1.&nbsp; Information on device     | [[Briefing during 2024 Sec 1 PTC]](/files/2a__Parent_Engagement_Deck_2024__Website_.pdf) <br>[Frequently Asked Questions (FAQ)]|
 |2\. Giving Consent for Purchase|Click&nbsp;**[here](https://go.gov.sg/pdlpadmin)**&nbsp;to give consent
 |3. Insurance &amp; Warranty Info 	|Click&nbsp;**[here]**&nbsp;for more information
 |4.&nbsp; SOPs for device issues|Click&nbsp;**[here](/files/SOPs%20for%20Device%20Issues%202021.pdf)**&nbsp; for more information
