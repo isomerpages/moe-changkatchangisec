@@ -45,13 +45,13 @@ FOR PARENTS
 
 | | | 
 | -------- | -------- | 
-| 1.&nbsp; Information on device     | [Briefing during 2024 Sec 1 PTC]  <br>[Frequently Asked Questions (FAQ)](/files/FAQ%20For%20Parents%20and%20Website%20R.pdf)   |
+| 1.&nbsp; Information on device     | [[Briefing during 2024 Sec 1 PTC]](/files/2a__Parent_Engagement_Deck_2024__Website_.pdf) <br>[Frequently Asked Questions (FAQ)]|
 |2\. Giving Consent for Purchase|Click&nbsp;**[here](https://go.gov.sg/pdlpadmin)**&nbsp;to give consent
 |3. Insurance &amp; Warranty Info 	|Click&nbsp;**[here]**&nbsp;for more information
 |4.&nbsp; SOPs for device issues|Click&nbsp;**[here](/files/SOPs%20for%20Device%20Issues%202021.pdf)**&nbsp; for more information
 |5\. Other Useful Information|[Service Centre &amp; Vendor Contacts](/files/Service%20Centre%20%20Vendor%20Contacts.pdf)
 
-_Information&nbsp;above correct as of 15 Jan 2024_
+_Information&nbsp;above correct as of 19 Jan 2024_
 
 
 #### Cyber Wellness&nbsp;
