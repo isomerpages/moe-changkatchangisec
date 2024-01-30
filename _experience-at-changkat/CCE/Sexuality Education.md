@@ -3,8 +3,9 @@ title: Sexuality Education
 permalink: /experience-at-changkat/CCE/Sexuality-Education/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-*   MOE Sexuality Programme Please Click [Here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information
-*   CCSS Sexuality Programme Info Please Click [here](https://drive.google.com/file/d/1sbLfEKwwwjNNWe-UB2budUwBjaKsaBlU/view?usp=share_link) for more information
-*   Parent Opt-Out Form Please Click [Here](https://drive.google.com/file/d/1qHDkI49O0MUmouNRSgHIiX0s-a-6TT1b/view?usp=share_link) for the Opt Out Form
-*   eTeens Opt Out Form Please Click [Here](https://drive.google.com/file/d/1xQDInor0l-_mNaCcJA2q_RPo9dYObK9h/view?usp=share_link) for the Opt Out Form
+*   MOE Sexuality Programme Please Click [here](https://intranet.moe.gov.sg/guidancebranch/Pages/s_edu.aspx) for more information
+*   CCSS Sexuality Programme Info Please Click [here](https://drive.google.com/file/d/1ucf882AoJuNj3i43A2ruRg-4LLEWVM6l/view?usp=sharing) for more information
+*   Parent Opt-Out Form Please Click [here](https://go.gov.sg/opt-outseded2024) for the Opt Out Form
+*   eTeens Opt Out Form Please Click [here](https://go.gov.sg/opt-outeteens2024) for the Opt Out Form
