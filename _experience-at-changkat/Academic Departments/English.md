@@ -49,8 +49,11 @@ The English Language Department aims to develop students into empathetic communi
   
 Given the positive learning experiences our Changkateers had last year, we continued to incorporate Drama into the Sec 1 curriculum where the students took time each week in Term 2 to learn how to present themselves confidently and learn the basics of a drama performance. Our students in the Public Speaking Programme continue to hone their talent in speaking and acting in various school events throughout the year. A highlight of our Secondary 3 curriculum was an inter-class debate where students engaged in discourse on various topics related to the theme of Law and Justice.
 
-![](/images/EL%20Dept_b.png)
-![](/images/EL%20Dept_c.png)
-![](/images/EL%20Dept_d.png)
-![](/images/EL%20Dept_g.png)
-![](/images/EL%20Dept_e.png)
+![](/images/Photos/EL/1.jpg)
+![](/images/Photos/EL/2.jpg)
+![](/images/Photos/EL/3.jpg)
+![](/images/Photos/EL/4.jpg)
+![](/images/Photos/EL/5.jpg)
+![](/images/Photos/EL/6.jpg)
+![](/images/Photos/EL/7.jpg)
+![](/images/Photos/EL/8.jpg)
