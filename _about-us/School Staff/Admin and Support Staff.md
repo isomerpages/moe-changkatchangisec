@@ -25,6 +25,7 @@ variant: markdown
 | OSO     | Mr Ismil Bin Mohd Ali    |
 | OSO     | Mr Woo Chee Kwong   |
 | OSO     | Mdm Dalila Bte Esa     |
+| OSO     | Mr Chong Kar Po     |
 | TSO     | Mr Unais Bin Yusof    |
 | TSO     | Mr Tan Boon Lee    |
 | TSO    | Mdm Nabilah Binti Razali   |
@@ -33,5 +34,4 @@ variant: markdown
 | HA    | Mdm Hamidah Bte Hassan    |
 | AV Tech     | Mr Wong Khay Onn    |
 | Desktop Engineer     | Mr Dzulkarnaen Bin Hamdi    |
-| Desktop Engineer     | Ms Siti Amirah Binte Ahmad    |
 | DA     | Mr Mohd Baeke Bin Muskim    |
