@@ -25,3 +25,4 @@ variant: markdown
 | Teacher     | Ms Tay Ai Li Aileen    |
 | Teacher     | Ms Wong Siew Yin (Mrs Peh)    |
 | Teacher     | Mr Yap Meng Wei Kelvin   |
+| Teacher     | Mr Ong Ruiwen   |
