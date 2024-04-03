@@ -24,3 +24,4 @@ variant: markdown
 | Teacher     | Ms Chia Ying Yin    |
 | Teacher     | Mrs Elsie Tan    |
 | Teacher     | Mdm Lim Bee Peng    |
+| Teacher     | Ms Katherine Yeung See Mun    |
