@@ -9,7 +9,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Food    | 15 Jan 2024     | To provide Chinese Noodle (Non-Halal).    |
+| Snack &amp; Hot Drink Stall (Halal)    | 15 April 2024     | To provide snacks and hot drinks (Halal).    |
 
 
 **Application Procedure**
