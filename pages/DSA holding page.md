@@ -16,17 +16,24 @@ SOAR aims to develop Changkateers by connecting Science, Technology, Engineering
 
   
 
-All lower secondary Changkateers undergo weekly ALP lessons based on the context of Aviation where they learn about Principles of Flight, build gliders and practise drone programming. Students who show interest and aptitude will receive opportunities to participate in competitions such as Singapore Amazing Flying Machine Competition (SAFMC), attend workshops conducted by our tertiary partners such as Singapore Polytechnic, and participate in aviation exchange programme and visit the aviation hub in Toulouse, France.
+All lower secondary Changkateers undergo weekly ALP lessons based on the context of Aviation where they learn about Principles of Flight, build gliders and practise drone programming. Students who show interest and aptitude will receive opportunities to participate in competitions such as Singapore Amazing Flying Machine Competition (SAFMC), attend workshops conducted by our tertiary partners or industry partners such as Singapore Polytechnic and Rolls Royce, as well as participate in aviation exchange programme and visit the aviation hub in Toulouse, France.
 
 <img src="/images/Picture1.jpeg" style="width:80%">
 <center> Photo 1: Our Sec 1 Changkateers launching a glider that they have just made.</center>
 
 <img src="/images/Picture2.jpeg" style="width:80%">
-<center>Photo 2: Changkateers learning to fly the Flight Simulator as part of their CCA.</center>
+<center>Photo 2: Changkateers learning to fly the Flight Simulator.</center>
+
+<img src="/images/Picture2.jpeg" style="width:80%">
+<center>Photo 2: Changkateers learning to fly the Flight Simulator.</center>
 
 
-<img src="/images/dsa%20-%20alp1.jpg" style="width:80%">
-<center>Photo 3: Changkateers attending an Aircraft Structural Repair workshop conducted by Singapore Polytechnic in 2023</center>
+<img src="/images/DSA/ALP3.jpg" style="width:80%">
+<center>Photo 3: Changkateers attending Airshow 2024 taken with Minister Desmond Tan and CEO of SAESL.</center>
+
+<img src="/images/DSA/ALP5.jpg" style="width:80%">
+<center>Photo 4: Collaboration with Victoria School to extend the learning of aviation related learning activities to the primary school participants.</center>
+
 
 
 <img src="/images/dsa-alp2.png" style="width:80%">
