@@ -35,9 +35,8 @@ All lower secondary Changkateers undergo weekly ALP lessons based on the context
 <center>Photo 4: Collaboration with Victoria School to extend the learning of aviation related learning activities to the primary school participants.</center>
 
 
-
-<img src="/images/dsa-alp2.png" style="width:80%">
-<center>Photo 4: Changkateers participating in a virtual exchange with French students in 2023 due to covid travel restrictions</center>
+<img src="/images/DSA/ALP6.jpg" style="width:60%">
+<center>Photo 5: Changkateers participating in an overseas exchange with French students in May 2024.</center>
 
 ##### Admission Criteria  
 
@@ -51,7 +50,9 @@ Changkat Changi Secondary School is looking for Primary 6 students who possess o
     
 *   participated or attained any levels of achievements in STEM related competitions&nbsp;and/or workshops  
     
-*   involved in STEM-related clubs or societies (e.g. Science club, ICT club etc)
+*   student member in STEM-related clubs or societies (e.g. Science club, ICT club etc)
+
+*   Applicants who do not have prior experience may also apply,  and will be assessed on the basis of their potential.
 
   
 _**Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**_
@@ -64,7 +65,7 @@ _**Please note that meeting all the criteria does not guarantee the student will
 
   
 
-**Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023 to 31 May 2023. For more details, please refer to the MOE website at**&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)  
+**Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to the MOE website at**&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)  
   
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.  
   
@@ -89,7 +90,7 @@ Students can indicate up to three choices (maximum of two choices for the same s
 
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to**&nbsp;**the talent they are selected for from year 1-4.**
 
-The application timeline for 2023 is as follows:
+The application timeline for 2024 is as follows:
 
 
 
