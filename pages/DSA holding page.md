@@ -16,21 +16,27 @@ SOAR aims to develop Changkateers by connecting Science, Technology, Engineering
 
   
 
-All lower secondary Changkateers undergo weekly ALP lessons based on the context of Aviation where they learn about Principles of Flight, build gliders and practise drone programming. Students who show interest and aptitude will receive opportunities to participate in competitions such as Singapore Amazing Flying Machine Competition (SAFMC), attend workshops conducted by our tertiary partners such as Singapore Polytechnic, and participate in aviation exchange programme and visit the aviation hub in Toulouse, France.
+All lower secondary Changkateers undergo weekly ALP lessons based on the context of Aviation where they learn about Principles of Flight, build gliders and practise drone programming. Students who show interest and aptitude will receive opportunities to participate in competitions such as Singapore Amazing Flying Machine Competition (SAFMC), attend workshops conducted by our tertiary partners or industry partners such as Singapore Polytechnic and Rolls Royce, as well as participate in aviation exchange programme and visit the aviation hub in Toulouse, France.
 
 <img src="/images/Picture1.jpeg" style="width:80%">
 <center> Photo 1: Our Sec 1 Changkateers launching a glider that they have just made.</center>
 
 <img src="/images/Picture2.jpeg" style="width:80%">
-<center>Photo 2: Changkateers learning to fly the Flight Simulator as part of their CCA.</center>
+<center>Photo 2: Changkateers learning to fly the Flight Simulator.</center>
+
+<img src="/images/Picture2.jpeg" style="width:80%">
+<center>Photo 2: Changkateers learning to fly the Flight Simulator.</center>
 
 
-<img src="/images/dsa%20-%20alp1.jpg" style="width:80%">
-<center>Photo 3: Changkateers attending an Aircraft Structural Repair workshop conducted by Singapore Polytechnic in 2023</center>
+<img src="/images/DSA/ALP3.jpg" style="width:80%">
+<center>Photo 3: Changkateers attending Airshow 2024 taken with Minister Desmond Tan and CEO of SAESL.</center>
+
+<img src="/images/DSA/ALP5.jpg" style="width:80%">
+<center>Photo 4: Collaboration with Victoria School to extend the learning of aviation related learning activities to the primary school participants.</center>
 
 
-<img src="/images/dsa-alp2.png" style="width:80%">
-<center>Photo 4: Changkateers participating in a virtual exchange with French students in 2023 due to covid travel restrictions</center>
+<img src="/images/DSA/ALP6.jpg" style="width:60%">
+<center>Photo 5: Changkateers participating in an overseas exchange with French students in May 2024.</center>
 
 ##### Admission Criteria  
 
@@ -44,7 +50,9 @@ Changkat Changi Secondary School is looking for Primary 6 students who possess o
     
 *   participated or attained any levels of achievements in STEM related competitions&nbsp;and/or workshops  
     
-*   involved in STEM-related clubs or societies (e.g. Science club, ICT club etc)
+*   student member in STEM-related clubs or societies (e.g. Science club, ICT club etc)
+
+*   Applicants who do not have prior experience may also apply,  and will be assessed on the basis of their potential.
 
   
 _**Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**_
@@ -57,7 +65,7 @@ _**Please note that meeting all the criteria does not guarantee the student will
 
   
 
-**Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023 to 31 May 2023. For more details, please refer to the MOE website at**&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)  
+**Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to the MOE website at**&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)  
   
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.  
   
@@ -82,18 +90,18 @@ Students can indicate up to three choices (maximum of two choices for the same s
 
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to**&nbsp;**the talent they are selected for from year 1-4.**
 
-The application timeline for 2023 is as follows:
+The application timeline for 2024 is as follows:
 
 
 
 | Date | Event | 
 | -------- | -------- | 
-| 4 May to 31 May 2023, 3pm     | Submit your child's application online through the DSA-Sec portal by 3pm on the final day.     | 
-|15 Jun to 7 July 2023|School’s notification of shortlisted candidates. We regret to inform that&nbsp;**only shortlisted students**&nbsp;will be notified of the interview dates.
-|26 June to 11 September 2023|School-based in-person interview for shortlisted applicants.
-|By 11 September 2023|All applicants will receive a reply from the school on the outcome of the application as follows:<br>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected. 
-|23 to 27 October 2023, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive notification on the School Preference Submission in Oct 2023. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
-|Early - Mid November 2023|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively mid-Nov 2023.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.&nbsp;  <br>**Successful DSA-Sec Students.**&nbsp;Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.&nbsp;  <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.&nbsp;  <br>Students are also&nbsp;**NOT**&nbsp;allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.**&nbsp;They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
+| 7 May 2024, 11am to 3 June 2024, 3pm     | Submit your child's application online through the DSA-Sec portal by 3pm on the final day.     | 
+|24 June 2024 to 19 July 2024|School’s notification of shortlisted candidates. We regret to inform that&nbsp;**only shortlisted students**&nbsp;will be notified of the interview dates.
+|24 June 2024 to 9 September 2024|School-based in-person interview for shortlisted applicants.
+|By 9 September 2024|All applicants will receive a reply from the school on the outcome of the application as follows:<br>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected. 
+|21 October 2024, 9am to 25 October 2024, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive notification on the School Preference Submission in Oct 2023. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
+|Late November 2024|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively mid-Nov 2023.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.&nbsp;  <br>**Successful DSA-Sec Students.**&nbsp;Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.&nbsp;  <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.&nbsp;  <br>Students are also&nbsp;**NOT**&nbsp;allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.**&nbsp;They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
 
 ##### Why Join Us?
 
