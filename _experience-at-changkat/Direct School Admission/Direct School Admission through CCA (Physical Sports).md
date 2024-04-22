@@ -85,3 +85,104 @@ areas of talent:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA1.jpg">
 </div>
 <p>Photo 1: Badminton doubles during National School Games (NSG)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA2.jpg">
+</div>
+<p>Photo 2: Badminton singles during National School Games (NSG)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA3.jpg">
+</div>
+<p>Photo 3: Netball game during Springfield Challenge</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA4.jpg">
+</div>
+<p>Photo 4: Netball game during Changkat Challenge</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA5.jpg">
+</div>
+<p>Photo 5: Track &amp; Field athletes training in school</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA6.jpg">
+</div>
+<p>Photo 6: Track &amp; Field athlete training at Bedok Stadium</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA7.jpg">
+</div>
+<p>Photo 7: NSG Track &amp; Field B Division Girls 4 x 400m relay finals
+at Sports Hub</p>
+<p></p>
+<h4>Admission Criteria</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Areas of Talent</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Sports</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Selection Criteria</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Selection Process</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Physical Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Applicants should demonstrate all or some of the following in their respective
+areas of talent:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>general athletic abilities</p>
+</li>
+<li>
+<p>sport-specific technical skills</p>
+</li>
+<li>
+<p>a keen interest and passion.</p>
+</li>
+<li>
+<p>potential and motivation to excel</p>
+</li>
+<li>
+<p>positive attitude towards learning.</p>
+</li>
+<li>
+<p>positive demeanour and behaviour with examplary conduct.</p>
+</li>
+</ul>
+</td>
+<td rowspan="3" colspan="1">
+<p>Every shortlisted applicant will have to complete a sports trial in the
+selected area of talent and go through an interview.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
+</p>
+<p></p>
+<h4>Application Procedure</h4>
+<p></p>
+<p></p>
