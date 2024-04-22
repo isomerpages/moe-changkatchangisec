@@ -37,7 +37,7 @@ Every student an engaged learner in a safe environment that prepares them for th
 
 **HOD ICT** : Mr. Tan Teck Tang Glen  
 **ICT Manager :** Mr Donald Ho Peng Fatt  
-**ICT Executive** : Mr Denny Chan Chun Shuo  
+**ICT Manager** : Mr Denny Chan Chun Shuo  
 
 **ICT Committee Members:**  
   
