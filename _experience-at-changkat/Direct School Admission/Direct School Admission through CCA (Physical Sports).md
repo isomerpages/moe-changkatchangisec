@@ -184,5 +184,6 @@ selected area of talent and go through an interview.</p>
 </p>
 <p></p>
 <h4>Application Procedure</h4>
-<p></p>
+<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from 7 May 2024 to 3 Jun 2024. For more details, please refer to MOE website –<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</strong>
+</p>
 <p></p>
