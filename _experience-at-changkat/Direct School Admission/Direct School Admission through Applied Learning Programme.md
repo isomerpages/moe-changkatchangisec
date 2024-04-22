@@ -41,13 +41,13 @@ Changkat Changi Secondary School is looking for Primary 6 students who possess o
 
   
 
-*   passion for Aerospace or Aviation Industries&nbsp;  
+*   Passion for Aerospace or Aviation Industries&nbsp;  
     
-*   aptitude and interest in Science, Technology, Engineering and Maths&nbsp;  
+*   Aptitude and interest in Science, Technology, Engineering and Maths&nbsp;  
     
-*   participated or attained any levels of achievements in STEM related competitions&nbsp;and/or workshops  
+*   Participated or attained any levels of achievements in STEM related competitions&nbsp;and/or workshops  
     
-*   student member in STEM-related clubs or societies (e.g. Science club, ICT club etc)
+*   Student member in STEM-related clubs or societies (e.g. Science club, ICT club etc)
 
 *   Applicants who do not have prior experience may also apply,  and will be assessed on the basis of their potential.
 
