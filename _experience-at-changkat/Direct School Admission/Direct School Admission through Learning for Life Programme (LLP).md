@@ -3,6 +3,7 @@ title: Direct School Admission through Learning for Life Programme (LLP)
 permalink: /experience-at-changkat/Direct-School-Admission/LLP/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 ### Talent Area: Community Youth Leadership
 
@@ -10,17 +11,15 @@ third_nav_title: Direct School Admission
 
 In 2014, Changkat Changi Secondary School started it’s Learning for Life Programme (LLP) entitled Service and Leadership Through School To Nation. This Community Youth Leadership (CYL) programme aims to develop service leaders who are competent and confident to contribute positively to society, especially in the area of sustainability. The programme hopes to equip student leaders with the aptitude and skills to become active advocates for sustainability.  Opportunities to develop leadership competencies include learning journeys, workshops and conferences. The school works closely with community partners to provide platforms for students to lead their peers in advocating for sustainability.  Through this experience, the students will develop 21st century competencies to better prepare them for the future.
 
-<img src="/images/dsallp1.jpg" style="width:70%">
-<center> Photo 1: Our students repurposed their old jeans to a usable cover for their learning devices. </center>
+<img src="/images/DSA/LLP1.jpg" style="width:70%">
+<center> Photo 1: Our students visiting a local farm to understand more about food sustainability in Singapore.  </center>
 
-<img src="/images/dsallp2.jpg" style="width:70%">
-<center>Photo 2: Photo 2: Students’ efforts to recycle used paper into new paper. </center>
+<img src="/images/DSA/LLP2.jpg" style="width:70%">
+<center>Photo 2: Students advocating passionately regarding sustainability at Eastpoint Mall in 2024.  </center>
 
-<img src="/images/dsallp3.jpg" style="width:70%">
-<center>Photo 3: Making coasters out of old CDs and t-shirts. </center>
+<img src="/images/DSA/LLP3.jpg" style="width:70%">
+<center>Photo 3: Students having hands-on activity to understand the farm-to-table concept. </center>
 
-<img src="/images/dsallp4.jpg" style="width:70%">
-<center>Photo 4: Students advocating passionately regarding sustainability at Eastpoint Mall in 2023. </center>
 
 
 ##### Admission Criteria
@@ -31,8 +30,11 @@ Changkat Changi Secondary School is looking for Primary 6 students who possess a
 - Applicants should have a keen interest and and motivation in serving the community. 
 - Applicants should have experiences in serving their school and community. 
 
-2) Leadership - Applicants should have experience in performing a leadership role in their Primary school education journey  
-3) Character - Applicants should minimally have a 'Good' conduct grade consistently throughout their Primary school education.  
+2) Leadership 
+- Applicants should have experience in performing a leadership role in their Primary school education journey 
+ 
+3) Character 
+- Applicants should minimally have a 'Good' conduct grade consistently throughout their Primary school education.  
   
 **Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
 
@@ -40,7 +42,7 @@ Changkat Changi Secondary School is looking for Primary 6 students who possess a
 
   
 
-**Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details,&nbsp;please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**
+**Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 77 May 2024, 11am to 3 June 2024, 3pm. For more details,&nbsp;please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent  
 
@@ -64,16 +66,16 @@ Students can indicate up to three choices (maximum of two choices for the same s
 
   
 
-The application timeline for 2023 is as follows:
+The application timeline for 2024 is as follows:
 
 | Date | Event | 
 | -------- | -------- | 
-| 4 May 2023, 11am to 31 May 2023, 3pm     | Submit your child's application online through the DSA-Sec portal by 3pm on the final day.     | 
-|16 June to 7 July 2023|School’s notification of shortlisted candidates. We regret to inform that&nbsp;**only shortlisted students**&nbsp;will be notified of the interview dates.
-|26 June to 11 September 2023|School-based in-person interview for shortlisted applicants.
-|By 11 September 2023|All applicants will receive a reply from the school on the outcome of the application as follows:<br>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected. 
-|23 October to 27 October 2023, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission in mid to end Oct 2023. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
-|Late-Nov 2023|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively mid-Nov 2023.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.&nbsp;  <br>**Successful DSA-Sec Students.**&nbsp;Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.&nbsp;  <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.&nbsp;  <br>Students are also&nbsp;**NOT**&nbsp;allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.**&nbsp;They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
+| 7 May 2024, 11am to 3 June 2024, 3pm     | Submit your child's application online through the DSA-Sec portal by 3pm on the final day.     | 
+|24 June 2024 to 19 July 2024|School’s notification of shortlisted candidates. We regret to inform that&nbsp;**only shortlisted students**&nbsp;will be notified of the interview dates.
+|24 June 2024 to 9 September 2024|School-based in-person interview for shortlisted applicants.
+|10 to 12 September 2024|All applicants will receive a reply from the school on the outcome of the application as follows:<br>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected. 
+|21 October 2024, 9am to 27 October 2024, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission in mid to end Oct 2024. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>Students who receive at least one DSA-Sec offer (including from SOTA) will receive notification on the School Preference Submission in Oct 2024. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
+|Late November 2024|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively mid-Nov 2024.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.&nbsp;  <br>**Successful DSA-Sec Students.**&nbsp;Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.&nbsp;  <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.&nbsp;  <br>Students are also&nbsp;**NOT**&nbsp;allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.**&nbsp;They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
 
 ##### Why join us?
 
@@ -86,7 +88,7 @@ All students will go through the Learning for Life Programme where they learn ab
 ##### FAQ
 
 1.  **How many places can CCSS Secondary offer in DSA Exercise?**  
-    All secondary schools can admit up to 20% of their 2024 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec. This allows students to better access school programmes to grow their talents and interests through DSA.  
+    All secondary schools can admit up to 20% of their 2025 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec. This allows students to better access school programmes to grow their talents and interests through DSA.  
     &nbsp;
 
 2.  **How does it value-add to my child?**  
