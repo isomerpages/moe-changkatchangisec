@@ -187,7 +187,7 @@ selected area of talent and go through an interview.</p>
 <p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from 7 May 2024 to 3 Jun 2024. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</strong>
 </p>
 <p><strong>Applicants from MOE mainstream primary schools</strong>: Parent
-may log in directly to DSA-Sec Portal at <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+may log in directly to DSA-Sec Portal at <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> 
 <br>Only one parent’s SingPass is required. Parents/ guardians who are unable
 to apply online can approach their child’s primary school for assistance.</p>
 <p><strong>Other applicants not studying in MOE mainstream primary schools:</strong> They
