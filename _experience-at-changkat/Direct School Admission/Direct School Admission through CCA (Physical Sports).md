@@ -202,4 +202,151 @@ the same school under two different talent areas).</p>
 <p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</strong>
 </p>
 <p></p>
+<p>The application timeline for 2024 is as follows:</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May - 3 June 2024, 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Submit your child's application online through the DSA-Sec portal by 3pm
+on the final day.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 June - 19 July 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School’s notification of shortlisted candidates. We regret to inform that <strong>only shortlisted students </strong>will
+be notified of the interview dates.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 June - 9 September 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School-based in-person interview for shortlisted applicants.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 - 12 September 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All applicants will receive a reply from the school on the outcome of
+the application as follows:</p>
+<p>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 - 25 October 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students who receive at least one DSA-Sec offer (including from SOTA)
+will receive notification on the School Preference Submission in Oct 2024.
+<br>Both parents are required to login to the DSA-Sec Portal using their SingPass
+to submit up to three school preferences.
+<br>If parents are unable to submit online, they can approach their child’s
+primary school for assistance to submit the school preferences on their
+behalf.
+<br>DSA-Sec offers not taken up will be considered as lapsed at the end of
+the School Preference Submission period.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late November 2024</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students studying in MOE mainstream schools will receive their DSA-Sec
+results together with their PSLE results through their primary schools,
+tentatively mid-Nov 2024.
+<br>The rest of the students (not studying in MOE mainstream schools) will
+receive their DSA-Sec results via email.
+<br><strong>Successful DSA-Sec Students. </strong>Those who took PSLE are
+NOT allowed to participate in the S1 Posting as they are expected to honour
+the commitment made to the DSA-Sec school when they exercised their CO
+or WL offer.
+<br>However, if they are eligible for third language and/or course options,
+they may enter these options during the School Choice Submission period.
+<br>Students are also <strong>NOT</strong> allowed to transfer to another school
+after the release of the PSLE results. They are expected to honour the
+commitment to the posted DSA schools for the duration of the programme
+they are admitted to.
+<br><strong>Unsuccessful DSA-Sec Students. </strong>They will be notified
+of the allocation outcome and to participate in the S1 Posting to submit
+school choices</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Why join us?</h4>
+<p>In Changkat Changi Secondary School, we believe that we do not just focus
+on results achieved at National Examinations, we also recognise students
+who have a diverse range of achievements and talents. Our team of dedicated
+teachers and experienced coaches are committed to help our students develop
+their sporting talents and potential, through a school-based sports development
+programme and external competitive exposures for long-term athlete development.</p>
+<p></p>
+<h4>FAQ</h4>
+<p><strong>1. How many places can CCSS offer in DSA Exercise?<br></strong>All
+secondary schools can admit up to 20% of their 2024 S1 non-Integrated Programme
+(non-IP) intake via the DSA-Sec. This allows students to better access
+school programmes to grow their talents and interests through DSA.</p>
+<p></p>
+<p><strong>2. How does it value-add to my child?</strong>
+</p>
+<p>Your child will be allocated to the CCA which they are being offered to
+and be further developed in their area of talent. They will also be given
+opportunities to participate in external competitions including the National
+School Games.</p>
+<p></p>
+<p><strong>3.&nbsp;My child is an international student / Home-schooled / returning Singapore Citizen / SPR not studying in a local school. Can he/she apply for DSA?</strong>
+</p>
+<p>Other applicants not studying in MOE mainstream primary schools need to
+apply for a Registration Number (RGxxxxxxx) before they can apply through
+the DSA-Sec Portal. Schools may refer them to MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+<p></p>
+<p>Applicants who are not studying in MOE mainstream primary schools include
+Returning Singaporeans, International Students studying overseas or in
+local international schools, students in Special Education Schools (e.g.
+Pathlight) and home-schoolers. For all shortlisted International Students,
+schools should remind them that they are required to take and fulfil the
+requirements of the Admissions Exercise for International Students (AEIS)
+test to be successful in DSA.&nbsp;</p>
+<p></p>
+<p><strong>4. Does my child/ward have to take the PSLE?</strong>
+</p>
+<p>Students who take up Confirmed Offers or Waiting List Offers by schools
+during the DSA-Sec Exercise are still required to take the Primary School
+Leaving Examination (PSLE). Those who take up Confirmed Offers are guaranteed
+a place in the school that has extended them an offer, provided that their
+PSLE results meet the minimum requirement for a course [Express/ Normal
+(Academic)/ Normal (Technical)] offered by the school. Should the child
+obtain a PSLE score that lies between 2 streams, he/she will be able to
+opt for the preferred stream.</p>
+<p></p>
+<p><strong>5. Can my child/ward apply for transfer after getting a confirmed place?</strong>
+</p>
+<p>Students are also <strong>NOT</strong> allowed to transfer to another school
+after the release of the PSLE results. They are expected to honour the
+commitment to the posted DSA schools for the duration of the programme
+they are admitted to.</p>
 <p></p>
