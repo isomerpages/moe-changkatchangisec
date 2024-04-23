@@ -10,4 +10,4 @@ Changkat Changi Secondary School offers Direct School Admission through our Appl
 Please&nbsp;click below for more information:  
 [Direct School Admission through Student centered opportunities in AeRospace Industries (ALP)](/experience-at-changkat/Direct-School-Admission/ALP)  
 [Direct School Admission through&nbsp;Leadership and Service through School to Nation (LLP)](/experience-at-changkat/Direct-School-Admission/LLP)
-<br>[Direct School Admission through CCA - Physical Sports](/experience-at-changkat/direct-school-admission-through-cca-physical-sports/)
+<br>[Direct School Admission through CCA - Physical Sports](/experience-at-changkat/Direct-School-Admission/Direct-School-Admission-through-cca-physical-sports/)
