@@ -13,9 +13,6 @@ variant: markdown
 
 **[Student Learning Space (Instructions and FAQs)](/files/Student%20Learning%20Space%20(Instructions%20and%20FAQs).pdf)**
 
-**[SWN Logout](http://portal.swn.moe.edu.sg/)**
-
-
 **GCE Examinations Guide for Students (4N/4E/5N)**
 
 **[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/changkatchangisec)**
