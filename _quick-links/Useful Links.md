@@ -52,7 +52,7 @@ variant: markdown
 
 **[SC Mobile](https://scmobile.moe.edu.sg/)**
 <br>**[MOE Intranet](https://intranet.moe.gov.sg/)**
-<br>**[iCON&nbsp;2.0](https://workspace.google.com/dashboard)**
+<br>**[MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login)**
 <br>**[School Cockpit 2.0](http://schoolcockpit.moe.gov.sg/)**
 <br>**[Human Resource Management System (HRP)](https://www.hrp.gov.sg/hrp/#/)**
 <br>**[Academy of Singapore Teachers](http://www.academyofsingaporeteachers.moe.gov.sg/)**
