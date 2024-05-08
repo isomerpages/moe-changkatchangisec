@@ -24,7 +24,12 @@ peers. Students can also look forward to representing the school in the
 National School Games (NSG) and other external competitions.</p>
 <p>Changkat will be offering DSA places to boys and girls in the following
 areas of talent:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -112,7 +117,13 @@ areas of talent:</p>
 at Sports Hub</p>
 <p></p>
 <h4>Admission Criteria</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -203,7 +214,11 @@ the same school under two different talent areas).</p>
 </p>
 <p></p>
 <p>The application timeline for 2024 is as follows:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -243,7 +258,7 @@ be notified of the interview dates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 - 12 September 2024</p>
+<p>9 September 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will receive a reply from the school on the outcome of
