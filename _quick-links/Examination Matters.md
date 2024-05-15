@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1>School Exam Dates</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -85,6 +89,25 @@ topic tested.</p>
 <br><a href="/files/Exam matters/Sec_3_Topics_tested_for_WA_and_exams_a220224.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a> 
 <br><a href="/files/Exam matters/Sec_4_5_Topics_tested_for_WA_and_exams_a220224.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a>
 </p>
+<p></p>
+<h1>National Examination Matters</h1>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.seab.gov.sg/docs/default-source/exam-rules-and-regulations/2024-gce-no-exams-rules_regulations_finalf7bad7fd-27ad-4b48-a1e8-b91f3e4bb81f.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Examination Rules &amp; Regulations for Candidates </a>
+</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.seab.gov.sg/home/examinations/gce-o-level" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Examinations Information (Link to SEAB website) </a>
+</p>
+<p></p>
+</li>
+<li>
+<p> <a href="https://www.seab.gov.sg/home/examinations/gce-n(a)-level" rel="noopener noreferrer nofollow" target="_blank">GCE N level Examinations Information (Link to SEAB Website)</a>
+</p>
+</li>
+</ol>
 <p></p>
 <p>
 <br>
