@@ -11,7 +11,7 @@ variant: markdown
 | Appointment | Name | 
 | -------- | -------- | 
 | HOD Science    | Ms Hang Si'En   |  
-| LH Science (Covering)    | Mr Wan Bing Khiang    | 
+| LH Science    | Mr Wan Bing Khiang    | 
 | LT  (Physics)    | Mr Lee Chin Teck    | 
 | ST (Physics)     | Mr Hong Kam Kheun     | 
 | HOD CCE     | Ms Lee Li'Neng, Marie    | 
