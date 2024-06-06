@@ -9,8 +9,8 @@ variant: markdown
 
 | Appointment | Name | 
 | -------- | -------- | 
-| HOD English Language (Covering)   | Ms Huang Aili   | 
-| SH English Language (Covering)     | Mr Thng Shunyang Sebastian    | 
+| HOD English Language   | Ms Huang Aili   | 
+| SH English Language     | Mr Thng Shunyang Sebastian    | 
 | School Staff Developer     | Ms Nuraini bte Abu Bakar    | 
 | ST  English Language    | Mdm  Adibah Bte Abbas    | 
 | Teacher     | Ms Aliah Aman Aljunied     | 
