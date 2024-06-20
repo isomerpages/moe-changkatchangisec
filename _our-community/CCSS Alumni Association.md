@@ -1,7 +1,8 @@
 ---
 title: CCSS Alumni Association
-permalink: /our-community/CCSS-Alumni-Association
+permalink: /our-community/CCSS-Alumni-Association/
 description: ""
+variant: markdown
 ---
 History
 -------
@@ -23,4 +24,4 @@ Changkat Changi School Alumni Association Website
 -------------------------------------------------
 
   
-Click [**here**](https://changkateer.com/) to visit our School Alumni Association Website.
+Click [**here**](https://www.facebook.com/groups/49517774152/) to visit our School Alumni Association Website.
