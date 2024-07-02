@@ -48,7 +48,7 @@ variant: tiptap
 <p>Sec 1 to 3 Weighted Assessment 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 July 2024 to 23 August 2024</p>
+<p>29 July 2024 to 23 August 2024</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>23 September 2024
-<br>26 September to 7 October 2024</p>
+<br>24 September to 4 October 2024</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>22 July 2024
 <br>26 July 2024
-<br>29 July to 2 August 2024</p>
+<br>29 July to 6 August 2024</p>
 </td>
 </tr>
 <tr>
