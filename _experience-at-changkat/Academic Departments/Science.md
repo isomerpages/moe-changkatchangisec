@@ -1,44 +1,46 @@
 ---
 title: Science
-permalink: /experience-at-changkat/Academic-Departments/Science
+permalink: /experience-at-changkat/Academic-Departments/Science/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
-**Head of Department:** Ms Hang Si'En  
+**Head of Department:**&nbsp;Ms Hang Si'En  
   
-**Subject Head Science:** Mr Ang Peng Siang  
+**Level Head Science:**&nbsp;Mr Wan Bing Khiang  
   
-**Master Teacher:** Mr Yap Boon Chien   
+
   
-**Lead Teacher:** Mr Lee Chin Teck  
+**Lead Teacher:**&nbsp;Mr Lee Chin Teck  
   
-**Senior Teacher:** Mr Hong Kam Kheun  
+**Senior Teacher:**&nbsp;Mr Hong Kam Kheun  
   
 **Teachers:**
-Ms Ling Geok Keng  
+<br>Ms Ling Geok Keng  
 Ms Marie Lee  
 Ms Ng Shiru  
-Mdm Joyce Ng  
-Mr Khalid Bin Othman  
+Mdm Joyce Ng   
 Ms Low Yan Fang  
-Mr Wan Bing Khiang  
 Dr Jessica Seah Mei Ying  
-Ms Daphne Khoo Rui Yun  
-Ms Lim Shan Yan  
+Ms&nbsp;Daphne Khoo Rui Yun  
+Ms&nbsp;Lim Shan Yan  
 Mr Bryan Zhishan Yong  
-Mr Rishvinder Singh  
-**Lab technicians:**
-Ms Fadilah (TSO)  
+Mr Rishvinder Singh 
+<br>Ms Wang Xiao Hui
+<br>Ms Kim Huang Jinjin
+<br>Mr Siddiq Suleiman
+<br>**Lab technicians:**
+<br>Ms Fadilah (TSO)  
 Ms Nabilah (TSO)  
 Mdm Lee Suan Eng (OSO)  
   
-The Science department aims to inspire Changkateers to learn with passion and be inquisitive in their learning of Science.  With the use of Science and Technology, we strive to engage our students in scientific inquiry and provide opportunities for our students to experience the real-world relevance of Science.  
+The Science department aims to inspire Changkateers to learn with passion and be inquisitive in their learning of Science.&nbsp; With the use of Science and Technology, we strive to engage our students in scientific inquiry and provide opportunities for our students to experience the real-world relevance of Science.  
   
 **Key Programmes:**
 
-*   Our Science Talent Development Programme (TDP) develops and trains students who is passionate in Science and wants to pursue their talent in the area of Science. 
-*   In this extraordinary year, our TDP students took part in ‘Fun with electronics’ workshops from Science Centre and Marine Seakeepers. 
-*   A selected group of students also participated in UNSW Global Assessment (ICAS 2020) to stretch their potential in the pursuit of excellence. 
+*   Our Science Talent Development Programme (TDP) develops and trains students who is passionate in Science and wants to pursue their talent in the area of Science.&nbsp;
+*   In this extraordinary year, our TDP students took part in ‘Fun with electronics’ workshops from Science Centre and Marine Seakeepers.&nbsp;
+*   A selected group of students also participated in UNSW Global Assessment (ICAS 2020) to stretch their potential in the pursuit of excellence.&nbsp;
 *   Engaging Science curriculum developed by Professional Learning Teams in Physics and in Chemistry during Full Home-based Learning and Blended Learning  
     
 
@@ -52,7 +54,7 @@ UNSW Global Assessment (ICAS 2020)
 *   2 Credits
 
   
-The Science department also leads in developing knowledge and skills of applied learning in Science, Technology, Engineering and Mathematics (STEM) through the [Applied Learning Programme in aerospace and aviation](/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry)
+The Science department also leads in developing knowledge and skills of applied learning in Science, Technology, Engineering and Mathematics (STEM) through the&nbsp;[Applied Learning Programme in aerospace and aviation](/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry)
 
 ![](/images/Learning%20is%20fun%20at%20Science%20Department.jpeg)
 <center>Learning is fun at Science Department!</center>
