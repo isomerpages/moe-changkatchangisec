@@ -56,8 +56,7 @@ variant: tiptap
 <p>Sec 1 to 3 End-of-Year Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 September 2024
-<br>24 September to 4 October 2024</p>
+<p>24 September to 4 October 2024</p>
 </td>
 </tr>
 <tr>
@@ -65,9 +64,7 @@ variant: tiptap
 <p>Sec 4N Preliminary Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 July 2024
-<br>26 July 2024
-<br>29 July to 6 August 2024</p>
+<p>29 July to 6 August 2024</p>
 </td>
 </tr>
 <tr>
