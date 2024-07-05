@@ -23,7 +23,7 @@ variant: markdown
 
 **1.&nbsp;&nbsp;[Overview of Post-Secondary Education](https://www.moe.gov.sg/post-secondary/overview/)**&nbsp;
 
-2a.&nbsp; [2023 JIEN Information Booklet (For 4NA Students)](/files/gce_n_admission_booklet_2024.pdf)
+**2a.&nbsp; [2024 JIEN Information Booklet (For 4NA Students)](/files/gce_n_admission_booklet_2024.pdf)**
 
 **2b.&nbsp;&nbsp;2023 JAE Information Booklet&nbsp;(For 4E/5N Students)**
 
