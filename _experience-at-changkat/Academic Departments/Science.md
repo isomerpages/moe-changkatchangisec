@@ -36,6 +36,7 @@ Mdm Lee Suan Eng (OSO)
   
 The Science department aims to inspire Changkateers to learn with passion and be inquisitive in their learning of Science.&nbsp; With the use of Science and Technology, we strive to engage our students in scientific inquiry and provide opportunities for our students to experience the real-world relevance of Science.  
 
+<img src="/images/Academic%20Dept/Science_Framework.png" style="width:60%">
 
 
 **Key Programmes:**
@@ -95,23 +96,12 @@ Temasek Engineering Olympiad
   
 The Science department also leads in developing knowledge and skills of applied learning in Science, Technology, Engineering and Mathematics (STEM) through the&nbsp;[Applied Learning Programme in aerospace and aviation](/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry)
 
-![](/images/Learning%20is%20fun%20at%20Science%20Department.jpeg)
-<center>Learning is fun at Science Department!</center>
+![](/images/Academic%20Dept/1.jpg)
+<center>People that make Science come alive</center>
 
-![](/images/Students%20learning%20about%20marine%20life%20at%20VJC.jpeg)
-<center>Students learning about marine life at VJC</center>
+![](/images/Academic%20Dept/2.png)
+<center>Experiential learning in the classroom</center>
 
-![](/images/Our%20students%20at%20Brainfest%202018.jpeg)
-<center>Our students at Brainfest 2018</center>
+![](/images/Academic%20Dept/3.png)
+<center>Our Science TDP students in action</center>
 
-![](/images/Our%20Students%20learning%20Biology%20on%20a%20Yacht%20at%20Marina%20One.jpeg)
-<center>Our Students learning Biology on a Yacht at Marina One</center>
-
-![](/images/Our%20students%20participating%20at%20Chemistry%20Olympiad.jpeg)
-<center>Our students participating at Chemistry Olympiad</center>
-
-![](/images/Collaborative%20learning%20in%20Science.jpeg)
-<center>Collaborative learning in Science</center>
-
-![](/images/Our%20Science%20teachers%20sharing%20at%20International%20Science%20Education%20Conference.jpeg)
-<center>Our Science teachers sharing at International Science Education Conference</center>
