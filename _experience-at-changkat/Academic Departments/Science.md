@@ -35,7 +35,9 @@ Ms Nabilah (TSO)
 Mdm Lee Suan Eng (OSO)  
   
 The Science department aims to inspire Changkateers to learn with passion and be inquisitive in their learning of Science.&nbsp; With the use of Science and Technology, we strive to engage our students in scientific inquiry and provide opportunities for our students to experience the real-world relevance of Science.  
-  
+
+
+
 **Key Programmes:**
 
 *   Our Science Talent Development Programme (TDP) develops and trains students who is passionate in Science and wants to pursue their talent in the area of Science.&nbsp;
@@ -46,12 +48,49 @@ The Science department aims to inspire Changkateers to learn with passion and be
 
   
 **Achievements:**  
-  
-UNSW Global Assessment (ICAS 2020)  
+ 
+**2023:**
 
-*   2 Distinctions
-*   2 Merit
-*   2 Credits
+C.B Paul Memorial Quiz
+* 1 Gold
+* 2 Merit
+
+Singapore Junior Physic Olympiad
+* 1 Bronze
+* 6 Honourable Mention
+
+ignITE Skills Challenge
+* 1st in Robo Challenge
+
+Singapore Youth Science Festival
+* Certificate of Commendation
+
+UNSW Global Assessment (ICAS 2023)
+* 1 Distinction
+* 4 Credit
+* 1 Merit
+
+EPIC-STEM Symposium
+* Best Poster Award
+
+**2022:**
+
+C.B Paul Memorial Quiz
+* 1 Gold
+* 1 Silver
+* 2 Merit
+
+Singapore Junior Biology Olympiad
+* 2 Bronze
+* 1 Honourable Mention
+
+Singapore Junior Chemistry Olympiad
+* 1 Gold
+
+Temasek Engineering Olympiad
+* 2 Bronze
+* 2 Commendation
+
 
   
 The Science department also leads in developing knowledge and skills of applied learning in Science, Technology, Engineering and Mathematics (STEM) through the&nbsp;[Applied Learning Programme in aerospace and aviation](/experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry)
