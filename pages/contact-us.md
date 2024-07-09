@@ -21,11 +21,12 @@ contacts:
   - content:
       - phone: +65 6785 9790
       - email: changkatchgi@moe.edu.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6786 8481
       - email: ""
       - other: ""
     title: Fax
+feedback: ""
 ---
