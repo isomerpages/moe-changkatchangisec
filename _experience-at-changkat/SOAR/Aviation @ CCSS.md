@@ -19,7 +19,7 @@ Collaboration with Victoria School
 
 Fly High Carnival – A collaboration with Victoria School to extend the learning of aviation related learning activities to the primary school participants.
 
-![](/images/DSA/ALP5.jpg)
+![](/images/DSA/Fly_High_2024.jpg)
 
 **19 November 2019**
 
