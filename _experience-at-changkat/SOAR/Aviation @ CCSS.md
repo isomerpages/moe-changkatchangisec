@@ -11,7 +11,15 @@ These student exchange programmes provided a rare and memorable experience for o
 
 We visited Airbus Assembly Line in our recent Overseas Trip to Toulouse, France where we also had a school exchange with Lycee Saint Exupery. The exchange program also provides a unique opportunity for our students to engage in aviation-related activities and visit notable sites in France. This hands-on experience in a different country will broaden their knowledge and enhance their passion for the aviation field.
 
+![](/images/DSA/Airbus_CCSS_banner.jpg)
 
+![](/images/DSA/School_Exchange.jpg)
+
+Collaboration with Victoria School
+
+Fly High Carnival – A collaboration with Victoria School to extend the learning of aviation related learning activities to the primary school participants.
+
+![](/images/DSA/ALP5.jpg)
 
 **19 November 2019**
 
