@@ -33,6 +33,8 @@ variant: markdown
 | Year Head​ (Lower Sec)     | Mr Lim Pia Leong     |
 | Year Head (Upper Sec)     | Mdm Mufeedah Bte Senin     |
 | SH English Language     | Mr Thng Shunyang Sebastian     |
+| SH Humanities     | Ms Nur Syazana Binte Shahul Hameed     |
+| SH Geography     | Ms Nuriahtu Farhati Mohamed Ali     |
 | SH Craft & Technology     | Mr Han Ban Siew Sean     |
 | SH Malay Language     | Mdm Hezrina Bte Johan Manikam     |
 | SH Character and Citizenship Education     | Mr Hu Song En Samson     |
