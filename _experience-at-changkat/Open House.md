@@ -12,16 +12,16 @@ variant: markdown
 
 
 Please click [here](https://youtu.be/a_fnqJk79vQ?si=vBM97EVrKhOAVZez) to view our Principal's Address.
-
+<br>
 Please click [here](https://youtu.be/5rbiiSQDMYI?si=F1A7FxZDzk9DAxH8) to view our Open House video.
 
 
 
 Dear Parents,
-
-We will be having our Open House on 25 Nov from 9.00 am – 1.00 pm. Join us!
-
-Click [here](/files/Brochure_2023__FINAL_.pdf) to view our E-Open House Brochure.  
+<br>
+We will be having our Open House on 23 November 2024 from 9.00 am – 1.00 pm. Join us!
+<br>
+Click [here](/files/CCSS_Brochure_2024.pdf) to view our E-Open House Brochure.  
 
 Thank You.
 
@@ -121,8 +121,8 @@ Thank You.
 <tbody>
 <tr>
 <td style="width: 25%;">
-<p><img src="/images/ST.jpeg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Sports-and-Games/Sepak-Takraw">Sepak Takraw</a></strong></p>
+<p><img src="/images/Netball.jpg" style="width:100%;float:left"></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Sports-and-Games/Netball">Netball</a></strong></p>
 </td>
 <td style="width: 25%;">
 <p><img src="/images/tnf.png" style="width:100%;float:left"></p>
@@ -133,8 +133,8 @@ Thank You.
 <p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Sports-and-Games/Badminton">Badminton</a></strong></p>
 </td>
 <td style="width: 25%;">
-<p><img src="/images/Netball.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Sports-and-Games/Netball">Netball</a></strong></p>
+<p><img src="/images/white_bg.png" style="width:100%;float:left"></p>
+<p style="text-align: center;"><strong><a href=""> </a></strong></p>
 </td>
 </tr>
 </tbody>
