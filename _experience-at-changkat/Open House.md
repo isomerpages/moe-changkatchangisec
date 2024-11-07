@@ -152,7 +152,7 @@ Thank You.
 </td>
 <td style="width: 25%;">
 <p><img src="/images/Youth%20Flying%20Club.jpg" style="width:100%;float:left"></p>
-<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Clubs/Youth-Flying-Club">Youth Flying Club</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://www.changkatchangisec.moe.edu.sg/co-curricular-activities/Clubs/Singapore-Youth-Flying-Club/">Youth Flying Club</a></strong></p>
 </td>
 <td style="width: 25%;">
 <p>&nbsp;</p>
