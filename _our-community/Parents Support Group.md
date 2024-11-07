@@ -2,6 +2,7 @@
 title: Parents Support Group
 permalink: /our-community/Parents-Support-Group/
 description: ""
+variant: markdown
 ---
 ##### Vision
 
@@ -51,12 +52,10 @@ One Heart, One Mind, One Family.
 Triple P upcoming seminars (for all)  
 
 
-[https://form.gov.sg/#!/5e97d343fc26690011d34581](https://form.gov.sg/#!/5e97d343fc26690011d34581)  
-  
+ 
   
 
 Triple P&nbsp;upcoming seminars (for sec 1 parents only)  
-
 [https://forms.office.com/Pages/ResponsePage.aspx?id=QuR79Ie6rE2o6tyWYE-P9mIQPq67nQpMrZvi4GXEp0lUQ05CTThIR0hIVUU3MzlXTVkyNkZOWEtQSS4u&amp;qrcode=true](https://forms.office.com/Pages/ResponsePage.aspx?id=QuR79Ie6rE2o6tyWYE-P9mIQPq67nQpMrZvi4GXEp0lUQ05CTThIR0hIVUU3MzlXTVkyNkZOWEtQSS4u&amp;qrcode=true)
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHsx6v15azts9PZZlClPEf7YiXT8UmCWM4wBNNwRSARDuDd86CsWckGZ1yAQviMCbYbEUta2lX1EtC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
