@@ -17,7 +17,7 @@ variant: tiptap
 <br>Singapore 415934</p>
 <p>Telephone: +65 6741 0930
 <br>Fax: +65 6744 7689
-<br>Website: <a href="www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>
+<br>Website: <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>
 <br>Email: sales@itu.com.sg</p>
 <p><strong>Where do I buy textbooks and stationery?</strong>
 </p>
