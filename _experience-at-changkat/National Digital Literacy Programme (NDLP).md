@@ -175,7 +175,7 @@ on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20default%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;<strong><br></strong>
+<br>click&nbsp;here<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,7 +185,7 @@ on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20A%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;<strong><br></strong>
+<br>click&nbsp;here<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,7 +195,7 @@ on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20B%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;<strong><br></strong>
+<br>click&nbsp;here<strong><br></strong>
 </p>
 </td>
 </tr>
@@ -203,8 +203,7 @@ on the PLD</p>
 <td rowspan="1" colspan="2">
 <p>
 <br>If you have other queries not answered in the FAQs, you may wish to submit
-your queries via QR code on the right or click&nbsp;<a href="https://go.gov.sg/dmaoq" rel="noopener" target="_blank">here</a>
-</p>
+your queries via QR code on the right or click here</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
