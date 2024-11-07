@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <h3><strong>General:</strong></h3>
 <p><strong>How do I contact Changkat Changi Secondary School?</strong>
-<br><a href="/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank">Contact Us</a>&nbsp;&nbsp;</p>
+<br><a href="https://www.changkatchangisec.moe.edu.sg/about-us/Contact-Us/" rel="noopener nofollow" target="_blank">Contact Us</a>
+</p>
 <p><strong>Where do I buy school uniforms?</strong>
 <br>-&nbsp; &nbsp;The uniform vendor will open in school every Wednesday from
 9am to 3pm.
