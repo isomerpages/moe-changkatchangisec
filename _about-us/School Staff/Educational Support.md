@@ -12,10 +12,8 @@ variant: markdown
 | -------- | -------- | 
 | HOD Educational Support    | Mr Abdul Nasir Bin Abdul Razzak   | 
 | Teacher     | Mr Chong See Eng     | 
-| Teacher     | Mr Samuel Tay ZhiHeng     | 
-| AED (C)     | Ms Shamini D/O G Singaravel   | 
-| AED (C)     | Mdm Yee Kit Cheng (Mrs Tho)    |
-| AED (C) (Untrained)    | Ms Sarah Yew Mei Foong    |
-| AED (LBS)     | Ms Siti Aisyah Bte Mohd Mohaiyuddin     | 
-| AED (LBS)     | Mr Muhammad Nurrul Hadi Bin Abdul Rahman    | 
+| School Counsellor     | Ms Shamini D/O G Singaravel   | 
+| School Counsellor     | Mr Kang Chun Yong    |
+| Special Educational Needs (SEN) Officer     | Ms Siti Aisyah Bte Mohd Mohaiyuddin     | 
+| Special Educational Needs (SEN) Officer    | Mr Muhammad Nurrul Hadi Bin Abdul Rahman    | 
 | Senior Education & Career Guidance Counsellor     | Ms Pauline Low    |
