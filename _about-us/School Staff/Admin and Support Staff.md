@@ -17,21 +17,22 @@ variant: markdown
 | ICT Manager    | Mr Ho Peng Fatt Donald    | 
 | Adjunct ICT Manager     | Mr Denny Chan    |
 | Administrative Executive    | Mdm Noor Rina Mohamad Moktar     | 
-| CSO     | Mdm Fazillah Bte Salleh     | 
-| CSO     | Mdm Rafidah Bte Abu Bakar    | 
-| EAS     | Ms Shirley Tay Siew Yong     | 
-| OSO     | Mdm Vellachi D/O Ramu   | 
+| Corporate Support Officer (CSO)     | Mdm Fazillah Bte Salleh     | 
+| Corporate Support Officer (CSO)     | Mdm Rafidah Bte Abu Bakar    | 
+| Corporate Support Officer (CSO)    | Ms Shirley Tay Siew Yong     | 
+| Operations Support Officer (OSO)     | Mdm Vellachi D/O Ramu   | 
 | AA     | Mdm Azizah Bte Ali    | 
-| OSO     | Mr Ismil Bin Mohd Ali    |
-| OSO     | Mr Woo Chee Kwong   |
-| OSO     | Mdm Dalila Bte Esa     |
-| OSO     | Mr Chong Kar Po     |
-| TSO     | Mr Unais Bin Yusof    |
-| TSO     | Mr Tan Boon Lee    |
-| TSO    | Mdm Nabilah Binti Razali   |
-| TSO     | Miss Fadilah Binte Abdul Aziz    |
-| OSO     | Mdm Lee Suan Eng    |
+| Operations Support Officer (OSO)     | Mr Ismil Bin Mohd Ali    |
+| Operations Support Officer (OSO)      | Mr Woo Chee Kwong   |
+| Operations Support Officer (OSO)      | Mdm Dalila Bte Esa     |
+| Operations Support Officer (OSO)      | Mr Chong Kar Po     |
+| STEM Instructor (Workshop)     | Mr Unais Bin Yusof    |
+| STEM Instructor (Workshop)     | Mr Tan Boon Lee    |
+| STEM Instructor (Laboratory)    | Mdm Nabilah Binti Razali   |
+| STEM Instructor (Laboratory)     | Miss Fadilah Binte Abdul Aziz    |
+| Operations Support Officer (OSO)      | Mdm Lee Suan Eng    |
 | HA    | Mdm Hamidah Bte Hassan    |
 | AV Tech     | Mr Wong Khay Onn    |
-| Desktop Engineer     | Mr Dzulkarnaen Bin Hamdi    |
-| DA     | Mr Mohd Baeke Bin Muskim    |
+| Desktop Engineer     | Mr Wee Hui Siang    |
+| Desktop Engineer     | Ms Izza binte Idris    |
+| DA     | Mr Azrin   |

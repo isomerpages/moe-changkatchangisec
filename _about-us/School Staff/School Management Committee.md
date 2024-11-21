@@ -43,7 +43,7 @@ variant: markdown
 | LH Mathematics     | Mr Poh Wei En     |
 | LH Science     | Mr Wan Bing Khiang     |
 | Assistant Year Head     | Mr Quek Ming Yeow     |
-| Assistant Year Head (Covering)     | Ms Ng Shiru     |
+| Assistant Year Head     | Ms Ng Shiru     |
 | Administrative Manager     | Ms Ng Koh Yee    |
 | Operations Manager     | Mr Mustafa Bin Mohamed    |
 | Operations Manager     | Mr George Goh Chee Chong     |
