@@ -8,50 +8,63 @@ description: ""
 <p>A warm welcome to the Changkat family!</p>
 <p>You will begin your new learning adventure with us soon and we are excited
 to get to know you. We wish to invite you for a face-to-face Parents/Guardians
-Briefing at our school, from 9 am to 10 am, on 21 Dec 2023.</p>
+Briefing at our school, from 9 am to 10 am, on 20 Dec 2024.</p>
 <p>At this briefing, we will share school information, overview of Full Subject-Based
-Banding and details about Kickstart, your Orientation Programme. Your teachers
-have been thoughtfully planning Kickstart so that your transition to secondary
-school life will be a positive experience.</p>
+Banding and details about <strong><em>Kickstart</em></strong>, your Orientation
+Programme. Your teachers have been thoughtfully planning <strong><em>Kickstart</em></strong> so
+that your transition to secondary school life will be a positive experience.</p>
 <p>We are confident that Changkat Changi will be a place where you will have
 opportunities to discover your unique strengths and interests and develop
-these into talents driven by your passion to learn, serve and succeed.
-<br>
-</p>
+these into talents driven by your passion to learn, serve and succeed.</p>
 <p>Please share any questions you may have by scanning or clicking on the
 QR Code below and we hope to address them during the briefing.
 <br>
 <br>We look forward to seeing you then!
 <br>
-</p>
-<p>With warmest regards,
-<br>Mr Ho Ming Da
+<br>With warmest regards,
+<br>Mr. Ho Ming Da
 <br>Principal,
 <br>Changkat Changi Secondary School
-<br><a href="https://go.gov.sg/s1-qna" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1-qna</a>
 <br>
-</p>
-<table style="minWidth: 50px">
+<br>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/s1-qna"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/s1_qna.png"></a>
+<p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/s1_qna.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whitebox.jpg">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a_fnqJk79vQ?si=XXq5_vJlEys8dZRS"></iframe>
 </div>
@@ -60,7 +73,8 @@ QR Code below and we hope to address them during the briefing.
 <ul data-tight="true" class="tight">
 <li>
 <p>There is an important briefing for all Secondary 1 Changkateers and Parents/Guardians
-on <strong>21 December 2023 (Thu), from 9 AM to 10 AM, at Changkat Changi Secondary School (School Hall)</strong>.</p>
+on&nbsp;<strong>20 December 2024 (Fri), from 9 AM to 10 AM, at Changkat Changi Secondary School (School Hall).</strong>
+</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -80,12 +94,13 @@ on <strong>21 December 2023 (Thu), from 9 AM to 10 AM, at Changkat Changi Second
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Please access the online e-registration form by clicking here or scanning
+<p>Please access the online e-registration form by clicking <a href="https://go.gov.sg/s1-reg" rel="noopener nofollow" target="_blank">here</a> or scanning
 the QR code below:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For appeal into Changkat Changi Secondary School, please fill up the online
-form by clicking here or scanning the QR code below:</p>
+form by clicking <a href="https://go.gov.sg/s1-appeal-in" rel="noopener nofollow" target="_blank">here</a> or
+scanning the QR code below:</p>
 </td>
 </tr>
 </tbody>
@@ -97,15 +112,9 @@ form by clicking here or scanning the QR code below:</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4B.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/s1-reg"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4B.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/4C.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/s1-appeal-in"><img style="width: 88%;" height="auto" width="100%" alt="" src="/images/4C.png"></a>
 </td>
 </tr>
 </tbody>
@@ -126,11 +135,12 @@ form by clicking here or scanning the QR code below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Please complete the form by&nbsp;<strong>26 December 2023 (Tue), 5 PM</strong>.</p>
+<p>Please complete the form by&nbsp;<strong>24 December 2024 (Tue), 5 PM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The deadline for the submission of appeals is on&nbsp;<strong>27 December 2023, 5 PM</strong>.&nbsp;
-Late submission will not be allowed.</p>
+<p>The deadline for the submission of appeals is on&nbsp;<strong>24 December 2024, 5 PM</strong>.
+<br>Late submission will not be allowed.</p>
 </td>
 </tr>
 </tbody>
@@ -138,59 +148,71 @@ Late submission will not be allowed.</p>
 <p><strong>[D]&nbsp;&nbsp;&nbsp;&nbsp; Purchase of School Books and Uniform</strong>
 </p>
 <p><strong>1.&nbsp; School Books and Supplies</strong>
-</p>
-<p>There are 3 modes of purchase for school books, supplies and name tags.
-<br>Online purchase &amp; delivery
-<br>Online purchase &amp; self-collection at school bookshop
-<br>Walk-in purchase at school bookshop at the following dates and timings:</p>
+<br>There are 3 modes of purchase for school books and supplies.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dec 21, 22 (9am-3pm)</p>
+<p>Online purchase &amp; delivery</p>
 </li>
 <li>
-<p>Dec 26, 27,28 (9am-3pm)</p>
+<p>Online purchase &amp; self-collection at school bookshop. Online purchase
+done before 19 Dec 2024, 12pm, will be available for collection at the
+school bookshop on 20 Dec 2024.</p>
 </li>
 <li>
-<p>Dec 29 (9am-12pm)</p>
+<p>Walk-in purchase at school bookshop at the following dates and timings:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>20, 23 Dec (9am - 3pm)</p>
+</li>
+<li>
+<p>26, 27, 30 Dec (9am - 3pm)</p>
 </li>
 </ul>
+</li>
+</ul>
+<p>Parents/Guardians are encouraged to purchase their books online, to avoid
+long queues.</p>
+<p>There will be no sales of books in school on 18 and 19 Dec 2024. Students
+will purchase their name tags in January 2025.</p>
 <p>For more details on the purchase of school books and Sec 1 booklists,
-please click&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+please click&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+</p>
 <p><strong>2.&nbsp; School Uniform</strong>
 </p>
-<p>There are 2 modes of purchase for school uniform.
-<br>Online purchase &amp; delivery
-<br>Walk-in purchase at school, Indoor Soccer Court at the following dates
-and timings:</p>
+<p>There are 3 modes of purchase for school uniform.
+<br>Online purchase &amp; delivery</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dec 21, 22 (9am-3pm)</p>
+<p>Online purchase &amp; delivery</p>
 </li>
 <li>
-<p>Dec 23, (9am-12pm)</p>
+<p>Online purchase (before 19 Dec 2024, 12 pm) &amp; self-collection at school.
+Online purchase done before 19 Dec 2024, 12pm, will be available for collection
+at the school on 20 Dec 2024.</p>
 </li>
 <li>
-<p>Dec 26,27,28 (9am-3pm)</p>
+<p>Walk-in purchase at school, Indoor Soccer Court at the following dates
+and timings:</p>
 </li>
 <li>
-<p>Dec 29 (9am-12pm)
+<p>Dec 20, 23 (9am-3pm)
 <br>
 </p>
 </li>
 </ul>
-<p>There will be no uniform sales at the retail store (InTrend Uniforms)
-located at Kaki Bukit between Dec 21 to Dec 29.
-<br>
+<p>Uniform sales can be made at the retail store (InTrend Uniforms) located
+at Kaki Bukit after 24 Dec 2024.
 <br>Students are expected to report to school in full school uniform, white
-shoes, and white socks <strong>every day</strong>. They will change into
-their PE T-shirts and shorts before PE lessons and back into their uniform
-after PE lessons. Students are encouraged to buy <strong>at least</strong> 2
-sets of uniforms, 2 sets of PE attire and a school tie each.</p>
-<p></p>
-<p>For more details on the purchase of uniform, please click&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
+shoes, and white socks&nbsp;<strong>every day</strong>. They will change
+into their PE T-shirts and shorts before PE lessons and back into their
+uniform after PE lessons. Students are encouraged to buy&nbsp;<strong>at least</strong>&nbsp;2
+sets of uniforms, 2 sets of PE attire and a school tie each.&nbsp;
+<br>
+<br>For more details on the purchase of uniform, please click&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <p><strong>[E] &nbsp;&nbsp; Information for Students and Parents/Guardians</strong>
 </p>
-<p><strong>1.&nbsp; &nbsp;Instructions for reporting on the first day of school, 2 January 2024, Tuesday</strong>
+<p><strong>1.&nbsp; &nbsp;Instructions for reporting on the first day of school, 2 January 2025, Tuesday</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -203,12 +225,11 @@ school tie. A digital thermometer will be provided to every student on
 the first day.</p>
 </li>
 <li>
-<p>There will be a 40 min recess and 10 min snack break on the first day.
-A simple recess meal which includes a burger/plate of noodles, and a drink
-will cost at least $3.50.&nbsp;</p>
+<p>There will be a 30 min recess on the first day. A simple recess meal which
+includes a burger/plate of noodles, and a drink will cost at least $3.50.&nbsp;</p>
 </li>
 <li>
-<p>Students will be dismissed at 2:00 PM on 2 January 2024.</p>
+<p>Students will be dismissed at 12:30 PM on 2 January 2025.</p>
 </li>
 </ul>
 <p><strong>2. PE/House T-shirt</strong>
@@ -225,16 +246,16 @@ in.</p>
 </li>
 <li>
 <p>The PE T-Shirt colour for your child, will be shared via Parent’s Gateway
-by 21 Dec.</p>
+by 19 Dec.</p>
 </li>
 <li>
 <p>Students may wear their Primary School PE T-shirt for PE lessons in the
 first week of school.&nbsp;</p>
 </li>
 </ul>
-<p><strong>3.&nbsp; &nbsp;Kickstart 2024 – Sec 1 Orientation Day and Cohort Camp (3D2N Outdoor Adventure Learning)</strong>
+<p><strong>3.&nbsp; &nbsp;Kickstart 2025 – Sec 1 Orientation and Cohort Camp (3D2N Outdoor Adventure Learning)</strong>
 </p>
-<p>Kickstart 2024 which includes Sec 1 Orientation and 3D2N Cohort Camp,
+<p>Kickstart 2025 which includes Sec 1 Orientation and the 3D2N Cohort Camp,
 aims to allow our Secondary 1 Changkateers to have a meaningful and fun
 transition. Please click on this&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;for more information.&nbsp;</p>
 <p><strong>4.&nbsp; &nbsp;Frequently Asked Questions (FAQs)</strong>
