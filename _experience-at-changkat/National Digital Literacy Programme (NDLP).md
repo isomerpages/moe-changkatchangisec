@@ -116,11 +116,11 @@ for more information</p>
 <p>Building up Good Learning Habits with the PLD</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023%20(website).pdf" rel="noopener noreferrer nofollow" target="_blank">Parent’s Handbook on 1-1 Learning</a>&nbsp;(Part
+<p><a href="/files/PDLP/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent’s Handbook on 1-1 Learning</a>&nbsp;(Part
 1)</p>
 </li>
 <li>
-<p><a href="/files/2e%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023%20(website).pdf" rel="noopener noreferrer nofollow" target="_blank">Parent’s Handbook on 1-1 Learning</a>&nbsp;(Part
+<p><a href="/files/PDLP/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent’s Handbook on 1-1 Learning</a>&nbsp;(Part
 2)</p>
 </li>
 <li>
