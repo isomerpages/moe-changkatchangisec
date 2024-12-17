@@ -16,7 +16,6 @@ variant: markdown
 | Teacher     | Ms Norhafizah Bte Ma'Arof    | 
 | Teacher     | Mdm Rosazlin  Bte Mohamed     | 
 | Teacher     | Mdm Shahnaz D/O Sheikh Abdul Karim    | 
-| Teacher     | Mr Venkateswaran S/O Murugiah Balakrishnan    |
 | Teacher     | Mr Han Zi Ding    |
 | Teacher     | Mdm Beatrice Goh Bee Kah    |
 | Teacher     | Ms Chia Ying Yin    |
