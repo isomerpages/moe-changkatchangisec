@@ -84,7 +84,7 @@ Parents/Guardians will be held on <strong>Friday, 20 December 2024, from 9 am to
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>[B] &nbsp;&nbsp;&nbsp; 2025 Secondary 1 Camp           Consent Form</strong>
+<p><strong>[B] &nbsp;&nbsp;&nbsp; 2025 Secondary 1 Camp Consent Form</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -311,7 +311,8 @@ the submission of the approval letter.&nbsp;</p>
 and uniforms.</p>
 </li>
 </ul>
-<p><strong>2.</strong>&nbsp; &nbsp;<strong>New&nbsp;MOE FAS applicants</strong>**:**</p>
+<p><strong>2.</strong>&nbsp; &nbsp;<strong>New&nbsp;MOE FAS applicants:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please click&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the MOE FAS
