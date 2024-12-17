@@ -4,6 +4,28 @@ permalink: /our-achievements/Academic-Achievements/
 description: ""
 variant: markdown
 ---
+### **2024 Achievements**
+
+
+
+| No. | Name of Award | Type of Award |
+| -------- | -------- | -------- |
+| 1     | Historical Scene Investigation Top 10    | Gold Award    |
+| 2     | F1 Race Challenge HCI 2024    | 2nd place    |
+| 3     | Sepak Takraw C Boys National School Games     | 3rd place    |
+| 4     | National Debate Competition (Malay Language)     | Best Speaker Award    |
+|      | National Poetry Recital Competition (Malay Language)     | Overall Champion &amp; Best Creative Performance Award    |
+|      | National Songwriting Competition - Pertandingan Simfoni Kata 2024 (Malay Language)     | 2nd place    |
+| 5     | SIT-VJC Project INSPiRE 2024     | Best Overall Award    |
+| 6     | Temasek Polytechnic Engineering Olympiad     | 1 Certification of Commendation, 1 Bronze Medal    |
+|      | Singapore Junior Biology Olympiad 2024     | 2 Bronze Medal    |
+|      | Singapore Junior Chemistry Olympiad 2024     | 1 Bronze Medal    |
+| 7     | The Queen’s Commonwealth Essay Writing Competition     | 2 Silver, 1 Bronze |
+| 8     | Schools Digital Media Awards     | Certificate of Commendation    |
+|      | Better Internet Video Challenge     | Champion    |
+| 9     | Drone Odyssey 2024     | 3rd for Best Knowledge, 1st for Best Presentation, Overall 1st and 2nd Runners-up    |
+| 10     | Singapore Maths Kangaroo Contest     | 2 Hounorable Mention, 4 Bronze, 1 Gold |
+
 ### **2023 Achievements**
 
 Academic Awards (Talent Development Programme):
