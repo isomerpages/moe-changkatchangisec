@@ -22,3 +22,4 @@ variant: markdown
 | Teacher     | Ms Katherine Yeung See Mun    |
 | Teacher     | Mr Ng Woon Bing Kevin    |
 | Teacher     | Ms Kang Eng Ling    |
+| Teacher     | Mr Amrit Singh Gill    |
