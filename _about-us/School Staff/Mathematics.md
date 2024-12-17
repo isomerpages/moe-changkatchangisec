@@ -14,13 +14,13 @@ variant: markdown
 | School Staff Developer    | Mr Ho Beng Khiaw   | 
 | HOD ICT     | Mr Tan Teck Tang Glen    | 
 | HOD CCE, Year Head     | Mdm Mufeedah Bte Senin     | 
-| Assistant Year Head     | Mr Quek Ming Yeow     | 
+| Assistant Year Head     | Mr Quek Ming Yeow     |
+| SH Student Leadership     | Ms Sim Lin Ping Salome    |
 | Teacher     | Mdm Habsa Bte Sulaiman    | 
 | Teacher     | Ms Huang Yaling     | 
 | Teacher     | Ms Koon Yuhua Geraldine    | 
 | Teacher     | Mr Tan Tze Siong    |
 | Teacher     | Ms Ong Hui Yan    |
-| Teacher     | Ms Sim Lin Ping Salome    |
 | Teacher     | Ms Tay Ai Li Aileen    |
 | Teacher     | Ms Wong Siew Yin (Mrs Peh)    |
 | Teacher     | Mr Yap Meng Wei Kelvin   |
