@@ -17,8 +17,8 @@ variant: markdown
 | Assistant Year Head     | Mr Quek Ming Yeow     |
 | SH Student Leadership     | Ms Sim Lin Ping Salome    |
 | ST Principle of Accounts     | Ms Tay Ai Li Aileen    |
+| ST Mathematics     | Ms Huang Yaling     | 
 | Teacher     | Mdm Habsa Bte Sulaiman    | 
-| Teacher     | Ms Huang Yaling     | 
 | Teacher     | Ms Koon Yuhua Geraldine    | 
 | Teacher     | Mr Tan Tze Siong    |
 | Teacher     | Ms Ong Hui Yan    |
