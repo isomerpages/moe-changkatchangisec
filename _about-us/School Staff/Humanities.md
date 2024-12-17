@@ -10,8 +10,7 @@ variant: markdown
 
 | Appointment | Name | 
 | -------- | -------- | 
-| HOD Humanities    | Ms Lai Han Wei   | 
-| SH Humanities     | Ms Nur Syazana Binte Shahul Hameed     |
+| HOD Humanities    | Ms Nur Syazana Binte Shahul Hameed   | 
 | SH Geography     | Ms Nuriahtu Farhati Mohamed Ali    | 
 | HOD Discipline     | Mr Nahar Azmi Bin Abdul Majid    |
 | SH CCE     | Mr Samson Hu Song En    | 
