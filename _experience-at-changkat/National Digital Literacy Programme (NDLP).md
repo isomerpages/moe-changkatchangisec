@@ -68,7 +68,7 @@ healthy use of PLDs in the school
 <p>1.&nbsp; Information on device</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2a__Parent_Engagement_Deck_2024__Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">[Briefing during 2024 Sec 1 PTC]</a> 
+<p>[Briefing during 2024 Sec 1 PTC]
 <br>[Frequently Asked Questions (FAQ)]</p>
 </td>
 </tr>
