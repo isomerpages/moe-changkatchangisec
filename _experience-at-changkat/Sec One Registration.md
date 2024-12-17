@@ -325,5 +325,5 @@ has been approved.</p>
 </ul>
 <p><strong>3.&nbsp; &nbsp;Additional Points to Note:</strong>
 </p>
-<p>Families with more than 5 children in government and government-aided
+<p>Families with more than 5 children in government and/or government-aided
 schools. Please call the school’s General Office at 6785 9790 for assistance.</p>
