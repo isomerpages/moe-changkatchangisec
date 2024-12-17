@@ -12,7 +12,7 @@ variant: markdown
 | -------- | -------- |
 | Principal     | Mr Ho Ming Da     |
 | Vice-Principal     | Ms Subashini d/o Sivaram    |
-| Vice-Principal     | Mr Chew Poh Huat     |
+| Vice-Principal (Admin)    | Mr Kong Mun Heng     |
 
 # KEY PERSONNEL
 
@@ -22,26 +22,24 @@ variant: markdown
 | HOD English Language    | Ms Huang Aili     |
 | HOD Mother Tongue Languages      | Ms Goh Ying Hsuan   |
 | HOD Science     | Ms Hang Si'En     |
-| HOD Mathematics     | Mr Ho Beng Khiaw     |
-| HOD Humanities     | Ms Lai Han Wei    |
-| HOD Character and Citizenship Education     | Ms Lee Li’Neng, Marie    |
+| HOD Mathematics     | Mr Poh Wei En     |
+| HOD Humanities     | Ms Nur Syazana Binte Shahul Hameed    |
 | HOD Discipline     | Mr Nahar Azmi Bin Abdul Majid     |
 | HOD Craft & Technology     | Mr Ong Khim Ghee Samuel     |
 | HOD Physical Education & CCA     | Mr Sim Chong Ghee    |
 | HOD Information & Communication Technology     | Mr Tan Teck Tang Glen     |
-| School Staff Developer    | Ms Nuraini Bte Abu Bakar     |
-| Year Head​ (Lower Sec)     | Mr Lim Pia Leong     |
-| Year Head (Upper Sec)     | Mdm Mufeedah Bte Senin     |
+| HOD Character and Citizenship Education, Year Head (Upper Sec)     | Mdm Mufeedah Bte Senin     |
+| School Staff Developer    | Mr Ho Beng Khiaw    |
 | SH English Language     | Mr Thng Shunyang Sebastian     |
-| SH Humanities     | Ms Nur Syazana Binte Shahul Hameed     |
 | SH Geography     | Ms Nuriahtu Farhati Mohamed Ali     |
 | SH Craft & Technology     | Mr Han Ban Siew Sean     |
 | SH Malay Language     | Mdm Hezrina Bte Johan Manikam     |
 | SH Character and Citizenship Education     | Mr Hu Song En Samson     |
 | SH PE/CCA      | Mr Iskandar Bin Ishak     |
-| SH Student Leadership     | Mr Tan Tze Siong     |
-| LH Mathematics     | Mr Poh Wei En     |
+| SH Student Leadership     | Ms Sim Lin Ping Salome     |
+| LH Mathematics     | Ms Jenny Lau     |
 | LH Science     | Mr Wan Bing Khiang     |
+| Assistant Year Head     | Mr Kevan Lee Wei Hao     |
 | Assistant Year Head     | Mr Quek Ming Yeow     |
 | Assistant Year Head     | Ms Ng Shiru     |
 | Administrative Manager     | Ms Ng Koh Yee    |
