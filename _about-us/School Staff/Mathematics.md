@@ -9,17 +9,16 @@ variant: markdown
 
 | Appointment | Name | 
 | -------- | -------- | 
-| HOD Mathematics    | Mr Ho Beng Khiaw   | 
-| LH Mathematics     | Mr Poh Wei En    | 
+| HOD Mathematics    | Mr Poh Wei en   | 
+| LH Mathematics     | Ms Lau Li Wei, Jenny    |
+| School Staff Developer    | Mr Ho Beng Khiaw   | 
 | HOD ICT     | Mr Tan Teck Tang Glen    | 
-| SH  Student Leadership    | Mr Tan Tze Siong    | 
-| Year Head     | Mr Lim Pia Leong     |
 | Year Head     | Mdm Mufeedah Bte Senin     | 
 | Assistant Year Head     | Mr Quek Ming Yeow     | 
 | Teacher     | Mdm Habsa Bte Sulaiman    | 
 | Teacher     | Ms Huang Yaling     | 
 | Teacher     | Ms Koon Yuhua Geraldine    | 
-| Teacher     | Ms Lau Li Wei, Jenny    |
+| Teacher     | Mr Tan Tze Siong    |
 | Teacher     | Ms Ong Hui Yan    |
 | Teacher     | Ms Sim Lin Ping Salome    |
 | Teacher     | Ms Tay Ai Li Aileen    |
