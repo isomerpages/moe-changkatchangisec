@@ -14,8 +14,6 @@ variant: markdown
 | LT Tamil Language     | Dr Perema D/O Ramasamy    | 
 | LT Malay Language    | Mr Djohan Bin Abdul Rahman    | 
 | Teacher     | Ms Lee Hwey Ping     | 
-| Teacher     | Ms Khoo Kai Leng Esther     |
-| Teacher     | Ms Poh Shi Hui     | 
 | Teacher     | Ms Teo Ying Hui    | 
 | Teacher     | Mr Wang Yadong    | 
 | Teacher     | Mr Abdul Matiin Bin Kassim   | 
@@ -23,5 +21,7 @@ variant: markdown
 | Teacher     | Ms Nur Umaira Bte Muhd Zulkifli    |
 | Teacher     | Mdm Anadhagirl Kasthuri    |
 | Teacher     | Dr Thirunavukarasu Duarisamy    |
-| Teacher     | Mr Tan Ik Ching     |
 | Teacher     | Ms Nadiah Binte Abdul Karim     |
+| Teacher     | Mr Zhu Liang     |
+| Teacher     | Mr Tan Ik Ching     |
+| Teacher     | Mdm Ang Woon Khim   |

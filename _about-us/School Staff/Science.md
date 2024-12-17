@@ -14,13 +14,12 @@ variant: markdown
 | LH Science    | Mr Wan Bing Khiang    | 
 | LT  (Physics)    | Mr Lee Chin Teck    | 
 | ST (Physics)     | Mr Hong Kam Kheun     | 
-| HOD CCE     | Ms Lee Li'Neng, Marie    | 
-| Assistant Year Head (Covering)     | Ms Ng Shi Ru    |
+| Assistant Year Head     | Ms Ng Shi Ru    |
 | Teacher     | Mr Bryan Yong ZhiShan     | 
 | Teacher     | Ms Daphne Khoo Rui Yun    | 
 | Teacher     | Ms Lim Shan Yan   | 
-| Teacher     | Miss Ling Geok Keng    | 
-| Teacher     | Miss Low Yan Fang    |
+| Teacher     | Ms Ling Geok Keng    | 
+| Teacher     | Ms Grace Lee Yuan Ping    |
 | Teacher     | Mdm Ng Hwee Koon Joyce    |
 | Teacher     | Mr Rishvinder Singh    |
 | Teacher     | Dr Seah Mei Ying Jessica    |

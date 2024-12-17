@@ -17,3 +17,4 @@ variant: markdown
 | Teacher     | Dr Dawn Wu Chuang-Mae     | 
 | Teacher     | Mr Syed Ahmad Bin Syed Sagoff Alqadri     | 
 | Teacher     | Ms Chia Ying Yin     |
+| Teacher     | Mr Ng Boon Hian     |
