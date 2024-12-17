@@ -13,8 +13,8 @@ variant: markdown
 | HOD Science    | Ms Hang Si'En   |  
 | LH Science    | Mr Wan Bing Khiang    | 
 | LT  (Physics)    | Mr Lee Chin Teck    | 
-| ST (Physics)     | Mr Hong Kam Kheun     | 
 | Assistant Year Head     | Ms Ng Shi Ru    |
+| Teacher     | Mr Hong Kam Kheun     | 
 | Teacher     | Mr Bryan Yong ZhiShan     | 
 | Teacher     | Ms Daphne Khoo Rui Yun    | 
 | Teacher     | Ms Lim Shan Yan   | 
