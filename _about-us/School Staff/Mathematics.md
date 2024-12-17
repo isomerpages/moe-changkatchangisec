@@ -16,12 +16,12 @@ variant: markdown
 | HOD CCE, Year Head     | Mdm Mufeedah Bte Senin     | 
 | Assistant Year Head     | Mr Quek Ming Yeow     |
 | SH Student Leadership     | Ms Sim Lin Ping Salome    |
+| ST Principle of Accounts     | Ms Tay Ai Li Aileen    |
 | Teacher     | Mdm Habsa Bte Sulaiman    | 
 | Teacher     | Ms Huang Yaling     | 
 | Teacher     | Ms Koon Yuhua Geraldine    | 
 | Teacher     | Mr Tan Tze Siong    |
 | Teacher     | Ms Ong Hui Yan    |
-| Teacher     | Ms Tay Ai Li Aileen    |
 | Teacher     | Ms Wong Siew Yin (Mrs Peh)    |
 | Teacher     | Mr Yap Meng Wei Kelvin   |
 | Teacher     | Mr Ong Ruiwen   |
