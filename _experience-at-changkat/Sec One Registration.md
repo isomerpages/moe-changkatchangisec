@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Secondary 1 Changkateers and Parents/Guardians,</p>
-<p>A warm welcome to the Changkat family!</p>
+<p>A warm welcome to the <strong>Changkat family</strong>!</p>
 <p>You will begin your new learning adventure with us soon and we are excited
 to get to know you. We wish to invite you for a face-to-face Parents/Guardians
-Briefing at our school, from 9 am to 10 am, on 20 Dec 2024.</p>
+Briefing at our school, from 9 am to 10.30 am, on 20 Dec 2024.</p>
 <p>At this briefing, we will share school information, overview of Full Subject-Based
 Banding and details about <strong><em>Kickstart</em></strong>, your Orientation
 Programme. Your teachers have been thoughtfully planning <strong><em>Kickstart</em></strong> so
@@ -68,13 +68,12 @@ QR Code below and we hope to address them during the briefing.
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a_fnqJk79vQ?si=XXq5_vJlEys8dZRS"></iframe>
 </div>
-<p><strong>[A]&nbsp; &nbsp; &nbsp;Briefing to 2024 Secondary 1 Changkateers and Parents/Guardians</strong>
+<p><strong>[A]&nbsp; &nbsp; &nbsp;Briefing to 2025 Secondary 1 Changkateers and Parents/Guardians</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>There is an important briefing for all Secondary 1 Changkateers and Parents/Guardians
-on&nbsp;<strong>20 December 2024 (Fri), from 9 AM to 10 AM, at Changkat Changi Secondary School (School Hall).</strong>
-</p>
+<p>An important briefing for all 2025 Secondary 1 Changkateers and their
+Parents/Guardians will be held on <strong>Friday, 20 December 2024, from 9 am to 10.30 am at Changkat Changi Secondary School (School Hall)</strong>.</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -85,7 +84,7 @@ on&nbsp;<strong>20 December 2024 (Fri), from 9 AM to 10 AM, at Changkat Changi S
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>[B] &nbsp;&nbsp;&nbsp; Online e-Registration Form</strong>
+<p><strong>[B] &nbsp;&nbsp;&nbsp; 2025 Secondary 1 Camp           Consent Form</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -94,8 +93,11 @@ on&nbsp;<strong>20 December 2024 (Fri), from 9 AM to 10 AM, at Changkat Changi S
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Please access the online e-registration form by clicking <a href="https://go.gov.sg/s1-reg" rel="noopener nofollow" target="_blank">here</a> or scanning
-the QR code below:</p>
+<p><strong>(Compulsory, please complete)</strong> We would appreciate your
+assistance in providing updated key personal information and consent for
+the Sec 1 cohort camp, which will be held from 13 to 15 January 2025. Please
+access the form by clicking <a href="https://go.gov.sg/s1-reg" rel="noopener nofollow" target="_blank">here</a> or
+scanning the QR code below:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For appeal into Changkat Changi Secondary School, please fill up the online
@@ -135,11 +137,11 @@ scanning the QR code below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Please complete the form by&nbsp;<strong>24 December 2024 (Tue), 5 PM</strong>
+<p>Please complete the form by&nbsp;<strong>24 December 2024 (Tue), 5 pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The deadline for the submission of appeals is on&nbsp;<strong>24 December 2024, 5 PM</strong>.
+<p>The deadline for the submission of appeals is on&nbsp;<strong>24 December 2024, 5 pm</strong>.
 <br>Late submission will not be allowed.</p>
 </td>
 </tr>
@@ -155,17 +157,17 @@ scanning the QR code below:</p>
 </li>
 <li>
 <p>Online purchase &amp; self-collection at school bookshop. Online purchase
-done before 19 Dec 2024, 12pm, will be available for collection at the
+done before 19 Dec 2024, 12 pm, will be available for collection at the
 school bookshop on 20 Dec 2024.</p>
 </li>
 <li>
 <p>Walk-in purchase at school bookshop at the following dates and timings:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>20, 23 Dec (9am - 3pm)</p>
+<p>20, 23 Dec (9 am - 3 pm)</p>
 </li>
 <li>
-<p>26, 27, 30 Dec (9am - 3pm)</p>
+<p>26, 27, 30 Dec (9 am - 3 pm)</p>
 </li>
 </ul>
 </li>
@@ -188,7 +190,7 @@ please click&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener n
 </li>
 <li>
 <p>Online purchase (before 19 Dec 2024, 12 pm) &amp; self-collection at school.
-Online purchase done before 19 Dec 2024, 12pm, will be available for collection
+Online purchase done before 19 Dec 2024, 12 pm, will be available for collection
 at the school on 20 Dec 2024.</p>
 </li>
 <li>
@@ -196,7 +198,7 @@ at the school on 20 Dec 2024.</p>
 and timings:</p>
 </li>
 <li>
-<p>Dec 20, 23 (9am-3pm)
+<p>Dec 20, 23 (9 am-3 pm)
 <br>
 </p>
 </li>
@@ -216,8 +218,8 @@ sets of uniforms, 2 sets of PE attire and a school tie each.&nbsp;
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are supposed to report to the school by&nbsp;<strong>7.50 AM</strong>.
-Please arrive at least 10 mins earlier.</p>
+<p>Students are supposed to report to the school by&nbsp;<strong>7.50 am</strong>.
+Please arrive at least 10-minute earlier.</p>
 </li>
 <li>
 <p>Students are to bring their water bottle, snacks, writing materials and
@@ -225,11 +227,12 @@ school tie. A digital thermometer will be provided to every student on
 the first day.</p>
 </li>
 <li>
-<p>There will be a 30 min recess on the first day. A simple recess meal which
-includes a burger/plate of noodles, and a drink will cost at least $3.50.&nbsp;</p>
+<p>There will be a 30-minute recess on the first day. A simple recess meal
+which includes a burger/plate of noodles, and a drink will cost at least
+$3.50.&nbsp;</p>
 </li>
 <li>
-<p>Students will be dismissed at 12:30 PM on 2 January 2025.</p>
+<p>Students will be dismissed at 12.30 pm on 2 January 2025.</p>
 </li>
 </ul>
 <p><strong>2. PE/House T-shirt</strong>
