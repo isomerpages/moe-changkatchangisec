@@ -11,9 +11,9 @@ variant: markdown
 | Appointment | Name | 
 | -------- | -------- | 
 | HOD Educational Support    | Mr Abdul Nasir Bin Abdul Razzak   | 
-| Teacher     | Mr Chong See Eng     | 
 | Senior School Counsellor     | Ms Shamini D/O G Singaravel   | 
 | Senior School Counsellor     | Mr Kang Chun Yong    |
 | Special Educational Needs (SEN) Officer     | Ms Siti Aisyah Bte Mohd Mohaiyuddin     | 
 | Special Educational Needs (SEN) Officer    | Mr Muhammad Nurrul Hadi Bin Abdul Rahman    | 
 | Senior Education & Career Guidance Counsellor     | Ms Pauline Low    |
+| Teacher     | Mr Chong See Eng     | 
