@@ -13,7 +13,7 @@ variant: markdown
 | LH Mathematics     | Ms Lau Li Wei, Jenny    |
 | School Staff Developer    | Mr Ho Beng Khiaw   | 
 | HOD ICT     | Mr Tan Teck Tang Glen    | 
-| Year Head     | Mdm Mufeedah Bte Senin     | 
+| HOD CCE, Year Head     | Mdm Mufeedah Bte Senin     | 
 | Assistant Year Head     | Mr Quek Ming Yeow     | 
 | Teacher     | Mdm Habsa Bte Sulaiman    | 
 | Teacher     | Ms Huang Yaling     | 
