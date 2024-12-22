@@ -22,6 +22,7 @@ variant: markdown
 | Teacher     | Mdm Anadhagirl Kasthuri    |
 | Teacher     | Dr Thirunavukarasu Duarisamy    |
 | Teacher     | Ms Nadiah Binte Abdul Karim     |
+| Teacher     | Ms Noor Farhanah Bte Mohd Rahman   |
 | Teacher     | Mr Zhu Liang     |
 | Teacher     | Mr Tan Ik Ching     |
 | Teacher     | Mdm Ang Woon Khim   |
