@@ -17,7 +17,6 @@ variant: markdown
 | Teacher     | Mr Goh Cheng Ze Tristan     |
 | Teacher     | Ms Huan Zhenling     |
 | Teacher     | Ms Lau Jia Qi     | 
-| Teacher     | Ms Norhafizah Bte Ma'Arof    | 
 | Teacher     | Mrs Mohana Sivaprasad     | 
 | Teacher     | Ms Namira Bte Mohamed    | 
 | Teacher     | Mr Yeo Shao Hui Timothy    |

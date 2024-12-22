@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Departments
 variant: markdown
 ---
-**Head of Department (Covering):**&nbsp;Ms Huang Aili  
+**Head of Department:**&nbsp;Ms Huang Aili  
   
 **Subject Head (Covering)**&nbsp;: Mr Sebastian Thng
   
@@ -15,23 +15,19 @@ variant: markdown
 **Teachers:**
 
 Ms Norhafizah Bte Ma’arof  
-Ms Nuraini Abu Bakar  
-Ms Nuriahtu Bte Farhati Mohamed Ali  
 Mdm Rosazlin Bte Mohamad  
-Mr Sebastian Thng  
 Mdm Shahnaz d/o Sheikh Abdul Karim  
 Mr Venkateswaran Balakrishnan  
-Mr&nbsp;Mohamed Syafiq Bin Mohamed Rafid       
-Ms Audra Amir Liow     
-Mdm Katherine Yeung See Mun     
-Miss Aliah Aman Aljunied     
-Mr Yeo Shao Hui Timothy  
-Mrs Elsie Tan
-<br>Mdm Lim Bee Peng
+Mr Mohamed Syafiq Bin Mohamed Rafid       
+Mdm Katherine Yeung See Mun         
+Mr Yeo Shao Hui Timothy
 <br>Ms Chia Ying Yin
 <br>Mr Han Zi Ding
 <br>Mrs Beatrice Te
 <br>Ms Cheryl Cheong
+<br>Ms Kang Eng Ling
+<br>Mr Ng Woon Bing Kevin
+<br>Mr Amrit Singh Gill
 
   
 The English Language Department aims to develop students into empathetic communicators, discerning readers and creative inquirers who are confident and competent in their use of the English Language. To this end, the department offers structured programmes which allow students to discover their passions in the various language areas. In particular, the Public Speaking Programme helps our students grow as orators.  
