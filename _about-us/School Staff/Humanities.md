@@ -11,7 +11,7 @@ variant: markdown
 | Appointment | Name | 
 | -------- | -------- | 
 | HOD Humanities    | Ms Nur Syazana Binte Shahul Hameed   | 
-| SH Geography     | Ms Nuriahtu Farhati Mohamed Ali    | 
+| ST Geography     | Ms Nuriahtu Farhati Mohamed Ali    | 
 | HOD Discipline     | Mr Nahar Azmi Bin Abdul Majid    |
 | SH CCE     | Mr Samson Hu Song En    | 
 | Teacher     | Mr Goh Cheng Ze Tristan     |
