@@ -31,7 +31,6 @@ variant: markdown
 | HOD Character and Citizenship Education, Year Head (Upper Sec)     | Mdm Mufeedah Bte Senin     |
 | School Staff Developer    | Mr Ho Beng Khiaw    |
 | SH English Language     | Mr Thng Shunyang Sebastian     |
-| SH Geography     | Ms Nuriahtu Farhati Mohamed Ali     |
 | SH Craft & Technology     | Mr Han Ban Siew Sean     |
 | SH Malay Language     | Mdm Hezrina Bte Johan Manikam     |
 | SH Character and Citizenship Education     | Mr Hu Song En Samson     |
