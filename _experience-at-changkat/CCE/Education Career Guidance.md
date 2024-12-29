@@ -113,13 +113,21 @@ or ITE.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Institute of Technical Education (ITE)</p>
-<p>
-<br>Course Booklet 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.ite.edu.sg/admissions/full-time-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses</a> 
-<br>
-<br><a href="https://www.ite.edu.sg/admissions/full-time-courses   https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf</a> &nbsp;&nbsp;</p>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Courses available at ITE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Course Booklet 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ite.edu.sg/admissions/full-time-courses   https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf</a> &nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courses available at ITE</p>
@@ -130,8 +138,8 @@ or ITE.</p>
 <p>Poly Foundation Programme (PFP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfp</a> &nbsp;&nbsp;
-<br><a href="https://go.gov.sg/pfp &nbsp;&nbsp; https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html</a>
+<p><a href="https://go.gov.sg/pfp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfp</a> &nbsp;&nbsp;
+<br><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
