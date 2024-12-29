@@ -100,19 +100,6 @@ or ITE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admission Criteria
-<br>(ITE, JC/MI, Polytechnic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Joint Admission Exercise</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>A-Level curriculum and subject syllabuses (JC/MI)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,10 +113,13 @@ or ITE.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Institute of Technical Education (ITE)</p>
+<p>
+<br>Course Booklet 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/admissions/full-time-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses</a>
-</p>
+<p><a href="https://www.ite.edu.sg/admissions/full-time-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses</a> 
+<br>
+<br><a href="https://www.ite.edu.sg/admissions/full-time-courses   https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf</a> &nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courses available at ITE</p>
@@ -140,9 +130,8 @@ or ITE.</p>
 <p>Poly Foundation Programme (PFP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pfp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfp</a>
-</p>
-<p><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfp</a> &nbsp;&nbsp;
+<br><a href="https://go.gov.sg/pfp &nbsp;&nbsp; https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,7 +155,19 @@ or ITE.</p>
 <p>Nanyang Academic of Fine Arts (NAFA) Diploma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nafa.edu.sg/admissions/diploma-admissions" rel="noopener nofollow" target="_blank">https://www.nafa.edu.sg/admissions/diploma-admissions</a>
+<p><a href="https://www.nafa.edu.sg/courses/diploma" rel="noopener noreferrer nofollow" target="_blank">https://www.nafa.edu.sg/courses/diploma</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4N(A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>La Salle College of the Arts (Diploma)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.lasalle.edu.sg/admissions/diploma-admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.lasalle.edu.sg/admissions/diploma-admissions</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,14 +176,13 @@ or ITE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>La Salle College of the Arts (Diploma</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.lasalle.edu.sg/admissions/diploma-admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.lasalle.edu.sg/admissions/diploma-admissions</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exp &amp; 5N(A)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -213,10 +213,11 @@ or ITE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 JIE-N Booklet</p>
+<p>2025 JIE-N Brochure</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf</a>
+<p><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-and-course-information-brochure-jan-2025.pdf?sfvrsn=25d380a3_9" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-and-course-information-brochure-jan-2025.pdf?sfvrsn=25d380a3_9</a> 
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,23 +229,14 @@ or ITE.</p>
 <p>My-Skills-Future Portal (Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>
-<br><a href="https://go.gov.sg/industrylandscape-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/industrylandscape-sec</a>
+<p><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec<br></a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ECG Portal to explore the world of work and plan education pathways</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Calendar of Events</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ecgcalendar" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgcalendar</a> &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stay up-to-date with upcoming Education and Career Guidance Events</p>
+<p>To learn about the different jobs and industries, connect with industry
+professionals and get a taster into various job roles of your interest</p>
 </td>
 </tr>
 <tr>
@@ -252,13 +244,12 @@ or ITE.</p>
 <p>On My Way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nyc.gov.sg/omw/home" rel="noopener noreferrer nofollow" target="_blank">https://www.nyc.gov.sg/omw/home</a>
+<p><a href="https://discover.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>On My Way (OMW) - learn about the different jobs and industries, connect
-with industry professionals and get a taster into various job roles of
-your interest</p>
+<p>To learn about the different jobs and industries, connect with industry
+professionals and get a taster into various job roles of your interest</p>
 </td>
 </tr>
 <tr>
@@ -266,12 +257,28 @@ your interest</p>
 <p>Parent Guide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
-<br>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a> 
+<br><a href="http://go.gov.sg/tipsforparents" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/tipsforparents</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An ECG toolkit for parents</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stories of Hope &amp; Inspiration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.schoolbag.edu.sg/story-tag/multiple-pathways/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story-tag/multiple-pathways/</a> 
+<br>
+<br>
+</p>
+<p><a href="https://www.ite.edu.sg/life-at-ite/ITE-success-stories" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/life-at-ite/ITE-success-stories</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stories of individuals on their diverse education and career pathways</p>
 </td>
 </tr>
 <tr>
@@ -284,19 +291,6 @@ your interest</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learn about the different merit-based awards and scholarships</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stories of Hope &amp; Inspiration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.go.gov.sg/next-step-forward" rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/next-step-forward</a>
-<br><a href="https://www.ite.edu.sg/life-at-ite/ITE-success-stories" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/life-at-ite/ITE-success-stories</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stories of individuals on their diverse education and career pathways</p>
 </td>
 </tr>
 <tr>
