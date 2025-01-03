@@ -7,7 +7,7 @@ variant: markdown
 #### **Student Links**
 
 
-**[2024 Student Handbook](https://drive.google.com/file/d/19dNUAPAKo-VJ0grDlwL0D5vtNBRMTjhR/view?usp=drive_link)**
+**[2025 Student Handbook](https://drive.google.com/file/d/1ki5Me20ORYqXddH8dHmCvj3sLxULyQYc/view?usp=drive_link)**
 
 **[Student Learning Space](https://vle.learning.moe.edu.sg/login)&nbsp;(SLS)**
 
