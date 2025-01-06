@@ -2,7 +2,6 @@ collections:
   our-achievements:
     output: true
     order:
-      - Changkat Moments.md
       - CCA Achievements.md
       - Academic Achievements.md
       - Staff Achievements.md
