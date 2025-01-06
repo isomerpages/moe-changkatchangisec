@@ -42,7 +42,7 @@ variant: markdown
 
 **6.&nbsp;&nbsp;[Joint Portal of the Polytechnics (JPAE)](https://jpae.polytechnic.edu.sg/app)**
 
-**7.&nbsp;&nbsp;[DPP Courses&nbsp;2023&nbsp;(Applying for DPP - Higher Nitec Courses)](https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme)**
+**7.&nbsp;&nbsp;[DPP Courses&nbsp;2023&nbsp;(Applying for DPP - Higher Nitec Courses)](https://www.ite.edu.sg/courses/full-time-courses)**
 
   
 
