@@ -78,11 +78,20 @@ healthy use of PLDs in the school
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. Giving Consent for Purchase</p>
+<p>2a. Giving Consent for Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click&nbsp;<strong><a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 give consent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2b. Standing Order (SO) for the use of Edusave Account (SC only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
+</p>
 </td>
 </tr>
 <tr>
