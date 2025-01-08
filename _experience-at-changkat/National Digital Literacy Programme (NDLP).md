@@ -158,7 +158,8 @@ for more information</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;here to find out more about
+<p>Click&nbsp;<a href="https://docs.google.com/spreadsheets/d/1jx3wjBuNYZlBK4X5_CKpkA4HO92KhEEvoUC4aeNXTpg/edit?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+find out more about
 <br>
 <br>- the differences between the DMA options.
 <br>- how the DMA options work during the school term and holidays.</p>
