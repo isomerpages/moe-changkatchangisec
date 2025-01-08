@@ -165,8 +165,8 @@ find out more about
 <br>- how the DMA options work during the school term and holidays.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;here if you would like to change your child's DMA settings
-on the PLD</p>
+<p>Click&nbsp;<a href="https://go.gov.sg/pdlpdma" rel="noopener nofollow" target="_blank">here</a> if
+you would like to change your child's DMA settings on the PLD</p>
 </td>
 </tr>
 </tbody>
