@@ -48,7 +48,7 @@ healthy use of PLDs in the school
 <br><a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 <h2>FOR PARENTS</h2>
-<h5>Purchase of Devices (2024)&nbsp;</h5>
+<h5>Purchase of Devices (2025)&nbsp;</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -68,17 +68,30 @@ healthy use of PLDs in the school
 <p>1.&nbsp; Information on device</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Briefing during 2024 Sec 1 PTC]
-<br>[Frequently Asked Questions (FAQ)]</p>
+<p>[<a href="/files/PDLP/IP1_iPad____2025_Parent_Engagement_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing during 2025 Sec 1 PTC</a>]</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MtH2it3tC3Y?si=cXiAcZoz_xHayVPL"></iframe>
+</div>
+<p>[Frequently Asked Questions (FAQ)]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. Giving Consent for Purchase</p>
+<p>2a. Giving Consent for Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click&nbsp;<strong><a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 give consent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2b. Standing Order (SO) for the use of Edusave Account (SC only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +123,7 @@ for more information</p>
 </tr>
 </tbody>
 </table>
-<p><em>Information&nbsp;above correct as of 19 Jan 2024</em>
+<p><em>Information&nbsp;above correct as of 8 Jan 2025</em>
 </p>
 <h4>Cyber Wellness&nbsp;</h4>
 <p>Building up Good Learning Habits with the PLD</p>
