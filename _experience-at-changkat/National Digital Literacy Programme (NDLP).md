@@ -188,7 +188,7 @@ on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20default%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;here<strong><br></strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmadefault" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,7 +198,7 @@ on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20A%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;here<strong><br></strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmaoptiona" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +208,7 @@ on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20B%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;here<strong><br></strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmaoptionb" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
 </p>
 </td>
 </tr>
