@@ -158,14 +158,15 @@ for more information</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;here to find out more about
+<p>Click&nbsp;<a href="https://docs.google.com/spreadsheets/d/1jx3wjBuNYZlBK4X5_CKpkA4HO92KhEEvoUC4aeNXTpg/edit?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+find out more about
 <br>
 <br>- the differences between the DMA options.
 <br>- how the DMA options work during the school term and holidays.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;here if you would like to change your child's DMA settings
-on the PLD</p>
+<p>Click&nbsp;<a href="https://go.gov.sg/pdlpdma" rel="noopener nofollow" target="_blank">here</a> if
+you would like to change your child's DMA settings on the PLD</p>
 </td>
 </tr>
 </tbody>
@@ -188,7 +189,7 @@ on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20default%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;here<strong><br></strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmadefault" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,7 +199,7 @@ on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20A%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;here<strong><br></strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmaoptiona" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +209,7 @@ on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20B%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;here<strong><br></strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmaoptionb" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
 </p>
 </td>
 </tr>
