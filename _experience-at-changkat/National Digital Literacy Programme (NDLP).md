@@ -81,8 +81,7 @@ healthy use of PLDs in the school
 <p>2a. Giving Consent for Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;<strong><a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
-give consent</p>
+<p>Give consent via Parents Gateway dated 9 Jan</p>
 </td>
 </tr>
 <tr>
