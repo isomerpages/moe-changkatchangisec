@@ -81,7 +81,7 @@ healthy use of PLDs in the school
 <p>2a. Giving Consent for Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Give consent via Parents Gateway dated 9 Jan</p>
+<p>Give consent via Parents Gateway dated 9 Jan.</p>
 </td>
 </tr>
 <tr>
