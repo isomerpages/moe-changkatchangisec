@@ -5,4 +5,184 @@ description: ""
 third_nav_title: School Safety
 variant: tiptap
 ---
-<h2>Key Information</h2><p>Dear Parents/Guardians,</p><p>HBL lesson instructions via lesson guides for all classes can be found in the following class links.</p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7JA-QYG24ts3m5fjXEqx2kDHmQcn_usDYbIagWEBLT84qcld9U6qTMvS5XDQuj9ADGZoWLZlP12jr/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G1</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQsEwLWe-aC2CdeMrbPuydVTl_zV8QNW23YbCcsT1yWKMpbuOvUAwbRlO7e0URfiXTEar2m5whb2onh/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G2</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRfsdPZO51nS2Hdfhxd2pL-mp7_mhbeUq_MyHdmA2EQoA_b7zjDjRznkWJnShz98ZOoICc35vTyDu_-/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G3</u></a></strong></p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR21uno9T2WvUmiNuhy6WpgHTaHhJbSYRzW-DgwrGwFiiBOgKsNPqY1klpCeh2k1rZB7cRqdkvZrtM8/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G1</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFJnmzaKJU9yoDq90vL88fEiraGXjhE8DUEV8XG9su4MkKByb9uz3Lu21aZ0pds35_Ie2qzDbQ-mpX/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G2</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXH2MtfvXCWFvJjS-zXMYD1gMRyAPzqPiorU9W4LQ0sjsxzOaGnnt28AjyxvoCsr5hjd1c9ZmHOnzl/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G3</u></a></strong></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQEEWM72foZHhTQJrrUQtAUnFULg_dYWsE_wrgUSdjhAGZIz8Pjt7KhjjMuZjLCEB1sf4hiOZvWxrPk/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3A</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSUNFuibjLdSAfW9qRQ4cXrmCRUlHFHc9nTEYrFz8W6O28yYK4_Mznge1R_Ike8rMU_1nMtlyk_pFeK/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3B</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRT7esrFwkXqVoO62rbECCoPGRZnTKEzZNpN_Tg8pZIwReJz0NCk-I8mvMPB8J9aEJpOE2zUggKBACl/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3C</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQr8yTLYEpHxQpYVf5tbe4DpEpjtALFuUhCRRH6g7jslb98eez89wMXFa9UcCURxFTMFiKgfTDtQyvd/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3D</u></a></strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLlj9dQVZhSZJj4GIIsERtGefZuDupALZQuc_seFMOWbYSeZU8vkvmbVtfU82_WQBs1J7JlITR6F0Q/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3E</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vScXk4T4sUA5Gy5Bdu0JZzMdMKWVB3We4iWlVuMPJ1hodVHSaMzT_RD8SuG3TiSWVjoApyeN5s4mHzS/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3F</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqQhE0eI_KpPB-0FSTo4n_f-rYzUoZuJfOxWsXPyQWhvBBvRbqfVDJKG0n5eyg8yGV45rCbqBXWVQB/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3G</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxEDiQ5FRkmGqpjjynF9-AstQj0I-F2ytH62FRdAWi_k6mAwKmDxgl-AsUGt0KfecTdlb9rDaIartW/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3H</u></a></strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRhXwrGCWvtEgxwdWmFGWaUn28Fw6y_PrclhN8nrapzf-IOrevQMovONaUZX93KSGKHeoK3qQeyIGyT/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4A</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWsV7isA-ubHCpFjTuSqT227EEulTIt5wDaOvJ1X9-eymXBncLO6SHRBwui7zhqhC6z7A7kcWEgEfZ/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4B</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-dqKeQF7Ypm8W_HBmt5mr7UPEdMQwa1X9ON8k62oSCj1geQRRbh0xMfhXFFwJ5BJYm9J4vyjuFf2s/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4C</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQF1vDXpY30-0gaNWkRQEsuuNkq7S5b9B51-TPoh70rdZsTHzRRT1JxvBGxH8QMxGIKerc6ctez02o/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4D</u></a></strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxL5xGhqT-qXjZsfNJvwHeNh6mmoxu730b1VpVj4OjKhxA1khiaFC7BK3fIJNS8h3JlA8v6MxpNzxE/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4E</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSS2faE4e-FGS9NB1aLS2SiTbExyvsovpKspij8oTesF3AlMyVvoHW3cCGhxrz5MflF1CkZFuvFPDjy/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4F</u></a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTy7Sc2Ok669wFG0dn3V7-XFWf_iQjqg7Rj9JdM6VQS8TyFwM0drrln7ik35MXfXYq3Z47GodJOhURF/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4G</u></a></strong></p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCKVQh_wxVQjUrQH9fJj6ypdBno_CZFEpRx53OgDJ7amKdNJlDzQPe9lQpYChOq_yY7gODs98ML-X1/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>5A</u></a></strong></p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr></tbody></table><p>Form teachers will be checking the attendance with students at 0800 on HBL days.</p><p><strong>CCA Online Sessions</strong></p><p>The detailed information on the e-CCA sessions can be found in the link here. Zoom details will be provided to your child/ward by the respective CCA teachers.</p><p>The&nbsp;<a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore StudentLearning Space (SLS)</a>&nbsp;will be one of the few platforms to support schools in their home-based learning (HBL) measures. Instructions for home based lessons will be provided on the platform.</p><p>A key student self help resource during this HBL period can be found&nbsp;<a href="http://go.gov.sg/ccsshbl" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><p>In case your child/ward encounters issue accessing SLS, please follow the steps shown in the SLS recovery poster below.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/hbl%20help.jpeg"></div><h2>SLS Support for Home-based Learning</h2><p>During school operating hours, students should contact the&nbsp;<strong>School-based Helpline</strong>&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p><p><strong>School-based Helpline:</strong>&nbsp;6785 9790</p><p><strong>Mondays - Fridays: 8:00 am - 4:00 pm</strong></p><p>For other matters, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.&nbsp;When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p><p><strong>Non-School Operating Hours</strong></p><p>Students can only contact the&nbsp;<strong>SLS Helpdesk</strong>&nbsp;outside the school operating hours.</p><p>SLS Helpdesk: 6702 6513</p><p>Mondays - Fridays: 4:00 pm - 9:00 pm</p><p>Saturdays: 9:00 am - 9:00 pm</p><p>*Closed on Sundays &amp; Public Holidays</p><p><strong>Alternatively,</strong>&nbsp;the following are whom you can contact for support:</p><p>(a) Form Teacher and Subject Teacher </p><p>(b) SLS Helpdesk : 6702 6513 ; <a href="helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a></p><p>iMTL Helpdesk : 68488900 ;&nbsp;<a href="mailto:helpdesk@mall-imtl.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@mall-imtl.moe.edu.sg</a></p><p>(c) Student self help resource page during this HBL period can be found&nbsp;<a href="http://go.gov.sg/ccsshbl" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><p>Changkat Changi Secondary School HBL Management Team</p>
+<h2>Key Information</h2>
+<p>Dear Parents/Guardians,</p>
+<p>HBL lesson instructions via lesson guides for all classes can be found
+in the following class links.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5-b1jmr3wR7PZN17tNWAP4S4_Xs-2HcaNXh1Aj2Pl2cc1c3tG0xUvCLFGTATIPXRW43ZsSAxYZu0z/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G1</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_qvenCR2vFREc009ecxCVldgWFRVgfCbWDMH9i6XGnT1-hsvdj0E7wPV1ZeoV3K23M0bl71J3fV_0/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G2</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsgSAVxFqSR8-tOdeW-Drs037DF8HcwXs738IUuH0zUWScwPskAPYgYXqepKOmKvpUZbMKLgOM2JAs/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 G3</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXhUO801lqf16FsVvMJ3IKYdQBSHN-zeOiLs4Ql9mph4nX9B688o5FKF1hLSO3rKzRVXvq0JyOd-FO/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G1</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGIgNN_n7KHdusFEuj4adwwQz_s3cxuzOpP5e5oc8ALRi_5lptCVkEY4NDOyo9C1v6bdKKzsQz11V_/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G2</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_z6OiZHi5x_0XGfNp9uEexTh_WHvd1NzLzWl7l3AP_GJaiMmTfZlxJn-jZeJ78QT862B0pShkPaLK/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G3</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-xVyBeHNiBptFcIXqhwPFudhPGSZ5QBHW2kBh39GkJjyAaqWAl5S1ppIMDQoxP1U2E4fpRG52Pjpu/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3A</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0nnBzwtfaHlIyG9Nsejpa9Z4G06A8Flxhai4oAjHUVxQ3E7CuYuqmDpWuru8FbspO--dPUOL_ye_e/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3B</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNU2XpgCsaOL8FQUU8X5sPT5Z2aNCBBdNmPYS37LCTX5i-ecUW5uMbmsa3SuaUsdRj9Q99YcvJsGHy/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3C</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSl-J7IPgqpHhpCEuSBHXfJwCcMq6pib49xI-0qxyk3oXbblDlKXBwenqafsad0FWOiH139Cevo0xp4/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3D</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQD2kcMpxz874cn8sXzwdsKeyVAB2fuk3R9alWZ7sD8ekRO8D2RxJ-OZDlKKicSemYDM67IeSD-OV63/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3E</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS387VIGRUz0LpSl7axmqgRnbnQPRB0L9PjgOFqkuXA6sjjr_kxNC8z0Mjbj69-uEf4WRJm7rSC5-aA/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3F</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLDHT_xuPz3Y9NxMqafxeFMKVlgDMseZ9Fl7sreP2c2MWHck8Ojx4fJ1GhN3LyaFwAafXti66799pT/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3G</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWeBw2G0uWDIi9aUeJWZ9KcNF6EBxaA3FR9jWtOd3vDbIYIhGDt4xxThLpYAv9I0ob2ly2ypfSrQjn/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>3H</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLZ6rH-VHYRTDkTrgVBg_4JPDsuOqt56FnO3eOteWbPQUJL5mAjSjB2Cb8CAFD4nmmNzJDvbINlNqA/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4A</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTBxTEYBn4Cw8S810rYeBVByF-1rpGY3PHndO4GTm-O3jokeI5MHB8EoAmoeJgvX11zb5E2tRRMyXTj/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4B</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQsHWNNLB4sqvlhRVyaap532wmMpxamLzAH4erG3l4A0CugfTmBVPYSdpWZ986Q7S0ZqEgDL_kCd5p3/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4C</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQjZUeMGZ74JgexvU9_t6ozjbE6YM4C7WcJTTNdppHaG9l_1uo5UkzYD3BPdUJJUc6wJqGePI7LgecK/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4D</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6AEvo3cA97_FF9TTJNyoqw9E9FVneAyCi0Y2XK8Zrd-e0utbxm9-kJYlQsoEWKG7t-9nW3t-xUpvb/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4E</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7uOSZs4yBh6t-Mjlaqgp7-LvDIEKjTRX3aBkUI5mYOSYxI4D-lYvfC52y6csDVG75JXjhT_I1qivd/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4F</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXbaxwMlgSmnPlZArksWiUpE2q70iIi38yi3Gc0Sx3ymNY1LsouDg99cgnxslZzQQV_ViWRqu0WwSK/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>4G</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnBQzQlkdU0hVQTFPjYY8uyC75O3nwxL8042JRy4anCjEorGS_gpS5lBVzlmL1P19qNynF45NuJDwC/pubhtml" rel="noopener nofollow" target="_blank">4H</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vReqNZbwAy6QpcX-gYk4YvXUXjKgyaQJYMlQdGY7mHOMQRHMCgn7KYEchv10QDDHuwQ-_XBTO5gRJBQ/pubhtml" rel="noopener noreferrer nofollow" target="_blank"><u>5A</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Form teachers will be checking the attendance with students at 0800 on
+HBL days.</p>
+<p><strong>CCA Online Sessions</strong>
+</p>
+<p>The detailed information on the e-CCA sessions can be found in the link
+here. Zoom details will be provided to your child/ward by the respective
+CCA teachers.</p>
+<p>The&nbsp;<a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore StudentLearning Space (SLS)</a>&nbsp;will
+be one of the few platforms to support schools in their home-based learning
+(HBL) measures. Instructions for home based lessons will be provided on
+the platform.</p>
+<p>A key student self help resource during this HBL period can be found&nbsp;
+<a href="http://go.gov.sg/ccsshbl" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>In case your child/ward encounters issue accessing SLS, please follow
+the steps shown in the SLS recovery poster below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hbl%20help.jpeg">
+</div>
+<h2>SLS Support for Home-based Learning</h2>
+<p>During school operating hours, students should contact the&nbsp;<strong>School-based Helpline</strong>&nbsp;for
+SLS queries including all SLS access matters such as password reset and
+unlocking of accounts, as well as queries about lesson assignments.</p>
+<p><strong>School-based Helpline:</strong>&nbsp;6785 9790</p>
+<p><strong>Mondays - Fridays: 8:00 am - 4:00 pm</strong>
+</p>
+<p>For other matters, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.&nbsp;When
+emailing the SLS Helpdesk, they should include their full name, name of
+school and form class.</p>
+<p><strong>Non-School Operating Hours</strong>
+</p>
+<p>Students can only contact the&nbsp;<strong>SLS Helpdesk</strong>&nbsp;outside
+the school operating hours.</p>
+<p>SLS Helpdesk: 6702 6513</p>
+<p>Mondays - Fridays: 4:00 pm - 9:00 pm</p>
+<p>Saturdays: 9:00 am - 9:00 pm</p>
+<p>*Closed on Sundays &amp; Public Holidays</p>
+<p><strong>Alternatively,</strong>&nbsp;the following are whom you can contact
+for support:</p>
+<p>(a) Form Teacher and Subject Teacher</p>
+<p>(b) SLS Helpdesk : 6702 6513 ; <a href="helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>
+</p>
+<p>iMTL Helpdesk : 68488900 ;&nbsp;<a href="mailto:helpdesk@mall-imtl.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">helpdesk@mall-imtl.moe.edu.sg</a>
+</p>
+<p>(c) Student self help resource page during this HBL period can be found&nbsp;
+<a href="http://go.gov.sg/ccsshbl" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Changkat Changi Secondary School HBL Management Team</p>
