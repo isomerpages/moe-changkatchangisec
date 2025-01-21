@@ -125,7 +125,6 @@ Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Changkat Changi Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
 <p></p>
-<p></p>
 <h4>INFORMATION FOR PARENTS</h4>
 <p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
 supplementary sexuality education programmes by MOE-approved external providers.</p>
