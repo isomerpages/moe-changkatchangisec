@@ -87,19 +87,29 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 <p><strong>Secondary One</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/sec_1.jpg">
+</div>
 <p><strong>Secondary Two</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/sec_2.jpg">
+</div>
 <p><strong>Secondary Three</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/sec_3.jpg">
+</div>
 <p><strong>Secondary Four</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/sec_4.jpg">
+</div>
 <p><strong>Secondary Five</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/sec_5.jpg">
+</div>
 <h4><em>eTeens</em> Programme:</h4>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in
 collaboration with the Ministry of Education, to provide Secondary 3 students
