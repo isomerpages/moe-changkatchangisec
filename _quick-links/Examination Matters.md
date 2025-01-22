@@ -24,7 +24,7 @@ variant: tiptap
 <p>Sec 1 to 4/5N Weighted Assessment 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 February 2024 to 1 March 2024</p>
+<p>10 February 2025 to 7 March 2025</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>Sec 1 to 3 Weighted Assessment 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 April 2024 to 10 May 2024</p>
+<p>21 April 2025 to 16 May 2025</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Sec 4E/5N MT Prelim Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 May 2024</p>
+<p>8 May 2025</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Sec 1 to 3 Weighted Assessment 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 July 2024 to 23 August 2024</p>
+<p>28 July 2025 to 22 August 2025</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>Sec 1 to 3 End-of-Year Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 September to 4 October 2024</p>
+<p>29 September to 8 October 2025</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>Sec 4N Preliminary Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 July to 6 August 2024</p>
+<p>28 July to 4 August 2025</p>
 </td>
 </tr>
 <tr>
@@ -72,8 +72,8 @@ variant: tiptap
 <p>Sec 4E/5N Preliminary Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 August 2024
-<br>19 August 2024 to 28 August 2024</p>
+<p>21 August 2025
+<br>25 August 2025 to 3 September 2025</p>
 </td>
 </tr>
 </tbody>
@@ -81,10 +81,10 @@ variant: tiptap
 <h1>Topics for WA and Exam</h1>
 <p>Respective subject teachers will inform students of any change in the
 topic tested.</p>
-<p><a href="/files/Exam matters/Topics_To_be_tested_for_Weighted_Assessments___Sec1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-<br><a href="/files/Exam matters/Topics_To_be_tested_for_Weighted_Assessments_updated___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
-<br><a href="/files/Exam matters/Topics_To_be_tested_for_Weighted_Assessments___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a> 
-<br><a href="/files/Exam matters/Sec_4_5_Topics_tested_for_WA_and_exams_a220224.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a>
+<p><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<br><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<br><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a> 
+<br><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_4___5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a>
 </p>
 <p></p>
 <h1>National Examination Matters</h1>
