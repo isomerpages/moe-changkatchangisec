@@ -13,7 +13,7 @@ The scholarship is aimed at motivating deserving Changkateers and recognising t
 
 ##### **1.Eligibility Criteria for the SOAR ALP Scholarship**
 
-Any Secondary 1-3, or 4NA CCSS student who fulfils the criteria and is shortlisted by the Interview panel following the EOY SA2 Exams.
+Any Secondary 2-5 CCSS student who fulfils the criteria and is shortlisted by the Interview panel.
 
 3 scholarships will be awarded in the following academic year during Speech Day, to one student who would have progressed to Secondary 2, Secondary 3 and Secondary 4/5 respectively.
 
