@@ -15,7 +15,7 @@ variant: markdown
 | HOD ICT     | Mr Tan Teck Tang Glen    | 
 | HOD CCE, Year Head     | Mdm Mufeedah Bte Senin     | 
 | Assistant Year Head     | Mr Quek Ming Yeow     |
-| SH Student Leadership     | Ms Sim Lin Ping Salome    |
+| SH Student Leadership (Covering)    | Ms Sim Lin Ping Salome    |
 | ST Principle of Accounts     | Ms Tay Ai Li Aileen    |
 | ST Mathematics     | Ms Huang Yaling     | 
 | Teacher     | Mdm Habsa Bte Sulaiman    | 
