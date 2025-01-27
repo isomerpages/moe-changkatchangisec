@@ -82,7 +82,7 @@ variant: tiptap
 <p>Respective subject teachers will inform students of any change in the
 topic tested.</p>
 <p><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-<br><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<br><a href="/files/Exam matters/27_1_25_2025_CCSS_Assesment_Topics___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 <br><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a> 
 <br><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_4___5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a>
 </p>
