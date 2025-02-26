@@ -29,6 +29,7 @@ Mr Rishvinder Singh
 <br>Ms Wang Xiao Hui
 <br>Ms Kim Huang Jinjin
 <br>Mr Siddiq Suleiman
+<br>Mr Tay Yong Wei Kevin
 <br>**Lab technicians:**
 <br>Ms Fadilah (TSO)  
 Ms Nabilah (TSO)  
@@ -104,4 +105,3 @@ The Science department also leads in developing knowledge and skills of applied 
 
 ![](/images/Academic%20Dept/3.png)
 <center>Our Science TDP students in action</center>
-
