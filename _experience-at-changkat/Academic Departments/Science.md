@@ -51,6 +51,29 @@ The Science department aims to inspire Changkateers to learn with passion and be
   
 **Achievements:**  
  
+ **2024:**
+ 
+Temasek Engineering Olympiad 2024
+* 1 Certificate of Commendation
+* 1 Bronze Medal
+
+Singapore Junior Chemistry Olympiad
+* 1 Bronze Award
+
+Singapore Physic League
+* 3 Silver Medal
+
+Singapore Junior Biology Olympiad
+* 2 Bronze Medal
+
+SIT-VJC Project INSPiRE 2024
+* Top 4
+
+UNSW Global Assessment
+* 4 Credit
+* 1 Merit
+ 
+ 
 **2023:**
 
 C.B Paul Memorial Quiz
