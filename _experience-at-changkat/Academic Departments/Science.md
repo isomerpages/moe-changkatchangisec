@@ -29,6 +29,7 @@ Mr Rishvinder Singh
 <br>Ms Wang Xiao Hui
 <br>Ms Kim Huang Jinjin
 <br>Mr Siddiq Suleiman
+<br>Mr Tay Yong Wei Kevin
 <br>**Lab technicians:**
 <br>Ms Fadilah (TSO)  
 Ms Nabilah (TSO)  
@@ -49,6 +50,29 @@ The Science department aims to inspire Changkateers to learn with passion and be
 
   
 **Achievements:**  
+ 
+ **2024:**
+ 
+Temasek Engineering Olympiad 2024
+* 1 Certificate of Commendation
+* 1 Bronze Medal
+
+Singapore Junior Chemistry Olympiad
+* 1 Bronze Award
+
+Singapore Physic League
+* 3 Silver Medal
+
+Singapore Junior Biology Olympiad
+* 2 Bronze Medal
+
+SIT-VJC Project INSPiRE 2024
+* Top 4
+
+UNSW Global Assessment
+* 4 Credit
+* 1 Merit
+ 
  
 **2023:**
 
@@ -104,4 +128,3 @@ The Science department also leads in developing knowledge and skills of applied 
 
 ![](/images/Academic%20Dept/3.png)
 <center>Our Science TDP students in action</center>
-

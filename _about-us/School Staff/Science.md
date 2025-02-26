@@ -26,3 +26,4 @@ variant: markdown
 | Teacher     | Ms Wang Xiao Hui     |
 | Teacher     | Ms Kim Huang Jinjin    |
 | Teacher     | Mr Siddiq Suleiman    |
+| Teacher     | Mr Tay Yong Wei Kevin    |
