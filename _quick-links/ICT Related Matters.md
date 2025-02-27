@@ -20,8 +20,9 @@ Themes for Changkateers
 *   Sec 3 : Cyber Relationships
 *   Sec 4 / 5: Cyber Citizenship
 
-**2\. Code For Fun Programme for Secondary 1 Cohort**
+**2a\. Code For Fun Programme for Secondary 1 Cohort**
  
+ **2b\. AI For Fun Programme for Secondary 2 Cohort**
  
 **3\. Interest Based Workshops for all**
   *   Coding @ Changkat: Supported by AMD
@@ -39,13 +40,12 @@ Themes for Changkateers
   
 
 *   Mr. Wan Bing Khiang (2 I/C)
-*   Ms. Nuraini Bte Abu Bakar
 *   Ms. Goh Ying Hsuan  
-    
 *   Mr. Lee Chin Teck
 *   Mdm. Siti Zubaidah Bte Ismail
 *   Ms. Lau Li Wei, Jenny
 *   Ms. Nuriahtu Farhati Mohamed Ali
 *   Mr. Quek Ming Yeow 
 *   Mr. Wong Khay Onn
-*   Mr. Dzulkarnaen Bin Hamdi
+*   Mr. Wee Hui Siang
+*   Ms. Izza Binti Idris
