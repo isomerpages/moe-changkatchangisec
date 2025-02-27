@@ -90,18 +90,18 @@ topic tested.</p>
 <h1>National Examination Matters</h1>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/exam-rules-and-regulations/2024-gce-no-exams-rules_regulations_finalf7bad7fd-27ad-4b48-a1e8-b91f3e4bb81f.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Examination Rules &amp; Regulations for Candidates</a>
+<p><a href="https://file.go.gov.sg/registration-information-for-gce-nao-level-school-candidates.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Examination Rules &amp; Regulations for Candidates</a>
 </p>
 </li>
 </ol>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/home/examinations/gce-o-level" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Examinations Information (Link to SEAB website)</a>
+<p><a href="https://www.seab.gov.sg/gce-o-level/school-candidates/" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Examinations Information (Link to SEAB website)</a>
 </p>
 <p></p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/home/examinations/gce-n(a)-level" rel="noopener noreferrer nofollow" target="_blank">GCE N level Examinations Information (Link to SEAB Website)</a>
+<p><a href="https://www.seab.gov.sg/gce-na-level/school-candidates/" rel="noopener noreferrer nofollow" target="_blank">GCE N level Examinations Information (Link to SEAB Website)</a>
 </p>
 </li>
 </ol>
