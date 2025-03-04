@@ -17,6 +17,7 @@ variant: markdown
 <br>Ms Ling Geok Keng  
 Ms Ng Shiru  
 Mdm Joyce Ng   
+Ms Grace Lee Yuan Ping
 <br>Mr Hong Kam Kheun  
 Dr Jessica Seah Mei Ying  
 Ms&nbsp;Daphne Khoo Rui Yun  
