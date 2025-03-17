@@ -3,38 +3,160 @@ title: Singapore Youth Flying Club
 permalink: /co-curricular-activities/Clubs/Singapore-Youth-Flying-Club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rVCEDihkx2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Teacher in Charge:
-  
-
-*   **Mrs Joyce Leung (IC)**
-*   Ms Ng Shiru (2 I/C)
-*   Mr Rishvinder
-
-###   Training time & venue:
-
-Tuesdays, 1530 - 1800 (ALP Room & Computer Lab 1)  
-Selected Thursday, 1530 - 1800 (ALP Room & Computer Lab 1)
-  
-
-### CCA Objectives
-
-
-*   To promote aviation and fuel their strong passion for flying in Changkateers
-*   To nurture Self-Directed Learners who are critical and inventive thinkers
-*   To develop Confident Persons who will pursue their dreams
-
-###   Key programmes
-
-
-*   Flight Simulation Training (X Plane 11)
-*   Designing, Building and Testing of Unpowered Glider Models
-*   Designing, Building and Testing of Radio Controlled Models
-*   Participation in Singapore Amazing Flying Machine Competition (SAFMC)
-*   Participation in Drone Odyssey Challenge (DOC)
-
-  
-
-### CCA Achievements
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYFC/syfc1.png">
+</div>
+<h3>Teacher in Charge:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mrs Joyce Leung (IC)</strong>
+</p>
+</li>
+<li>
+<p>Mr Rishvinder Singh (2IC)</p>
+</li>
+<li>
+<p>Mrs Beatrice Te</p>
+</li>
+<li>
+<p>Ms Cheryl Cheong</p>
+</li>
+<li>
+<p>Mr Hong Kam Kheun</p>
+</li>
+</ul>
+<h3>Training time &amp; venue:</h3>
+<p>Tuesdays, 1530 - 1800 (ALP Room &amp; Computer Lab 1)
+<br>Thursday, 1530 - 1800 (ALP Room &amp; Computer Lab 1)</p>
+<h3>CCA Objectives</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To promote aviation and fuel their strong passion for flying in Changkateers</p>
+</li>
+<li>
+<p>To nurture Self-Directed Learners who are critical and inventive thinkers</p>
+</li>
+<li>
+<p>To develop Confident Persons who will pursue their dreams</p>
+</li>
+<li>
+<p>To mould effective communicators through opportunities to guide junior
+members during CCA sessions and in competition presentations</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYFC/syfc2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYFC/syfc3.jpg">
+</div>
+<h3>Key programmes</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Flight Simulation Training (X Plane 11)</p>
+</li>
+<li>
+<p>Designing, Building and Testing of Unpowered Glider Models</p>
+</li>
+<li>
+<p>Flying of Control Line Model Aircraft</p>
+</li>
+<li>
+<p>Drone Soccer</p>
+</li>
+<li>
+<p>Drone Swarming and Programming</p>
+</li>
+<li>
+<p>Participation in Singapore Amazing Flying Machine Competition (SAFMC)</p>
+</li>
+<li>
+<p>Participation in Drone Odyssey Challenge (DOC)</p>
+</li>
+<li>
+<p>Participation in SYFC Inter-School Aeromodelling Competition</p>
+</li>
+<li>
+<p>Learning Journeys to STEM Industries and Institutes of Higher Learning</p>
+</li>
+<li>
+<p>Additional STEM-related activities (Stargazing, Beta-Testing of Smart
+Nation PlayScape)</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYFC/syfc4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYFC/syfc5.jpg">
+</div>
+<h3>CCA Achievements</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYFC CCA Excellence Award 2025&nbsp;</p>
+</li>
+<li>
+<p>Drone Odyssey Challenge 2024 Category C1 Drone Swarming</p>
+<p>Best Presentation Award - 1<sup>st</sup> Place</p>
+<p>Best Knowledge Award – 3<sup>rd</sup> Place</p>
+</li>
+<li>
+<p>SYFC Inter-School Aeromodelling Competition 2023 Control Line Category</p>
+<p>Champion, 1<sup>st</sup> Runner-Up and 2<sup>nd</sup> Runner-Up</p>
+</li>
+<li>
+<p>&nbsp;Singapore Amazing Flying Machine Competition 2022 Cat B Unpowered
+Glider</p>
+<p>2<sup>nd</sup> Place for Best Presentation</p>
+<p>3<sup>rd</sup> Place for Most Creative and Aesthetic Award</p>
+</li>
+<li>
+<p>&nbsp;SYFC members who attend the SWIFT (SYFC Work-up and Introduction
+to Flight Training) course have consistently been ranked among the top
+four in the course.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYFC/syfc6.jpg">
+</div>
+<h3>Collaborate with Partners</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rolls-Royce:</p>
+<p>SYFC students were given the opportunity to be Rolls-Royce Ambassadors
+at the Singapore Airshow.</p>
+</li>
+<li>
+<p>Temasek Polytechnic (TP)</p>
+</li>
+<li>
+<p>Heart of Aviation Workshop to expose students to Aviation courses in TP.</p>
+</li>
+<li>
+<p>Victoria School</p>
+<p>Yearly inter-school collaboration for our Fly High Carnival, aimed at
+exposing primary school students to aviation.</p>
+</li>
+<li>
+<p>Changkat Primary School</p>
+<p>Opportunities for SYFC members to share their passion for aviation with
+primary school students.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYFC/syfc7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYFC/syfc8.jpg">
+</div>
+<p></p>
