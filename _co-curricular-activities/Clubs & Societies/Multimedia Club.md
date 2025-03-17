@@ -76,3 +76,24 @@ equipping them with valuable skills for the future.</p>
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="SDMA 2024 Winner Anjana Selva Kumar" src="/images/CCA/MMC/SDMA_2024_Winner_Anjana_Selva_Kumar_.jpg">
+</div>
+<p>SDMA 2024 Winner Anjana Selva Kumar</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MMC/01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MMC/02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MMC/03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MMC/04.jpg">
+</div>
+<p></p>
