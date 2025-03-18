@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/19jFNyUFjq8?si=j0rtxx4_FfJiRKTs"></iframe>
-</div>
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
 <li>
