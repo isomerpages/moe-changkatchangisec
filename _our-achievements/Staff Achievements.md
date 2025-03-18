@@ -272,7 +272,5 @@ Perema&nbsp;and Ms Angeline Sim&nbsp;for their achievements and contributions!</
 <div class="isomer-image-wrapper">
 <img style="width:33%;float:left" height="auto" width="100%" src="/images/Mdm%20Perema%20D_O%20Ramasamy.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:33%" height="auto" width="100%" src="/images/ANGELINE%20NEO.jpeg">
-</div>
+<p></p>
 <p></p>
