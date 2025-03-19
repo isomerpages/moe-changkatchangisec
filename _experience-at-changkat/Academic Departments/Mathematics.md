@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
-<p><strong>Head of Department:</strong>&nbsp;Mr Ho Beng Khiaw</p>
-<p><strong>Level Head:</strong>&nbsp;Mr Poh Wei En</p>
+<p><strong>Head of Department:</strong>&nbsp;Mr Poh Wei En (Covering)</p>
+<p><strong>Level Head:</strong>&nbsp;Ms Lau Le Wei Jenny (Covering)</p>
 <p><strong>Maths Teachers:</strong>
-<br>Ms Debi Lim
+<br>Mr Ho Beng Khiaw
 <br>Mr Glen Tan
 <br>Ms Huang Yaling
 <br>Mdm Habsa Sulaiman
@@ -19,91 +19,178 @@ variant: tiptap
 <br>Mrs Peh Siew Yin
 <br>Mr Quek Ming Yeow
 <br>Mr Tan Tze Siong
-<br>Mr Lim Pia Leong
 <br>Ms Sim Lin Ping Salome
 <br>Mr Bryan Zhishan Yong
-<br>Mr Rishvinder Singh
+<br>Mr Lee Wei Hao Kevan
 <br><strong>POA&nbsp;Teachers:</strong>&nbsp;
 <br>Mrs Aileen Kor
-<br>Ms Geraldine Koon</p>
-<p>The Mathematics department aims to develop students into effective problem-solvers
-who are resilient and possess a love for learning.&nbsp; Through the use
-of a range of pedagogical tools and strategies, teachers seek to bring
-about engaged learning in the subjects.</p>
+<br>Ms Geraldine Koon
+<br>Mr Tang Chee Wah</p>
+<p></p>
+<p><strong>Our Vision and Approach</strong>
+</p>
+<p>We believe that&nbsp;<strong>every Changkateer</strong>&nbsp;can be a&nbsp;<strong>confident and creative problem-solver.</strong>&nbsp;We're
+committed to helping students understand how mathematics goes beyond numbers,
+connecting them with the skills they need for life.</p>
+<p>With a forward-thinking curriculum based on the&nbsp;<strong>Singapore Mathematics Framework&nbsp;</strong>and
+key Big Ideas in Mathematics we foster&nbsp;<strong>Critical, Adaptive, and Inventive (CAIT)</strong>,
+ensuring students are&nbsp;<strong>prepared for real-world challenges.</strong>&nbsp;Our
+programmes are designed to develop<strong>&nbsp;self-directed learners, critical thinkers, and collaborators.</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/Maths/Singapore_s_Mathematics_Framework.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/Maths/21CC_.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Real-World Applications</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Big Ideas of Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Information and Communications Technology (ICT) and Gamification</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics might seem abstract, but it’s everywhere! From exposure to
+Maths in Financial Sector to managing your personal finances, mathematics
+play a key role in our everyday tasks. Our teaching focuses on turning
+complex mathematical ideas into hands-on learning experiences that show
+students how mathematics can power the world.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We emphasize <strong>Big Ideas</strong> like <strong>Equivalence, Proportionality</strong> and <strong>Functions</strong>,
+which show students how different concepts are connected. Through relatable
+examples, we make math relevant and exciting.Our commitment <strong>to ICT and Gamification</strong> ensures
+lessons are interactive and engaging, incorporating both e-pedagogy and
+technology-driven strategies, in line with our department’s vision to foster <strong>Joy of Learning</strong> in
+the Mathematics Classroom.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our commitment <strong>to ICT and Gamification</strong> ensures lessons
+are interactive and engaging, incorporating both e-pedagogy and technology-driven
+strategies, in line with our department’s vision to foster <strong>Joy of Learning</strong> in
+the Mathematics Classroom.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Key Programmes:</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Student-focused programmes</strong>
+<p><strong>Supporting Every Learner</strong>
 </p>
-</li>
-</ol>
-<ul>
-<li>
-<p><strong>Australian Math Competition (Sec 1-3)</strong>
-<br>We continued with the annual Australian Mathematics Competition this year.
-In-house training by our very own teachers was conducted to prepare our
-students for the competition.&nbsp;</p>
-</li>
-<li>
-<p><strong>e-Mathematics Week (All Levels &amp; Streams)</strong>
-<br>In view of COVID-19, this annual event was moved online. There were interesting
-activities spread over 4 days that not only sustained the usual enthusiasm
-of past years, but garnered wider participation.</p>
-</li>
-</ul>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Teacher-focused programmes</strong>
+<p>We are dedicated to supporting our students in their learning journey,
+as we aim to make mathematics accessible and enjoyable for every student.</p>
+<p><strong>Recognition and Awards</strong>&nbsp;– Top 3 students in each
+class of the Term. To celebrate and recognise students who demonstrate&nbsp;<strong>self-directedness and resilience&nbsp;</strong>in
+their learning with academic excellence for mathematics.</p>
+<p><strong>&nbsp;</strong>
 </p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Professional Learning Teams (PLT)</strong>
-<br>The project this year focused on TPACK – a framework that integrates technological,
-pedagogical and content knowledge to design active learning experience
-with technology.</p>
-</li>
-</ul>
-<p><strong>Achievements in the Australian Mathematics Competition 2020:</strong>
+<p><strong>Fostering Talent and Critical Thinking</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1 High Distinction&nbsp;</p>
-</li>
-<li>
-<p>4 Distinctions</p>
-</li>
-<li>
-<p>9 Credits</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo3.jpeg">
-</div>
+<p>Our Talent Development Programme (TDP) is designed to nurture students
+with advanced mathematical skills and to develop them into confident problem-solvers
+who are ready to meet the demands of the future. These students are introduced
+to how Mathematics is used in careers in financial sector such as Scor.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/Maths/Scor_Learning_Journey.jpg">
 </div>
-<p></p>
+<p>These programmes create opportunities for students to appreciate mathematics
+and developing them into&nbsp;<strong>Critical, Adaptive, and Inventive Thinkers.</strong>
+</p>
+<p><strong>Competitions and Recognition</strong>
+</p>
+<p>We pride ourselves on nurturing not only academic excellence but also
+innovation and problem-solving. Our students are given opportunities to
+participate in various mathematics and coding challenges, earning commendations
+and awards in both national and international platforms.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Australian Maths Competition</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Distinction, 14 Credits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Maths Kangaroo Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 4 Bronze, 2 Honourable Mention</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Looking Ahead: 2025 and Beyond</strong>
+</p>
+<p>Our 2025 workplan highlights our commitment to&nbsp;<strong>building confident communicators</strong>&nbsp;and&nbsp;<strong>critical thinkers.</strong>&nbsp;Integrating
+opportunities for students to apply Computational Thinking (CT) in Mathematics
+helps develop their critical thinking, problem-solving, and digital literacy
+skills—key competencies that computational thinking supports.</p>
+<p>Students are also introduced to problems with real-life context via Problems
+in Real World Context (<strong>PRWC</strong>) questions in examinations,
+which challenge students to apply their higher-order thinking skills to
+solve real-world Problems, further emphasizing our goal of nurturing and
+developing creative problem-solvers.</p>
+<p>At the Mathematics Department, we believe in preparing students not just
+for examinations, but for life.</p>
+<p><strong>Our Dynamic Mathematics Teachers</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo/MATHS_DEPARTMENT_2812_FORMAL.jpg">
 </div>
+<p>Have a question in Math related matters? Do not hesitate to email any
+one of the Mathematics teachers or call the school at 67859790 during office
+hours.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo4.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo5.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/POA%20Learning%20Journey%20-%201.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/POA%20Learning%20Journey%20-%203.jpeg">
-</div>
-<p>POA Learning Journey</p>
+<p></p>
+<p></p>
