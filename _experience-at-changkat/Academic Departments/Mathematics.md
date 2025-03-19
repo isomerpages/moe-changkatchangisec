@@ -13,7 +13,6 @@ variant: tiptap
 <br>Ms Huang Yaling
 <br>Mdm Habsa Sulaiman
 <br>Mr Kelvin Yap
-<br>Ms Lau Li Wei Jenny
 <br>Mdm Mufeedah Senin
 <br>Ms Ong Hui Yan
 <br>Mrs Peh Siew Yin
