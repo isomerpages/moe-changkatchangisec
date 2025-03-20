@@ -156,12 +156,12 @@ between school and family.</p>
 <p>Health Promotion Board - Healthy Food, Happier Children</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/hpb001_25.pdf" rel="noopener nofollow" target="_blank">HPB HMFC Booklet_12Jan_School_Non-Ethnicity(30March)</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h2><strong>Health Promotion Board - Healthy Food, Happier Children</strong></h2>
-<p><strong>For more info Click&nbsp;<a href="/files/hpb001.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
-</p>
+<h2></h2>
+<p></p>
