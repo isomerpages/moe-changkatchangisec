@@ -115,7 +115,7 @@ or ITE.</p>
 <p>Institute of Technical Education (ITE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/admissions/full-time-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses</a> 
+<p><a href="https://www.ite.edu.sg/admissions/full-time-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +127,7 @@ or ITE.</p>
 <p>Course Booklet 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/admissions/full-time-courses   https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf</a> &nbsp;&nbsp;</p>
+<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf</a> &nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courses available at ITE</p>
