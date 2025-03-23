@@ -91,7 +91,7 @@ variant: markdown
 			<p>This form will take you around 5 minutes to complete. Please complete the registration form between&nbsp;**23 December 2021 to 7 January 2022, 12 pm**.</p>
 			<img src="/images/qrcode.jpeg" style="width:50%">
 			<p>Textbooks will be available for sale in our school bookshop from January onwards.</p>
-			<p>Contact details of school bookshop: 87648813, or visit its website&nbsp;<a href="https://ccss.chalamay.com/"></a>&nbsp;if you require information to order online.</p>
+			<p>Contact details of school bookshop: 87648813, or visit its website&nbsp;&nbsp;if you require information to order online.</p>
 </div>  
 </li>
 
