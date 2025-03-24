@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-g32zmszNQo"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-g32zmszNQo?si=djX6fa_5cTOJtrFu"></iframe>
 </div>
 <h3>Teachers in Charge:</h3>
 <ul>
@@ -104,7 +104,7 @@ called upon, they must always be ready – To Serve With Pride and Dedication
 <p>Unit Cohesion Activity</p>
 </li>
 </ul>
-<h4> Special Events</h4>
+<h4>Special Events</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Unmanned Aerial Vehicle Command</p>
