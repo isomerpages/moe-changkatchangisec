@@ -3,54 +3,89 @@ title: Concert Band
 permalink: /co-curricular-activities/Performing-Arts/Concert-Band/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: tiptap
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ThXLTMav09E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
-
-### Teacher in Charge:
-
-  
-
-*   **Ms Aileen Tay (I/C)**
-*   Mr Sebastian Thng (2 I/C)
-*   Mr Timothy Yeo
-
-&nbsp;
-
-### Training time &amp; venue:
-
-Tuesday, 1530 - 1800 (CCS)  
-Thursday, 1530 - 1800 (CCS)
-
-&nbsp;
-
-### CCA Objectives
-
-  
-
-*   To nurture members to appreciate and play music
-*   To instill discipline, resilience and teamwork in members
-*   To build leadership skills
-
-###   Key Programmes:
-
-  
-
-*   Sectional and combined band practices
-*   Music theory lessons
-*   Once a month Games Day for bonding among members
-*   Opportunities to perform for schools performances such as Chinese New Year concert, and external performances
-*   Music exchanges with other schools to hone playing skills
-*   Music appreciation through attending concerts
-*   Bi-annual selling concert: Epiphany IV (to date)
-
-###   CCA Achievements
-
-  
-*   2017: Singapore Youth Festival: Certificate of Accomplishment
-*   2015: Singapore Youth Festival: Certificate of Accomplishment
-*   2013: Singapore Youth Festival: Certificate of Accomplishment
-*   2011: Bronze Award in Singapore Youth Festival Central Judging 2011
-*   2009: Silver Award in the 21st Century International Arts Festival (Concert Band)
-*   2009: Silver Award in Singapore Youth Festival Central Judging 2009
-
-![](/images/4-3.png)
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ThXLTMav09E"></iframe>
+</div>
+<h3>Teacher in Charge:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Ms Aileen Tay (I/C)</strong>
+</p>
+</li>
+<li>
+<p>Mr Sebastian Thng (2 I/C)</p>
+</li>
+<li>
+<p>Mr Timothy Yeo</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Training time &amp; venue:</h3>
+<p>Tuesday, 1530 - 1800 (CCS)
+<br>Thursday, 1530 - 1800 (CCS)</p>
+<p>&nbsp;</p>
+<h3>CCA Objectives</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To nurture members to appreciate and play music</p>
+</li>
+<li>
+<p>To instill discipline, resilience and teamwork in members</p>
+</li>
+<li>
+<p>To build leadership skills</p>
+</li>
+</ul>
+<h3>Key Programmes:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sectional and combined band practices</p>
+</li>
+<li>
+<p>Music theory lessons</p>
+</li>
+<li>
+<p>Once a month Games Day for bonding among members</p>
+</li>
+<li>
+<p>Opportunities to perform for schools performances such as Chinese New
+Year concert, and external performances</p>
+</li>
+<li>
+<p>Music exchanges with other schools to hone playing skills</p>
+</li>
+<li>
+<p>Music appreciation through attending concerts</p>
+</li>
+<li>
+<p>Bi-annual selling concert: Epiphany IV (to date)</p>
+</li>
+</ul>
+<h3>CCA Achievements</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>2017: Singapore Youth Festival: Certificate of Accomplishment</p>
+</li>
+<li>
+<p>2015: Singapore Youth Festival: Certificate of Accomplishment</p>
+</li>
+<li>
+<p>2013: Singapore Youth Festival: Certificate of Accomplishment</p>
+</li>
+<li>
+<p>2011: Bronze Award in Singapore Youth Festival Central Judging 2011</p>
+</li>
+<li>
+<p>2009: Silver Award in the 21st Century International Arts Festival (Concert
+Band)</p>
+</li>
+<li>
+<p>2009: Silver Award in Singapore Youth Festival Central Judging 2009</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4-3.png">
+</div>
+<p></p>
