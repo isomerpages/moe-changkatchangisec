@@ -3,72 +3,156 @@ title: NCC (Air) Boys Unit
 permalink: /co-curricular-activities/Uniformed-Groups/NCC-Air-Boys-Unit/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-g32zmszNQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Teachers in Charge:
-
-  
-
-*   **Mr Ong Kian Beng (I/C)**  
-    
-*   Mr Mohamed Syafiq(2 I/C)
-*   Mr Wan Bing Khiang
-*   Mr Tristan Goh
-
-  
-
-### Training time & venue:
-
-Tuesday, 1530 - 1730 (CCA Room & Parade Square)  
-Thursday, 1530 - 1730 (CCA Room & Parade Square)  
-
- 
-
-### CCA Objectives
-
-  
-Established in 2003, the NCC (Air) Boys squadron aims to instill the NCC core values through the various enriching activities that our cadets embarked on.  
-  
-In the year 2018, Changkat Changi Secondary School NCC (Air) Boys squadron received the Gold Award for our performance in the Best Unit Competition (BUC) 2017. This is the testament our continuous hard work and strong engagement with our stakeholders in ensuring our cadets achieve their best. In the Freestyle Drill Competition 2017, we attained 4th position at the Air District level. At the inaugural NCC Fitness Challenge 2017, we achieved 3rd position at Air District level and 7th position at Grand Finals. In addition, two of our cadets achieved their personal best at NCC Air Competition 2017 by attaining 1st Runner Up for their respective category. Lastly, in the NCC Orienteering Competition 2017, we accomplished 1st Runner Up in our category.  
-  
-Various activities are organised for the cadets to be exposed to different aspects of the RSAF and the military. Some of the activities are RSAF Familiarisation Experience Programme (FEP) at the air bases, Aeromodelling programme, Proficiency Wing Courses, SAR 21 Live Firing, Camp FORGE, Camp STEEL and visit to Singapore Youth Flying Club (SYFC). We hope that through this experience, our cadets will develop soft skills such as leadership skills, communication and decision making skills, take up aviation related courses or pursue a career in the RSAF.  
-  
-As part of developing our cadets into an all-rounder individual, we also exposed our cadets to participate in push their physical and mental limits. Three of our cadets volunteered to participate in the marching contingent for Singapore National Day Parade 2017. Similarly, two of our cadets climbed Mount Ophir for the Exercise Puncak programme.  
-  
-Our training sessions are not limited to just working hard but also playing hard. Annually, we will have fun at our Unit Cohesion Day. In the year 2017, our cadets were engaged in the game called PoolBall as part of the Unit Cohesion activity. This is the time where cadets build trust, strengthen teamwork and camaraderie within the team.
-
-###   Key Programmes
-
-*   Aeromodelling training
-*   Advanced Drill Course
-*   Camp FORGE
-*   Camp STEEL
-*   Freestyle Drill Course
-*   Bronze/Silver/Gold Wing Course
-*   Air Affirmation Ceremony
-*   Orienteering
-*   International Cadet Exchange Programmes (ICEP)
-*   RSAF Flight Experience Programmes
-*   SAR 21 Rifle Shooting
-*   Senior Specialist Leaders Course
-*   1-star Kayaking
-*   Combined UG National Day Parade
-
-###   
-Achievements
-
-  
-
-*   4th position for Freestyle Drill Competition 2017 (Air District)
-*   3rd position for Fitness Challenge 2017 (Air District)
-*   7th position for Fitness Challenge 2017 (Grand Finals)
-*   1st Runner Up for Chuck Glider Category for Air Competition 2017
-*   1st Runner Up for Limbo Flying Category for Air Competition 2017
-*   1st Runner Up for NCC Orienteering Competition 2017 (Route 3)
-*   Unit Recognition Award - Distinction (2018)
-*   Best Unit Competition - Gold (2017)
-*   Best Unit Competition - Gold (2009, 2010, 2011, 2012, 2013)
-*   Best Unit Competition - Silver (2006, 2008, 2014, 2015, 2016)
-
-![](/images/3-2.png)
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-g32zmszNQo"></iframe>
+</div>
+<h3>Teachers in Charge:</h3>
+<ul>
+<li>
+<p><strong>Mr Ong Kian Beng (I/C)</strong>
+</p>
+</li>
+<li>
+<p>Mr Amrit Singh Gill (2I/C)</p>
+</li>
+<li>
+<p>Mr Tay Yong Wei, Kevin</p>
+</li>
+<li>
+<p>Mr Camillus Chua Jin Bao</p>
+</li>
+</ul>
+<h3>Training time &amp; venue:</h3>
+<p>Tuesday and Thursday 1530 hrs – 1730 hrs (NCC Air Room &amp; Parade Square)</p>
+<h3>CCA Objectives</h3>
+<p>Established in 2003, the Changkat Changi Secondary School NCC (Air) Boys
+squadron aims to instill in our students the NCC Core Values of Loyalty
+to Country, Discipline, Leadership, Uprightness, Commitment and Responsibility,
+Care for Fellow Cadets, Adventurous Spirit and Safety. Through the numerous
+programmes, activities and competitions, we hope to train students to become
+Cadet Strong, possessing a Resilient Mind, Fit Body and Committed Heart.
+In this way, we align with NCC in its Mission - To nurture inspiring leaders
+and committed citizens through fun, adventurous and military-related activities,
+and help to realise its Vision - Extraordinary Youth Leaders.</p>
+<p>In the last five years, NCC (Air) Boys have done consistently well in
+meeting all the requirements of the work-year. We received a Distinction
+for our unit performance in the Unit Recognition from 2020 to 2024. This
+is a testament to our continuous hard work in planning, organising and
+conducting training to interest and engage our cadets in NCC and ensuring
+our cadets do their best.</p>
+<p>Through their journey with NCC, cadets can expect to learn the values,
+skills and knowledge required of a soldier and get a glimpse of NS life.
+They will learn and be tested on their competencies in the NCC curriculum.
+They will also undergo physical training to improve their fitness in order
+to participate in competitions. To show their commitment to NCC, cadets
+will attend CCA regularly to complete all training and represent the school
+unit in competitions. They will also attend major events in school and
+special events at army camps. Cadets who perform well and have leadership
+potential will be sent for upgrading courses.</p>
+<p>We hope that in graduating with our NCC experience, our cadets will carry
+with them the requisite values, skills and knowledge into their Institute
+of Highter Learning. They may consider taking up courses in aerospace or
+aviation or pursue a career in the RSAF in future. Most importantly, when
+called upon, they must always be ready – To Serve With Pride and Dedication
+!</p>
+<h3>Key Programmes</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Total Defence – Bronze/Silver/Gold badge</p>
+</li>
+<li>
+<p>Proficiency Test and Specialist Assessment</p>
+</li>
+<li>
+<p>Air Affirmation, Camp FORGE and Camp STEEL</p>
+</li>
+<li>
+<p>Bronze/Silver/Gold Wing Course</p>
+</li>
+<li>
+<p>3-Station Fitness Test</p>
+</li>
+<li>
+<p>Air Rifle Shooting and SAR21 Indoor and Live Range</p>
+</li>
+<li>
+<p>Aeromodelling training</p>
+</li>
+</ul>
+<h4>Competitions</h4>
+<p>Freestyle Drill/Air/Sports Championships</p>
+<h4>Courses</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>CPR-AED, Basic Aeromodelling Proficiency, Freestyle Drill</p>
+</li>
+<li>
+<p>Advanced Drill, Senior Specialist Leadership</p>
+</li>
+</ul>
+<h4>Major Events</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>NCC Day Parade</p>
+</li>
+<li>
+<p>National Day Observance Ceremony</p>
+</li>
+<li>
+<p>Unit Cohesion Activity</p>
+</li>
+</ul>
+<h4> Special Events</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unmanned Aerial Vehicle Command</p>
+</li>
+<li>
+<p>Flight Experience Programme – F-50, C130, A330 MRTT aircraft</p>
+</li>
+<li>
+<p>RSAF Open House</p>
+</li>
+<li>
+<p>Army Open House</p>
+</li>
+</ul>
+<p></p>
+<h4>Achievements</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Recognition – Distinction for 2020 – 2024</p>
+</li>
+<li>
+<p>Champion for Air District (Cluster) Ultimate Frisbee Competition 2024</p>
+</li>
+<li>
+<p>Runner-Up for Air District (Final) Ultimate Frisbee Competition 2024</p>
+</li>
+<li>
+<p>Runner-Up for Paper Glider Category in Air Competition 2023</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC Air Boys/IMG_20230907_WA0011.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC Air Boys/WhatsApp_Image_2024_11_13_at_10_16_49_AM__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC Air Boys/WhatsApp_Image_2024_11_12_at_2_32_21_PM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC Air Boys/WhatsApp_Image_2024_11_12_at_1_28_49_PM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC Air Boys/20230622_121607.jpg">
+</div>
+<p></p>
