@@ -54,10 +54,25 @@ in various school events throughout the year. A highlight of our Secondary
 3 curriculum was an inter-class debate where students engaged in discourse
 on various topics related to the theme of Law and Justice.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/IMG_0335__1_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/IMG_0253__1_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/WhatsApp_Image_2024_06_28_at_5_38_39_PM__1_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/DSC05342.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/CAM20140.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
