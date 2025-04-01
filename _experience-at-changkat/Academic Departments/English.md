@@ -63,6 +63,10 @@ on various topics related to the theme of Law and Justice.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/20230509_111703.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/WhatsApp_Image_2024_06_28_at_5_38_39_PM__1_.jpg">
 </div>
 <p></p>
