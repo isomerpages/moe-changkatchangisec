@@ -51,21 +51,21 @@ Author-in-Residence Programme&nbsp;</p>
 <p><strong>Achievements in 2020:</strong>
 </p>
 <p>Chinese Language</p>
-<p>The 3rd Singapore Primary and Secondary School Text Recital Competition</p>
-<p>- Gold Award and overall 3rd</p>
-<p>3rd Nanyang Chinese Youth Literary Awards 2020</p>
-<p>- Outstanding Award</p>
+<p>The 3rd Singapore Primary and Secondary School Text Recital Competition
+<br>- Gold Award and overall 3rd</p>
+<p>3rd Nanyang Chinese Youth Literary Awards 2020
+<br>- Outstanding Award</p>
 <p>Malay Language</p>
-<p>Pena Emasku (ML Composition Writing Competition)</p>
-<p>- 4 GOLD Awards</p>
-<p>89.7FM RIA Skoolz student DJ Talent Search</p>
-<p>- Winners</p>
+<p>Pena Emasku (ML Composition Writing Competition)
+<br>- 4 GOLD Awards</p>
+<p>89.7FM RIA Skoolz student DJ Talent Search
+<br>- Winners</p>
 <p>Malay Language Student Ambassadors (Rakan Bahasa) in conjunction with
-the Annual Bulan Bahasa (Malay Language Month)</p>
-<p>- Nomination</p>
+the Annual Bulan Bahasa (Malay Language Month)
+<br>- Nomination</p>
 <p>Tamil Language</p>
-<p>Navarasa Thiruvizha 2020</p>
-<p>- 4th Place for Skit Competition</p>
+<p>Navarasa Thiruvizha 2020
+<br>- 4th Place for Skit Competition</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mid-autumn%20celebrations.jpeg">
 </div>
