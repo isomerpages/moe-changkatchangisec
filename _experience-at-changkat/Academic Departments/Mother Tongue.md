@@ -3,108 +3,94 @@ title: Mother Tongue
 permalink: /experience-at-changkat/Academic-Departments/Mother-Tongue/
 description: ""
 third_nav_title: Academic Departments
+variant: tiptap
 ---
-**Head of Department:** Ms Goh Ying Hsuan 
+<p><strong>Head of Department:</strong>&nbsp;Ms Goh Ying Hsuan</p>
+<p><strong>Lead Teacher:</strong>&nbsp;Mr Djohan Abdul Rahman
+<br><strong>Subject Head:</strong>&nbsp;Mdm Hezrina Bte Johan Manikam
 <br>
-**Subject Head:** Mdm Hezrina Bte Johan Manikam  <br>
-**Lead Teacher:** Dr Perema D/O Ramasamy
-<br>
-**Lead Teacher:** Mr Djohan Abdul Rahman  
-
-  
-
-
-**Chinese Language Teachers:**
-
- 
-Ms Teo Ying Hui<br>
-Mr Wang Yadong  
-Ms Poh Shi Hui   
-Ms Khoo Kai Leng Esther 
-  
-
-**Malay Language Teachers:**
-
-Mr Abdul Matiin bin Kassim<br>
-Ms Nurain Bte Tajudeen<br>
-Mdm Nur Umaira Bte Muhd Zulkifi
-
-  
-
-**Tamil Language Teachers:**
-
-Mdm Anadhagirl Kasthuri<br>
-Dr Thirunavukarasu Duarisamy
-
-  
-
-The Mother Tongue Department aims to nurture active learners who can use the Mother Tongue language to communicate proficiently in everyday life. Through various learning platforms, students learn the importance of the subject and deepen their understanding of their ethnic roots and cultures. Teachers are also exposed to professional development opportunities to enhance their pedagogical skills.
-
-  
-
-Key Programmes:  
-  
-
-*   Festive celebrations: Chinese New Year & Deepavali 
-*   Language Proficiency and Cultural Exposure: Reading Programme, MTL Fortnight/Camp, Author-in-Residence Programme 
-*   Just-In-Time Revision: MT Intensive Programme for graduating classes 
-*   Professional Development and Collaboration: Cluster and National sharing on Teaching and Learning strategies
-
-  
-
-**Achievements in 2020:**
-
-Chinese Language
-
-The 3rd Singapore Primary and Secondary School Text Recital Competition
-
-\- Gold Award and overall 3rd
-
-3rd Nanyang Chinese Youth Literary Awards 2020
-
-\- Outstanding Award
-
-  
-
-Malay Language
-
-Pena Emasku (ML Composition Writing Competition)
-
-\- 4 GOLD Awards
-
-89.7FM RIA Skoolz student DJ Talent Search
-
-\- Winners
-
-Malay Language Student Ambassadors (Rakan Bahasa) in conjunction with the Annual Bulan Bahasa (Malay Language Month)
-
-\- Nomination
-
-  
-
-Tamil Language
-
-Navarasa Thiruvizha 2020
-
-\- 4th Place for Skit Competition
-
-![](/images/Mid-autumn%20celebrations.jpeg)
-<center>Mid-autumn celebrations</center>
-
-![](/images/Making%20terracotta%20figurine.jpeg)
-<center>Making terracotta figurine</center>
-
-![](/images/School%20Twinning%20Paper%20Cutting.jpeg)
-<center>School Twinning Paper Cutting</center>
-
-![](/images/Debate%20Team%20in%20Action.jpeg)
-<center>Debate Team in Action</center>
-
-![](/images/Rakan%20Bahasa.jpeg)
-<center>Rakan Bahasa</center>
-
-![](/images/LJ%20to%20Indian%20Heritage%20centre.jpeg)
-<center>Learning Journey to Indian Heritage centre</center>
-
-![](/images/LJ%20to%20UPTLC.jpeg)
-<center>Learning Journey to UPTLC</center>
+</p>
+<p><strong>Chinese Language Teachers:</strong>
+<br>Mr Wang Yadong
+<br>Mr Zhu Liang
+<br>Ms Teo Ying Hui
+<br>Ms Pee Xiuwen
+<br>Ms Lee Hwey Ping
+<br>Mr Tan Ik Ching
+<br>Mdm Ang Woon Khim</p>
+<p></p>
+<p><strong>Malay Language Teachers:</strong>
+<br>Mdm Nur Umaira Bte Muhd Zulkifi
+<br>Mr Abdul Matiin bin Kassim
+<br>Ms Nadiah Binte Abdul Karim
+<br>Ms Noor Farhanah Bte Mohd Rahman</p>
+<p></p>
+<p><strong>Tamil Language Teachers:</strong>
+<br>Dr Perema d/o Ramasamy
+<br>Mdm Anadhagirl Kasthuri
+<br>Dr Thirunavukarasu Duarisamy</p>
+<p>The Mother Tongue Department aims to nurture active learners who can use
+the Mother Tongue language to communicate proficiently in everyday life.
+Through various learning platforms, students learn the importance of the
+subject and deepen their understanding of their ethnic roots and cultures.
+Teachers are also exposed to professional development opportunities to
+enhance their pedagogical skills.</p>
+<p>Key Programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Festive celebrations: Chinese New Year, Hari Raya &amp; Deepavali&nbsp;</p>
+</li>
+<li>
+<p>Language Proficiency and Cultural Exposure: Reading Programme, MTL Fortnight/Camp,
+Author-in-Residence Programme&nbsp;</p>
+</li>
+<li>
+<p>School Twinning with China</p>
+</li>
+</ul>
+<p><strong>Achievements in 2020:</strong>
+</p>
+<p>Chinese Language</p>
+<p>The 3rd Singapore Primary and Secondary School Text Recital Competition
+<br>- Gold Award and overall 3rd</p>
+<p>3rd Nanyang Chinese Youth Literary Awards 2020
+<br>- Outstanding Award</p>
+<p>Malay Language</p>
+<p>Pena Emasku (ML Composition Writing Competition)
+<br>- 4 GOLD Awards</p>
+<p>89.7FM RIA Skoolz student DJ Talent Search
+<br>- Winners</p>
+<p>Malay Language Student Ambassadors (Rakan Bahasa) in conjunction with
+the Annual Bulan Bahasa (Malay Language Month)
+<br>- Nomination</p>
+<p>Tamil Language</p>
+<p>Navarasa Thiruvizha 2020
+<br>- 4th Place for Skit Competition</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mid-autumn%20celebrations.jpeg">
+</div>
+<p>Mid-autumn celebrations</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Making%20terracotta%20figurine.jpeg">
+</div>
+<p>Making terracotta figurine</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Twinning%20Paper%20Cutting.jpeg">
+</div>
+<p>School Twinning Paper Cutting</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Debate%20Team%20in%20Action.jpeg">
+</div>
+<p>Debate Team in Action</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rakan%20Bahasa.jpeg">
+</div>
+<p>Rakan Bahasa</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ%20to%20Indian%20Heritage%20centre.jpeg">
+</div>
+<p>Learning Journey to Indian Heritage centre</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ%20to%20UPTLC.jpeg">
+</div>
+<p>Learning Journey to UPTLC</p>
