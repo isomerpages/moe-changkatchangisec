@@ -6,7 +6,7 @@ third_nav_title: Academic Departments
 variant: tiptap
 ---
 <p><strong>Head of Department:</strong>&nbsp;Ms Huang Aili</p>
-<p><strong>Subject Head (Covering)</strong>&nbsp;: Mr Sebastian Thng</p>
+<p><strong>Subject Head</strong>: Mr Sebastian Thng</p>
 <p><strong>Senior Teacher:</strong>&nbsp;Mdm Adibah Bte Abbas</p>
 <p><strong>Teachers:</strong>
 </p>
