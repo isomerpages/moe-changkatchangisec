@@ -20,6 +20,8 @@ In 2014, Changkat Changi Secondary School started it’s Learning for Life Progr
 <img src="/images/DSA/LLP3.jpg" style="width:70%">
 <center>Photo 3: Students having hands-on activity to understand the farm-to-table concept. </center>
 
+<img src="/images/DSA/LLP3.jpg" style="width:70%">
+<center>Photo 3: Students having hands-on activity to understand the farm-to-table concept. </center>
 
 
 ##### Admission Criteria
