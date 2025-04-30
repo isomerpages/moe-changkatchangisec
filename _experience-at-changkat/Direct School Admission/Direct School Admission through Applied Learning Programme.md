@@ -32,7 +32,7 @@ All lower secondary Changkateers undergo weekly ALP lessons based on the context
 <center>Photo 4: Collaboration with Victoria School to extend the learning of aviation related learning activities to the primary school participants.</center>
 
 
-<img src="/images/DSA/ALP6.jpg" style="width:60%">
+<img src="/images/DSA/ALP6.jpg" style="width:80%">
 <center>Photo 5: Changkateers participating in an overseas exchange with French students in May 2024.</center>
 
 ##### Admission Criteria  
@@ -62,7 +62,7 @@ _**Please note that meeting all the criteria does not guarantee the student will
 
   
 
-**Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to the MOE website at**&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)  
+**Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 Jun 2025, 3pm. For more details, please refer to the MOE website at**&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)  
   
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.  
   
@@ -87,18 +87,18 @@ Students can indicate up to three choices (maximum of two choices for the same s
 
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to**&nbsp;**the talent they are selected for from year 1-4.**
 
-The application timeline for 2024 is as follows:
+The application timeline for 2025 is as follows:
 
 
 
 | Date | Event | 
 | -------- | -------- | 
-| 7 May 2024, 11am to 3 June 2024, 3pm     | Submit your child's application online through the DSA-Sec portal by 3pm on the final day.     | 
-|24 June 2024 to 19 July 2024|School’s notification of shortlisted candidates. We regret to inform that&nbsp;**only shortlisted students**&nbsp;will be notified of the interview dates.
-|24 June 2024 to 9 September 2024|School-based in-person interview for shortlisted applicants.
-|9 September 2024|All applicants will receive a reply from the school on the outcome of the application as follows:<br>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected. 
-|21 October 2024, 9am to 25 October 2024, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive notification on the School Preference Submission in Oct 2024. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
-|Late November 2024|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively mid-Nov 2024.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.&nbsp;  <br>**Successful DSA-Sec Students.**&nbsp;Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.&nbsp;  <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.&nbsp;  <br>Students are also&nbsp;**NOT**&nbsp;allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.**&nbsp;They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
+| 7 May 2025, 11am to 3 June 2025, 3pm     | Submit your child's application online through the DSA-Sec portal by 3pm on the final day.     | 
+|30 June 2025 to 25 July 2025|School’s notification of shortlisted candidates. We regret to inform that&nbsp;**only shortlisted students**&nbsp;will be notified of the interview dates.
+|30 June 2025 to 4 September 2025|School-based in-person interview for shortlisted applicants.
+|25 August 2025 to 4 September 2025|All applicants will receive a reply from the school on the outcome of the application as follows:<br>(i) Confirmed Offer (CO), (ii) Waiting List (WL) or (iii) Rejected. 
+|27 October 2025, 9am to 31 October 2025, 3pm|Students who receive at least one DSA-Sec offer (including from SOTA) will receive notification on the School Preference Submission in Oct 2024. <br>Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences. <br>If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.<br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
+|Late November 2025|Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools, tentatively mid-Nov 2024.  <br>The rest of the students (not studying in MOE mainstream schools) will receive their DSA-Sec results via email.&nbsp;  <br>**Successful DSA-Sec Students.**&nbsp;Those who took PSLE are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer.&nbsp;  <br>However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.&nbsp;  <br>Students are also&nbsp;**NOT**&nbsp;allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.  <br>**Unsuccessful DSA-Sec Students.**&nbsp;They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices
 
 ##### Why Join Us?
 
@@ -113,7 +113,7 @@ For those are passionate and seeking to venture further, our school offers the S
 ##### FAQ
 
 1.  **How many places can CCSS offer in DSA Exercise?**  
-    All secondary schools can admit up to 20% of their 2024 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec. This allows students to better access&nbsp;school programmes to grow their talents and interests through DSA.  
+    All secondary schools can admit up to 20% of their 2025 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec. This allows students to better access&nbsp;school programmes to grow their talents and interests through DSA.  
       
     
 2.  **How does it value-add to my child?**  
