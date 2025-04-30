@@ -7,21 +7,16 @@ third_nav_title: Direct School Admission
 ---
 <h3><strong>Talent Area: CCA - Physical Sports</strong></h3>
 <h4>Introduction</h4>
-<p>The Physical Sports DSA student will be able to pursue his sporting passion
-holistically, develop his skills and knowledge, specific to his sport,
-setting personal challenges and achieving sporting excellence, anchored
-on school values.</p>
-<p>The Physical Sports Development Programme will provide learning opportunities
-for students to learn and apply sports-specific skills in their talent
-areas. The emphasis will be on learning and enjoyment through developmentally
-appropriate experiences. Specialised and intensive training for high performance
-will also be planned for developmentally faster students to achieve sporting
-excellence.</p>
-<p>Students who join us through DSA will have the opportunities to further
-develop their areas of talent under the guidance of our dedicated teachers,
-experienced instructors, and build strong camaraderie with their committed
-peers. Students can also look forward to representing the school in the
-National School Games (NSG) and other external competitions.</p>
+<p>In Changkat Changi Secondary School, we envision every student in the
+school to <strong>Lead with Respect, Serve with Humility</strong>. We believe
+in the potential of students - that their minds, character and lives can
+be shaped. We create opportunities for our students to develop their character
+and leadership competencies through CCA. Students who join us through DSA
+will have the opportunities to further develop their areas of talent under
+the guidance of our dedicated teachers, experienced instructors, and build
+strong camaraderie with their committed peers. Students can also look forward
+to representing the school in the National School Games (NSG), Singapore
+Youth Festival (SYF) and other external competitions.</p>
 <p>Changkat will be offering DSA places to boys and girls in the following
 areas of talent:</p>
 <table style="minWidth: 75px">
@@ -73,14 +68,38 @@ areas of talent:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="4" colspan="1">
+<p>Visual &amp; Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Boys, Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese String Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys, Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys, Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys, Girls</p>
 </td>
 </tr>
 </tbody>
@@ -103,20 +122,34 @@ areas of talent:</p>
 </div>
 <p>Photo 4: Netball game during Changkat Challenge</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA5.jpg">
-</div>
-<p>Photo 5: Track &amp; Field athletes training in school</p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA6.jpg">
 </div>
-<p>Photo 6: Track &amp; Field athlete training at Bedok Stadium</p>
+<p>Photo 5: Track &amp; Field athlete training at Bedok Stadium</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA7.jpg">
 </div>
-<p>Photo 7: NSG Track &amp; Field B Division Girls 4 x 400m relay finals
+<p>Photo 6: NSG Track &amp; Field B Division Girls 4 x 400m relay finals
 at Sports Hub</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA08.jpg">
+</div>
+<p>Photo 7: Chinese String Ensemble after SYF Arts Performance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA09.jpg">
+</div>
+<p>Photo 8: Concert Band after SYF Arts Performance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA10.jpg">
+</div>
+<p>Photo 9: Modern Dance after SYF Arts Performance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA11.jpg">
+</div>
+<p>Photo 10: Malay Dance after SYF Arts Performance</p>
 <h4>Admission Criteria</h4>
+<p>Changkat Changi Secondary School is looking for Primary 6 students who
+are passionate, positive and have the potential to excel in their respective
+areas of talent.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -175,8 +208,8 @@ areas of talent:</p>
 </ul>
 </td>
 <td rowspan="3" colspan="1">
-<p>Every shortlisted applicant will have to complete a sports trial in the
-selected area of talent and go through an interview.</p>
+<p>Every shortlisted applicant will have to complete a performance task in
+the selected area of talent and go through an interview.</p>
 </td>
 </tr>
 <tr>
@@ -189,13 +222,70 @@ selected area of talent and go through an interview.</p>
 <p>Badminton</p>
 </td>
 </tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Visual &amp; Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Applicants should demonstrate all or some of the following in their respective
+areas- of talent:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>basic skills and potential in areas like sense of rhythm and timing, instrument
+ability, movement and coordination, etc</p>
+</li>
+<li>
+<p>a keen interest and passion</p>
+</li>
+<li>
+<p>potential and motivation to excel</p>
+</li>
+<li>
+<p>positive attitude towards learning</p>
+</li>
+<li>
+<p>positive demeanour and behaviour with exemplary conduct</p>
+</li>
+</ul>
+</td>
+<td rowspan="4" colspan="1">
+<p>Selection will include a short audition or trial session, where students
+will be invited to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Perform a short piece (song, dance, etc.)</p>
+</li>
+<li>
+<p>Share their interest in performing arts</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese String Ensemble</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p></p>
 <h4>Application Procedure</h4>
-<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from 7 May 2024 to 3 Jun 2024. For more details, please refer to MOE website -</strong> 
+<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from 7 May 2025,11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website -</strong> 
 <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong>Applicants from MOE mainstream primary schools: </strong>Parent
 may log in directly to DSA-Sec Portal at <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> 
@@ -213,7 +303,7 @@ the same school under two different talent areas).</p>
 <p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</strong>
 </p>
 <p></p>
-<p>The application timeline for 2024 is as follows:</p>
+<p>The application timeline for 2025 is as follows:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -232,7 +322,7 @@ the same school under two different talent areas).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May - 3 June 2024, 3pm</p>
+<p>7 May 2025, 11am to 3 June 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submit your child's application online through the DSA-Sec portal by 3pm
@@ -241,7 +331,7 @@ on the final day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 June - 19 July 2024</p>
+<p>30 June 2025 to 25 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School’s notification of shortlisted candidates. We regret to inform that <strong>only shortlisted students </strong>will
@@ -250,7 +340,7 @@ be notified of the interview dates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 June - 9 September 2024</p>
+<p>30 June 2025 to 4 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School-based in-person interview for shortlisted applicants.</p>
@@ -258,7 +348,7 @@ be notified of the interview dates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 September 2024</p>
+<p>25 August 2025 to 4 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will receive a reply from the school on the outcome of
@@ -268,11 +358,11 @@ the application as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 - 25 October 2024</p>
+<p>27 October 2025, 9am to 31 October 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
-will receive notification on the School Preference Submission in Oct 2024.
+will receive notification on the School Preference Submission in Oct 2025.
 <br>Both parents are required to login to the DSA-Sec Portal using their SingPass
 to submit up to three school preferences.
 <br>If parents are unable to submit online, they can approach their child’s
@@ -284,13 +374,13 @@ the School Preference Submission period.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late November 2024</p>
+<p>Late November 2025</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students studying in MOE mainstream schools will receive their DSA-Sec
 results together with their PSLE results through their primary schools,
-tentatively mid-Nov 2024.
+tentatively mid-Nov 2025.
 <br>The rest of the students (not studying in MOE mainstream schools) will
 receive their DSA-Sec results via email.
 <br><strong>Successful DSA-Sec Students. </strong>Those who took PSLE are
@@ -312,16 +402,16 @@ school choices</p>
 </table>
 <p></p>
 <h4>Why join us?</h4>
-<p>In Changkat Changi Secondary School, we believe that we do not just focus
-on results achieved at National Examinations, we also recognise students
-who have a diverse range of achievements and talents. Our team of dedicated
-teachers and experienced coaches are committed to help our students develop
-their sporting talents and potential, through a school-based sports development
-programme and external competitive exposures for long-term athlete development.</p>
+<p>In Changkat, we create opportunities for our students to develop their
+character and leadership competencies through CCA. Our team of dedicated
+teachers and experienced coaches are committed to help students find the
+best versions of themselves in their area of talent, through a comprehensive
+training programme and ample opportunities in competitions to form part
+of their learning experiences.</p>
 <p></p>
 <h4>FAQ</h4>
 <p><strong>1. How many places can CCSS offer in DSA Exercise?<br></strong>All
-secondary schools can admit up to 20% of their 2024 S1 non-Integrated Programme
+secondary schools can admit up to 20% of their 2025 S1 non-Integrated Programme
 (non-IP) intake via the DSA-Sec. This allows students to better access
 school programmes to grow their talents and interests through DSA.</p>
 <p></p>
