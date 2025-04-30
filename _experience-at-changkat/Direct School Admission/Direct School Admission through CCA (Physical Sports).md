@@ -114,7 +114,7 @@ areas of talent:</p>
 </div>
 <p>Photo 2: Badminton singles during National School Games (NSG)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/CCA3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/DSA/CCA3.jpg">
 </div>
 <p>Photo 3: Netball game during Springfield Challenge</p>
 <div class="isomer-image-wrapper">
