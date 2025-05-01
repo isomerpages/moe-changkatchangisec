@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h3><strong>Talent Area: CCA - Physical Sports</strong></h3>
+<h3><strong>Talent Area: CCA - Physical Sports and Visual &amp; Performing Arts</strong></h3>
 <h4>Introduction</h4>
 <p>In Changkat Changi Secondary School, we envision every student in the
 school to <strong>Lead with Respect, Serve with Humility</strong>. We believe
