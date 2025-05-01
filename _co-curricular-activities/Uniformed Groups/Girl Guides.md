@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /co-curricular-activities/Uniformed-Groups/Girl-Guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwQDReN2CUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -10,11 +11,11 @@ third_nav_title: Uniformed Groups
 
 *   **Mdm Siti Zubaidah (I/C)**  
     
-*   Ms Norhafizah (2 I/C)
+*   Mdm Habsa (2 I/C)
     
-*   Dr Perema (Advisor)
+*   Dr Perema
     
-*   Mdm Habsa
+*   Mrs Kim Ong
 
   
 
