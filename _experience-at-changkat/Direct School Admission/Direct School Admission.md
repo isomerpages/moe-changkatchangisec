@@ -3,12 +3,13 @@ title: Direct School Admission
 permalink: /experience-at-changkat/Direct-School-Admission/
 description: ""
 third_nav_title: Direct School Admission
-variant: markdown
+variant: tiptap
 ---
-Changkat Changi Secondary School offers Direct School Admission through our Applied Learning Programme (ALP) and our Learning for Life Programme (LLP).  
-  
-Please&nbsp;click below for more information:  
-[Direct School Admission through Student centered opportunities in AeRospace Industries (ALP)](/experience-at-changkat/Direct-School-Admission/ALP)  
-[Direct School Admission through&nbsp;Leadership and Service through School to Nation (LLP)](/experience-at-changkat/Direct-School-Admission/LLP)
-<br>
-[Direct School Admission through CCA](/experience-at-changkat/Direct-School-Admission/direct-school-admission-through-cca)
+<p>Changkat Changi Secondary School offers Direct School Admission through
+our Applied Learning Programme (ALP) and our Learning for Life Programme
+(LLP).</p>
+<p>Please&nbsp;click below for more information:
+<br><a href="/experience-at-changkat/Direct-School-Admission/ALP" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission through Student centered opportunities in AeRospace Industries (ALP)</a>
+<br><a href="/experience-at-changkat/Direct-School-Admission/LLP" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission through&nbsp;Leadership and Service through School to Nation (LLP)</a>
+<br><a href="/experience-at-changkat/Direct-School-Admission/direct-school-admission-through-cca" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission through CCA</a>
+</p>
