@@ -11,5 +11,5 @@ our Applied Learning Programme (ALP) and our Learning for Life Programme
 <p>Please&nbsp;click below for more information:
 <br><a href="/experience-at-changkat/Direct-School-Admission/ALP" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission through Student centered opportunities in AeRospace Industries (ALP)</a>
 <br><a href="/experience-at-changkat/Direct-School-Admission/LLP" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission through&nbsp;Leadership and Service through School to Nation (LLP)</a>
-<br><a href="/direct-school-admission-through-cca/" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission through CCA</a>
+<br><a href="/experience-at-changkat/direct-school-admission/cca" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission through CCA</a>
 </p>
