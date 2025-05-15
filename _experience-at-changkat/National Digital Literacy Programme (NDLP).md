@@ -45,7 +45,7 @@ skills as they navigate an increasingly digitalised world.</p>
 <br><a href="/files/2%20Acceptable%20Use%20Policy%20AUP%20Agreement%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Acceptable Use Policy (AUP)</a>&nbsp;for
 healthy use of PLDs in the school
 <br><a href="/files/Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
-<br><a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+<br><a href="http://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 <h2>FOR PARENTS</h2>
 <h5>Purchase of Devices (2025)&nbsp;</h5>
