@@ -147,7 +147,7 @@ HBL days.</p>
 <p>The detailed information on the e-CCA sessions can be found in the link
 here. Zoom details will be provided to your child/ward by the respective
 CCA teachers.</p>
-<p>The&nbsp;<a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore StudentLearning Space (SLS)</a>&nbsp;will
+<p>The&nbsp;<a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore StudentLearning Space (SLS)</a>&nbsp;will
 be one of the few platforms to support schools in their home-based learning
 (HBL) measures. Instructions for home based lessons will be provided on
 the platform.</p>
