@@ -9,8 +9,7 @@ variant: tiptap
 <p><strong>Subject Head</strong>: Mr Sebastian Thng</p>
 <p><strong>Senior Teacher:</strong>&nbsp;Mdm Adibah Bte Abbas</p>
 <p><strong>Teachers:</strong>
-</p>
-<p>Mdm Rosazlin Bte Mohamad
+<br>Mdm Rosazlin Bte Mohamad
 <br>Mdm Shahnaz d/o Sheikh Abdul Karim
 <br>Mr Venkateswaran Balakrishnan
 <br>Mr Mohamed Syafiq Bin Mohamed Rafid
