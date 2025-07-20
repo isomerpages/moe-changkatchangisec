@@ -10,8 +10,7 @@ variant: tiptap
 <p><strong>Senior Teacher:</strong>&nbsp;Mdm Adibah Bte Abbas</p>
 <p><strong>Teachers:</strong>
 </p>
-<p>Ms Norhafizah Bte Ma’arof
-<br>Mdm Rosazlin Bte Mohamad
+<p>Mdm Rosazlin Bte Mohamad
 <br>Mdm Shahnaz d/o Sheikh Abdul Karim
 <br>Mr Venkateswaran Balakrishnan
 <br>Mr Mohamed Syafiq Bin Mohamed Rafid
