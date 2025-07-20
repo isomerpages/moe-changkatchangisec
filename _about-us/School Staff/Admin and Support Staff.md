@@ -35,4 +35,3 @@ variant: markdown
 | AV Tech     | Mr Wong Khay Onn    |
 | Desktop Engineer     | Mr Wee Hui Siang    |
 | Desktop Engineer     | Ms Izza binte Idris    |
-| DA     | Mr Azrin   |
