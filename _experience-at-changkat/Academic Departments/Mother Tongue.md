@@ -14,6 +14,7 @@ variant: tiptap
 <br>Mr Wang Yadong
 <br>Mr Zhu Liang
 <br>Ms Teo Ying Hui
+<br>Ms Khoo Kai Leng Esther
 <br>Ms Pee Xiuwen
 <br>Ms Lee Hwey Ping
 <br>Mr Tan Ik Ching

@@ -15,6 +15,7 @@ variant: markdown
 | LT Malay Language    | Mr Djohan Bin Abdul Rahman    | 
 | Teacher     | Ms Lee Hwey Ping     | 
 | Teacher     | Ms Teo Ying Hui    | 
+| Teacher     | Ms Khoo Kai Leng Esther  | 
 | Teacher     | Mr Wang Yadong    | 
 | Teacher     | Mr Abdul Matiin Bin Kassim   | 
 | Teacher     | Ms Nur Umaira Bte Muhd Zulkifli    |
