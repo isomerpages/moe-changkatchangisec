@@ -18,3 +18,4 @@ variant: markdown
 | Teacher     | Mr Syed Ahmad Bin Syed Sagoff Alqadri     | 
 | Teacher     | Ms Chia Ying Yin     |
 | Teacher     | Mr Ng Boon Hian     |
+| Teacher     | Ms Samantha Tee Mei-Yuen     |
