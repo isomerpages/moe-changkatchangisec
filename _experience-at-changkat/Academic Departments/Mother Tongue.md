@@ -28,6 +28,7 @@ variant: tiptap
 <p><strong>Tamil Language Teachers:</strong>
 <br>Dr Perema d/o Ramasamy
 <br>Mdm Anadhagirl Kasthuri
+<br>Ms Bhanupriya Babu
 <br>Dr Thirunavukarasu Duarisamy</p>
 <p>The Mother Tongue Department aims to nurture active learners who can use
 the Mother Tongue language to communicate proficiently in everyday life.
