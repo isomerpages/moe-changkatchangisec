@@ -22,21 +22,20 @@ variant: markdown
 | HOD English Language    | Ms Huang Aili     |
 | HOD Mother Tongue Languages      | Ms Goh Ying Hsuan   |
 | HOD Science     | Ms Hang Si'En     |
-| HOD Mathematics (Covering)    | Mr Poh Wei En     |
+| HOD Mathematics    | Mr Poh Wei En     |
 | HOD Humanities     | Ms Nur Syazana Binte Shahul Hameed    |
 | HOD Discipline     | Mr Nahar Azmi Bin Abdul Majid     |
-| HOD Craft & Technology     | Mr Ong Khim Ghee Samuel     |
+| HOD Craft & Technology (Covering)    | Mr Han Ban Siew Sean     |
 | HOD Physical Education & CCA     | Mr Sim Chong Ghee    |
 | HOD Information & Communication Technology     | Mr Tan Teck Tang Glen     |
 | HOD Character and Citizenship Education, Year Head (Upper Sec)     | Mdm Mufeedah Bte Senin     |
 | School Staff Developer    | Mr Ho Beng Khiaw    |
 | SH English Language     | Mr Thng Shunyang Sebastian     |
-| SH Craft & Technology     | Mr Han Ban Siew Sean     |
 | SH Malay Language     | Mdm Hezrina Bte Johan Manikam     |
 | SH Character and Citizenship Education     | Mr Hu Song En Samson     |
 | SH PE/CCA      | Mr Iskandar Bin Ishak     |
-| SH Student Leadership (Covering)    | Ms Sim Lin Ping Salome     |
-| LH Mathematics (Covering)    | Ms Jenny Lau     |
+| SH Student Leadership     | Ms Sim Lin Ping Salome     |
+| LH Mathematics     | Ms Jenny Lau     |
 | LH Science     | Mr Wan Bing Khiang     |
 | Assistant Year Head     | Mr Kevan Lee Wei Hao     |
 | Assistant Year Head     | Mr Quek Ming Yeow     |
