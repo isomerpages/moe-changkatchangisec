@@ -3,19 +3,22 @@ title: PE and Music
 permalink: /experience-at-changkat/Academic-Departments/PE-and-Music/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
 **Head of Department:** Mr Sim Chong Ghee  
   
-**Subject Head:** Mr Jason Zhuo  
+**Subject Head:** Mr Iskandar Ishak  
   
 **Senior Teacher:** Mr Ong Kian Beng  
   
 **Teachers:**  
 Mr Abdul Nasir  
-Mr Iskandar Ishak  
 Mr  Muhammad Yusuf  
-Ms Dawn Wu  
-  
+Ms Dawn Wu
+Ms Chia Ying Yin
+Mr Ng Boon Hian
+Mr Syed Ahmad Bin Syed Sagoff Alqadri
+Ms Samantha Tee Mei-Yuen
 
 The Physical Education Department aims to promote a healthy lifestyle through an engaging PE curriculum. Students acquire the necessary skills and knowledge on the various sports taught at each level, and were given the opportunity to display what they have learnt during the inter-class tournaments.  
   
