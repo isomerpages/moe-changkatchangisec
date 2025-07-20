@@ -17,9 +17,9 @@ variant: markdown
 | Teacher     | Ms Teo Ying Hui    | 
 | Teacher     | Mr Wang Yadong    | 
 | Teacher     | Mr Abdul Matiin Bin Kassim   | 
-| Teacher     | Ms Nurain Bte Tajudeen    | 
 | Teacher     | Ms Nur Umaira Bte Muhd Zulkifli    |
 | Teacher     | Mdm Anadhagirl Kasthuri    |
+| Teacher     | Ms Bhanupriya Babu   |
 | Teacher     | Dr Thirunavukarasu Duarisamy    |
 | Teacher     | Ms Nadiah Binte Abdul Karim     |
 | Teacher     | Ms Noor Farhanah Bte Mohd Rahman   |
