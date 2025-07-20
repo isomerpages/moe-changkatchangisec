@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
-<p><strong>Head of Department:</strong>&nbsp;Mr Poh Wei En (Covering)</p>
-<p><strong>Level Head:</strong>&nbsp;Ms Lau Le Wei Jenny (Covering)</p>
+<p><strong>Head of Department:</strong>&nbsp;Mr Poh Wei En</p>
+<p><strong>Level Head:</strong>&nbsp;Ms Lau Le Wei Jenny</p>
 <p><strong>Maths Teachers:</strong>
 <br>Mr Ho Beng Khiaw
 <br>Mr Glen Tan
