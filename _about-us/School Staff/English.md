@@ -22,3 +22,4 @@ variant: markdown
 | Teacher     | Mr Ng Woon Bing Kevin    |
 | Teacher     | Ms Kang Eng Ling    |
 | Teacher     | Mr Amrit Singh Gill    |
+| Teacher     | Ms Ang Guat Yee Annette    |
