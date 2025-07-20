@@ -21,6 +21,7 @@ variant: tiptap
 <br>Ms Sim Lin Ping Salome
 <br>Mr Bryan Zhishan Yong
 <br>Mr Lee Wei Hao Kevan
+<br>Mr Ong Rui Wen
 <br><strong>POA&nbsp;Teachers:</strong>&nbsp;
 <br>Mrs Aileen Kor
 <br>Ms Geraldine Koon
