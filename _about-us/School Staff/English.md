@@ -13,7 +13,6 @@ variant: markdown
 | SH English Language     | Mr Thng Shunyang Sebastian    |  
 | ST  English Language    | Mdm  Adibah Bte Abbas    | 
 | ST Character and Citizenship Education     | Mr Mohamed Syafiq Bin Mohamed Rafid     | 
-| Teacher     | Ms Norhafizah Bte Ma'Arof    | 
 | Teacher     | Mdm Rosazlin  Bte Mohamed     | 
 | Teacher     | Mdm Shahnaz D/O Sheikh Abdul Karim    | 
 | Teacher     | Mr Han Zi Ding    |

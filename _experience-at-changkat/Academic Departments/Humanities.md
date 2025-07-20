@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
-<p><strong>Head of Department (Covering):</strong>&nbsp;Ms Nur Syazana Bte
-Shahul Hameed</p>
+<p><strong>Head of Department:</strong>&nbsp;Ms Nur Syazana Bte Shahul Hameed</p>
 <p><strong>Senior Teacher:</strong>&nbsp;Ms Nuriahtu Bte Farhati Mohamed
 Ali</p>
 <p><strong>Teachers:</strong>
