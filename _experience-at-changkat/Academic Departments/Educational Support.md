@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Academic Departments
 ---
 <p><strong>Head of Department:</strong> Mr. Abdul Nasir Bin Abdul Razzak</p>
-<p><strong>Teachers: </strong>
-</p>
-<p>Ms. Siti Aisyah Bte Mohd Mohaiyuddin (Senior SENO)
+<p><strong>Teachers:</strong>
+<br>Ms. Siti Aisyah Bte Mohd Mohaiyuddin (Senior SENO)
 <br>Mr. Muhammad Nurrul Hadi Bin Abdul Rahman (SENO)
 <br>Mr Dave Kang Chun Yong(Senior SC)
 <br>Ms. Shamini G Singaravel (Senior SC)
