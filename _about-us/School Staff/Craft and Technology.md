@@ -14,6 +14,7 @@ variant: markdown
 | Teacher     | Mr Chia Heok Meng     |
 | Teacher     | Mdm Angeline Neo Swee Ting    | 
 | Teacher     | Ms Edith Cheng Eng Eng     | 
+| Teacher     | Ms Cheong Cheryl     | 
 | Teacher     | Ms Linda Yap    | 
 | Teacher     | Mdm Shahnaz D/O Sheikh Abdul Karim   |
 | Teacher     | Ms Sim Jia En     | 
