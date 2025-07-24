@@ -18,8 +18,9 @@ variant: markdown
 | Teacher     | Mr Han Zi Ding    |
 | Teacher     | Mdm Beatrice Goh Bee Kah    |
 | Teacher     | Ms Chia Ying Yin    |
+| Teacher     | Ms Cheong Cheryl    |
 | Teacher     | Ms Katherine Yeung See Mun    |
 | Teacher     | Mr Ng Woon Bing Kevin    |
-| Teacher     | Ms Kang Eng Ling    |
+| Teacher     | Ms Kang Eng Ling May    |
 | Teacher     | Mr Amrit Singh Gill    |
 | Teacher     | Ms Ang Guat Yee Annette    |
