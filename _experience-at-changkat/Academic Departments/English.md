@@ -11,7 +11,6 @@ variant: tiptap
 <p><strong>Teachers:</strong>
 <br>Mdm Rosazlin Bte Mohamad
 <br>Mdm Shahnaz d/o Sheikh Abdul Karim
-<br>Mr Venkateswaran Balakrishnan
 <br>Mr Mohamed Syafiq Bin Mohamed Rafid
 <br>Mdm Katherine Yeung See Mun
 <br>Mr Yeo Shao Hui Timothy
@@ -19,7 +18,8 @@ variant: tiptap
 <br>Mr Han Zi Ding
 <br>Mrs Beatrice Te
 <br>Ms Cheryl Cheong
-<br>Ms Kang Eng Ling
+<br>Ms Khoo Hui Ching Bernice
+<br>Ms Kang Eng Ling May
 <br>Mr Ng Woon Bing Kevin
 <br>Mr Amrit Singh Gill
 <br>Ms Ang Guat Yee Annette</p>
