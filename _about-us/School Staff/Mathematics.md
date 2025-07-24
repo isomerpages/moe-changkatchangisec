@@ -25,5 +25,6 @@ variant: markdown
 | Teacher     | Ms Ong Hui Yan    |
 | Teacher     | Ms Wong Siew Yin (Mrs Peh)    |
 | Teacher     | Mr Yap Meng Wei Kelvin   |
+| Teacher     | Mr Bryan Yong ZhiShan   |
 | Teacher     | Mr Tang Chee Wah   |
 | Teacher     | Mr Ong Rui Wen   |

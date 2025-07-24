@@ -14,7 +14,7 @@ variant: markdown
  
   
 **Teachers:**
-<br>Ms Ling Geok Keng  
+<br> 
 Ms Ng Shiru  
 Mdm Joyce Ng   
 Ms Grace Lee Yuan Ping
@@ -28,6 +28,8 @@ Mr Rishvinder Singh
 <br>Ms Kim Huang Jinjin
 <br>Mr Siddiq Suleiman
 <br>Mr Tay Yong Wei Kevin
+<br> Ms Grace Lee Yuan Ping
+<br>Ms Ling Geok Keng 
 <br>**Lab technicians:**
 <br>Ms Fadilah (TSO)  
 Ms Nabilah (TSO)  
