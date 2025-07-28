@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/homepage2.gif
       key_highlights:
-        - title: Many Moments, One School
-          description: Re-live the best moments
-          url: /our-achievements/Changkat-Moments
+        - title: A day in the life of a Changkateer
+          description: Follow us on Instagram here
+          url: https://www.instagram.com/ccss_sg/
         - title: SOAR @ CCSS
           description: APPLIED LEARNING PROGRAMME
           url: /experience-at-changkat/SOAR/Student-centered-Opportunities-for-AeRospace-Industry/
