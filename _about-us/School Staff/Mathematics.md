@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-![](/images/Dept%20Photo/MATHS_DEPARTMENT_2812_FORMAL.jpg)
+![](/images/Dept%20Photo/MATHEMATICS.jpg)
 
 | Appointment | Name | 
 | -------- | -------- | 
