@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-![](/images/Dept%20Photo/MOTHER_TONGUE_DEPARTMENT_2796_FORMAL.jpg)
+![](/images/Dept%20Photo/MOTHER_TONGUE_LANGUAGE.jpg)
 
 | Appointment | Name | 
 | -------- | -------- | 
