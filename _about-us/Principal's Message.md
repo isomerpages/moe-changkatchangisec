@@ -96,7 +96,7 @@ awards.</p>
 </tbody>
 </table>
 <p>Our Chinese String Ensemble is hence featured in Zaobao in June this year
-(<a rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20250617-6673817</a>)
+(<a href="https://www.zaobao.com.sg/news/singapore/story20250617-6673817" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20250617-6673817</a>)
 for our Direct Schools Admissions attractiveness and initiatives.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -116,7 +116,7 @@ also achieved the Best Poet Award for the second time (his first time in
 in the recently held <strong>Katapella 2025</strong> – the first national-level
 Malay choral recitation competition which is organized by Malay Language
 Learning and Promotion Committee in partnership with Mediacorp. You can
-catch our Changkateers in action in the finals on meWATCH! <a rel="noopener noreferrer nofollow" target="_blank">https://www.mewatch.sg/watch/Katapella-E2-Secondary-Schools-554268</a>
+catch our Changkateers in action in the finals on meWATCH! <a href="https://www.mewatch.sg/watch/Katapella-E2-Secondary-Schools-554268" rel="noopener noreferrer nofollow" target="_blank">https://www.mewatch.sg/watch/Katapella-E2-Secondary-Schools-554268</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -160,7 +160,7 @@ of the Malay Language Learning and Promotion Committee. This innovative
 boardgame created entirely by our team injects a fun element of gaming
 or gamification into Malay language learning and 800 sets of the game were
 produced and had been distributed to all primary, secondary and madrasah
-schools in Singapore! <a rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/singapura/permainan-sabotaj-suntik-elemen-gamifikasi-dalam-pembelajaran-bahasa-dan-budaya-melayu-964756?cid=internal_sharetool_web_20082025_berita</a>
+schools in Singapore! <a href="https://berita.mediacorp.sg/singapura/permainan-sabotaj-suntik-elemen-gamifikasi-dalam-pembelajaran-bahasa-dan-budaya-melayu-964756?cid=internal_sharetool_web_20082025_berita" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/singapura/permainan-sabotaj-suntik-elemen-gamifikasi-dalam-pembelajaran-bahasa-dan-budaya-melayu-964756?cid=internal_sharetool_web_20082025_berita</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
