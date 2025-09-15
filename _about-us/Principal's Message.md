@@ -98,6 +98,10 @@ awards.</p>
 <p>Our Chinese String Ensemble is hence featured in Zaobao in June this year
 (<a rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20250617-6673817</a>)
 for our Direct Schools Admissions attractiveness and initiatives.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal Message/Picture1.png">
+</div>
 <p>Individual Changkateers have strived hard to become the best in their
 respective fields. I wish to highlight some of their outstanding achievements.
 Our Malay Language Talent Development Programme (TDP) students took part
@@ -114,6 +118,10 @@ Malay choral recitation competition which is organized by Malay Language
 Learning and Promotion Committee in partnership with Mediacorp. You can
 catch our Changkateers in action in the finals on meWATCH! <a rel="noopener noreferrer nofollow" target="_blank">https://www.mewatch.sg/watch/Katapella-E2-Secondary-Schools-554268</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal Message/Picture2.png">
+</div>
 <p>In the <strong>23rd National Chinese Creative Writing Competition</strong> organised
 by the Singapore Hokkien Huay Kuan, Yang Zhiyue (from 1D) was awarded the
 2nd Prize (Lower Sec) and Huang Zichen (from 4A) was awarded Merit Prize
@@ -154,6 +162,10 @@ or gamification into Malay language learning and 800 sets of the game were
 produced and had been distributed to all primary, secondary and madrasah
 schools in Singapore! <a rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/singapura/permainan-sabotaj-suntik-elemen-gamifikasi-dalam-pembelajaran-bahasa-dan-budaya-melayu-964756?cid=internal_sharetool_web_20082025_berita</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal Message/Picture3.png">
+</div>
 <p>We achieved excellence while prioritising the well-being and positive
 learning of both staff and students. The theme this year is ‘<strong>Upholding Integrity, Engaging Minds</strong>’.
 The theme logo, designed by our Art teacher Ms Edith Cheng, shows two upright,
@@ -163,28 +175,35 @@ The theme captures our hope that staff and students can uphold ethical
 principles and have the moral courage to stand up for what is right. We
 also hope to further customise the curriculum and opportunities and sustain
 strong partnerships with stakeholders and industries to cater to the different
-interests, abilities and needs of our students.In May, CCSS successfully
-led two Overseas Recce Trips –– one to Shanghai and Hong Kong, China for
-our Applied Learning Programme in Aviation &amp; Aerospace and another
-to Ho Chi Minh, Vietnam for our Learning for Life Programme in Leadership
-in Sustainability and Humanities programme. In Shanghai, we have established
-partnerships with the <strong>Commercial Aircraft Corporation of China (COMAC)</strong> and <strong>Shanghai Xuhui High School</strong> and
+interests, abilities and needs of our students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal Message/upholding_integrity_engaging_minds.png">
+</div>
+<p>In May, CCSS successfully led two Overseas Recce Trips –– one to Shanghai
+and Hong Kong, China for our Applied Learning Programme in Aviation &amp;
+Aerospace and another to Ho Chi Minh, Vietnam for our Learning for Life
+Programme in Leadership in Sustainability and Humanities programme. In
+Shanghai, we have established partnerships with the <strong>Commercial Aircraft Corporation of China (COMAC)</strong> and <strong>Shanghai Xuhui High School</strong> and
 in Hong Kong, we have established partnership with the <strong>Pan Asia Pacific Aviation Services Limited (PAPAS)</strong>.
 These newly established partnerships will provide more Changkateers the
 opportunities to benefit from a future-ready and holistic education. Through
 these student exchange overseas trips, we hope to develop our Changkateers’
 confidence, deepen their understanding of foreign cultures and broaden
 their global perspectives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal Message/Picture4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal Message/Picture5.jpg">
+</div>
 <p>I am grateful to all our partners, stakeholders, parents/guardians and
 staff who have helped our Changkateers to ‘Thrive and Flourish’. Even as
 we look forward to celebrate our 60<sup>th</sup> Anniversary in 2026, we
 will remember our timeless value of ‘Upholding Integrity’ so that we can
 continue ‘Engaging Minds’ for excellence.</p>
-<p>&nbsp;</p>
 <p>Together, We Flourish.</p>
-<p>Mr Ho Ming Da</p>
-<p>Principal</p>
-<p>&nbsp;</p>
+<p><strong>Mr Ho Ming Da<br>Principal</strong>
+</p>
 <h2>2024 Principal's Message</h2>
 <p></p>
 <h3><strong>Lead with Respect, Serve with Humility</strong></h3>
