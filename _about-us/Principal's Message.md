@@ -175,9 +175,6 @@ opportunities to benefit from a future-ready and holistic education. Through
 these student exchange overseas trips, we hope to develop our Changkateers’
 confidence, deepen their understanding of foreign cultures and broaden
 their global perspectives.</p>
-<p></p>
-<p></p>
-<p>&nbsp;</p>
 <p>I am grateful to all our partners, stakeholders, parents/guardians and
 staff who have helped our Changkateers to ‘Thrive and Flourish’. Even as
 we look forward to celebrate our 60<sup>th</sup> Anniversary in 2026, we
