@@ -182,7 +182,6 @@ will remember our timeless value of ‘Upholding Integrity’ so that we can
 continue ‘Engaging Minds’ for excellence.</p>
 <p>&nbsp;</p>
 <p>Together, We Flourish.</p>
-<p>&nbsp;</p>
 <p>Mr Ho Ming Da</p>
 <p>Principal</p>
 <p>&nbsp;</p>
