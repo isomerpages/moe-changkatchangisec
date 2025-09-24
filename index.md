@@ -42,7 +42,7 @@ sections:
       title: SERVE WITH HUMILITY
       subtitle: Serving is always an honour
       button: Read
-      url: https://staging.d2qn7m8qwv3497.amplifyapp.com/experience-at-changkat/Learning-for-Life-Programme-LLP
+      url: https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/ascend/
       image: /images/Photos/SERVE_WITH_HUMILITY.jpg
       alt: SERVE WITH HUMILITY
   - infopic:
