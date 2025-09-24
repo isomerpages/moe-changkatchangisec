@@ -72,7 +72,9 @@ to the wider community, and attending a talk by Frasers property on business
 sustainability practices.</p>
 </li>
 </ul>
-<p>Picture 7</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/Picture_7.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/Picture_8.jpg">
 </div>
