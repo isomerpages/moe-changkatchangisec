@@ -31,7 +31,7 @@ from 9am to 4pm
 <br>Email: <a href="mailto:dyccss3013@gmail.com" rel="noopener noreferrer nofollow" target="_blank">dyccss3013@gmail.com</a>
 </p>
 <h3><strong>When are the school terms/ school holidays?</strong></h3>
-<p><a href="https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <h3><strong>Finance Matters :</strong>&nbsp;&nbsp;</h3>
 <p>School fees matters
