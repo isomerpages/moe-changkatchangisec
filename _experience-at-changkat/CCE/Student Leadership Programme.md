@@ -14,7 +14,25 @@ to lead, inspire, and make a difference in their communities — especially
 in advancing Singapore’s green future.&nbsp;</p>
 <p>Check out <a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/ascend/" rel="noopener nofollow" target="_blank">ASCEND</a> to
 find out more about our LLP programme.</p>
-<h2><strong>Student Council</strong></h2>
+<h4><strong>The Student Council: Leading with Heart and Purpose</strong></h4>
+<p>At the pinnacle of our school’s student leadership structure stands the
+Student Council—the heartbeat of our community. This energetic and dedicated
+team is committed to fostering a positive, inclusive, and spirited school
+environment. Their leadership plays a vital role in amplifying student
+voice, strengthening our sense of community, and addressing concerns with
+empathy and initiative.</p>
+<p>Driven by a clear vision to unlock potential and inspire progress, the
+Student Council leads key initiatives that empower student representation.
+These include the Student Council Presidential Election, the Student Suggestion
+Scheme—featuring the Online Suggestion Portal—and Town Hall Discussions.
+They also elevate signature events like the Student Leaders’ Investiture
+and Teachers’ Day Celebrations, adding thoughtful touches that bring people
+together and create lasting memories.</p>
+<p>More than just a leadership body, the Student Council is a team of passionate
+individuals who lead with integrity, resilience, and a strong sense of
+purpose. Their contributions continue to shape a school culture where every
+student feels seen, heard, and valued.</p>
+<h4><strong>Executive Committee of Student Council 2025</strong></h4>
 <p><strong>President: </strong>Darren Ng Jun Sheng
 <br><strong>Vice-President:</strong> Heng Zi Ling
 <br><strong>Head of Student Development Council:</strong> Anika Hedge
@@ -26,24 +44,6 @@ Mahesh
 <br><strong>Head of Class Leaders Council:</strong> Calvin Yap Weng Feng
 <br><strong>Vice-Head of Class Leaders Council:</strong> Soriano Ildefonso
 III Cervantes</p>
-<p></p>
-<h4><strong>The Student Council: Leading with Heart and Purpose</strong></h4>
-<p>The Student Council is the heartbeat of our school—an energetic and dedicated
-team committed to creating a positive, inclusive, and spirited environment
-for all. Their leadership plays a vital role in strengthening our school
-community, championing student voice, and addressing concerns with care
-and initiative.</p>
-<p>Guided by a clear vision to unlock potential and drive progress, the Student
-Council oversaw key platforms to empower student representation, such as
-the Student Council Presidential Election, the Student Suggestion Scheme—including
-the Online Suggestion Portal—and Town Hall Discussions. They also enriched
-signature events like the Student Leaders’ Investiture and Teachers’ Day
-Celebrations, adding meaningful touches that brought people together and
-made lasting memories.</p>
-<p>More than just a leadership body, the Student Council is a team of passionate
-individuals who lead with integrity, resilience, and a deep sense of responsibility.
-Their contributions have left a lasting impact, making our school a better
-place for all.</p>
 <h4><strong><u>Key Programmes</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
