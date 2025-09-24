@@ -5,6 +5,15 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
+<p>A big part of our school’s Student Leadership programme is our Learning
+for Life (LLP) programme, <strong>A</strong>dopt <strong>S</strong>ustainability, <strong>C</strong>ommunicate <strong>E</strong>ffectively, <strong>N</strong>avigate <strong>D</strong>iversity
+(ASCEND). ASCEND at CCSS provides students with a unique and meaningful
+journey in Leadership and Sustainability. Designed to empower students
+with 21st-century competencies, ASCEND equips Changkateers with the skills
+to lead, inspire, and make a difference in their communities — especially
+in advancing Singapore’s green future.&nbsp;</p>
+<p>Check out <a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/ascend/" rel="noopener nofollow" target="_blank">ASCEND</a> to
+find out more about our LLP programme.</p>
 <h2><strong>Student Council</strong></h2>
 <p><strong>President: </strong>Darren Ng Jun Sheng
 <br><strong>Vice-President:</strong> Heng Zi Ling
