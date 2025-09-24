@@ -5,8 +5,8 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<p>A big part of our school’s Student Leadership programme is our Learning
-for Life (LLP) programme, <strong>A</strong>dopt <strong>S</strong>ustainability, <strong>C</strong>ommunicate <strong>E</strong>ffectively, <strong>N</strong>avigate <strong>D</strong>iversity
+<p>A big part of our school’s Student Leadership Programme is our Learning
+for Life (LLP) Programme, <strong>A</strong>dopt <strong>S</strong>ustainability, <strong>C</strong>ommunicate <strong>E</strong>ffectively, <strong>N</strong>avigate <strong>D</strong>iversity
 (ASCEND). ASCEND at CCSS provides students with a unique and meaningful
 journey in Leadership and Sustainability. Designed to empower students
 with 21st-century competencies, ASCEND equips Changkateers with the skills
