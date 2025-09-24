@@ -3,8 +3,9 @@ title: School Safety
 permalink: /quick-links/School-Safety/School-Safety/
 description: ""
 third_nav_title: School Safety
+variant: markdown
 ---
-he Ministry of Education (MOE) and schools have in place a school continuity plan to ensure the well-being of our students and staff during a haze situation. Schools are ready to respond and take appropriate haze management measures based on a set of guidelines corresponding to the health advisory.
+The Ministry of Education (MOE) and schools have in place a school continuity plan to ensure the well-being of our students and staff during a haze situation. Schools are ready to respond and take appropriate haze management measures based on a set of guidelines corresponding to the health advisory.
 
   
 
