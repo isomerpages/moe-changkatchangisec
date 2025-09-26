@@ -51,7 +51,7 @@ Thank You.
 </td>
 <td style="width: 33.3333%; text-align: center;">
 <p><img src="/images/LLP.jpg" style="width:100%;float:left"></p>
-<p><strong><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/Learning-for-Life-Programme-LLP">Learning for Life Programme</a></strong></p><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/Learning-for-Life-Programme-LLP">
+<p><strong><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/ascend/">Learning for Life Programme</a></strong></p><a href="https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/ascend/">
 </a></td>
 <td style="width: 33.3333%; text-align: center;">
 <p><img src="/images/Academic%20Prog.jpg" style="width:100%;float:left"></p>
