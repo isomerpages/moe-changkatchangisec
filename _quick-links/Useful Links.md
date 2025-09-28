@@ -13,7 +13,7 @@ variant: markdown
 
 **[Student Learning Space (Instructions and FAQs)](/files/Student%20Learning%20Space%20(Instructions%20and%20FAQs).pdf)**
 
-**GCE Examinations Guide for Students (4N/4E/5N)**
+**[GCE Examinations Guide for Students (4N/4E/5N)](https://file.go.gov.sg/seab-rulesandregulations-secondary.pdf)**
 
 **[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/changkatchangisec)**
 
@@ -25,7 +25,7 @@ variant: markdown
 
 **2a.&nbsp; [2024 JIEN Information Booklet (For 4NA Students)](/files/gce_n_admission_booklet_2024.pdf)**
 
-**2b.&nbsp;&nbsp;2023 JAE Information Booklet&nbsp;(For 4E/5N Students)**
+**2b. [2023 JAE Information Booklet&nbsp;(For 4E/5N Students)](https://www.moe.gov.sg/post-secondary/admissions/jae)**
 
   
 
