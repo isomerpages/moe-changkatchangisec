@@ -36,12 +36,12 @@ our curriculum to promote thinking and tinkering to develop solutions.</p>
 techniques to perform the desired tasks confidently.</p>
 </li>
 <li>
-<p>To build and apply a repertoire of knowledge, understanding and skills
+<p>to build and apply a repertoire of knowledge, understanding and skills
 in order to design and make high-quality prototypes and products for a
 wide range of users.</p>
 </li>
 <li>
-<p>To critique, evaluate and test their ideas and products.</p>
+<p>to critique, evaluate and test their ideas and products.</p>
 </li>
 </ul>
 <p>Key Programmes</p>
