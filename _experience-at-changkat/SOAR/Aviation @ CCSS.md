@@ -101,4 +101,3 @@ Our Aviation Programme was featured on the news, twice!
 In June 2016, the learning experience took students overseas to NASA in Houston together with Mr Melvin Ng, HOD/Science, and Mr Patrick Ang! The students also won awards for Excellence in Mission Design - Scientific Challenge and Commercial Presentation during this trip.
 
 <img src="/images/Experience-3.jpeg" style="width:50%;float:left"><img src="/images/Experience-4.jpeg" style="width:50%">
-<center>Check out more about the NASA trip to Houston and our Changkateer's experience from the video below!</center>
