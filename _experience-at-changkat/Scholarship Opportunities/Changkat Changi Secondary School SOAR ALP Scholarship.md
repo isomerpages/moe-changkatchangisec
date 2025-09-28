@@ -13,7 +13,7 @@ The scholarship is aimed at motivating deserving Changkateers and recognising t
 
 ##### **1.Eligibility Criteria for the SOAR ALP Scholarship**
 
-Any Secondary 2-5 CCSS student who fulfils the criteria and is shortlisted by the Interview panel.
+Any Secondary 2-5 (G1, G2 and G3) CCSS student who fulfils the criteria and is shortlisted by the Interview panel.
 
 3 scholarships will be awarded in the following academic year during Speech Day, to one student who would have progressed to Secondary 2, Secondary 3 and Secondary 4/5 respectively.
 
@@ -23,9 +23,9 @@ Any Secondary 2-5 CCSS student who fulfils the criteria and is shortlisted by th
 
 Attained top academic positions in the Express, Normal Academic or Normal Technical Stream **OR** outstanding results in national/international competitions related to aerospace/aviation/STEM based field
 
-**(ii)**          **Good display of R3ICH values**
+**(ii)**          **Good display of icar2e values**
 
-Has exemplary conduct and demonstrates the school’s R3ICH values endorsed by the Form Teacher and at least 2 other teachers, one of whom must be the student’s Applied Learning Programme (ALP)/STEM teacher who would be in the best position to assess the student’s attitude and aptitude during ALP/STEM lessons;
+Has exemplary conduct and demonstrates the school’s icar2e values endorsed by the Form Teacher and at least 2 other teachers, one of whom must be the student’s Applied Learning Programme (ALP)/STEM teacher who would be in the best position to assess the student’s attitude and aptitude during ALP/STEM lessons;
 
 **(iii)**         **Consistently good leadership or co-curricular activities records**  
 
@@ -43,7 +43,7 @@ Observable passion and interest in aerospace/aviation OR STEM-based field  (as
 
 **1)**      Application
 
-·       Students may apply for the scholarship by filling in the scholarship application form available from the school’s General Office after the release of EOY SA2 results. The form is also available [here](/files/Scholarship/ALP_Scholarship_Application_Form_2025.pdf).
+·       Students may apply for the scholarship by filling in the scholarship application form available from the school’s General Office after the release of EOY results. The form is also available [here](/files/Scholarship/ALP_Scholarship_Application_Form_2025.pdf).
 
 ·       Alternatively, teachers may also nominate students by completing and submitting the application form.
 

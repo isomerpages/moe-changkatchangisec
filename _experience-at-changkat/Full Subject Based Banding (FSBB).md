@@ -4,7 +4,7 @@ permalink: /experience-at-changkat/Full-Subject-Based-Banding-SBB/
 description: ""
 variant: markdown
 ---
-Changkat Changi Secondary School (CCSS) is one of 30+ secondary schools which will implement Full Subject-Based Banding (Full SBB) from 2023. Our school’s key approach on Positive Education includes a school culture that promotes deep learning, enhances well-being and builds character. This approach develops necessary life skills through our academic and non-academic curriculum (including Applied Learning Programme, Learning for Life Programme and Character &amp; Citizenship Education) to enable our students to thrive and flourish in the complexities of the current environment and the VUCA world.&nbsp;  
+Changkat Changi Secondary School (CCSS) is one of 30+ secondary schools which will implement Full Subject-Based Banding (Full SBB) from 2023. Our school’s key approach on Positive Education includes a school culture that promotes deep learning, enhances well-being and builds character. This approach develops necessary life skills through our academic and non-academic curriculum (including Applied Learning Programme, Learning for Life Programme and Character &amp; Citizenship Education) to enable our students to thrive and flourish in the complexities of the current environment and the VUCA (volatile, uncertain, complex, ambiguous) world.&nbsp;  
   
   
 
