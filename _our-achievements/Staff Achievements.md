@@ -122,7 +122,7 @@ variant: tiptap
 <br>2. Low Yan Fang</p>
 <p></p>
 <p><u>Most Fashionable Award 2023</u>
-<br>Aliah Aman Aljunied
+<br>1. Aliah Aman Aljunied
 <br>2. Sim Jia En</p>
 <p></p>
 <p><u>The Wise One Award 2023</u>
