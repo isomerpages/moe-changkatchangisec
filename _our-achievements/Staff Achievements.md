@@ -4,6 +4,199 @@ permalink: /our-achievements/Staff-Achievements/
 description: ""
 variant: tiptap
 ---
+<h3>2025 Achievements</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>PROFESSIONAL CATEGORY</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CARING TEACHER AWARD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SKILLFULL TEACHER AWARD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SERVICE EXCELLENCE AWARD</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1) ADIBAH BTE ABBAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1) AILEEN TAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1) NABILAH BINTI RAZALI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2) ENNY LAU LI WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2) HUANG YALING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2) SHIRLEY TAY SIEW YONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3) KATHERINE YEUNG SEE MUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3) SIDDIQ SULEIMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3) TAN BOON LEE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4) RISHVINDER SINGH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4) WAN BING KHIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4) VELLACHI D/O RAMU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5) SIM JIA EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6) TRISTAN GOH CHENG ZE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>FUN CATEGORY</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AWESOME PERSONALITY AWARD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ENGAGING STORYTELLER AWARD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>FULL OF ENERGY AWARD</strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1) DJOHAN BIN ABDUL RAHMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1) MAY KANG ENG LING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1) WANG XIAO HUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2) NAHAR AZMI BIN ABDUL MAJID</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2) CAMILLUS CHUA JIN BAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2) MOHAMED SYAFIQ BIN MOHAMED RAFID</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOST FASHIONABLE AWARD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>THE WISE ONE AWARD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1) EDITH CHENG ENG ENG (MRS MILESI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1) YAP MENG WEI KELVIN</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2) YEO SHAO HUI TIMOTHY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2) POH WEI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>2024 Achievements</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -209,68 +402,6 @@ Conference and clinched the 3rd place in the 3rd KI Hajar Dewantara Award</p>
 <div class="isomer-image-wrapper">
 <img style="width:33%" height="auto" width="100%" src="/images/PATRICK%20ANG%20LH%20SCIENCE.jpeg">
 </div>
-<h3>2020 Achievements</h3>
-<p>The National Day Commendation Medal is awarded to individuals who display
-commendable performance and conduct, or significant efficiency, competence
-and devotion to duty. Our heartiest congratulations to Ms Nuraini Abu Bakar
-for receiving this award!</p>
-<div class="isomer-image-wrapper">
-<img style="width:33%" height="auto" width="100%" src="/images/Ms%20Nuraini%20Bte%20Abu%20Bakar.jpg">
-</div>
-<h3>2019 Achievements</h3>
-<p>Congratulations to Mr Patrick Ang on being awarded the Outstanding STEM
-Teacher Award. The award is a recognition to educators who are passionate
-in the area of STEM education. Mr Patrick Ang is also one of the&nbsp;
-teachers in charge of our Aviation programme.</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Mr%20Ang%20Peng%20Siang2.jpg">
-</div>
-<p>Congratulations to Mdm Perema for completing her PHD. She is a shinning
-example of lifelong learning and an inspiration to all of us here in CCSS!</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Mdm%20Perema%20D_O%20Ramasamy.jpg">
-</div>
-<p>The Commendation Medal was instituted in 1996. The Medal is awarded to
-individuals who display commendable performance and conduct, or significant
-efficiency, competence and devotion to duty. Our heartiest congratulations
-to Mrs Selina Tan, Mr Lee Chin Teck and Mr Ho Beng Khiaw for receiving
-this award as a recognition of their efforts and many contributions.</p>
-<div class="isomer-image-wrapper">
-<img style="width:33%;float:left" height="auto" width="100%" src="/images/Mrs%20Selina%20Tan-Lim%20Wei%20Yin.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:33%;float:left" height="auto" width="100%" src="/images/Mr%20Lee%20Chin%20Teck2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:33%" height="auto" width="100%" src="/images/Mr%20Ho%20Beng%20Khiaw2.jpg">
-</div>
-<h3>2016 Achievements</h3>
-<p><strong>The Commendation Medal, 2016</strong>
-</p>
-<p>The Commendation Medal was instituted in 1996. The Medal is&nbsp;awarded
-to individuals who display&nbsp;commendable performance and conduct, or
-significant efficiency, competence and devotion to duty. Our heartiest
-congratulations to Mr Melvin Ng Yong Hui&nbsp;for receiving this award
-as a recognition of his efforts in spearheading the School's Applied Learning
-Programme in Aviation!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed-600x395.jpeg">
-</div>
-<h3>2015 Achievements</h3>
-<p><strong>Outstanding Youth in Education Award (OYEA)</strong>&nbsp;
-<br>OYEA honours the achievements of young educators. Launched in 1999, it
-recognises inspiring teachers for their youthful idealism, enthusiasm and
-active involvement in the development of youth beyond the formal curriculum.&nbsp;Our
-heartiest congratulations to Mr Hazleman Norhafis for clinching this award!&nbsp;</p>
-<p><strong>Associate of Academy of Singapore Teachers&nbsp;Awards</strong>&nbsp;</p>
-<p>On 13 November 2015, Mdm Perema and Ms Angeline Sim attended the Academy
-Awards Presentation at ITE College Central to receive the Associate of
-Academy of Singapore Teachers award. This award is conferred onto education
-officers who have contributed to the professional development of the fraternity
-beyond their job scope or workplace. Our heartiest congratulations to Mdm
-Perema&nbsp;and Ms Angeline Sim&nbsp;for their achievements and contributions!</p>
-<div class="isomer-image-wrapper">
-<img style="width:33%;float:left" height="auto" width="100%" src="/images/Mdm%20Perema%20D_O%20Ramasamy.jpg">
-</div>
+<h3></h3>
 <p></p>
 <p></p>
