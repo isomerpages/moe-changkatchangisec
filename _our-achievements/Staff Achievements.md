@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>2025 Achievements</h3>
+<p><strong>Staff Awards</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
