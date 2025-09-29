@@ -359,7 +359,6 @@ Abdul Jalil (4E3)</p>
 <p></p>
 <p></p>
 <h3><strong>2021 Achievements</strong></h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <h4><strong>Performing Arts</strong></h4>
 <p>Malay Dance
 <br>- SYF 2021 (Certificate of Distinction)
