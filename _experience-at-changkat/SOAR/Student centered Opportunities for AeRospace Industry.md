@@ -42,7 +42,7 @@ Outside of the classrooms, assembly talks were held where guests from Singapore 
 <img src="/images/Experience-2-300x225.jpeg" style="width:50%">
 <center>Students visiting aviation open house</center>
 
-Enriching the students further, students were selected and trained to take part in external competitions. For example, in the Aerochallenge at Ngee Ann Polytechnic, our secondary three Physics students visited Temasek Polytechnic and ITE for their aerospace/ aviation based enrichment workshop to learn more aviation related skills such as the designing of aircrafts as part of their training
+Enriching the students further, students were selected and trained to take part in external competitions. For example, in the Aerochallenge at Ngee Ann Polytechnic, our secondary three Physics students visited Temasek Polytechnic and ITE for their aerospace/ aviation based enrichment workshop to learn more aviation related skills such as the designing of aircrafts as part of their training.
 
 
 
