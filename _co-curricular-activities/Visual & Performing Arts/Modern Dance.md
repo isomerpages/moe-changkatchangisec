@@ -11,17 +11,17 @@ variant: tiptap
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ms Jenny Lau (I/C)</strong>
+<p><strong>Ms Bernice Khoo (I/C)</strong>
 </p>
 </li>
 <li>
-<p>Ms Bernice Khoo (2 I/C)</p>
+<p>Dr Jessica Seah (2 I/C)</p>
 </li>
 <li>
-<p>Dr Jessica Seah</p>
+<p>Ms Grace Lee</p>
 </li>
 <li>
-<p>Ms Fizah</p>
+<p>Ms Esther Khoo</p>
 </li>
 </ul>
 <h3>Training time &amp; venue:</h3>
@@ -78,6 +78,9 @@ genre of dance</p>
 </ul>
 <h3>CCA Achievements</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p>2025 – Singapore Youth Festival: Certificate of Distinction</p>
+</li>
 <li>
 <p>2023 – Singapore Youth Festival: Certificate of Distinction</p>
 </li>
