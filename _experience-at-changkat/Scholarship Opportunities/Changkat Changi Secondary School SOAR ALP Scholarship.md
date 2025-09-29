@@ -61,7 +61,7 @@ Observable passion and interest in aerospace/aviation OR STEM-based field  (as
 
 ##### Number of Scholarships and Value
 
-Scholarships will be open to any Secondary 1-3, or 4NA CCSS student who fulfils the criteria and is shortlisted by the Interview panel following the EOY SA2 Exams.
+Scholarships will be open to any Secondary 1-3, or 4NA CCSS student who fulfils the criteria and is shortlisted by the Interview panel following the EOY Exams.
 
 **3 scholarships will be awarded in the following academic year, to one student who would have progressed to Secondary 2, Secondary 3 and Secondary 4/5 respectively.**
 
