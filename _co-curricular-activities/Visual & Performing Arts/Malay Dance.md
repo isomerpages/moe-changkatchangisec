@@ -11,7 +11,7 @@ variant: tiptap
 <h3>Teacher in Charge:</h3>
 <ul>
 <li>
-<p><strong>Ms Namira Bte Muhammad (I/C)</strong>
+<p><strong>Ms Namira Bte Mohamed (I/C)</strong>
 </p>
 </li>
 <li>
@@ -74,31 +74,22 @@ art form across communities.</p>
 <h3>CCA Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>2023 - SYF Certificate of Distinction</p>
+<p>2025 – Singapore Youth Festival: Certificate of Accomplishment</p>
 </li>
 <li>
-<p>2021 - SYF Certificate of Distinction</p>
+<p>2023 – SYF Certificate of Distinction</p>
 </li>
 <li>
-<p>2019 - SYF Certificate of Accomplishment</p>
+<p>2021 – SYF Certificate of Distinction</p>
 </li>
 <li>
-<p>2017- Singapore Youth Festival: Certificate of Distinction</p>
+<p>2019 – SYF Certificate of Accomplishment</p>
+</li>
+<li>
+<p>2017 – Singapore Youth Festival: Certificate of Distinction</p>
 </li>
 <li>
 <p>2015 – Singapore Youth Festival: Certificate of Accomplishment</p>
-</li>
-<li>
-<p>2014 - Singapore Youth Festival: Certificate of Accomplishment</p>
-</li>
-<li>
-<p>2013 – Singapore Youth Festival: Certificate of Accomplishment</p>
-</li>
-<li>
-<p>2011 – SYF Central Judging Gold Award</p>
-</li>
-<li>
-<p>2009 - SYF Central Judging Silver Award</p>
 </li>
 </ul>
 <p></p>
