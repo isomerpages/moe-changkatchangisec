@@ -224,7 +224,7 @@ or ITE.</p>
 <p>2025 JIE-N Brochure</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-and-course-information-brochure-jan-2025.pdf?sfvrsn=25d380a3_9" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-and-course-information-brochure-jan-2025.pdf?sfvrsn=25d380a3_9</a> 
+<p><a href="https://isomer-user-content.by.gov.sg/145/48bdfb9b-7035-4d0e-99d6-8312db677882/jien-jiee-2025-intake-entry-requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/48bdfb9b-7035-4d0e-99d6-8312db677882/jien-jiee-2025-intake-entry-requirements.pdf</a>
 <br>
 </p>
 </td>
