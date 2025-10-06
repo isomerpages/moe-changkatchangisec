@@ -90,7 +90,7 @@ or ITE.</p>
 <p>Course Finder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/coursefinder</a> 
+<p><a href="https://go.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/coursefinder</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ about the course (modules and career prospects), etc.</p>
 <p><a href="https://go.gov.sg/pfp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfp</a>
 </p>
 <p></p>
-<p><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html</a> 
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,25 +237,15 @@ about the course (modules and career prospects), etc.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec<br></a>
 </p>
-<p></p>
+<p>
+<br>
+</p>
 <p><a href="https://discover.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To learn about the different jobs and industries, connect with industry
 professionals and get a taster into various job roles of your interest</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discover.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
