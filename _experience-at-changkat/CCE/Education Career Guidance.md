@@ -5,8 +5,9 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/ECG.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ECG1.png">
 </div>
 <p>Education and Career Guidance (ECG) is about equipping students with the
 necessary knowledge, skills and values to make informed decisions at each
@@ -36,7 +37,6 @@ and interests can have a chat with our school’s ECG Counsellor.</p>
 <img style="width:50%" height="auto" width="100%" src="/images/QR.png">
 </div>
 <h5>ACADEMIC PATHWAYS EXPLORATION</h5>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
