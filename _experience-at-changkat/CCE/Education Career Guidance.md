@@ -239,8 +239,6 @@ or ITE.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec<br></a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To learn about the different jobs and industries, connect with industry
