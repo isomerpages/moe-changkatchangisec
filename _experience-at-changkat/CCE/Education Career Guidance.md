@@ -73,19 +73,6 @@ after your secondary school</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Course Finder</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/coursefinder</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Explore courses based on aggregate type, score, minimum entry requirements,
-details about the course (modules and career prospects), etc.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Admissions Exercises and Programmes</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,37 +87,38 @@ or ITE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A-Level curriculum and subject syllabuses (JC/MI)</p>
+<p>Course Finder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses</a>
+<p><a href="https://go.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/coursefinder</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JC/Millennia Institute</p>
+<p>Explore courses based on aggregate type, minimum entry requirements, details
+about the course (modules and career prospects), etc.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Institute of Technical Education (ITE)</p>
+<p>Full Subject-Based Banding (FullSBB)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/admissions/full-time-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
+</p>
+<p></p>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/faq.html#changes-to-post-secondary-admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/faq.html#changes-to-post-secondary-admissions</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Courses available at ITE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Course Booklet 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-final.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf</a> &nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Courses available at ITE</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Full SBB information</p>
+</li>
+<li>
+<p>Singapore-Cambridge Secondary Education Certificate (SEC)</p>
+</li>
+</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -138,36 +126,61 @@ or ITE.</p>
 <p>Poly Foundation Programme (PFP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pfp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfp</a> &nbsp;&nbsp;
-<br><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html</a>
+<p><a href="https://go.gov.sg/pfp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfp</a>
+</p>
+<p></p>
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4N(A)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GCE N-level: Normal Academic</p>
+</li>
+<li>
+<p>SEC from 2028 intake</p>
+</li>
+</ul>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nanyang Academic of Fine Arts (NAFA) Foundation Programme&nbsp;</p>
+<p>Nanyang Academy of Fine Arts (NAFA) Foundation Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/applynafafp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/applynafafp</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4N(A)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GCE N-level: Normal Academic</p>
+</li>
+<li>
+<p>SEC from 2028 intake</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nanyang Academic of Fine Arts (NAFA) Diploma</p>
+<p>Nanyang Academy of Fine Arts (NAFA) Diploma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nafa.edu.sg/courses/diploma" rel="noopener noreferrer nofollow" target="_blank">https://www.nafa.edu.sg/courses/diploma</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4N(A)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GCE O-level: 4Exp &amp; 5N(A)</p>
+</li>
+<li>
+<p>SEC from 2028 intake</p>
+</li>
+</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -179,18 +192,14 @@ or ITE.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exp &amp; 5N(A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GCE O-level: 4Exp &amp; 5N(A)</p>
+</li>
+<li>
+<p>SEC from 2028 intake</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -221,41 +230,32 @@ or ITE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025 JIE-N Brochure</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://isomer-user-content.by.gov.sg/145/48bdfb9b-7035-4d0e-99d6-8312db677882/jien-jiee-2025-intake-entry-requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/48bdfb9b-7035-4d0e-99d6-8312db677882/jien-jiee-2025-intake-entry-requirements.pdf</a>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For N-level students seeking admission to ITE College (NITEC, DPP etc.)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>My-Skills-Future Portal (Secondary)</p>
+<p></p>
+<p>On My Way</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec<br></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To learn about the different jobs and industries, connect with industry
-professionals and get a taster into various job roles of your interest</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>On My Way</p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <p><a href="https://discover.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To learn about the different jobs and industries, connect with industry
 professionals and get a taster into various job roles of your interest</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discover.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
