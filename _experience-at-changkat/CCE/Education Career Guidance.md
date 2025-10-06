@@ -236,8 +236,6 @@ about the course (modules and career prospects), etc.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec<br></a>
-</p>
-<p>
 <br>
 </p>
 <p><a href="https://discover.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/</a>
