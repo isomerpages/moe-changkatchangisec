@@ -231,13 +231,21 @@ about the course (modules and career prospects), etc.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>My-Skills-Future Portal (Secondary)</p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To learn about the different jobs and industries, connect with industry
+professionals and get a taster into various job roles of your interest</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>On My Way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec<br></a>
-<br>
-</p>
 <p><a href="https://discover.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/</a>
 </p>
 </td>
