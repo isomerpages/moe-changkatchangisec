@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/test_1080.gif
+      background: /images/homepage1080.gif
       key_highlights:
         - title: A day in the life of a Changkateer
           description: Follow us on Instagram here
