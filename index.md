@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/safezone_homepage_1920.gif
+      background: /images/homepage2.gif
       key_highlights:
         - title: A day in the life of a Changkateer
           description: Follow us on Instagram here
@@ -22,6 +22,11 @@ sections:
           description: FSBB
           url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
       variant: image
+      title: ad
+      subtitle: asd
+      size: md
+      alignment: right
+      backgroundColor: gray
   - resources:
       title: Announcements
       button: Read More
