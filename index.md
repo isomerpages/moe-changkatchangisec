@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/safezone_homepage.gif
+      background: /images/safezone_homepage_1920.gif
       key_highlights:
         - title: A day in the life of a Changkateer
           description: Follow us on Instagram here
