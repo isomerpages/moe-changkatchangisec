@@ -13,15 +13,15 @@ variant: markdown
 
 Please click [here](https://youtu.be/a_fnqJk79vQ?si=vBM97EVrKhOAVZez) to view our Principal's Address.
 <br>
-Please click [here](https://youtu.be/5rbiiSQDMYI?si=F1A7FxZDzk9DAxH8) to view our Open House video.
+Please click [here](https://www.youtube.com/watch?v=NxEkSSsQcMI&amp;t=51s) to view our Open House video.
 
 
 
 Dear Parents,
 <br>
-We will be having our Open House on 23 November 2024 from 9.00 am – 1.00 pm. Join us!
+We will be having our Open House on 15 November 2025 from 9.00 am – 12.30 pm. Join us!
 <br>
-Click [here](/files/CCSS_Brochure_2024.pdf) to view our E-Open House Brochure.  
+Click [here](https://drive.google.com/file/d/1qYZbrCxG5W8rV4xf1q19RJ3JgvbGUVXu/view?usp=sharing) to view our E-Open House Brochure.  
 
 Thank You.
 
