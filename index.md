@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage2.gif
+      background: /images/Open_house.png
       key_highlights:
         - title: A day in the life of a Changkateer
           description: Follow us on Instagram here
@@ -21,7 +21,10 @@ sections:
         - title: FULL SUBJECT-BASED BANDING
           description: FSBB
           url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
-      variant: image
+      variant: center
+      size: md
+      alignment: right
+      backgroundColor: gray
   - resources:
       title: Announcements
       button: Read More
