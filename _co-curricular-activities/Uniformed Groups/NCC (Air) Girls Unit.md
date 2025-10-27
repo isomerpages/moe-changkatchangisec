@@ -94,8 +94,10 @@ countries such as India and Hong Kong}</p>
 </li>
 </ul>
 <p>2023 Unit Recognition – Distinction</p>
-<p>SPORTS CHAMPIONSHIP</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>SPORTS CHAMPIONSHIP</p>
+</li>
 <li>
 <p>Captain’s Ball Competition - District 2nd Runner Up</p>
 </li>
