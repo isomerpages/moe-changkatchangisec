@@ -42,7 +42,7 @@ skills as they navigate an increasingly digitalised world.</p>
 <h2>FOR STUDENTS</h2>
 <p><a href="https://sites.google.com/moe.edu.sg/ccss-student-hbl-page" rel="noopener noreferrer nofollow" target="_blank">Student Page on PLD and Digital Literacy skills</a>
 <br><a href="https://drive.google.com/file/d/19HjmaoWJ1HTAxC6teSqugtKc7Lsca6hB/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Student Kit for Cyber Wellness &amp; Learning with a PLD</a>
-<br><a href="/files/2%20Acceptable%20Use%20Policy%20AUP%20Agreement%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Acceptable Use Policy (AUP)</a>&nbsp;for
+<br><a href="/files/PDLP/Acceptable_Use_Policy__AUP__Agreement_for_ICT_Devices__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Acceptable Use Policy (AUP)</a>&nbsp;for
 healthy use of PLDs in the school
 <br><a href="/files/Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
 <br><a href="http://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
