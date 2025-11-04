@@ -28,12 +28,6 @@ sections:
   - resources:
       title: Announcements
       button: Read More
-  - infobar:
-      title: Home Based Learning (HBL)
-      id: infobar
-      description: Please click here for more info
-      button: Here
-      url: https://www.changkatchangisec.moe.edu.sg/quick-links/School-Safety/Guide-to-Home-Based-Learning-HBL/
   - infopic:
       title: LEARN WITH PASSION
       subtitle: Learning is always exciting
@@ -64,4 +58,10 @@ sections:
       alt: Changkat Changi Facebook
       url: https://www.facebook.com/changkateers/
       button: Follow us
+  - infobar:
+      title: Home Based Learning (HBL)
+      id: infobar
+      description: Please click here for more info
+      button: Here
+      url: https://www.changkatchangisec.moe.edu.sg/quick-links/School-Safety/Guide-to-Home-Based-Learning-HBL/
 ---
