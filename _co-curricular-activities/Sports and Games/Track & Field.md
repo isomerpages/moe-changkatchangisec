@@ -15,69 +15,68 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Mr Muhammad Yusuf</p>
+<p>Mr Ng Boon Hian (2IC)</p>
 </li>
 <li>
-<p>Ms Esther Khoo</p>
+<p>Ms. Lau Jia Qi</p>
 </li>
 <li>
-<p>Ms Jael Ng Geng Hui</p>
+<p>Mr. Tan Tze Siong</p>
+</li>
+<li>
+<p>Ms. Kang Eng Ling</p>
 </li>
 </ul>
 <h3>Training time &amp; venue:</h3>
-<p>Tuesday, 1600 - 1800 (Bedok Stadium/ Bedok Reservoir/ School Gym/ ISH
-Level 1)
-<br>Thursday, 1600 - 1800 (Bedok Stadium/ Bedok Reservoir/ School Gym/ ISH
-Level 1)</p>
-<p>&nbsp;</p>
+<p>Tuesdays and Thursdays at 1545 - 1745 (Bedok Stadium)</p>
 <h3>CCA Objectives</h3>
-<p>In this CCA, we hope to instill the values of commitment, self-discipline
-and perseverance to our members. They take pride in representing the school
-in competitions, and always give their best in the pursuit of breaking
-their personal bests. Trainings, especially during the peak season, may
-sound arduous, but our members enjoy the process of training together and
-bonding with one another. It is the close friendship forged and continuous
-improvements they make which motivate them to train even harder.</p>
-<h3>Key programmes</h3>
-<p>Competitions in 2018:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Series 2</p>
-</li>
-<li>
-<p>SPH School Relays</p>
-</li>
-<li>
-<p>NYP Invitational</p>
-</li>
-<li>
-<p>U18/U20 Athletic Championships</p>
-</li>
-<li>
-<p>National Inter-School Track and Field Championships</p>
-</li>
-</ul>
-<p>Annual Track and Field Camp</p>
+<p>In Track &amp; Field, every stride, every leap, and every sprint is more
+than just a test of speed and strength — it is a journey of growth, resilience,
+and unwavering determination. Our Changkateer athletes embody the values
+of commitment, self-discipline, perseverance, and grit, taking pride in
+wearing the school colours and representing the school with heart and honour.</p>
+<p>With every training session, our athletes are not only striving to break
+their personal bests but also discovering the joy of growth and the power
+of teamwork. This spirit of perseverance extends far beyond the track,
+inspiring them to excel in other aspects of life with the same passion
+and resilience.</p>
 <h3>CCA Achievements</h3>
-<p><strong>National Track and Field Championships</strong>
-<br>1st for 400m B Girls - Ng Jia Yi from 4E3
-<br>4th for 800m B Girls - Ng Jia Yi from 4E3
-<br>8th for 200m C Boys - Nicholas Koh from 2E3
-<br>7th for 4X100 C Boys - Nicholas Koh ( 2E3), Nigel Diep (2N1), Bryan Seet
-(2N1), Lim Rayen (1N1)\**</p>
-<p>Singapore Youth &amp; Junior Athletics Championships**</p>
-<p>1st for 400m B Girls - Ng Jia Yi from 4E3</p>
-<p>Mohd Reyhan Amierul B A H</p>
+<p><strong><u>Erovra Relay Championships 2025</u></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>19th&nbsp;for the National Inter-School Cross-Country Championships 2011</p>
-</li>
-<li>
-<p>1st&nbsp;for his 800m event for the National Inter-School Track and Field
-Championships 2011</p>
+<p>‘C’ Division Boys – 4 x 100m Relay Finals&nbsp;(3<sup>rd</sup> position)</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tnf8.png">
-</div>
+<p><strong><u>National School Games Track &amp; Field 2025</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Rico Tan Jun Hong 4B&nbsp;</u>
+</p>
+<p>‘B’ Division Boys – 400m Finals (5<sup>th</sup> position)</p>
+<p>‘B’ Division Boys – 400m Hurdles Finals (6<sup>th</sup> position)</p>
+</li>
+<li>
+<p><u>Molina John David Naputo 2A</u>
+</p>
+<p><u>Hazwan Bin Hazman 2A</u>
+</p>
+<p><u>Magbitang Cale Timothy Acuna 2G</u>
+</p>
+<p><u>Muhammad Irfan Danish Bin Hamzah 1G</u>
+</p>
+<p>‘C’ Division Boys – 4 x 100m Relay Finals (7<sup>th</sup> position)</p>
+</li>
+<li>
+<p><u>Molina John David Naputo 2A</u>
+</p>
+<p>‘C’ Division Boys – 200m Finals (8<sup>th</sup> position)</p>
+</li>
+<li>
+<p><u>Tan Zi An Brandon 2G</u>
+</p>
+<p>‘C’ Division Boys – 1500m Race Walk Finals (14<sup>th</sup> position)</p>
+</li>
+</ul>
 <p></p>
