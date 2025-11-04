@@ -46,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2) ENNY LAU LI WEI</p>
+<p>2) JENNY LAU LI WEI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2) HUANG YALING</p>
