@@ -5,8 +5,7 @@ description: ""
 variant: markdown
 ---
 ### **2025 Achievements**
-| Department | Event/Competition | Award Achieved | Remarks |
-| -------- | -------- | -------- | -------- |
+
 
 ### **2024 Achievements**
 
