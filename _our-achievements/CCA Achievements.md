@@ -4,7 +4,218 @@ permalink: /our-achievements/CCA-Achievements/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h3><strong>2025 Achievements</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Physical Sports</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changkat Changi Badminton Invitational Tournament
+<br>2nd (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCSS Netball Carnival - 2nd</p>
+<p>National School Games ‘C’ Division Netball Championship 2025
+<br>League 3 - Participated</p>
+<p>National School Games ‘B’ Division Netball Championship 2025 - Participated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sepak Takraw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pesta Sukan Regu A Under 14 - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG C Division Boys 200m
+<br>MOLINA JOHN DAVID NAPUTO (2A) - 8th</p>
+<p>NSG B Division Boys 400m
+<br>RICO TAN JUN HONG (CHEN JUNHONG) (4B) - 5th</p>
+<p>NSG B Division Boys 400m Hurdles
+<br>RICO TAN JUN HONG (CHEN JUNHONG) (4B) - 6th</p>
+<p>NSG C Division Boys 1500m Race Walk
+<br>TAN ZI AN BRANDON (2G) - 14th</p>
+<p>NSG C Division Boys 4 x 400m Relays - 7th</p>
+<p>Enovra Relay Championships 2025
+<br>C Division Boys 4x100m Relay - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Others (Wushu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG C Division 5 Duan Nan Quan
+<br>JIANG XIN YU LEO (1G) - 8th</p>
+<p>NSG C Division 1st International Nan Gun
+<br>JIANG XIN YU LEO (1G) - 9th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>Uniformed Groups</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award - High Distinction</p>
+<p>Best Boy Award
+<br>JULIAN CEDRICK SANTIAGO ANDAYA (4F)</p>
+<p>Founder's Award
+<br>HEW ZI FENG (4D), JULIAN CEDRICK SANTIAGO ANDAYA (4F), NG ZHI RONG (4D),
+NGIN ZHI HENG, SETH (4A), TAN WEI HONG (4D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah (PNA) Award - Gold award</p>
+<p>BPA Award
+<br>NOOR SARAHFINA BINTE MOHAMED AMIR (4B) - Baden Powell Award</p>
+<p>World Thinking Day National Competition
+<br>THERESA NG ZHI WAN (3C) - 2nd Position (Think Out of the Cookie Box)</p>
+<p>East Division Festival (East Division Schools Competition)
+<br>SHAYLYNN SU XIN LING (2C) - 3rd position (Patch Design Competition)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Air Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition (UR) - Distinction Award</p>
+<p>Outstanding Cadet Award
+<br>HAFAZAH BIN ROHAIZAD (4D), JHAYESHP PILLAY POOBALAN (4G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Air Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition (UR) - Distinction Award</p>
+<p>Outstanding Cadet Award
+<br>NEELAMEGAM SRIDHARAN URMILA DIKSHA (4B), AYISHA TASNEEM (4C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>Visual &amp; Performing Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese String Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation (AP) - Certificate of
+Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation (AP) - Certificate of
+Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation (AP) - Certificate of
+Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation (AP) - Certificate of
+Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Clubs &amp; Socieites</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Multimedia Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Flying Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYFC Excellence Award</p>
+<p>Drone Odyssey AI Drone Coding - 2nd</p>
+<p>Drone Soccer Championship 2025 - 4th</p>
+<p>SYFC Interschool Aeromodelling Competition 2025 - Electric Control Line
+<br>Senior Team
+<br>Champion
+<br>1st Runner-up
+<br>2nd Runner-up</p>
+<p>Junior Team
+<br>Consolation Prize</p>
+<p>SYFC Interschool Aeromodelling Competition 2025
+<br>Launch Glider
+<br>Senior Team
+<br>Consolation Prize</p>
+<p>Teacher-Student Team
+<br>1st Runner-up</p>
+<p>SYFC Interschool Aeromodelling Competition 2025 Overall - 4th Place</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>2024 Achievements</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
