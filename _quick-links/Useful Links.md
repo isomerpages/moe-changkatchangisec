@@ -53,12 +53,12 @@ variant: markdown
 **[SC Mobile](https://scmobile.moe.edu.sg/)**
 <br>**[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)**
 <br>**[MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login)**
-<br>**[School Cockpit 2.0](http://schoolcockpit.moe.gov.sg/)**
+<br>**[School Cockpit 2.0](https://schoolcockpit.moe.gov.sg/)**
 <br>**[Human Resource Management System (HRP)](https://www.hrp.gov.sg/hrp/#/)**
 <br>**[Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)**
 <br>**[OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)**
 <br>**[Teacher Growth Model](https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/teacher-growth-model/)**
-<br>**[MOE Sports and Recreation Club](http://www.mesrc.net/)**
+<br>**[MOE Sports and Recreation Club](https://www.mesrc.net/)**
 <br>**[iExams](https://iexams.seab.gov.sg/login)**
-<br>**[Haze Situation Update](http://www.haze.gov.sg/)**
+<br>**[Haze Situation Update](https://www.haze.gov.sg/)**
 <br>**[Ministry of Health](https://www.moh.gov.sg/)**
