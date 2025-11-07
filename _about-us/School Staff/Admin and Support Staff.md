@@ -5,9 +5,7 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-<center><img alt="centered image" src="/images/Dept%20Photo/EAS.jpg"></center>
-
-
+<center><img src="/images/Dept%20Photo/2025/EXECUTIVE___ADMINSTRATIVE_STAFF.jpg"></center>
 
 | Appointment | Name | 
 | -------- | -------- | 
