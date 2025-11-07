@@ -6,7 +6,7 @@ third_nav_title: Academic Departments
 variant: tiptap
 ---
 <p><strong>Head of Department:</strong>&nbsp;Mr Poh Wei En</p>
-<p><strong>Level Head:</strong>&nbsp;Ms Lau Le Wei Jenny</p>
+<p><strong>Level Head:</strong>&nbsp;Ms Lau Li Wei Jenny</p>
 <p><strong>Maths Teachers:</strong>
 <br>Mr Ho Beng Khiaw
 <br>Mr Glen Tan
