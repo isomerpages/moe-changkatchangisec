@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-![](/images/Dept%20Photo/Craft___Tech.jpg)
+![](/images/Dept%20Photo/2025/CRAFT___TECHNOLOGY_DEPARTMENT.jpg)
 
 
 | Appointment | Name | 
