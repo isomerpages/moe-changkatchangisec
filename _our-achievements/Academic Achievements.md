@@ -41,9 +41,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Mathematics</strong>
+<p><strong>&nbsp;Mathematics</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -101,8 +99,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>Science</strong>
+<p>&nbsp;<strong>Science</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -193,7 +190,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Humanities</strong>
 </p>
 <table style="minWidth: 75px">
@@ -255,7 +251,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Mother Tongue</strong>
 </p>
 <table style="minWidth: 75px">
