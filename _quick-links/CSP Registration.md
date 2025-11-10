@@ -21,18 +21,18 @@ to the GCE ‘O’ Level Examination.</p>
 to qualify for EOY exams is 75%.</p>
 </li>
 <li>
-<p>Last day to register is <strong><u>Thursday 2&nbsp;January 2025</u></strong>.
-If you fail to register by&nbsp;<strong><u>Thursday 2 January&nbsp;2025</u></strong>,
+<p>Last day to register is <strong><u>Wednesday 7 January 2026</u></strong>.
+If you fail to register by&nbsp;<strong><u>Wednesday 7 January 2026</u></strong>,
 it will be assumed that you do not wish to accept the offer.</p>
 </li>
 <li>
-<p>For sec 1 CSP in 2025, 1 class takes place on <strong>Thursdays</strong>.
+<p>For sec 1 CSP in 2026, 1 class takes place on <strong>Wednesday</strong>.
 Lessons take place once a week, timing is from <strong><u>3pm-6pm</u></strong>.</p>
 </li>
 <li>
-<p>First lesson will&nbsp;commence&nbsp;on&nbsp;the <strong><u>3rd week of Jan</u></strong>.
-More details about the first lesson will be emailed to you by the 2nd week
-of January.</p>
+<p>First lesson will&nbsp;commence&nbsp;on&nbsp;the <strong><u>4th week of Jan</u></strong>.
+More details about the first lesson please &nbsp;click the link: <a href="https://qr.page/g/1PPLXHjrQpM" rel="noopener noreferrer nofollow" target="_blank">https://qr.page/g/1PPLXHjrQpM</a>
+</p>
 </li>
 <li>
 <p>Any student who registered but fails to turn up for 3 lessons consecutively
@@ -40,9 +40,9 @@ will be considered as unable to attend lessons and asked to fill up the
 withdrawal form.</p>
 </li>
 <li>
-<p>Access the online e-registration form at&nbsp;<a href="https://go.gov.sg/cspregistration2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/cspregistration2025</a> or
-via the QR code below to confirm your acceptance of the offer and to complete
-the online registration.</p>
+<p>Access the online e-registration form at&nbsp;<a href="https://go.gov.sg/csp2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/csp2026</a> or via the
+QR code below to confirm your acceptance of the offer and to complete the
+online registration.</p>
 </li>
 <li>
 <p>Textbooks will be available for purchase in our school bookshop from end
@@ -54,6 +54,6 @@ the canteen.</p>
 <p>For more information, refer to our Padlet page: <a href="https://qr.page/g/1PPLXHjrQpM" rel="noopener noreferrer nofollow" target="_blank">https://qr.page/g/1PPLXHjrQpM</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CSP1.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CSP1.jpg">
 </div>
 <p></p>
