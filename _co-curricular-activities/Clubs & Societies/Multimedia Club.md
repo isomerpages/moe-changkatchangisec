@@ -52,12 +52,7 @@ etc</p>
 <h3>CCA Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>2020 - present: Certificates of Participation for Our School Our Stories
-[OSOS]</p>
-</li>
-<li>
-<p>2021 - present: Certificates of Participation for School of Digital and
-Media Awards [SDMA]</p>
+<p>2025 - Certificate of Participation for Copyright School Challenge</p>
 </li>
 <li>
 <p>2024: Winner of School of Digital and Media Awards [SDMA]</p>
@@ -66,7 +61,12 @@ Media Awards [SDMA]</p>
 <p>2023 - present: Certificate of Participation for NE-mation</p>
 </li>
 <li>
-<p>2025 - Certificate of Participation for Copyright School Challenge</p>
+<p>2021 - present: Certificates of Participation for School of Digital and
+Media Awards [SDMA]</p>
+</li>
+<li>
+<p>2020 - present: Certificates of Participation for Our School Our Stories
+[OSOS]</p>
 </li>
 </ul>
 <p></p>
