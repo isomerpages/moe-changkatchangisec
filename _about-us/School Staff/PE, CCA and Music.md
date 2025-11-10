@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-![](/images/Dept%20Photo/PHYSICAL_EDUCATION__MUSIC.jpg)
+![](/images/Dept%20Photo/PE___MUSIC_DEPARTMENT.jpg)
 
 | Appointment | Name | 
 | -------- | -------- | 
