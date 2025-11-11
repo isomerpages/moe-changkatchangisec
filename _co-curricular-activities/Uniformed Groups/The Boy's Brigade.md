@@ -11,17 +11,17 @@ variant: tiptap
 <h3>Teachers-in-charge:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ms Salome Sim (I/C)</strong>
+<p><strong>Mr Bryan Zhishan Yong (I/C)</strong>
 </p>
 </li>
 <li>
-<p>Mr Bryan Zhishan Yong (2 I/C)</p>
-</li>
-<li>
-<p>Mr Goh Cheng Ze Tristan</p>
+<p>Mr Goh Cheng Ze Tristan (2 I/C)</p>
 </li>
 <li>
 <p>Mr Kevin Ng</p>
+</li>
+<li>
+<p>Ms Priya</p>
 </li>
 </ul>
 <h3>Training time &amp; venue:</h3>
@@ -50,17 +50,44 @@ based on their aptitude.</p>
 (to promote Service Leadership)</p>
 </li>
 <li>
-<p><strong>Drills </strong>(to instil discipline, self-respect, grooming
-and teamwork)</p>
-</li>
-<li>
 <p><strong>Badgework </strong>like First Aid and Hobby Badge (to foster lifelong
 learning)</p>
+</li>
+<li>
+<p><strong>Drills </strong>(to instil discipline, self-respect, grooming
+and teamwork)</p>
 </li>
 </ul>
 <p></p>
 <h3>Achievements</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Picture1.jpg">
+</div>
 <ul data-tight="true" class="tight">
+<li>
+<p>5 Founder’s Men in 2025:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>WO WO Julian Cedrick Santiago Andaya</p>
+</li>
+<li>
+<p>WO Tan Wei Hong</p>
+</li>
+<li>
+<p>WO Ngin Zhi Heng, Seth</p>
+</li>
+<li>
+<p>WO Ng Zhi Rong</p>
+</li>
+<li>
+<p>WO Hew Zi Feng</p>
+</li>
+</ul>
+</li>
+<li>
+<p>2025 Boys’ Brigade Blaze (Silver)</p>
+</li>
 <li>
 <p>2012 to 2024: JM Fraser Award for Excellence (Gold)</p>
 </li>
@@ -73,40 +100,33 @@ learning)</p>
 <li>
 <p>2024 Boys’ Brigade Character Quest (Silver)</p>
 </li>
-<li>
-<p>2024 Boys’ Brigade Blaze (Bronze)</p>
-</li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Receiving_Distinguished_Awards_with_BB_honour_from_Mr_Ho__our_Principal.jpg">
-</div>
-<p>Receiving Distinguished Awards with BB honour from Mr Ho, our Principal</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Pressing_on_in_an_Arduous__Urban_Hike_from_Bedok_to_City_Centre_during_BB_Camp_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Picture7.jpg">
 </div>
 <p>Pressing on in an Arduous Urban Hike from Bedok to City Centre during
 BB Camp 2025</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Presenting_our_band_formation_for_our_big_show_at_the_Annual_Pipes_and_Drums_Festival_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Picture2.jpg">
 </div>
 <p>Presenting our band formation for our big show at the Annual Pipes and
-Drums Festival 2025</p>
+Drums Festival 2024</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Looking_smart_by_the_stage_of_the_hall_as_the_BB_Day_message_was_delivered_to_all.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Picture3.jpg">
 </div>
-<p>Looking smart by the stage of the hall as the BB Day message was delivered
-to all</p>
+<p>Learning best practices from the best – 2025 Exchange Parade with 14<sup>th</sup> Company
+from Anglican High School</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Going_all_out_to_woo_parents_using_Archery_during_CCA_Showcase_as_a_ploy_to_get_the_Sec_Ones.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Picture4.jpg">
 </div>
 <p>Going all out to woo parents using Archery during CCA Showcase as a ploy
 to get the Sec Ones</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/A_Truly_Enriching_Learning_Experience_at_the_Civil_Defence_Heritage_Gallery.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Picture5.jpg">
 </div>
 <p>A Truly Enriching Learning Experience at the Civil Defence Heritage Gallery</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/A_Sighting_from_Nature_all_too_Beautiful_to_Ignore_while_Hiking.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Picture6.jpg">
 </div>
 <p>A Sighting from Nature all too Beautiful to Ignore while Hiking</p>
