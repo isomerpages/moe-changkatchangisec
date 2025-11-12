@@ -11,7 +11,8 @@ variant: tiptap
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ms Daphne Khoo Rui Yun</strong> (I/C covering)</p>
+<p><strong>Ms Daphne Khoo Rui Yun (I/C covering)</strong>
+</p>
 </li>
 <li>
 <p>Mr Han Zi Ding</p>
