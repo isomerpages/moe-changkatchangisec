@@ -11,11 +11,7 @@ variant: tiptap
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ms Lim Shan Yan(I/C)</strong>
-</p>
-</li>
-<li>
-<p>Ms Daphne Khoo Rui Yun (2 I/C)</p>
+<p><strong>Ms Daphne Khoo Rui Yun</strong> (I/C covering)</p>
 </li>
 <li>
 <p>Mr Han Zi Ding</p>
