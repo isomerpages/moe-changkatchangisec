@@ -3,29 +3,29 @@ title: Sepak Takraw
 permalink: /co-curricular-activities/Sports-and-Games/Sepak-Takraw/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gJJLLslk-aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJJLLslk-aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Teacher in Charge:
 
   
 
-*   **Mr Iskandar Ishak (I/C)**
-*   Mr Abdul Matiin (2i/c)
+*   **Mr Abdul Matiin  (I/C)**
     
 *   Mr Syed Ahmad
 
-###   Training Time & Venue:
+###   Training Time &amp; Venue:
 
   
-           Tuesday, 1530 - 1830 (School Hall)  
-           Thursday, 1530 - 1830 (School Hall)  
- 
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tuesday, 1530 - 1830 (School Hall)  
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Thursday, 1530 - 1830 (School Hall)  
+&nbsp;
 
 ###   CCA Objectives
 
   
-Our Sepak Takraw Vision: A respected team player who excels in his studies and is a role model for other youths Our Sepak Takraw Mission: To produce a National Sepak Takraw player with a good O Levels Certificate going on to a Junior College or Polytechnic.  
+Our Sepak Takraw Vision: A respected team player who excels in his studies and is a role model for other youths Our Sepak Takraw Mission: To produce a National Sepak Takraw player with a good O Levels Certificate going on to a Junior College or Polytechnic. &nbsp;
 
 ### Key Programmes
 
@@ -38,7 +38,7 @@ Our Sepak Takraw Vision: A respected team player who excels in his studies and i
 *   Sending our players for friendly match with external organisations such as Singapore Prison
 *   Serve the community through Values-in-Action (VIA) activities
 
- 
+&nbsp;
 
 ###   CCA Achievements
 
