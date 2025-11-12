@@ -15,9 +15,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Mr Amrit Singh Gill (2I/C)</p>
-</li>
-<li>
 <p>Mr Tay Yong Wei, Kevin</p>
 </li>
 <li>

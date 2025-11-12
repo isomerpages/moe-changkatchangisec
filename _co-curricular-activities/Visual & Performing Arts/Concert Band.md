@@ -11,14 +11,17 @@ variant: tiptap
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ms Aileen Tay (I/C)</strong>
+<p><strong>Mr Kelvin Yap (I/C)</strong>
 </p>
 </li>
 <li>
-<p>Mr Sebastian Thng (2 I/C)</p>
+<p>Ms Chia Ying Yin</p>
 </li>
 <li>
 <p>Mr Timothy Yeo</p>
+</li>
+<li>
+<p>Mr Samuel Ong</p>
 </li>
 </ul>
 <p>&nbsp;</p>

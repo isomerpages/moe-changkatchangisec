@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Ms Wang Xiao Hui</p>
+<p>Ms Wang Xiao Hui (2 I/C)</p>
 </li>
 <li>
 <p>Ms Khasturi Gonasaygnran</p>
