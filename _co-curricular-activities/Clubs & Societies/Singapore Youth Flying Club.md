@@ -103,19 +103,40 @@ Nation PlayScape)</p>
 <p>SYFC CCA Excellence Award 2025&nbsp;</p>
 </li>
 <li>
-<p>Drone Odyssey Challenge 2024 Category C1 Drone Swarming</p>
-<p>Best Presentation Award - 1<sup>st</sup> Place</p>
-<p>Best Knowledge Award – 3<sup>rd</sup> Place</p>
+<p>Drone Odyssey 2025 - AI Drone Coding – 2nd Position</p>
 </li>
 <li>
-<p>SYFC Inter-School Aeromodelling Competition 2023 Control Line Category</p>
-<p>Champion, 1<sup>st</sup> Runner-Up and 2<sup>nd</sup> Runner-Up</p>
+<p>Drone Soccer Championship 2025 – 4th position</p>
+</li>
+<li>
+<p>SYFC Inter-School Aeromodelling Competition 2025
+<br>Teacher-Student Launch Glider Category
+<br>1st runner up
+<br>Electric Control Line Competition Senior Category
+<br>1st position
+<br>2nd position
+<br>3rd position
+<br>Electric Control Line Competition Junior Category
+<br>Two Teams got consolation prize</p>
+</li>
+<li>
+<p>SYFC Inter-School Aeromodelling Competition 2024
+<br>Electric Control Line Competition – 2nd position</p>
+</li>
+<li>
+<p>Drone Odyssey Challenge 2024 Category C1 Drone Swarming
+<br>Best Presentation Award - 1<sup>st</sup> Place
+<br>Best Knowledge Award – 3<sup>rd</sup> Place</p>
+</li>
+<li>
+<p>SYFC Inter-School Aeromodelling Competition 2023 Control Line Category
+<br>Champion, 1<sup>st</sup> Runner-Up and 2<sup>nd</sup> Runner-Up</p>
 </li>
 <li>
 <p>&nbsp;Singapore Amazing Flying Machine Competition 2022 Cat B Unpowered
-Glider</p>
-<p>2<sup>nd</sup> Place for Best Presentation</p>
-<p>3<sup>rd</sup> Place for Most Creative and Aesthetic Award</p>
+Glider
+<br>2<sup>nd</sup> Place for Best Presentation
+<br>3<sup>rd</sup> Place for Most Creative and Aesthetic Award</p>
 </li>
 <li>
 <p>&nbsp;SYFC members who attend the SWIFT (SYFC Work-up and Introduction
