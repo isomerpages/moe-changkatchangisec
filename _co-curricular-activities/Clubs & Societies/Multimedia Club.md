@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ms Angeline Neo (I/C)</strong>
+<p><strong>Mrs Angeline Morrison (I/C)</strong>
 </p>
 </li>
 <li>
