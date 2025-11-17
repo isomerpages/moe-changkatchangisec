@@ -25,4 +25,3 @@ variant: markdown
 | Teacher     | Ms Khoo Hui Ching Berince    |
 | Teacher     | Ms Kang Eng Ling May    |
 | Teacher     | Mr Amrit Singh Gill    |
-| Teacher     | Ms Ang Guat Yee Annette    |
