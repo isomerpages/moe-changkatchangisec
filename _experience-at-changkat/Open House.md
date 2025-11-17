@@ -17,13 +17,17 @@ Please click [here](https://www.youtube.com/watch?v=NxEkSSsQcMI&amp;t=51s) to vi
 
 
 
-Dear Parents,
-<br>
-We will be having our Open House on 15 November 2025 from 9.00 am – 12.30 pm. Join us!
-<br>
+Dear parents/guardians and P6 students, <br>
+Thank you for joining us at our Open House on 15 November 2025 from 9.00 am – 12.30pm! <br>
+We hope you enjoyed the experience and discovered more about the vibrant Changkateer Experience. We look forward to welcoming you into our Changkat family next year!
+
 Click [here](https://drive.google.com/file/d/1qYZbrCxG5W8rV4xf1q19RJ3JgvbGUVXu/view?usp=sharing) to view our E-Open House Brochure.  
 
-Thank You.
+If you have missed our Open House on 15 November, don’t worry! We welcome you to join our **Open House Webinar on 28 November (Fri), 10am – 11am.**
+<br>
+Google meet link: [https://go.gov.sg/ccsswebinar2026](https://go.gov.sg/ccsswebinar2026)
+
+See you then! 
 
 
 <table border="1" style="border-collapse: collapse; width: 100%; height: 36px;">
