@@ -25,7 +25,7 @@ Click [here](https://drive.google.com/file/d/1qYZbrCxG5W8rV4xf1q19RJ3JgvbGUVXu/v
 
 If you have missed our Open House on 15 November, don’t worry! We welcome you to join our **Open House Webinar on 28 November (Fri), 10am – 11am.**
 <br>
-Google meet link: https://go.gov.sg/ccsswebinar2026
+Google meet link: [https://go.gov.sg/ccsswebinar2026](https://go.gov.sg/ccsswebinar2026)
 
 See you then! 
 
