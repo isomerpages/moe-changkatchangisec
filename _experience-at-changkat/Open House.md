@@ -13,21 +13,16 @@ variant: markdown
 
 Please click [here](https://youtu.be/a_fnqJk79vQ?si=vBM97EVrKhOAVZez) to view our Principal's Address.
 <br>
-Please click [here](https://www.youtube.com/watch?v=NxEkSSsQcMI&amp;t=51s) to view our Open House video.
+Please click [here](https://www.youtube.com/watch?v=NxEkSSsQcMI) to view our Open House video.
 
 
 
 Dear parents/guardians and P6 students, <br>
-Thank you for joining us at our Open House on 15 November 2025 from 9.00 am – 12.30pm! <br>
+Thank you for joining us at our Open House on 15 November 2025 from 9.00 am – 12.30pm, as well as our Open House Webinar on 28 November 2025! <br>
 We hope you enjoyed the experience and discovered more about the vibrant Changkateer Experience. We look forward to welcoming you into our Changkat family next year!
 
-Click [here](https://drive.google.com/file/d/1qYZbrCxG5W8rV4xf1q19RJ3JgvbGUVXu/view?usp=sharing) to view our E-Open House Brochure.  
-
-If you have missed our Open House on 15 November, don’t worry! We welcome you to join our **Open House Webinar on 28 November (Fri), 10am – 11am.**
-<br>
-Google meet link: [https://go.gov.sg/ccsswebinar2026](https://go.gov.sg/ccsswebinar2026)
-
-See you then! 
+Please click [here](https://drive.google.com/file/d/1qYZbrCxG5W8rV4xf1q19RJ3JgvbGUVXu/view?usp=sharing) to view our E-Open House Brochure.  
+Please click [here](https://youtu.be/EVfrwlr60q0?si=WTkYVH6YwZqhah1g&amp;t=1) to view the recording of our Open House Webinar. 
 
 
 <table border="1" style="border-collapse: collapse; width: 100%; height: 36px;">
