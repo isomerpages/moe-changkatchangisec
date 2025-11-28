@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-![](/images/Dept%20Photo/2025/SCHOOL_MANAGEMENT__COMMITEE.jpg)
+![](/images/SCHOOL_MANAGEMENT_COMMITTEE.jpg)
 # School Leaders
 
 | Appointment | Name |
