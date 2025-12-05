@@ -41,15 +41,11 @@ variant: tiptap
 </table>
 <p><strong>Application Procedure</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
 <p>Download and complete the application form. You may also request for a
 hardcopy from School's General Office.</p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/appexistingsch_ccss.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
@@ -80,7 +76,8 @@ hardcopy from School's General Office.</p>
 <p>List of proposed menu and pricing for all items</p>
 </li>
 <li>
-<p>Photocopy of relevant certificates such as Basic Food Hygine Course, etc</p>
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
+etc</p>
 </li>
 </ul>
 </td>
