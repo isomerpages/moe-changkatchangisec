@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Open_house__100_x_50_cm___180_x_90_cm___1920_x_720_px___2_.png
+      background: /images/homepage1.gif
       key_highlights:
         - title: A day in the life of a Changkateer
           description: Follow us on Instagram here
