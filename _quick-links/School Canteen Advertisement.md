@@ -45,7 +45,7 @@ variant: tiptap
 hardcopy from School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/appexistingsch_ccss.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/appexistingsch_ccss.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
