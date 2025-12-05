@@ -116,7 +116,7 @@ email OR to the School's General Office.</p>
 <p>Nearest MRT: Simei MRT (EW3 line) – 5 minutes walking distance</p>
 </li>
 <li>
-<p>Bus number: 5, 9, 20, 38- 3 minutes walking distance</p>
+<p>Bus number: 5, 9, 20, 38 - 3 minutes walking distance</p>
 </li>
 </ul>
 <p><strong>Interest applicants must meet the following criteria:</strong>
