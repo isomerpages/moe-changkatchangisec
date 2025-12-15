@@ -226,7 +226,7 @@ sets of uniforms, 2 sets of PE attire and a school tie each.&nbsp;
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are supposed to report to the school by&nbsp;<strong>7.50 am</strong>.
-Please arrive at least 10-minute earlier.</p>
+Please arrive at least 10 mins earlier.</p>
 </li>
 <li>
 <p>Students are to bring their water bottle, snacks, writing materials and
