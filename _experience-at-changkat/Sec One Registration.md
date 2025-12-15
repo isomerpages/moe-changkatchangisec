@@ -255,17 +255,17 @@ a member of a house.&nbsp;</p>
 in.</p>
 </li>
 <li>
-<p>The PE T-Shirt colour for your child, will be shared via Parent’s Gateway
-by 19 Dec.</p>
+<p>The PE T-Shirt colour for your child, will be shared via Parents Gateway
+by 22 Dec 2025 (Mon).</p>
 </li>
 <li>
 <p>Students may wear their Primary School PE T-shirt for PE lessons in the
 first week of school.&nbsp;</p>
 </li>
 </ul>
-<p><strong>3.&nbsp; &nbsp;Kickstart 2025 – Sec 1 Orientation and Cohort Camp (3D2N Outdoor Adventure Learning)</strong>
+<p><strong>3.&nbsp; &nbsp;Kickstart 2026 – Sec 1 Orientation and Cohort Camp (3D2N Outdoor Adventure Learning)</strong>
 </p>
-<p>Kickstart 2025 which includes Sec 1 Orientation and the 3D2N Cohort Camp,
+<p>Kickstart 2026 which includes Sec 1 Orientation and the 3D2N Cohort Camp,
 aims to allow our Secondary 1 Changkateers to have a meaningful and fun
 transition. Please click on this&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;for more information.&nbsp;</p>
 <p><strong>4.&nbsp; &nbsp;Frequently Asked Questions (FAQs)</strong>
@@ -303,34 +303,19 @@ information and providing consent for your child's school matters.</p>
 </ul>
 <p><strong>[F] &nbsp;&nbsp;&nbsp; Information for students under MOE Financial Assistance&nbsp;Scheme (FAS)</strong>
 </p>
-<p><strong>1.&nbsp; &nbsp;Students with&nbsp;MOE FAS approval by Primary School:</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please email a copy of the approval letter and documents to us at changkatchgi@moe.edu.sg.</p>
+<p>Students who have applied for FAS will be informed of the outcome once
+the school receives the information from MOE HQ. The General Office staff
+will contact you. In the meantime, do not purchase any uniforms, PE attire,
+or books from the booklist.</p>
 </li>
 <li>
-<p>You should only place your order for purchase of books and uniform after
-the submission of the approval letter.&nbsp;</p>
+<p>Apply for FAS online at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+</p>
 </li>
 <li>
-<p>Please bring along the MOE FAS approval letter when purchasing your books
-and uniforms.</p>
+<p>For FAS enquiries, please contact our General Office at 6785 9790.</p>
 </li>
 </ul>
-<p><strong>2.</strong>&nbsp; &nbsp;<strong>New&nbsp;MOE FAS applicants:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the MOE FAS
-online application form.&nbsp;</p>
-</li>
-<li>
-<p>You should only place your order for books and uniform after your application
-has been approved.</p>
-</li>
-</ul>
-<p><strong>3.&nbsp; &nbsp;Additional Points to Note:</strong>
-</p>
-<p>Families with more than 5 children in government and/or government-aided
-schools. Please call the school’s General Office at 6785 9790 for assistance.</p>
+<p></p>
