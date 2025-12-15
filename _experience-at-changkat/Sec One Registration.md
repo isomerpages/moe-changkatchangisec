@@ -230,8 +230,8 @@ Please arrive at least 10-minute earlier.</p>
 </li>
 <li>
 <p>Students are to bring their water bottle, snacks, writing materials and
-school tie. A digital thermometer will be provided to every student on
-the first day.</p>
+school tie. A digital thermometer will be provided to every student in
+the first week of school.</p>
 </li>
 <li>
 <p>There will be a 30-minute recess on the first day. A simple recess meal
@@ -239,7 +239,7 @@ which includes a burger/plate of noodles, and a drink will cost at least
 $3.50.&nbsp;</p>
 </li>
 <li>
-<p>Students will be dismissed at 12.30 pm on 2 January 2025.</p>
+<p>Students will be dismissed at 12.30 pm on 2 January 2026 (Fri).</p>
 </li>
 </ul>
 <p><strong>2. PE/House T-shirt</strong>
