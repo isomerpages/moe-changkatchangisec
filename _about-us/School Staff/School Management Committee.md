@@ -10,7 +10,7 @@ variant: markdown
 
 | Appointment | Name |
 | -------- | -------- |
-| Principal     | Mr Ho Ming Da     |
+| Principal     | Mr Kwok Ying Liang    |
 | Vice-Principal     | Ms Subashini d/o Sivaram    |
 | Vice-Principal (Admin)    | Mr Kong Mun Heng     |
 
