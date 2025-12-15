@@ -4,25 +4,29 @@ permalink: /experience-at-changkat/secondaryone/
 variant: tiptap
 description: ""
 ---
-<p>Dear Secondary 1 Changkateers and Parents/Guardians,</p>
-<p>A warm welcome to the <strong>Changkat family</strong>!</p>
-<p>You will begin your new learning adventure with us soon and we are excited
-to get to know you. We wish to invite you for a face-to-face Parents/Guardians
-Briefing at our school, from 9 am to 10.30 am, on 20 Dec 2024.</p>
-<p>At this briefing, we will share school information, overview of Full Subject-Based
-Banding and details about <strong><em>Kickstart</em></strong>, your Orientation
-Programme. Your teachers have been thoughtfully planning <strong><em>Kickstart</em></strong> so
-that your transition to secondary school life will be a positive experience.</p>
-<p>We are confident that Changkat Changi will be a place where you will have
-opportunities to discover your unique strengths and interests and develop
-these into talents driven by your passion to learn, serve and succeed.</p>
+<p>Welcome to Changkat Changi Secondary School, Secondary 1 students and
+parents/guardians!</p>
+<p>I am delighted to serve as your Principal and the 11th Principal of this
+established school with a rich 60-year history. Here at Changkat Changi
+Secondary School (CCSS), your teachers take pride in preparing you for
+an ever-evolving future shaped by technological advancement and global
+change. We emphasise character development, nurturing resilient students
+who are proactive in caring for others and demonstrate concern, attentiveness,
+respect, and encouragement.&nbsp; These qualities will help you form strong
+friendships during your secondary school years.</p>
+<p>As a CCSS student, you will have an array of learning opportunities that
+provide an enriching, memorable, and varied secondary school experience.
+These opportunities include our distinctive learning programmes such as
+SOAR at CCSS and ASCEND at CCSS (our ALP and LLP), learning journeys, and
+CCAs.</p>
 <p>Please share any questions you may have by scanning or clicking on the
-QR Code below and we hope to address them during the briefing.
-<br>
-<br>We look forward to seeing you then!
+QR Code below and we hope to address them during the briefing.</p>
+<p>We look forward to seeing you during Secondary 1 registration and hope
+you will eagerly anticipate Changkat Changi playing a pivotal role in your
+formative years.
 <br>
 <br>With warmest regards,
-<br>Mr. Ho Ming Da
+<br>Mr. Kwok Ying Liang
 <br>Principal,
 <br>Changkat Changi Secondary School
 <br>
@@ -68,12 +72,12 @@ QR Code below and we hope to address them during the briefing.
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a_fnqJk79vQ?si=XXq5_vJlEys8dZRS"></iframe>
 </div>
-<p><strong>[A]&nbsp; &nbsp; &nbsp;Briefing to 2025 Secondary 1 Changkateers and Parents/Guardians</strong>
+<p><strong>[A]&nbsp; &nbsp; &nbsp;Briefing to 2026 Secondary 1 Changkateers and Parents/Guardians</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>An important briefing for all 2025 Secondary 1 Changkateers and their
-Parents/Guardians will be held on <strong>Friday, 20 December 2024, from 9 am to 10.30 am at Changkat Changi Secondary School (School Hall)</strong>.</p>
+<p>There is an important briefing for all Secondary 1 Changkateers and Parents/Guardians
+on <strong>23 December 2025 (Tue), from 9 AM to 10 AM, at Changkat Changi Secondary School (School Hall, Level 2)</strong>.</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -84,7 +88,7 @@ Parents/Guardians will be held on <strong>Friday, 20 December 2024, from 9 am to
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>[B] &nbsp;&nbsp;&nbsp; 2025 Secondary 1 Camp Consent Form</strong>
+<p><strong>[B] &nbsp;&nbsp;&nbsp; Secondary 1 Registration Form</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -93,10 +97,7 @@ Parents/Guardians will be held on <strong>Friday, 20 December 2024, from 9 am to
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>(Compulsory, please complete)</strong> We would appreciate your
-assistance in providing updated key personal information and consent for
-the Sec 1 cohort camp, which will be held from 13 to 15 January 2025. Please
-access the form by clicking <a href="https://go.gov.sg/s1-reg" rel="noopener nofollow" target="_blank">here</a> or
+<p>Please access the online registration form by clicking&nbsp;<a href="https://go.gov.sg/s1-reg" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
 scanning the QR code below:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,11 +138,11 @@ scanning the QR code below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Please complete the form by&nbsp;<strong>24 December 2024 (Tue), 5 pm</strong>
+<p>Please complete the form by&nbsp;<strong>26 December 2025 (Fri), 5 pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The deadline for the submission of appeals is on&nbsp;<strong>24 December 2024, 5 pm</strong>.
+<p>The deadline for the submission of appeals is on&nbsp;<strong>24 December 2025 (Wed), 5 pm</strong>.
 <br>Late submission will not be allowed.</p>
 </td>
 </tr>
@@ -157,54 +158,60 @@ scanning the QR code below:</p>
 </li>
 <li>
 <p>Online purchase &amp; self-collection at school bookshop. Online purchase
-done before 19 Dec 2024, 12 pm, will be available for collection at the
-school bookshop on 20 Dec 2024.</p>
+done before 22 Dec 2025, 12pm, will be available for self-collection at
+the school bookshop after 24 Dec 2025.</p>
 </li>
 <li>
 <p>Walk-in purchase at school bookshop at the following dates and timings:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>20, 23 Dec (9 am - 3 pm)</p>
+<p>23 Dec (10 am - 3 pm)</p>
 </li>
 <li>
-<p>26, 27, 30 Dec (9 am - 3 pm)</p>
+<p>26, 29 Dec (9 am - 3 pm)</p>
+</li>
+<li>
+<p>30 Dec (9 AM - 1 PM)</p>
 </li>
 </ul>
 </li>
 </ul>
 <p>Parents/Guardians are encouraged to purchase their books online, to avoid
 long queues.</p>
-<p>There will be no sales of books in school on 18 and 19 Dec 2024. Students
-will purchase their name tags in January 2025.</p>
+<p>There will be no sales of books in school on 22 Dec 2025. Students will
+purchase their name tags in January 2026.</p>
 <p>For more details on the purchase of school books and Sec 1 booklists,
 please click&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 </p>
 <p><strong>2.&nbsp; School Uniform</strong>
 </p>
-<p>There are 3 modes of purchase for school uniform.
+<p>There are 2 modes of purchase for school uniform.
 <br>Online purchase &amp; delivery</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Online purchase &amp; delivery</p>
 </li>
 <li>
-<p>Online purchase (before 19 Dec 2024, 12 pm) &amp; self-collection at school.
-Online purchase done before 19 Dec 2024, 12 pm, will be available for collection
-at the school on 20 Dec 2024.</p>
+<p>Walk-in purchase at school, Indoor Sports Hall, Level 1, at the following
+dates and timings:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>23 Dec (10 am - 3 pm)</p>
 </li>
 <li>
-<p>Walk-in purchase at school, Indoor Soccer Court at the following dates
-and timings:</p>
+<p>26, 29 Dec (9 am - 3 pm)</p>
 </li>
 <li>
-<p>Dec 20, 23 (9 am-3 pm)
+<p>30 Dec (9 AM - 1 PM)
 <br>
 </p>
 </li>
 </ul>
-<p>Uniform sales can be made at the retail store (InTrend Uniforms) located
-at Kaki Bukit after 24 Dec 2024.
+</li>
+</ul>
+<p>Physical sales of Sec 1 uniforms and PE attire are only available in school.
+<br>
 <br>Students are expected to report to school in full school uniform, white
 shoes, and white socks&nbsp;<strong>every day</strong>. They will change
 into their PE T-shirts and shorts before PE lessons and back into their
@@ -214,17 +221,17 @@ sets of uniforms, 2 sets of PE attire and a school tie each.&nbsp;
 <br>For more details on the purchase of uniform, please click&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <p><strong>[E] &nbsp;&nbsp; Information for Students and Parents/Guardians</strong>
 </p>
-<p><strong>1.&nbsp; &nbsp;Instructions for reporting on the first day of school, 2 January 2025, Tuesday</strong>
+<p><strong>1.&nbsp; &nbsp;Instructions for reporting on the first day of school, 2 January 2026, Friday</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are supposed to report to the school by&nbsp;<strong>7.50 am</strong>.
-Please arrive at least 10-minute earlier.</p>
+Please arrive at least 10 mins earlier.</p>
 </li>
 <li>
 <p>Students are to bring their water bottle, snacks, writing materials and
-school tie. A digital thermometer will be provided to every student on
-the first day.</p>
+school tie. A digital thermometer will be provided to every student in
+the first week of school.</p>
 </li>
 <li>
 <p>There will be a 30-minute recess on the first day. A simple recess meal
@@ -232,7 +239,7 @@ which includes a burger/plate of noodles, and a drink will cost at least
 $3.50.&nbsp;</p>
 </li>
 <li>
-<p>Students will be dismissed at 12.30 pm on 2 January 2025.</p>
+<p>Students will be dismissed at 12.30 pm on 2 January 2026 (Fri).</p>
 </li>
 </ul>
 <p><strong>2. PE/House T-shirt</strong>
@@ -248,17 +255,17 @@ a member of a house.&nbsp;</p>
 in.</p>
 </li>
 <li>
-<p>The PE T-Shirt colour for your child, will be shared via Parent’s Gateway
-by 19 Dec.</p>
+<p>The PE T-Shirt colour for your child, will be shared via Parents Gateway
+by 22 Dec 2025 (Mon).</p>
 </li>
 <li>
 <p>Students may wear their Primary School PE T-shirt for PE lessons in the
 first week of school.&nbsp;</p>
 </li>
 </ul>
-<p><strong>3.&nbsp; &nbsp;Kickstart 2025 – Sec 1 Orientation and Cohort Camp (3D2N Outdoor Adventure Learning)</strong>
+<p><strong>3.&nbsp; &nbsp;Kickstart 2026 – Sec 1 Orientation and Cohort Camp (3D2N Outdoor Adventure Learning)</strong>
 </p>
-<p>Kickstart 2025 which includes Sec 1 Orientation and the 3D2N Cohort Camp,
+<p>Kickstart 2026 which includes Sec 1 Orientation and the 3D2N Cohort Camp,
 aims to allow our Secondary 1 Changkateers to have a meaningful and fun
 transition. Please click on this&nbsp;<a href="https://go.gov.sg/s1-parent-resource" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;for more information.&nbsp;</p>
 <p><strong>4.&nbsp; &nbsp;Frequently Asked Questions (FAQs)</strong>
@@ -296,34 +303,19 @@ information and providing consent for your child's school matters.</p>
 </ul>
 <p><strong>[F] &nbsp;&nbsp;&nbsp; Information for students under MOE Financial Assistance&nbsp;Scheme (FAS)</strong>
 </p>
-<p><strong>1.&nbsp; &nbsp;Students with&nbsp;MOE FAS approval by Primary School:</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please email a copy of the approval letter and documents to us at changkatchgi@moe.edu.sg.</p>
+<p>Students who have applied for FAS will be informed of the outcome once
+the school receives the information from MOE HQ. The General Office staff
+will contact you. In the meantime, do not purchase any uniforms, PE attire,
+or books from the booklist.</p>
 </li>
 <li>
-<p>You should only place your order for purchase of books and uniform after
-the submission of the approval letter.&nbsp;</p>
+<p>Apply for FAS online at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+</p>
 </li>
 <li>
-<p>Please bring along the MOE FAS approval letter when purchasing your books
-and uniforms.</p>
+<p>For FAS enquiries, please contact our General Office at 6785 9790.</p>
 </li>
 </ul>
-<p><strong>2.</strong>&nbsp; &nbsp;<strong>New&nbsp;MOE FAS applicants:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete the MOE FAS
-online application form.&nbsp;</p>
-</li>
-<li>
-<p>You should only place your order for books and uniform after your application
-has been approved.</p>
-</li>
-</ul>
-<p><strong>3.&nbsp; &nbsp;Additional Points to Note:</strong>
-</p>
-<p>Families with more than 5 children in government and/or government-aided
-schools. Please call the school’s General Office at 6785 9790 for assistance.</p>
+<p></p>
