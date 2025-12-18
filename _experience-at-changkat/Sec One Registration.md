@@ -171,7 +171,7 @@ the school bookshop after 24 Dec 2025.</p>
 <p>26, 29 Dec (9 am - 3 pm)</p>
 </li>
 <li>
-<p>30 Dec (9 AM - 1 PM)</p>
+<p>30 Dec (9 am - 1 pm)</p>
 </li>
 </ul>
 </li>
@@ -203,7 +203,7 @@ dates and timings:</p>
 <p>26, 29 Dec (9 am - 3 pm)</p>
 </li>
 <li>
-<p>30 Dec (9 AM - 1 PM)
+<p>30 Dec (9 am - 1 pm)
 <br>
 </p>
 </li>
