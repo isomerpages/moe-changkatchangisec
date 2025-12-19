@@ -311,7 +311,7 @@ will contact you. In the meantime, do not purchase any uniforms, PE attire,
 or books from the booklist.</p>
 </li>
 <li>
-<p>Apply for FAS online at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<p>Apply for FAS online at <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 </li>
 <li>
