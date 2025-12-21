@@ -239,7 +239,7 @@ which includes a burger/plate of noodles, and a drink will cost at least
 $3.50.&nbsp;</p>
 </li>
 <li>
-<p>Students will be dismissed at 11.30 pm on 2 January 2026 (Fri).</p>
+<p>Students will be dismissed at 11.30 am on 2 January 2026 (Fri).</p>
 </li>
 </ul>
 <p><strong>2. PE/House T-shirt</strong>
