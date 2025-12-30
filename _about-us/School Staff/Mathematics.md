@@ -12,7 +12,6 @@ variant: markdown
 | HOD Mathematics | Mr Poh Wei en   | 
 | LH Mathematics     | Ms Lau Li Wei, Jenny    |
 | School Staff Developer    | Mr Ho Beng Khiaw   | 
-| HOD ICT     | Mr Tan Teck Tang Glen    | 
 | HOD CCE, Year Head     | Mdm Mufeedah Bte Senin     | 
 | Assistant Year Head     | Mr Quek Ming Yeow     |
 | Assistant Year Head     | Mr Lee Wei Hao Kevan     |
