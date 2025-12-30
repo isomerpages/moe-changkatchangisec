@@ -22,7 +22,7 @@ variant: tiptap
 <br>Ms Kang Eng Ling May
 <br>Mr Ng Woon Bing Kevin
 <br>Mr Amrit Singh Gill
-<br>Ms Ang Guat Yee Annette</p>
+<br>Ms Zarina Binte Mohamed Zakaria</p>
 <p>The English Language Department aims to develop students into empathetic
 communicators, discerning readers and creative inquirers who are confident
 and competent in their use of the English Language. To this end, the department
