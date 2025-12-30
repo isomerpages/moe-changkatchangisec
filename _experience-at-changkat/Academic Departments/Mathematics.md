@@ -9,7 +9,6 @@ variant: tiptap
 <p><strong>Level Head:</strong>&nbsp;Ms Lau Li Wei Jenny</p>
 <p><strong>Maths Teachers:</strong>
 <br>Mr Ho Beng Khiaw
-<br>Mr Glen Tan
 <br>Ms Huang Yaling
 <br>Mdm Habsa Sulaiman
 <br>Mr Kelvin Yap
