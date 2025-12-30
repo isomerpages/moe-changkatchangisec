@@ -6,6 +6,7 @@ third_nav_title: Academic Departments
 variant: tiptap
 ---
 <p><strong>Head of Department:</strong>&nbsp;Ms Nur Syazana Bte Shahul Hameed</p>
+<p><strong>Subject Head:</strong>&nbsp;Ms Imelda Norazlina Binte Zulkefle</p>
 <p><strong>Senior Teacher:</strong>&nbsp;Ms Nuriahtu Bte Farhati Mohamed
 Ali</p>
 <p><strong>Teachers:</strong>
