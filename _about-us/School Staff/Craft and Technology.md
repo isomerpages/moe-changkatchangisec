@@ -35,7 +35,7 @@ variant: tiptap
 <p>SH C&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Chee Wai</p>
+<p>Mr Vincent Tang Chee Wai</p>
 </td>
 </tr>
 <tr>
