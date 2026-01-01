@@ -119,7 +119,7 @@ in the following class links.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnBQzQlkdU0hVQTFPjYY8uyC75O3nwxL8042JRy4anCjEorGS_gpS5lBVzlmL1P19qNynF45NuJDwC/pubhtml" rel="noopener nofollow" target="_blank">4H</a>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnBQzQlkdU0hVQTFPjYY8uyC75O3nwxL8042JRy4anCjEorGS_gpS5lBVzlmL1P19qNynF45NuJDwC/pubhtml" rel="noopener nofollow" target="_blank">4H</a></strong>
 </p>
 </td>
 </tr>
