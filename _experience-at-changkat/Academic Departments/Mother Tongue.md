@@ -13,7 +13,7 @@ variant: tiptap
 <p><strong>Chinese Language Teachers:</strong>
 <br>Mr Wang Yadong
 <br>Mr Zhu Liang
-<br>Ms Teo Ying Hui
+<br>Ms Yang Jing
 <br>Ms Khoo Kai Leng Esther
 <br>Ms Pee Xiuwen
 <br>Ms Lee Hwey Ping

@@ -6,6 +6,7 @@ third_nav_title: Academic Departments
 variant: tiptap
 ---
 <p><strong>Head of Department (Covering):</strong>&nbsp;Mr Han Ban Siew Sean</p>
+<p><strong>Subject Head: </strong>Mr Vincent Tang Chee Wai</p>
 <p><strong>ART Coordinator:</strong>&nbsp;Mrs Angeline Morrison-Neo Swee
 Ting</p>
 <p><strong>NFS Coordinator:</strong>&nbsp;Mdm Siti Zubaidah Binte Ismail</p>
@@ -19,7 +20,8 @@ Ting</p>
 <p><strong>Art Teachers:</strong>
 <br>Miss Sim Jia En
 <br>Ms Cheryl Cheong
-<br>Mrs Edith Milesi – Cheng Eng Eng</p>
+<br>Mrs Edith Milesi – Cheng Eng Eng
+<br>Ms Nur Halimah Jasni</p>
 <p><strong>NFS Teachers:</strong>
 <br>Mdm Shahnaz D/O Sheik Abdul Karim
 <br>Mdm Linda Yap
