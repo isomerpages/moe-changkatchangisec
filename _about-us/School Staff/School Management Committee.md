@@ -221,7 +221,7 @@ variant: tiptap
 <p>SH Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Chee Wai</p>
+<p>Mr Vincent Tang Chee Wai</p>
 </td>
 </tr>
 <tr>
