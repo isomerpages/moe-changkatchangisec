@@ -49,4 +49,4 @@ help create a better Singapore and world.</p>
 <p><strong>Through School to Nation.</strong>
 </p>
 <p>Kwok Ying Liang
-<br>Principal, Changkat Changi Secondary School</p>
+<br>Principal</p>
