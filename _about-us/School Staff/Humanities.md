@@ -56,7 +56,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCE</p>
+<p>HOD CCE (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Samson Hu Song En</p>
