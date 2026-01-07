@@ -48,6 +48,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH Character and Citizenship Education (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rishvinder Singh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,14 +100,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Hwee Koon Joyce</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Rishvinder Singh</p>
 </td>
 </tr>
 <tr>
