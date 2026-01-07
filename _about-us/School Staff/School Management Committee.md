@@ -141,7 +141,7 @@ variant: tiptap
 <p>HOD Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhuo Gensheng</p>
+<p>Mr Zhuo Gensheng Jason</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Welfare</p>
+<p>SH Student Wellbeing &amp; Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hezrina Bte Johan Manikam</p>
