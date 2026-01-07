@@ -56,7 +56,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Welfare</p>
+<p>SH Student Wellbeing &amp; Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hezrina Bte Johan Manikam</p>
