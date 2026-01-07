@@ -32,10 +32,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language</p>
+<p>SH Malay Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hezrina Bte Johan Manikam</p>
+<p>Ms Nur Umaira Bte Muhd Zulkifli</p>
 </td>
 </tr>
 <tr>
@@ -52,6 +52,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Djohan Bin Abdul Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Welfare</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hezrina Bte Johan Manikam</p>
 </td>
 </tr>
 <tr>
@@ -100,14 +108,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Matiin Bin Kassim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Umaira Bte Muhd Zulkifli</p>
 </td>
 </tr>
 <tr>
