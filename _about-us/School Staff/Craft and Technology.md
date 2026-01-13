@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH C&amp;T</p>
+<p>SH D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Tang Chee Wai</p>
