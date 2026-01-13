@@ -218,7 +218,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Craft &amp; Technology</p>
+<p>SH Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Tang Chee Wai</p>
