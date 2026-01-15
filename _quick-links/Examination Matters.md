@@ -80,10 +80,10 @@ variant: tiptap
 <h1>Topics for WA and Exam</h1>
 <p>Respective subject teachers will inform students of any change in the
 topic tested.</p>
-<p>Sec 1</p>
-<p>Sec 2</p>
-<p>Sec 3</p>
-<p>Sec4/5</p>
+<p>Sec 1
+<br>Sec 2
+<br>Sec 3
+<br>Sec4/5</p>
 <h1>National Examination Matters</h1>
 <ol data-tight="true" class="tight">
 <li>
