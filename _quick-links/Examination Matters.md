@@ -24,7 +24,7 @@ variant: tiptap
 <p>Sec 1 to 4/5N Weighted Assessment 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 February 2025 to 7 March 2025</p>
+<p>9 February 2026 to 12 March 2026</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>Sec 1 to 3 Weighted Assessment 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 April 2025 to 16 May 2025</p>
+<p>20 April 2026 to 14 May 2026</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Sec 4E/5N MT Prelim Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 May 2025</p>
+<p>5 May 2026</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Sec 1 to 3 Weighted Assessment 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 July 2025 to 22 August 2025</p>
+<p>27 July 2026 to 20 August 2026</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>Sec 1 to 3 End-of-Year Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 September to 8 October 2025</p>
+<p>28 September to 7 October 2026</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>Sec 4N Preliminary Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 July to 4 August 2025</p>
+<p>27 July to 5 August 2026</p>
 </td>
 </tr>
 <tr>
@@ -72,8 +72,7 @@ variant: tiptap
 <p>Sec 4E/5N Preliminary Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 August 2025
-<br>25 August 2025 to 3 September 2025</p>
+<p>20 August 2026 to 2 September 2026</p>
 </td>
 </tr>
 </tbody>
