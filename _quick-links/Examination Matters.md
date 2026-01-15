@@ -80,12 +80,10 @@ variant: tiptap
 <h1>Topics for WA and Exam</h1>
 <p>Respective subject teachers will inform students of any change in the
 topic tested.</p>
-<p><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_1_as_of_20_8_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-<br><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_2_as_of_20_8_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
-<br><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_3_as_of_20_8_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a> 
-<br><a href="/files/Exam matters/2025_CCSS_Assesment_Topics___Sec_4_5_as_of_20_8_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a>
-</p>
-<p></p>
+<p>Sec 1</p>
+<p>Sec 2</p>
+<p>Sec 3</p>
+<p>Sec4/5</p>
 <h1>National Examination Matters</h1>
 <ol data-tight="true" class="tight">
 <li>
