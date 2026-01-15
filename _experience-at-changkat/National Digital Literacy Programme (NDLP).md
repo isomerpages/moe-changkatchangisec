@@ -98,7 +98,7 @@ healthy use of PLDs in the school
 <p>3. Insurance &amp; Warranty Info</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;<strong><a href="/files/pld_insurance__warranty_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+<p>Click&nbsp;<strong><a href="/files/pld_insurance__warranty.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
 more information</p>
 </td>
 </tr>
