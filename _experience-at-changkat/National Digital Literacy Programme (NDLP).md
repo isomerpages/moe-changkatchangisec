@@ -116,7 +116,7 @@ for more information</p>
 <p>5. Other Useful Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Service%20Centre%20%20Vendor%20Contacts.pdf" rel="noopener noreferrer nofollow" target="_blank">Service Centre &amp; Vendor Contacts</a>
+<p><a href="/files/PDLP/Service_Centre__Vendor_Contacts.pdf" rel="noopener noreferrer nofollow" target="_blank">Service Centre &amp; Vendor Contacts</a>
 </p>
 </td>
 </tr>
