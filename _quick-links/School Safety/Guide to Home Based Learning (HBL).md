@@ -140,17 +140,7 @@ in the following class links.</p>
 </tr>
 </tbody>
 </table>
-<p>Form teachers will be checking the attendance with students at 0800 on
-HBL days.</p>
-<p><strong>CCA Online Sessions</strong>
-</p>
-<p>The detailed information on the e-CCA sessions can be found in the link
-here. Zoom details will be provided to your child/ward by the respective
-CCA teachers.</p>
-<p>The&nbsp;<a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore StudentLearning Space (SLS)</a>&nbsp;will
-be one of the few platforms to support schools in their home-based learning
-(HBL) measures. Instructions for home based lessons will be provided on
-the platform.</p>
+<p></p>
 <p>A key student self help resource during this HBL period can be found&nbsp;
 <a href="http://go.gov.sg/ccsshbl" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>In case your child/ward encounters issue accessing SLS, please follow
