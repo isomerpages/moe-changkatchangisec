@@ -28,7 +28,7 @@ In the event that no student meets that above criteria, the Chua Soo Chiew Schol
 •The recipients may be offered an internship opportunity with the Donor  
   
 ##### Applications 
-Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00 am to 5.00 pm, or downloaded [here](/files/Scholarship/CSC_Scholarship_Application_Form_2025.pdf).
+Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00 am to 5.00 pm, or downloaded [here](/files/Scholarship/CSC_Scholarship_Application_Form_2026.pdf)
  
 Please note that only shortlisted candidates would be notified, and may be called up for an interview. 
   

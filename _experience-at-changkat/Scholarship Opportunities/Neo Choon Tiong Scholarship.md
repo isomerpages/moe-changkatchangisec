@@ -33,6 +33,6 @@ Each scholarship award is valued at $1,000 each.
 
 ##### Application and Selection Process
 
-Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00am to 5.00pm, or downloaded [here](/files/Scholarship/NCT_Scholarship_Application_Form_2025.pdf).
+Application forms can be obtained from the Changkat Changi Secondary School General Office on weekdays from 8.00am to 5.00pm, or downloaded [here](/files/Scholarship/NCT_Scholarship_Application_Form_2026.pdf).
   
 Please note that Short-listed candidates will be invited for an interview.
