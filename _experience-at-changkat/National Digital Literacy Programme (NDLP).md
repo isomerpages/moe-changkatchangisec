@@ -68,12 +68,7 @@ healthy use of PLDs in the school
 <p>1.&nbsp; Information on device</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="/files/PDLP/IP1_iPad____2025_Parent_Engagement_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing during 2025 Sec 1 PTC</a>]</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MtH2it3tC3Y?si=cXiAcZoz_xHayVPL"></iframe>
-</div>
-<p>[Frequently Asked Questions (FAQ)]</p>
+<p>[<a href="/files/PDLP/IP1_iPad____Parent_Engagement_Deck_2026_Updated_20_Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck 2026</a>]</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +76,7 @@ healthy use of PLDs in the school
 <p>2a. Giving Consent for Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Give consent via Parents Gateway dated 9 Jan.</p>
+<p>Give consent via Parents Gateway dated 30 Jan.</p>
 </td>
 </tr>
 <tr>
