@@ -38,7 +38,7 @@ ones.
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4>OVERVIEW OF CHANGKAT CHANGI SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h4>
+<h4>OVERVIEW OF CHANGKAT CHANGI SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h4>
 <p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -72,32 +72,33 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At Changkat Changi Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Changkat Changi Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p><strong>Secondary One</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_s1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/SE1.jpg">
 </div>
 <p><strong>Secondary Two</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_s2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/SE2.jpg">
 </div>
 <p><strong>Secondary Three</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_s3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/SE3.jpg">
 </div>
 <p><strong>Secondary Four</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sexed_s4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/SE4.jpg">
 </div>
 <p><strong>Secondary Five</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_s5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/SE5.jpg">
 </div>
 <h4><em>eTeens</em> Programme:</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
@@ -116,10 +117,10 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p><strong>At Changkat Changi Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<p><strong>At Changkat Changi Secondary School, the eTeens programme will be implemented as follows in <u>2026</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eteens.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed/eteen1.jpg">
 </div>
 <h4>INFORMATION FOR PARENTS</h4>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the
