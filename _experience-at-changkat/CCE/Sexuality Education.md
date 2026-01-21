@@ -16,28 +16,25 @@ encouraging healthy, heterosexual marriages and stable nuclear family units
 with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
-Education are to:
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+Sexuality Education are to:
 <br>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
-<p>b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
+changes as they grow up and develop safe and healthy relationships.
+<br>b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.
+<br>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+<p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:
-<br>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+<br>(a) Love and respect yourself as you love and respect others;
+<br>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);
+<br>(c) Make responsible decisions for yourself, your family and society;
+and
+<br>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.
-<br>
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
@@ -48,11 +45,12 @@ in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
 Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
-information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
-on sexuality include:</p>
-<p>a. Science</p>
-<p>b. Character and Citizenship Education (CCE)</p>
+information on the scope of Sexuality Education in the school curriculum.
+<br>
+<br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
+on sexuality include:
+<br>a. Science
+<br>b. Character and Citizenship Education (CCE)</p>
 <h4>Sexuality Education Lessons</h4>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
 youth towards sexuality are increasingly shaped by their peers, exposure
