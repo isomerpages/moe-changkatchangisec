@@ -45,7 +45,7 @@ skills as they navigate an increasingly digitalised world.</p>
 <br><a href="/files/PDLP/Acceptable_Use_Policy__AUP__Agreement_for_ICT_Devices__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Acceptable Use Policy (AUP)</a>&nbsp;for
 healthy use of PLDs in the school
 <br><a href="/files/Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit (For devices purchased in 2025 and before)</a>
-<br><a href="/files/PDLP/Student_Device_Information_Kit_2026.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit (For Devices Purchased from 2026 Onwards)</a>
+<br><a href="/files/PDLP/Student_Device_Information_Kit_2026.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit (For Devices Purchased from 2026 onwards)</a>
 <br><a href="http://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 <h2>FOR PARENTS</h2>
