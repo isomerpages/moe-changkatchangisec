@@ -46,6 +46,5 @@ Themes for Changkateers
 *   Ms. Lau Li Wei, Jenny
 *   Ms. Nuriahtu Farhati Mohamed Ali
 *   Mr. Quek Ming Yeow 
-*   Mr. Wong Khay Onn
 *   Mr. Wee Hui Siang
 *   Ms. Izza Binti Idris
