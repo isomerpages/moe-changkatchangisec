@@ -32,7 +32,7 @@ Themes for Changkateers
 
 ### ICT Team
 
-**HOD ICT** : Mr. Tan Teck Tang Glen  
+**HOD ICT** : Mr. Jason Zhuo Gensheng
 **ICT Manager :** Mr Donald Ho Peng Fatt  
 **ICT Manager** : Mr Denny Chan Chun Shuo  
 
@@ -46,6 +46,5 @@ Themes for Changkateers
 *   Ms. Lau Li Wei, Jenny
 *   Ms. Nuriahtu Farhati Mohamed Ali
 *   Mr. Quek Ming Yeow 
-*   Mr. Wong Khay Onn
 *   Mr. Wee Hui Siang
 *   Ms. Izza Binti Idris
