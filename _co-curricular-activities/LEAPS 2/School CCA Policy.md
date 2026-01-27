@@ -31,5 +31,5 @@ subject to disciplinary action.</p>
 in their CCA activities.</p>
 </li>
 </ol>
-<h5>CCA Schedule 2025</h5>
-<p>To view all CCA schedules, please click <a href="/files/CCA_deployment_Schedule_2025__Sem_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h5>CCA Schedule 2026</h5>
+<p>To view all CCA schedules, please click <a href="/files/CCA/CCA_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
