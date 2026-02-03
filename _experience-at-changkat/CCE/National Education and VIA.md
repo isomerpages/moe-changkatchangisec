@@ -1,18 +1,16 @@
 ---
 title: National Education and VIA
-permalink: /experience-at-changkat/CCE/National-Education-VIA
+permalink: /experience-at-changkat/CCE/National-Education-VIA/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-
 **MOE CIP/Service Learning Framework**  
 
 CIP nurtures our students to become socially responsible and develops their sense of belonging and commitment to our country. Through participating in community work, students also learn the value of service and develop lasting friendships with one another. 
 
 Service Learning is an approach where CIP participants not only serve the community, but also learn to identify with the needs of the community and to reflect on their own experience in working with the community so that they have a better understanding and appreciation of what it involves.
-
-  
-[http://www.moe.gov.sg/education/secondary/cip/](http://www.moe.gov.sg/education/secondary/cip/)  
+ 
 
 **CCSS Framework**  
 
