@@ -49,7 +49,7 @@ healthy use of PLDs in the school
 <br><a href="http://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 <h2>FOR PARENTS</h2>
-<h5>Purchase of Devices (2025)&nbsp;</h5>
+<h5>Purchase of Devices (2026)&nbsp;</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -118,7 +118,7 @@ for more information</p>
 </tr>
 </tbody>
 </table>
-<p><em>Information&nbsp;above correct as of 8 Jan 2025</em>
+<p><em>Information&nbsp;above correct as of 30 Jan 2026</em>
 </p>
 <h4>Cyber Wellness&nbsp;</h4>
 <p>Building up Good Learning Habits with the PLD</p>
