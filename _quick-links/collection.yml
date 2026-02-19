@@ -2,8 +2,8 @@ collections:
   quick-links:
     output: true
     order:
-      - Sec 2 Streaming Exercise.md
       - Useful Links.md
+      - Sec 2 Streaming Exercise.md
       - Class Timetable.md
       - CSP Registration.md
       - Examination Matters.md
