@@ -43,8 +43,9 @@ Themes for Changkateers
 *   Ms. Goh Ying Hsuan  
 *   Mr. Lee Chin Teck
 *   Mdm. Siti Zubaidah Bte Ismail
-*   Ms. Lau Li Wei, Jenny
+*   Mr. Han Zi Ding
 *   Ms. Nuriahtu Farhati Mohamed Ali
-*   Mr. Quek Ming Yeow 
+*   Mr. Quek Ming Yeow
+*   Ms Nur Halimah
 *   Mr. Wee Hui Siang
 *   Ms. Izza Binti Idris
