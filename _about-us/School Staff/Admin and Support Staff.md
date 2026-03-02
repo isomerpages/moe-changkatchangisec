@@ -13,7 +13,7 @@ variant: markdown
 | Operations Manager     | Mr Mustafa Bin Mohamed  | 
 | Operations Manager     | Mr George Goh Chee Chong  | 
 | ICT Manager    | Mr Ho Peng Fatt Donald    | 
-| Adjunct ICT Manager     | Mr Denny Chan    |
+| ICT Manager     | Mr Denny Chan    |
 | Administrative Executive    | Mdm Noor Rina Mohamad Moktar     | 
 | Corporate Support Officer (CSO)     | Mdm Fazillah Bte Salleh     | 
 | Corporate Support Officer (CSO)     | Mdm Rafidah Bte Abu Bakar    | 
@@ -22,7 +22,7 @@ variant: markdown
 | Operations Support Officer (OSO)     | Mr Ismil Bin Mohd Ali    |
 | Operations Support Officer (OSO)      | Mr Woo Chee Kwong   |
 | Operations Support Officer (OSO)      | Mdm Dalila Bte Esa     |
-| Operations Support Officer (OSO)      | Mr Chong Kar Po     |
+| Operations Support Officer (OSO)      | Mr Wong Khay Onn      |
 | Operations Support Officer (OSO)      | Mdm Lee Suan Eng    |
 | STEM Instructor (Workshop)     | Mr Unais Bin Yusof    |
 | STEM Instructor (Workshop)     | Mr Tan Boon Lee    |
@@ -30,6 +30,5 @@ variant: markdown
 | STEM Instructor (Laboratory)     | Miss Fadilah Binte Abdul Aziz    |
 | AA     | Mdm Azizah Bte Ali    | 
 | HA    | Mdm Hamidah Bte Hassan    |
-| AV Tech     | Mr Wong Khay Onn    |
 | Desktop Engineer     | Mr Wee Hui Siang    |
 | Desktop Engineer     | Ms Izza binte Idris    |
