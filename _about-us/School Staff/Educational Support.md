@@ -67,7 +67,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong See Eng</p>
+<p>Ms Mita Shah</p>
 </td>
 </tr>
 </tbody>
