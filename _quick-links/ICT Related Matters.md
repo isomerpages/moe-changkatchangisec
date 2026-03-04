@@ -32,9 +32,9 @@ Themes for Changkateers
 
 ### ICT Team
 
-**HOD ICT** : Mr. Jason Zhuo Gensheng
-**ICT Manager :** Mr Donald Ho Peng Fatt  
-**ICT Manager** : Mr Denny Chan Chun Shuo  
+**HOD&nbsp;ICT**&nbsp;: Mr. Jason Zhuo Gensheng <br>
+**ICT Manager :**&nbsp;Mr Donald Ho Peng Fatt  
+**ICT Manager**&nbsp;:&nbsp;Mr Denny Chan Chun Shuo  
 
 **ICT Committee Members:**  
   
@@ -43,8 +43,9 @@ Themes for Changkateers
 *   Ms. Goh Ying Hsuan  
 *   Mr. Lee Chin Teck
 *   Mdm. Siti Zubaidah Bte Ismail
-*   Ms. Lau Li Wei, Jenny
+*   Mr. Han Zi Ding
 *   Ms. Nuriahtu Farhati Mohamed Ali
-*   Mr. Quek Ming Yeow 
+*   Mr. Quek Ming Yeow
+*   Ms Nur Halimah
 *   Mr. Wee Hui Siang
 *   Ms. Izza Binti Idris
