@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - OUR 60th ANNIVERSARY.md
+      - Our 60th Anniversary.md
       - Principal's Message.md
       - Vision, Mission & Values.md
       - School Staff/School Management Committee.md
