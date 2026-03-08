@@ -6,17 +6,30 @@ description: ""
 ---
 <p></p>
 <p></p>
-<p><strong>Inspiration behind the 60th Anniversary Logo Design </strong>
+<p><strong>Inspiration behind the 60th Anniversary Logo Design</strong>
 </p>
 <p>In careful hands, we’ve learned to thrive, With roots well-tended, dreams
 alive. Through sixty years of patient trim, Excellence grows from care
 and strive.</p>
+<p><strong>Changkat 60th Coffeetable Book - Celebrating Sixty Years: Thrive Together, Inspire Excellence</strong>
+</p>
+<p>From its humble beginnings in 1966 to the vibrant institution it is today,
+Changkat Changi Secondary School has stood as a beacon of resilience and
+heart in the East. This milestone marks six decades of "Through School
+to Nation"—a journey defined not just by academic milestones, but by the
+enduring spirit of the Changkateer. As we turn these pages, we celebrate
+the generations of students and educators who have walked these halls,
+transforming a shared space into a community of purpose. Here’s to sixty
+years of nurturing citizens for the future and character for the soul;
+may the Changkat fire continue to burn bright for many more years to come.</p>
+<p><strong>Changkat 60th Fundraising</strong>
+</p>
 <p></p>
 <p><strong>There will be 3 Signature Events</strong>
 </p>
 <p><strong>1st Signature Event</strong>
 </p>
-<p><strong>Changkat RACE</strong> 
+<p><strong>Changkat RACE</strong>
 </p>
 <p>Date: Friday 27 March 7.30am
 <br>Venue: OCBC Square at National Stadium.
