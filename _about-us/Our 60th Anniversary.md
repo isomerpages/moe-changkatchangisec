@@ -10,6 +10,10 @@ description: ""
 <p>In careful hands, we’ve learned to thrive, With roots well-tended, dreams
 alive. Through sixty years of patient trim, Excellence grows from care
 and strive.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changkat 60/60th_Anniversary_Logo.png">
+</div>
 <h4><strong>Changkat 60th Coffeetable Book - Celebrating Sixty Years: Thrive Together, Inspire Excellence</strong></h4>
 <p>From its humble beginnings in 1966 to the vibrant institution it is today,
 Changkat Changi Secondary School has stood as a beacon of resilience and
@@ -22,6 +26,9 @@ years of nurturing citizens for the future and character for the soul;
 may the Changkat fire continue to burn bright for many more years to come.</p>
 <h4><strong>Changkat 60th Fundraising</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changkat 60/Fundraising_Poster.png">
+</div>
 <p><strong>There will be 3 Signature Events</strong>
 </p>
 <p><strong>1st Signature Event</strong>
@@ -34,6 +41,9 @@ may the Changkat fire continue to burn bright for many more years to come.</p>
 Staff, Alumni and Parents will be joining the students, participating in
 Competitive Run/ Fun Walk. (Distance: 3.6km)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changkat 60/Changkat_RACE.jpg">
+</div>
 <p><strong>2nd Signature Event</strong>
 </p>
 <p><strong>60th Speech and Prizegiving Day</strong>
