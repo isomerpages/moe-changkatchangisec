@@ -6,7 +6,6 @@ variant: tiptap
 description: ""
 third_nav_title: Our 60th Anniversary v2
 ---
-<h2>Changkat 60th Coffeetable Book - Celebrating Sixty Years: Thrive Together, Inspire Excellence</h2>
 <p>From its humble beginnings in 1966 to the vibrant institution it is today,
 Changkat Changi Secondary School has stood as a beacon of resilience and
 heart in the East. This milestone marks six decades of "Through School
