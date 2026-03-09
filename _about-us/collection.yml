@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Our 60th Anniversary v2/Changkat 60th Fundraising.md
       - Our 60th Anniversary v2/.keep
       - Our 60th Anniversary v2/Celebrating Changkat 60th.md
       - "Our 60th Anniversary v2/Celebration Sixty Years: Thrive Together,
         Inspire Excellence.md"
+      - Our 60th Anniversary v2/Changkat 60th Fundraising.md
       - Principal's Message.md
       - Vision, Mission & Values.md
       - School Staff/.keep
