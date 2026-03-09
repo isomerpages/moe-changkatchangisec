@@ -36,4 +36,19 @@ Competitive Run/ Fun Walk. (Distance: 3.6km)</p>
 <p></p>
 <p><strong>2nd Signature Event</strong>
 </p>
+<p><strong>60th Speech and Prizegiving Day</strong>
+</p>
+<p><strong>Theme:</strong> Thrive Together, Inspire Excellence</p>
+<p><strong>Date: </strong>Friday, 10 April 2026, 3.00pm – 4.30pm</p>
 <p></p>
+<p></p>
+<p><strong>3rd Signature Event</strong>
+</p>
+<p><strong>Date:</strong> Friday, 5 June 2026, 5.30pm</p>
+<p><strong>Venue:</strong> Our Tampines Hub</p>
+<p></p>
+<p>The 50-minute theatre production aims to highlight Changkat Changi’s journey
+from the very beginning. It will showcase the aspirations of the staff,
+students and various stakeholders involved in shaping CCSS to what it has
+become today. The production will also provide a projected imagery of how
+well Changkat Changi will become 60 years from now.</p>
