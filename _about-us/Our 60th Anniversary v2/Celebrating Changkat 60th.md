@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our 60th Anniversary v2
 ---
-<h2>Description of Changkat 60th logo</h2>
+<h2>Inspiration behind the 60th Anniversary Logo Design</h2>
 <p><strong>In careful hands we learned to thrive, With roots well-tended, dreams alive.<br>Through 60 years of patient trim, Excellence grows from care and strive.</strong>
 </p>
 <p></p>
