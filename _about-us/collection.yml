@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our 60th Anniversary v2/.keep
       - Principal's Message.md
       - Vision, Mission & Values.md
       - School Staff/.keep
