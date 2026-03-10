@@ -13,5 +13,6 @@ and strive.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/60th_Anniversary_Logov2.png">
 </div>
 <p></p>
-<h4><a href="coffeetable-book" rel="noopener nofollow" target="_blank">Coffeetable Book</a><br>Fundraising</h4>
+<h4><a href="https://changkatchangisec.moe.edu.sg/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a><br><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a><br></h4>
+<h3><strong>Signature Events</strong><br><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech and Prizegiving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">Theatre Production</a></h3>
 <p></p>
