@@ -45,8 +45,7 @@ may the Changkat fire continue to burn bright for many more years to come.
 </details>
 </div>
 <hr>
-<p><strong>Signature Events</strong>
-</p>
+<h4><strong>Signature Events</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Changkat RACE</strong>
@@ -71,12 +70,15 @@ in Competitive Run(3.6km)/ Fun Walk and Run(2km).
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>60th Speech and Prizegiving Day</strong>
+<summary><strong>Speech and Prizegiving Day</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br><strong>Theme:</strong> Thrive Together, Inspire Excellence</p>
-<p><strong>Date: </strong>Friday, 10 April 2026, 3.00pm – 4.30pm</p>
+<p><strong>Date: </strong>Friday, 10 April 2026, 3.00pm – 4.30pm
+<br>
+<br>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -98,5 +100,6 @@ well Changkat Changi will become 60 years from now.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
