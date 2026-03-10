@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our 60th Anniversary
 ---
-<h2><strong>60th Anniversary</strong></h2>
+<h1><strong>60<sup>th</sup> Anniversary</strong></h1>
 <p>In careful hands, we’ve learned to thrive, With roots well-tended, dreams
 alive. Through sixty years of patient trim, Excellence grows from care
 and strive.</p>
