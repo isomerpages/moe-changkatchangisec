@@ -13,7 +13,7 @@ and strive.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/60th_Anniversary_Logov2.png">
 </div>
 <p></p>
-<h4><a href="/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a><br><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h4>
+<h4><a href="https://changkatchangisec.moe.edu.sg/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a><br><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h4>
 <h2><strong>Signature Events</strong></h2>
 <h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech and Prizegiving Day</a></h4>
 <h2>Theatre Production</h2>
@@ -22,7 +22,6 @@ and strive.</p>
 <br>
 </p>
 <p><strong>Placeholder for photo</strong>
-<br>
 </p>
 <p>The 50-minute theatre production aims to highlight Changkat Changi’s journey
 from the very beginning. It will showcase the aspirations of the staff,
