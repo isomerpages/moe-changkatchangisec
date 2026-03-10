@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - History/Our Golden Jubilee.md
-      - History/History.md
-      - History/.keep
       - Principal's Message.md
       - Vision, Mission & Values.md
       - School Staff/.keep
@@ -18,10 +15,13 @@ collections:
       - School Staff/Humanities.md
       - School Staff/Craft and Technology.md
       - School Staff/Educational Support.md
+      - History/.keep
+      - History/Our Golden Jubilee.md
+      - History/History.md
       - School Calendar.md
       - Our 60th Anniversary.md
-      - Our 60th Anniversary/Our 60th Anniversary.md
       - Our 60th Anniversary/.keep
+      - Our 60th Anniversary/Our 60th Anniversary.md
       - Our 60th Anniversary/Coffeetable Book.md
       - Our 60th Anniversary/Fundraising.md
       - Our 60th Anniversary/Changkat RACE.md
