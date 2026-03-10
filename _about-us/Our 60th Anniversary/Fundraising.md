@@ -18,7 +18,7 @@ and strive.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changkat 60/Fundraising_Poster.png">
 </div>
-<h3><strong>Signature Events</strong></h3>
+<h2><strong>Signature Events</strong></h2>
 <h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech and Prizegiving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">Theatre Production</a></h4>
 <p></p>
 <p></p>
