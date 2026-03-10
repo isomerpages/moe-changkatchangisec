@@ -22,6 +22,7 @@ the generations of students and educators who have walked these halls,
 transforming a shared space into a community of purpose. Here’s to sixty
 years of nurturing citizens for the future and character for the soul;
 may the Changkat fire continue to burn bright for many more years to come.</p>
-<h2><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h2>
-<h3><strong>Signature Events</strong><br><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech and Prizegiving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">Theatre Production</a><br><br></h3>
+<h4><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h4>
+<h3><strong>Signature Events</strong></h3>
+<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech and Prizegiving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">Theatre Production</a><br><br></h4>
 <p></p>
