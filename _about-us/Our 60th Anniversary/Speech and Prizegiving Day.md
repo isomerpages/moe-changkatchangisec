@@ -16,7 +16,7 @@ and strive.</p>
 <h4><a href="https://changkatchangisec.moe.edu.sg/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a><br><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h4>
 <h2><strong>Signature Events</strong></h2>
 <h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a></h4>
-<h2>Speech and Prizegiving Day<br></h2>
+<h2>Speech and Prizegiving Day</h2>
 <p><strong>Theme:</strong> Thrive Together, Inspire Excellence
 <br><strong>Event Date:</strong> Friday, 10 April 2026, 3.00pm – 4.30pm</p>
 <p>The 60th Annual Speech &amp; Prize-Giving Day is a meaningful occasion
