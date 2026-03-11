@@ -15,7 +15,7 @@ and strive.</p>
 <p></p>
 <h4><a href="https://changkatchangisec.moe.edu.sg/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a><br><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h4>
 <h2><strong>Signature Events</strong></h2>
-<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">60th Annual Speech &amp; Prize-Giving Day</a></h4>
+<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat R.A.C.E. – Rise Above Challenging Experiences</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">60th Annual Speech &amp; Prize-Giving Day</a></h4>
 <h2>60th Anniversary Show @ OTH</h2>
 <p><strong>Date:</strong> Friday, 5 June 2026, 5.30pm
 <br><strong>Venue: </strong>Our Tampines Hub
