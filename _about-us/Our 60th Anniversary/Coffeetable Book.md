@@ -13,16 +13,15 @@ and strive.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/60th_Anniversary_Logov2.png">
 </div>
 <h2>Coffeetable Book</h2>
-<p>From its humble beginnings in 1966 to the vibrant institution it is today,
-Changkat Changi Secondary School has stood as a beacon of resilience and
-heart in the East. This milestone marks six decades of "Through School
-to Nation"—a journey defined not just by academic milestones, but by the
-enduring spirit of the Changkateer. As we turn these pages, we celebrate
-the generations of students and educators who have walked these halls,
-transforming a shared space into a community of purpose. Here’s to sixty
-years of nurturing citizens for the future and character for the soul;
-may the Changkat fire continue to burn bright for many more years to come.</p>
+<p>The commemorative coffee table book chronicles Changkat Changi Secondary
+School’s journey since its founding in 1966. Featuring six individuals
+who represent different decades of the school’s history, the book shares
+their personal memories and reflections on how the school’s values shaped
+their growth. Through these stories of perseverance, mentorship and achievement,
+the book honours our rich heritage while inspiring present and future generations
+to thrive together and inspire excellence. The book will be made available
+on this website in the 2nd half of this year.</p>
 <h4><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h4>
 <h2><strong>Signature Events</strong></h2>
-<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech and Prizegiving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">Theatre Production</a><br><br></h4>
+<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech and Prize-giving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">60<sup>th</sup> Anniversary Show @ OTH</a><br><br></h4>
 <p></p>
