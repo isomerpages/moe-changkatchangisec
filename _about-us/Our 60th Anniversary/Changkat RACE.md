@@ -15,12 +15,11 @@ and strive.</p>
 <p></p>
 <h4><a href="https://changkatchangisec.moe.edu.sg/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a><br><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h4>
 <h2><strong>Signature Events</strong></h2>
-<h2>Changkat RACE</h2>
-<p>Changkat R.A.C.E. – Rise Above Challenging Experiences Students will be
-joined by staff, alumni and parents as they come together for the Competitive
-Run (3.6 km) and Fun Walk (2 km).
-<br>This event celebrates resilience, perseverance and school spirit, as the
-Changkat community rises above challenges together.
+<h2>Changkat R.A.C.E. – Rise Above Challenging Experiences</h2>
+<p>Students will be joined by staff, alumni and parents as they come together
+for the Competitive Run (3.6 km) and Fun Walk (2 km). This event celebrates
+resilience, perseverance and school spirit, as the Changkat community rises
+above challenges together.
 <br>Parents Sign-Up Link <a href="https://go.gov.sg/ccss-race2026" rel="noopener nofollow" target="_blank">Click Here</a>
 <br>Alumni Sign-Up Link <a href="https://forms.gle/zPqLQRdS25SMucts7" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
