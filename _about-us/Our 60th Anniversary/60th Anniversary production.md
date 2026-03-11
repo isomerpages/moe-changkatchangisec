@@ -20,8 +20,7 @@ and strive.</p>
 <p><strong>Date:</strong> Friday, 5 June 2026, 5.30pm
 <br><strong>Venue: </strong>Our Tampines Hub
 <br>
-</p>
-<p>Changkat Changi Secondary School proudly presents a theatrical performance
+<br>Changkat Changi Secondary School proudly presents a theatrical performance
 that brings to life the rich tapestry of its journey through the decades.
 Through a captivating blend of drama, music, dance and movement, students
 from the Performing Arts CCAs will weave together a historic storyline
