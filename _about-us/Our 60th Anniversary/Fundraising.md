@@ -25,7 +25,7 @@ Heritage Gallery, as well as school-based scholarships and bursaries for
 deserving students.</p>
 <p></p>
 <h2><strong>Signature Events</strong></h2>
-<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">60th Annual Speech &amp; Prize-Giving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">60<sup>th</sup> Anniversary Show @ OTH</a></h4>
+<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat R.A.C.E. – Rise Above Challenging Experiences</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">60th Annual Speech &amp; Prize-Giving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">60<sup>th</sup> Anniversary Show @ OTH</a></h4>
 <p></p>
 <p></p>
 <p></p>
