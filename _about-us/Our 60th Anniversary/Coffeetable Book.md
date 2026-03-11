@@ -23,5 +23,5 @@ to thrive together and inspire excellence. The book will be made available
 on this website in the 2nd half of this year.</p>
 <h4><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h4>
 <h2><strong>Signature Events</strong></h2>
-<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech and Prize-giving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">60<sup>th</sup> Anniversary Show @ OTH</a><br><br></h4>
+<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat RACE</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">60th Annual Speech &amp; Prize-Giving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">60<sup>th</sup> Anniversary Show @ OTH</a><br><br></h4>
 <p></p>
