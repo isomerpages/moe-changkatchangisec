@@ -28,5 +28,5 @@ Changkat community rises above challenges together.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changkat 60/Changkat_RACE.jpg">
 </div>
 <p></p>
-<h4><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech and Prize-giving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">60<sup>th</sup> Anniversary Show @ OTH</a></h4>
+<h4><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">60th Annual Speech &amp; Prize-Giving Day</a><br><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">60<sup>th</sup> Anniversary Show @ OTH</a></h4>
 <p></p>
