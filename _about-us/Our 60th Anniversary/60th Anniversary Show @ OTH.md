@@ -5,18 +5,34 @@ variant: tiptap
 description: ""
 third_nav_title: Our 60th Anniversary
 ---
-<h2><strong>60th Anniversary</strong></h2>
-<p>In careful hands, we’ve learned to thrive, With roots well-tended, dreams
-alive. Through sixty years of patient trim, Excellence grows from care
-and strive.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/60th_Anniversary_Logov2.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/60th_Anniversary_Logov2.png">
 </div>
 <p></p>
-<h4><a href="https://changkatchangisec.moe.edu.sg/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a><br><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a></h4>
-<h2><strong>Signature Events</strong></h2>
-<h4><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat R.A.C.E. – Rise Above Challenging Experiences</a><br><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">60th Annual Speech &amp; Prize-Giving Day</a></h4>
-<h2>60th Anniversary Show @ OTH</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://changkatchangisec.moe.edu.sg/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a>
+</p>
+</li>
+<li>
+<p><a href="https://changkatchangisec.moe.edu.sg/fundraising/" rel="noopener nofollow" target="_blank">Fundraising</a>
+</p>
+</li>
+<li>
+<p><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat R.A.C.E.</a>
+</p>
+</li>
+<li>
+<p><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech &amp; Prize-Giving Day</a>
+</p>
+</li>
+<li>
+<p><a href="https://changkatchangisec.moe.edu.sg/theatre-production/" rel="noopener nofollow" target="_blank">60<sup>th</sup> Anniversary Show @ OTH</a>
+</p>
+</li>
+</ol>
+<h2>60<sup>th</sup> Anniversary Show @ OTH</h2>
 <p><strong>Date:</strong> Friday, 5 June 2026, 5.30pm
 <br><strong>Venue: </strong>Our Tampines Hub
 <br>
@@ -38,3 +54,5 @@ committed to shaping resilient and compassionate individuals who are ready
 to navigate the ever-changing landscape of the modern world and contribute
 positively to society. Without further ado, put your hands together for
 Dreams Sown, Destiny Awakened.</p>
+<p>Pic</p>
+<p></p>
