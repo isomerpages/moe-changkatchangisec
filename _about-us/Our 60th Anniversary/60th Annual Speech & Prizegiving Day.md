@@ -39,5 +39,7 @@ their families. It recognises the dedication and perseverance of our students
 and staff, honours the accomplishments of our prize recipients, and affirms
 the commitment of our student leaders as they step forward to serve the
 school community.</p>
+<p>pic</p>
+<p></p>
 <p></p>
 <p></p>
