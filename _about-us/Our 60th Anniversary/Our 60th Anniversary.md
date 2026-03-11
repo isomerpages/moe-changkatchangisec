@@ -32,11 +32,11 @@ the following events and initiatives.</p>
 </p>
 </li>
 <li>
-<p><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat R.A.C.E. – Rise Above Challenging Experiences</a>
+<p><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat R.A.C.E</a>
 </p>
 </li>
 <li>
-<p><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">60th Annual Speech &amp; Prize-Giving Day</a>
+<p><a href="https://changkatchangisec.moe.edu.sg/speech-and-prizegiving-day/" rel="noopener nofollow" target="_blank">Speech &amp; Prize-Giving Day</a>
 </p>
 </li>
 <li>
