@@ -32,7 +32,7 @@ the following events and initiatives.</p>
 </p>
 </li>
 <li>
-<p><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat R.A.C.E</a>
+<p><a href="https://changkatchangisec.moe.edu.sg/changkat-race/" rel="noopener nofollow" target="_blank">Changkat R.A.C.E.</a>
 </p>
 </li>
 <li>
