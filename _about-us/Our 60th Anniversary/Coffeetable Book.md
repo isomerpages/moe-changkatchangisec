@@ -5,23 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Our 60th Anniversary
 ---
-<h2><strong>60<sup>th</sup> Anniversary</strong></h2>
-<p>This year, the school celebrates its 60th anniversary. The theme for our
-60th anniversary is “Thrive Together, Inspire Excellence”. As we reflect
-with pride on six decades of growth, resilience, and excellence, we are
-reminded of the many milestones that have shaped our journey. A defining
-milestone was our move to the current campus in 2002, which transformed
-the school into a dynamic and nurturing space where learning, character,
-and aspirations took flight.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/60th_Anniversary_Logov2.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/60th_Anniversary_Logov2.png">
 </div>
-<p>A special logo is designed by our very own Art Teacher, Ms Cheryl Cheong,
-to celebrate our 60th Anniversary. We believe that in careful hands, we’ve
-learned to thrive. With roots well-tended, dreams alive. Through sixty
-years of patient trim, excellence grows from care and thrive. Our celebration
-will take on 3 aspects, Celebratory, Community and Commitment, through
-the following events and initiatives.</p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://changkatchangisec.moe.edu.sg/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a>
