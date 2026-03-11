@@ -34,11 +34,11 @@ third_nav_title: Our 60th Anniversary
 </ol>
 <h2>Fundraising</h2>
 <p>Fundraising graphic</p>
-<p>In commemorating our 60th anniversary, we invite our alumni, parents,
-guardians, partners and friends to support the continued growth of the
-Changkateer journey. Contributions will support our distinctive programmes.
-Including a flight simulator for the Applied Learning Programme, a refreshed
-Heritage Gallery, as well as school-based scholarships and bursaries for
-deserving students.</p>
+<p>In commemorating our 60<sup>th</sup> anniversary, we invite our alumni,
+parents, guardians, partners and friends to support the continued growth
+of the Changkateer journey. Contributions will support our distinctive
+programmes. Including a flight simulator for the Applied Learning Programme,
+a refreshed Heritage Gallery, as well as school-based scholarships and
+bursaries for deserving students.</p>
 <p>QR</p>
 <p></p>
