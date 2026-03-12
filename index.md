@@ -18,9 +18,9 @@ sections:
         - title: ASCEND @ CCSS
           description: LEARNING FOR LIFE PROGRAMME
           url: /experience-at-changkat/ascend/
-        - title: FULL SUBJECT-BASED BANDING
-          description: FSBB
-          url: /experience-at-changkat/Full-Subject-Based-Banding-SBB
+        - title: Our 60th Anniversary
+          description: Find out more!
+          url: /60th-changkat-anniversary/
       variant: center
       size: md
       alignment: right
