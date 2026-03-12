@@ -54,8 +54,7 @@ bursaries for deserving students.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Singpass:</strong> Scan the QR code (found on original image) to
-donate via Singpass.</p>
+<p><strong>Singpass:</strong> Scan or click the QR code to donate via Singpass.</p>
 </li>
 <li>
 <p><strong>Bank Transfers &amp; Corporate Donations:</strong> Please email
