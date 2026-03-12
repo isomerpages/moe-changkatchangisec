@@ -41,7 +41,7 @@ the commitment of our student leaders as they step forward to serve the
 school community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/60th_speech_day_graphic.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/60th_speech_day_graphic.png">
 </div>
 <p></p>
 <p></p>
