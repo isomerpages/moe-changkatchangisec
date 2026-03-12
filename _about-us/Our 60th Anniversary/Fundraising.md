@@ -52,4 +52,33 @@ bursaries for deserving students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/QR_for_Fundraising.png">
 </div>
+<p><strong>Donation Instructions</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Singpass:</strong> Scan the QR code (found on original image) to
+donate via Singpass.</p>
+</li>
+<li>
+<p><strong>Bank Transfers &amp; Corporate Donations:</strong> Please email
+to <strong><a href="mailto:changkatchgi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">changkatchgi@moe.edu.sg</a></strong> for
+assistance.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Additional Information</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Impact Statement:</strong> Your generosity enables us to honour
+our heritage and invest in the future of every Changkateer.</p>
+</li>
+<li>
+<p><strong>Tax Benefits:</strong> All donations <strong>$100.00 and above</strong> are
+tax deductible up to <strong>2.5 times</strong>.</p>
+</li>
+<li>
+<p><strong>School Motto:</strong> Through School To Nation.</p>
+</li>
+</ul>
 <p></p>
