@@ -65,20 +65,4 @@ to <strong><a href="mailto:changkatchgi@moe.edu.sg" rel="noopener noreferrer nof
 assistance.</p>
 </li>
 </ul>
-<hr>
-<p><strong>Additional Information</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Impact Statement:</strong> Your generosity enables us to honour
-our heritage and invest in the future of every Changkateer.</p>
-</li>
-<li>
-<p><strong>Tax Benefits:</strong> All donations <strong>$100.00 and above</strong> are
-tax deductible up to <strong>2.5 times</strong>.</p>
-</li>
-<li>
-<p><strong>School Motto:</strong> Through School To Nation.</p>
-</li>
-</ul>
 <p></p>
