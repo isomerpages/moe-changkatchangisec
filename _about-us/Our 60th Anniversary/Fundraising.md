@@ -33,12 +33,23 @@ third_nav_title: Our 60th Anniversary
 </li>
 </ol>
 <h2>Fundraising</h2>
-<p>Fundraising graphic</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Fundraising_Graphics.png">
+</div>
+<p>Changkat Changi Secondary School celebrates its 60<sup>th</sup> anniversary
+in 2026. Throughout the years, we have remained steadfast in delivering
+quality learning experiences to our Changkateers. In recent years, our
+distinctive programmes have provided students with opportunities to deepen
+their understanding and appreciation of the aviation industry whilst becoming
+champions of sustainability.</p>
 <p>In commemorating our 60<sup>th</sup> anniversary, we invite our alumni,
 parents, guardians, partners and friends to support the continued growth
 of the Changkateer journey. Contributions will support our distinctive
-programmes. Including a flight simulator for the Applied Learning Programme,
+programmes, including a flight simulator for the Applied Learning Programme,
 a refreshed Heritage Gallery, as well as school-based scholarships and
 bursaries for deserving students.</p>
-<p>QR</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/QR_for_Fundraising.png">
+</div>
 <p></p>
