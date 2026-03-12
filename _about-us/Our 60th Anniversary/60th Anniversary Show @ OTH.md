@@ -51,5 +51,8 @@ committed to shaping resilient and compassionate individuals who are ready
 to navigate the ever-changing landscape of the modern world and contribute
 positively to society. Without further ado, put your hands together for
 Dreams Sown, Destiny Awakened.</p>
-<p>Pic</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dreams_Sown_Destiny_Awakened_v5.png">
+</div>
 <p></p>
