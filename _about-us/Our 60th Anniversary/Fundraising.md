@@ -49,9 +49,7 @@ of the Changkateer journey. Contributions will support our distinctive
 programmes, including a flight simulator for the Applied Learning Programme,
 a refreshed Heritage Gallery, as well as school-based scholarships and
 bursaries for deserving students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/QR_for_Fundraising.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/658ceb34f4c3760012382292?6578efcafae6d100125bca0e=9533&amp;658ceb98131a010012b1b373=Changkat%20Changi%20Secondary&amp;658ceb6e131a010012b1b0e4=Donation%20to%20General%20Education%20Fund"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fundraising_QR.jpg"></a>
 <p><strong>Donation Instructions</strong>
 </p>
 <ul data-tight="true" class="tight">
