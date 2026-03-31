@@ -1,5 +1,7 @@
 logo: /images/School Logo/sch website logo png.png
 links:
+  - title: Contact Us
+    url: /about-us/Contact-Us/
   - title: About Us
     collection: about-us
   - title: Our Achievements
