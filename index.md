@@ -66,9 +66,7 @@ sections:
       button: Follow us
   - textcards:
       title: Contact Us
-      subtitle: ""
       id: textcards
-      description: ""
       cards:
         - title: Address
           description: 23 Simei Street 3 Singapore 529894
@@ -77,7 +75,7 @@ sections:
         - title: Email
           description: changkatchgi@moe.edu.sg
           linktext: Mail Us
-          url: changkatchgi@moe.edu.sg
+          url: mailto:changkatchgi@moe.edu.sg
         - title: Call Us
           description: 6785 9790
           linktext: ""
