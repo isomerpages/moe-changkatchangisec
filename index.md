@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/homepage1.gif
       key_highlights:
+        - title: Our 60th Anniversary
+          description: Find out more!
+          url: /60th-changkat-anniversary/
         - title: A day in the life of a Changkateer
           description: Follow us on Instagram here
           url: https://www.instagram.com/ccss_sg/
@@ -18,9 +21,6 @@ sections:
         - title: ASCEND @ CCSS
           description: LEARNING FOR LIFE PROGRAMME
           url: /experience-at-changkat/ascend/
-        - title: Our 60th Anniversary
-          description: Find out more!
-          url: /60th-changkat-anniversary/
       variant: center
       size: md
       alignment: right
