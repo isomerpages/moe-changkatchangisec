@@ -64,4 +64,26 @@ sections:
       alt: Changkat Changi Facebook
       url: https://www.facebook.com/changkateers/
       button: Follow us
+  - textcards:
+      title: Contact Us
+      subtitle: ""
+      id: textcards
+      description: ""
+      cards:
+        - title: Address
+          description: 23 Simei Street 3 Singapore 529894
+          linktext: Get Direction
+          url: https://www.google.com/maps/place/Changkat+Changi+Secondary+School/@1.3410453,103.9528122,17z/data=!3m1!4b1!4m6!3m5!1s0x31da3d20be593d31:0x314ae251119f95b9!8m2!3d1.3410453!4d103.9528122!16s%2Fg%2F11f0_dl0qq?hl=en&entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D
+        - title: Email
+          description: changkatchgi@moe.edu.sg
+          linktext: Mail Us
+          url: changkatchgi@moe.edu.sg
+        - title: Call Us
+          description: 6785 9790
+          linktext: ""
+          url: ""
+        - title: Fax Us
+          description: 6786 8481
+          linktext: ""
+          url: ""
 ---
