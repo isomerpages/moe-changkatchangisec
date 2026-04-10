@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Craft &amp; Technology (Covering)</p>
+<p>HOD Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Han Ban Siew Sean</p>
