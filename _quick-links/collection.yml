@@ -2,8 +2,8 @@ collections:
   quick-links:
     output: true
     order:
-      - National Digital Literacy Programme (NDLP).md
       - Useful Links.md
+      - National Digital Literacy Programme (NDLP).md
       - Sec 2 Streaming Exercise.md
       - Class Timetable.md
       - CSP Registration.md
