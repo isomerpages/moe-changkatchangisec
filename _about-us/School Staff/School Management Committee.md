@@ -5,9 +5,6 @@ description: ""
 third_nav_title: School Staff
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCHOOL_MANAGEMENT_COMMITTEE.jpg">
-</div>
 <h1>School Leaders</h1>
 <table style="minWidth: 50px">
 <colgroup>
