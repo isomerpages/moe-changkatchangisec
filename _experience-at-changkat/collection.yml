@@ -2,13 +2,11 @@ collections:
   experience-at-changkat:
     output: true
     order:
-      - National Digital Literacy Programme (NDLP).md
       - Sec One Registration.md
       - SOAR/.keep
       - SOAR/Student centered Opportunities for AeRospace Industry.md
       - SOAR/Aviation @ CCSS.md
       - ASCEND.md
-      - Full Subject Based Banding (FSBB).md
       - Academic Departments/.keep
       - Academic Departments/English.md
       - Academic Departments/Mother Tongue.md
