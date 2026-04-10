@@ -5,8 +5,6 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-<center><img src="/images/Dept%20Photo/2025/EXECUTIVE___ADMINSTRATIVE_STAFF.jpg"></center>
-
 | Appointment | Name | 
 | -------- | -------- | 
 | Administrations Manager    | Ms  Ng Koh Yee   | 
