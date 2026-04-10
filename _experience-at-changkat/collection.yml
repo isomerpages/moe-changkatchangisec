@@ -2,7 +2,6 @@ collections:
   experience-at-changkat:
     output: true
     order:
-      - National Digital Literacy Programme (NDLP).md
       - Sec One Registration.md
       - SOAR/.keep
       - SOAR/Student centered Opportunities for AeRospace Industry.md
