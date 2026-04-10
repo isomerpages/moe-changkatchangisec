@@ -101,104 +101,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>FUN CATEGORY</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>AWESOME PERSONALITY AWARD</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ENGAGING STORYTELLER AWARD</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>FULL OF ENERGY AWARD</strong>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1) DJOHAN BIN ABDUL RAHMAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1) MAY KANG ENG LING</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1) WANG XIAO HUI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2) NAHAR AZMI BIN ABDUL MAJID</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2) CAMILLUS CHUA JIN BAO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2) MOHAMED SYAFIQ BIN MOHAMED RAFID</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOST FASHIONABLE AWARD</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>THE WISE ONE AWARD</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1) EDITH CHENG ENG ENG (MRS MILESI)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1) YAP MENG WEI KELVIN</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2) YEO SHAO HUI TIMOTHY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2) POH WEI EN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>2024 Achievements</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -239,26 +141,6 @@ variant: tiptap
 <br>2. Mr Donald Ho
 <br>3. Ms Ng Koh Yee
 <br>4. Mdm Rafidah Bte Abu Bakar</p>
-<p></p>
-<p><u>Awesome Personality Award</u>
-<br>1. Mr Poh Wei En
-<br>2. Mdm Nuraini</p>
-<p></p>
-<p><u>Full of Energy Award</u>
-<br>1. Ms Daphne Khoo
-<br>2. Mr Wan Bing Khiang</p>
-<p></p>
-<p><u>Most Fashionable Award</u>
-<br>1. Mr Timothy Yeo
-<br>2. Mrs Morrison</p>
-<p></p>
-<p><u>The Wise One Award</u>
-<br>1. Mr Rishvinder
-<br>2. Ms Salome Sim</p>
-<p></p>
-<p><u>Engaging Storyteller</u>
-<br>1. Mr Nahar
-<br>2. Mr Chua Jin Bao</p>
 </td>
 </tr>
 </tbody>
@@ -303,26 +185,6 @@ variant: tiptap
 <br>2. Nabliah Binti Razali
 <br>3. Shamimi D/O G Singaravel
 <br>4. Wong Khay Onn</p>
-<p></p>
-<p><u>Awesome Personality Award 2023</u>
-<br>1. Rishvinder Singh
-<br>2. Djohan Bin Abdul Rahman</p>
-<p></p>
-<p><u>Engaging Storyteller Award 2023</u>
-<br>1. Ong Hui Yan
-<br>2. Adibah Bte Abbas</p>
-<p></p>
-<p><u>Full of Energy Award 2023</u>
-<br>1. Jason Zhuo Gensheng
-<br>2. Low Yan Fang</p>
-<p></p>
-<p><u>Most Fashionable Award 2023</u>
-<br>1. Aliah Aman Aljunied
-<br>2. Sim Jia En</p>
-<p></p>
-<p><u>The Wise One Award 2023</u>
-<br>1. Lee Chin Teck
-<br>2. Wang Yadong</p>
 </td>
 </tr>
 </tbody>
