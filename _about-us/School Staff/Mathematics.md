@@ -5,8 +5,6 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-![](/images/Dept%20Photo/2025/MATHEMATICS_DEPARTMENT.jpg)
-
 | Appointment | Name | 
 | -------- | -------- | 
 | HOD Mathematics | Mr Poh Wei en   | 
