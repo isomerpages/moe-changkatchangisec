@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
-<p><strong>Head of Department (Covering):</strong>&nbsp;Mr Han Ban Siew Sean</p>
+<p><strong>Head of Department:</strong>&nbsp;Mr Han Ban Siew Sean</p>
 <p><strong>Subject Head: </strong>Mr Vincent Tang Chee Wai</p>
 <p><strong>ART Coordinator:</strong>&nbsp;Mrs Angeline Morrison-Neo Swee
 Ting</p>
