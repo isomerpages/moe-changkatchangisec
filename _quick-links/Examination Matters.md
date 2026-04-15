@@ -80,10 +80,10 @@ variant: tiptap
 <h1>Topics for WA and Exam</h1>
 <p>Respective subject teachers will inform students of any change in the
 topic tested.</p>
-<p><a href="/files/Exam matters/2026_CCSS_Assessment_Topics___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a> 
-<br><a href="/files/Exam matters/2026_CCSS_Assessment_Topics___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a> 
-<br><a href="/files/Exam matters/2026_CCSS_Assessment_Topics___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a> 
-<br><a href="/files/Exam matters/2026_CCSS_Assessment_Topics___Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec4/5</a>
+<p><a href="/files/Exam matters/T2__2026_CCSS_Assessment_Topics___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<br><a href="/files/Exam matters/T2__2026_CCSS_Assessment_Topics___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a> 
+<br><a href="/files/Exam matters/T2__2026_CCSS_Assessment_Topics___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+<br><a href="/files/Exam matters/T2__2026_CCSS_Assessment_Topics___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4/5</a>
 </p>
 <h1>National Examination Matters</h1>
 <ol data-tight="true" class="tight">
