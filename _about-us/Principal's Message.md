@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Kwok.jpg">
-</div>
 <p>Welcome to Changkat Changi Secondary School!
 <br>
 <br>I am delighted to serve as the 11th Principal of this established school
