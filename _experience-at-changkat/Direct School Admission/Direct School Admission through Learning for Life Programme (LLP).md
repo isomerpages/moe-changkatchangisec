@@ -81,7 +81,7 @@ their Primary school education.</p>
 <p><strong>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</strong>
 </p>
 <h5>Application Process</h5>
-<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 June 2025, 3pm. For more details,&nbsp;please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>
+<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 6 May 2026, 11am to 2 Jun 2026, 4.30pm. For more details,&nbsp;please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
@@ -102,7 +102,7 @@ the same school under two different talent areas).</p>
 </p>
 <p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to</strong>&nbsp;<strong>the talent they are selected for from year 1-4.</strong>
 </p>
-<p>The application timeline for 2025 is as follows:</p>
+<p>The application timeline for 2026 is as follows:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -119,7 +119,7 @@ the same school under two different talent areas).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am to 3 June 2025, 3pm</p>
+<p>6 May 2025, 11am to 2 Jun 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submit your child's application online through the DSA-Sec portal by 3pm
@@ -128,7 +128,7 @@ on the final day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 June 2025 to 25 July 2025</p>
+<p>29 Jun 2026 – 24 Jul 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School’s notification of shortlisted candidates. We regret to inform that&nbsp;<strong>only shortlisted students</strong>&nbsp;will
@@ -137,7 +137,7 @@ be notified of the interview dates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 June 2025 to 4 September 2025</p>
+<p>29 June to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School-based in-person interview for shortlisted applicants.</p>
@@ -145,7 +145,7 @@ be notified of the interview dates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 August 2025 to 4 September 2025</p>
+<p>17 to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will receive a reply from the school on the outcome of
@@ -155,7 +155,7 @@ the application as follows:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 October 2025 to 31 October 2025</p>
+<p>19 Oct 2026, 9am - 23 Oct 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
@@ -178,7 +178,7 @@ the School Preference Submission period.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late November 2025</p>
+<p>Late Nov 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students studying in MOE mainstream schools will receive their DSA-Sec
