@@ -119,10 +119,10 @@ the same school under two different talent areas).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 May 2025, 11am to 2 Jun 2026, 4.30pm</p>
+<p>6 May 2026, 11am to 2 Jun 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submit your child's application online through the DSA-Sec portal by 3pm
+<p>Submit your child's application online through the DSA-Sec portal by 4.30pm
 on the final day.</p>
 </td>
 </tr>
@@ -160,13 +160,13 @@ the application as follows:
 <td rowspan="1" colspan="1">
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
 will receive email and SMS notification via Postman.gov.sg on the School
-Preference Submission in mid to end Oct 2025. Both parents are required
+Preference Submission in mid to end Oct 2026. Both parents are required
 to login to the DSA-Sec Portal using their Singpass to submit up to three
 school preferences. If parent(s) are unable to submit online, they can
 approach their child’s primary school for assistance to submit the school
 preferences on their behalf.
 <br>Students who receive at least one DSA-Sec offer (including from SOTA)
-will receive notification on the School Preference Submission in Oct 2025.
+will receive notification on the School Preference Submission in Oct 2026.
 <br>Both parents are required to login to the DSA-Sec Portal using their SingPass
 to submit up to three school preferences.
 <br>If parents are unable to submit online, they can approach their child’s
@@ -183,7 +183,7 @@ the School Preference Submission period.</p>
 <td rowspan="1" colspan="1">
 <p>Students studying in MOE mainstream schools will receive their DSA-Sec
 results together with their PSLE results through their primary schools,
-tentatively mid-Nov 2025.
+tentatively mid-Nov 2026.
 <br>The rest of the students (not studying in MOE mainstream schools) will
 receive their DSA-Sec results via email.&nbsp;
 <br><strong>Successful DSA-Sec Students.</strong>&nbsp;Those who took PSLE
