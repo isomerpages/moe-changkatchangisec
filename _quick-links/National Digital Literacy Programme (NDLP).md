@@ -103,8 +103,8 @@ more information</p>
 <p>4.&nbsp; SOPs for device issues</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;<strong><a href="/files/SOPs%20for%20Device%20Issues%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;
-for more information</p>
+<p>Click&nbsp;<strong><a href="/files/SOPs%20for%20Device%20Issues%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+more information</p>
 </td>
 </tr>
 <tr>
