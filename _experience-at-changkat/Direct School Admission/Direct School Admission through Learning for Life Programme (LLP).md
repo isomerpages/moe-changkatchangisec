@@ -160,18 +160,8 @@ the application as follows:
 <td rowspan="1" colspan="1">
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
 will receive email and SMS notification via Postman.gov.sg on the School
-Preference Submission in mid to end Oct 2026. Both parents are required
-to login to the DSA-Sec Portal using their Singpass to submit up to three
-school preferences. If parent(s) are unable to submit online, they can
-approach their child’s primary school for assistance to submit the school
-preferences on their behalf.
-<br>Students who receive at least one DSA-Sec offer (including from SOTA)
-will receive notification on the School Preference Submission in Oct 2026.
-<br>Both parents are required to login to the DSA-Sec Portal using their SingPass
-to submit up to three school preferences.
-<br>If parents are unable to submit online, they can approach their child’s
-primary school for assistance to submit the school preferences on their
-behalf.
+Preference Submission in mid to end Oct 2026.
+<br>
 <br>DSA-Sec offers not taken up will be considered as lapsed at the end of
 the School Preference Submission period.</p>
 </td>
