@@ -5,77 +5,54 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
-<p><strong>Head of Department:</strong>&nbsp;Ms Huang Aili</p>
-<p><strong>Subject Head</strong>: Mr Sebastian Thng</p>
-<p><strong>Senior Teacher:</strong>&nbsp;Mdm Adibah Bte Abbas</p>
-<p><strong>Teachers:</strong>
-<br>Mdm Rosazlin Bte Mohamad
-<br>Mdm Shahnaz d/o Sheikh Abdul Karim
-<br>Mr Mohamed Syafiq Bin Mohamed Rafid
-<br>Mdm Katherine Yeung See Mun
-<br>Mr Yeo Shao Hui Timothy
-<br>Ms Chia Ying Yin
-<br>Mr Han Zi Ding
-<br>Mrs Beatrice Te
-<br>Ms Cheryl Cheong
-<br>Ms Khoo Hui Ching Bernice
-<br>Ms Kang Eng Ling May
-<br>Mr Ng Woon Bing Kevin
-<br>Mr Amrit Singh Gill
-<br>Ms Zarina Binte Mohamed Zakaria</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo/EL.gif">
+</div>
+<p><strong>Learning Outcomes:</strong>
+</p>
 <p>The English Language Department aims to develop students into empathetic
-communicators, discerning readers and creative inquirers who are confident
-and competent in their use of the English Language. To this end, the department
-offers structured programmes which allow students to discover their passions
-in the various language areas. In particular, the Public Speaking Programme
-helps our students grow as orators.</p>
+communicators, discerning readers, and creative inquirers who are confident
+and competent in their use of the English Language. Through their learning
+in both English Language and Literature, students learn to appreciate diverse
+perspectives, interpret texts critically, and make meaningful connections
+between what they read and the world around them.Our students are guided
+to become thoughtful and reflective individuals who can analyse characters,
+themes, and ideas, while expressing their own viewpoints with clarity and
+sensitivity. By engaging with a wide range of texts and learning experiences,
+they grow in their ability to communicate with empathy, think critically,
+and respond creatively.
+<br>To this end, the department offers structured programmes that allow students
+to discover their passions across the various language domains.</p>
 <p><strong>Key Programmes:</strong>
 </p>
+<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talent Development Programme</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Talent Development Programme
-<br>- Public Speaking Programme
-<br>- Writer's Academy</p>
+<p>Public Speaking Programme</p>
 </li>
 <li>
-<p>Secondary 1 English Drama Workshop</p>
-</li>
-<li>
-<p>English Literature Enrichment workshop and Learning Journeys</p>
+<p>The Writer’s Academy</p>
 </li>
 </ul>
-<p>Given the positive learning experiences our Changkateers had last year,
-we continued to incorporate Drama into the Sec 1 curriculum where the students
-took time each week in Term 2 to learn how to present themselves confidently
-and learn the basics of a drama performance. Our students in the Public
-Speaking Programme continue to hone their talent in speaking and acting
-in various school events throughout the year. A highlight of our Secondary
-3 curriculum was an inter-class debate where students engaged in discourse
-on various topics related to the theme of Law and Justice.</p>
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary 1 English Drama Workshop</p>
+<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Literature Enrichment Workshops
+and Learning Journeys</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/IMG_0335__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/IMG_0253__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/20230509_111703.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/WhatsApp_Image_2024_06_28_at_5_38_39_PM__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/DSC05342.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/EL/CAM20140.jpg">
-</div>
-<p></p>
-<p></p>
-<p></p>
+<p>Building on the positive learning experiences of our Changkateers in recent
+years, Drama continues to be an integral part of the Secondary 1 curriculum.
+In Term 2, students participate in weekly sessions where they learn to
+present themselves confidently and acquire the fundamentals of drama performance.</p>
+<p>Students in the Public Speaking Programme continue to hone their talents
+in speech and performance, taking on active roles in various school events
+throughout the year. Students in the Writer’s Academy explore creative
+writing more deeply, while also participating in competitions and learning
+journeys that broaden their exposure and inspire their craft.</p>
+<p>A highlight of the Secondary 3 curriculum is the inter-class debate, where
+students engage in thoughtful discourse on issues related to the theme
+of Law and Justice, sharpening their critical thinking and argumentation
+skills.</p>
+<p>Our Literature students further deepen their appreciation of texts through
+enriching experiences such as dialogue sessions with writers and attending
+musical performances, enabling them to connect literary study with authentic,
+real-world contexts.</p>
+<p>&nbsp;</p>
