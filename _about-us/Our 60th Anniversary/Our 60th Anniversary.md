@@ -19,9 +19,9 @@ and aspirations took flight.</p>
 <p>A special logo is designed by our very own Art Teacher, Ms Cheryl Cheong,
 to celebrate our 60<sup>th</sup> Anniversary. We believe that in careful
 hands, we’ve learned to thrive. With roots well-tended, dreams alive. Through
-sixty years of patient trim, excellence grows from care and thrive. Our
-celebration will take on 3 aspects, Celebratory, Community and Commitment,
-through the following events and initiatives.</p>
+60 years of patient trim, excellence grows from care and thrive. Our celebration
+will take on three aspects, Celebratory, Community and Commitment, through
+the following events and initiatives.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://changkatchangisec.moe.edu.sg/coffeetable-book/" rel="noopener nofollow" target="_blank">Coffeetable Book</a>
