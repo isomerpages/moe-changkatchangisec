@@ -363,11 +363,7 @@ the application as follows:</p>
 <td rowspan="1" colspan="1">
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
 will receive notification on the School Preference Submission in Oct 2026.
-<br>Both parents are required to login to the DSA-Sec Portal using their SingPass
-to submit up to three school preferences.
-<br>If parents are unable to submit online, they can approach their child’s
-primary school for assistance to submit the school preferences on their
-behalf.
+<br>
 <br>DSA-Sec offers not taken up will be considered as lapsed at the end of
 the School Preference Submission period.</p>
 </td>
