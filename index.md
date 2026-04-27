@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IG_banner_v3.png
+      background: /images/IG_banner_v2.png
       key_highlights:
         - title: Our 60th Anniversary
           description: Find out more!
