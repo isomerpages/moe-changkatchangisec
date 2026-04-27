@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage1.gif
+      background: /images/Changkat_60th_Anniversary_Banner.png
       key_highlights:
         - title: Our 60th Anniversary
           description: Find out more!
