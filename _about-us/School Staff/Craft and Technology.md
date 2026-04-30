@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD C&amp;T (Covering)</p>
+<p>HOD C&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Han Ban Siew Sean</p>
