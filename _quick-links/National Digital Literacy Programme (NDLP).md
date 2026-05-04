@@ -208,18 +208,6 @@ you would like to change your child's DMA settings on the PLD</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br>If you have other queries not answered in the FAQs, you may wish to submit
-your queries via QR code on the right or click here</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/dmaoq.png">
-</div>
-</td>
-</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
