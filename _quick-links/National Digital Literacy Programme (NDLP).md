@@ -45,7 +45,7 @@ skills as they navigate an increasingly digitalised world.</p>
 <br><a href="/files/PDLP/Acceptable_Use_Policy__AUP__Agreement_for_ICT_Devices__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Acceptable Use Policy (AUP)</a>&nbsp;for
 healthy use of PLDs in the school
 <br><a href="/files/PDLP/Student_Device_Information_Kit_For_PLDs_purchased_Before_2026_Updated_17_Apr_26.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit (For devices purchased before 2026)</a>
-<br><a href="/files/Student_Device_Information_Kit_2026_v3.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit (For Devices Purchased from 2026 onwards)</a>
+<br><a href="/files/PDLP/Student_Device_Information_Kit_2026__Apple_iPad_KeppelTech_.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit (For Devices Purchased from 2026 onwards)</a>
 <br><a href="http://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 <h2>FOR PARENTS</h2>
@@ -184,7 +184,7 @@ you would like to change your child's DMA settings on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20default%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;<a href="https://go.gov.sg/dmadefault" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmadefault" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,7 +194,7 @@ you would like to change your child's DMA settings on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20A%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;<a href="https://go.gov.sg/dmaoptiona" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmaoptiona" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +204,21 @@ you would like to change your child's DMA settings on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20B%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;<a href="https://go.gov.sg/dmaoptionb" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmaoptionb" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1BLCFloKa8hQwwbcYk3n1Z25YbKcilHE_/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent's guide for Default Option</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1S_-oAinky1v3QH6rS3N1cIW0AKDU0kCT/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent's guide for Option A</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/11oJYHyBLv8Dk-jGL-FwEea_wIrdzs8Nj/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent's guide for Option B</a>
 </p>
 </td>
 </tr>
