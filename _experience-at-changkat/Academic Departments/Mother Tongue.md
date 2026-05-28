@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo/MT.gif">
+</div>
 <p><strong>Learning Outcomes:</strong>
 </p>
 <p>The Mother Tongue Department is committed to nurturing confident and culturally
