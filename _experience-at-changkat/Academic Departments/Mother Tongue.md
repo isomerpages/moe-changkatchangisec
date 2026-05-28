@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
+<p></p>
 <p><strong>Learning Outcomes:</strong>
 </p>
 <p>The Mother Tongue Department is committed to nurturing confident and culturally
@@ -20,7 +21,6 @@ and cross-cultural awareness that are essential for the 21<sup>st</sup> century.
 the language, empowering students to be active, reflective learners who
 can navigate a diverse and rapidly changing world with confidence and cultural
 sensitivity.</p>
-<p>&nbsp;</p>
 <p>&nbsp;<strong>Key Programmes:</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Festive celebrations for Chinese New
