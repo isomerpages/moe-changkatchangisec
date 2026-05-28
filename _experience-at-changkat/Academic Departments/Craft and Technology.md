@@ -5,185 +5,98 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
-<p><strong>Head of Department:</strong>&nbsp;Mr Han Ban Siew Sean</p>
-<p><strong>Subject Head: </strong>Mr Vincent Tang Chee Wai</p>
-<p><strong>ART Coordinator:</strong>&nbsp;Mrs Angeline Morrison-Neo Swee
-Ting</p>
-<p><strong>NFS Coordinator:</strong>&nbsp;Mdm Siti Zubaidah Binte Ismail</p>
-<p><strong>D&amp;T Teachers:</strong>
-<br>Mr Ong Khim Ghee Samuel
-<br>Mr Chia Heok Meng
-<br>Mr Sng Fook Chong
-<br>Ms Zubaidah Binte Ibrahim
-<br>Mr Unais Bin Yusof
-<br>Mr Tan Boon Lee</p>
-<p><strong>Art Teachers:</strong>
-<br>Miss Sim Jia En
-<br>Ms Cheryl Cheong
-<br>Mrs Edith Milesi – Cheng Eng Eng
-<br>Ms Nur Halimah Jasni</p>
-<p><strong>NFS Teachers:</strong>
-<br>Mdm Shahnaz D/O Sheik Abdul Karim
-<br>Mdm Linda Yap
-<br>Ms Khasturi D/O Gonasaygnran</p>
-<h5>DESIGN &amp; TECHNOLOGY (D&amp;T)</h5>
-<p>The D&amp;T unit aims to prepare students to participate in tomorrow’s
-rapidly changing world by creating opportunities for students to think
-creatively through the design process in designing and making. We structure
-our curriculum to promote thinking and tinkering to develop solutions.</p>
-<p>Students are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>exposed to varied design skills, technical methods and practical prototyping
-techniques to perform the desired tasks confidently.</p>
-</li>
-<li>
-<p>to build and apply a repertoire of knowledge, understanding and skills
-in order to design and make high-quality prototypes and products for a
-wide range of users.</p>
-</li>
-<li>
-<p>to critique, evaluate and test their ideas and products.</p>
-</li>
-</ul>
-<p>Key Programmes</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Learning of electronics components and circuitry.</p>
-</li>
-<li>
-<p>Research that includes testing new ideas through the making and testing
-of prototypes.</p>
-</li>
-<li>
-<p>Use of TinkerCAD and design &amp; print 3D design in the curriculum</p>
-</li>
-<li>
-<p>Use of Google SketchUp in Upper Secondary for visualization and coursework</p>
-</li>
-</ul>
-<p></p>
-<h5>ART</h5>
-<p>Art plays many important roles in our lives. It captures memories, communicates
-ideas, shapes values and evokes emotions. It exists all around us in different
-forms, from the colours, shapes and patterns in nature to everyday images
-and designs on magazines, products and media.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Art Unit aims to help students to develop their 21CC skills by</p>
-</li>
-<li>
-<p>Expanding imagination, enhancing creativity and developing adaptability.
-Building the capacity to critically discern and process visual information
-and communicating effectively.</p>
-</li>
-<li>
-<p>Fostering a sense of identity, culture and place in the society.</p>
-</li>
-</ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo/CraftandTech.gif">
+</div>
+<p><strong>Learning Outcomes:</strong>
+</p>
+<p>The Craft and Technology Department aims to develop students into creative,
+critical and adaptive learners who can respond confidently to the demands
+of a rapidly changing world. Through Design &amp; Technology (D&amp;T),
+Art, and Nutrition and Food Science (NFS), students engage in authentic,
+hands-on learning experiences that emphasise thinking, making and reflecting.</p>
+<p>The Art unit develops students’ visual literacy, creative expression and
+artistic dispositions. Through close observation, exploration of media
+and techniques, and critique of artworks, students learn to interpret,
+communicate and respond meaningfully to ideas, cultures and contemporary
+issues. By engaging in research, experimentation, refinement and presentation,
+Changkateers build creative confidence, critical thinking and the courage
+to express their unique perspectives.</p>
+<p>The D&amp;T unit develops students’ agency and designerly dispositions
+through a Design Thinking curriculum aligned with the OECD Learning Compass
+2030 and Singapore-Cambridge D&amp;T syllabuses. Students learn to identify
+everyday needs, think critically and creatively using visible thinking
+routines, and communicate ideas through doodling, sketching and mock-ups.
+Through empathetic research and prototyping, Changkateers create functional
+solutions while building resilience, adaptability and technical confidence.</p>
+<p>The NFS unit develops students’ knowledge and skills in nutrition, consumer
+education and sustainability. Through inquiry, practical food preparation
+and real-world decision-making, students learn to make informed choices
+about food, health and resources. By applying nutritional understanding
+and responsible consumer practices, Changkateers build confidence, independence
+and the ability to adopt sustainable lifestyles.</p>
 <p><strong>Key Programmes:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Art</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lower Secondary career themed projects (Product designer, Animinator/Character
-designer, Photographer, Fine Artist etc.)</p>
+<p>Exposure to a variety of Art forms and Media in 2D and 3D forms, art making
+in analogue and digital platforms, design tasks, digital illustrations
+and digital drawings.</p>
 </li>
 <li>
-<p>Art Talent Development Programme</p>
+<p>Exposure to Inquiry-Based Learning [IBL] as a key pedagogical approach.</p>
 </li>
 <li>
-<p>Artist talk by local artists and designers</p>
+<p>Visual Analysis of artists and their works</p>
 </li>
 <li>
-<p>Digital Illustration/Animation/Digital drawings on iPad</p>
+<p>Collaborative Art Making and Learning</p>
 </li>
 <li>
-<p>Adobe Photoshop modules</p>
-</li>
-<li>
-<p>Museum-based learning and field trips</p>
+<p>Art Journaling and Sketch booking</p>
 </li>
 <li>
 <p>Experiential learning outside classroom</p>
 </li>
 </ul>
-<h5>NUTRITION AND FOOD SCIENCE (NFS)</h5>
-<p><strong>Food and Consumer Education (Lower secondary)</strong>
-</p>
-<p>The Food and Consumer Education (FCE) syllabus equips students with essential
-knowledge and skills to navigate evolving social, economic, and technological
-changes. It promotes financial literacy, sustainable consumption, and digital
-awareness while fostering social and emotional competencies for responsible
-decision-making. Aligned with national initiatives like the Singapore Green
-Plan 2030, the curriculum prepares students to be discerning consumers
-and active contributors to society. The Applied Module (AM) further enhances
-learning by allowing students to deepen their understanding and develop
-core skills such as creative thinking, needs analysis, and decision-making,
-ensuring they are well-prepared for future challenges.</p>
-<p><strong>Food and Nutrition (Upper secondary)</strong>
-</p>
-<p>The Nutrition and Food Science (NFS) curriculum equips students with essential
-knowledge in nutrition, food literacy, and sustainability, enabling them
-to make informed dietary choices and address food security challenges in
-Singapore. By applying food science principles, students learn to prepare
-nutritious meals, reduce diet-related risks, and adopt responsible consumption
-habits. Aligned with the Desired Outcomes of Education (DOE), the syllabus
-nurtures responsible citizens who advocate for healthy eating and innovative
-food solutions. Coursework process skills are integrated into the curriculum,
-providing opportunities for hands-on learning and self-directed exploration,
-ensuring students are well-prepared for a rapidly evolving world.</p>
-<p><strong>Key Programmes:</strong>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Design &amp; Technology</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Integration of coursework skills into both Lower and Upper secondary syllabuses</p>
+<p>Design and making through a design thinking approach, supported by research,
+prototyping, and testing</p>
 </li>
 <li>
-<p>Experiential learning through Food Science experiments</p>
+<p>Digital sketching and 3D modelling software for visualisation and coursework</p>
 </li>
 <li>
-<p>Collaborative learning with exposure to various cooking methods</p>
+<p>Application of structures, mechanisms, and electronics in design and prototyping
+tasks</p>
 </li>
 <li>
-<p>Inquiry-based learning focused on selected topics</p>
-<p></p>
+<p>Sustainability-focused projects, including solar car design</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/DnT/IMG_6728.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/DnT/IMG_6756.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/DnT/IMG_6364.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/DnT/IMG_5263.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/DnT/PHOTO_2025_03_11_10_50_50_1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/DnT/PHOTO_2025_03_11_10_54_06_1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/DnT/PHOTO_2025_03_11_10_54_06_3_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/DnT/IMG20240115162637__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/DnT/IMG20240115152405.jpg">
-</div>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Nutrition and Food Science</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Experiential learning through food science investigations and practical
+experiments</p>
+</li>
+<li>
+<p>Collaborative learning through food preparation activities using a range
+of cooking methods</p>
+</li>
+<li>
+<p>Inquiry-based learning to explore issues related to nutrition, food choices,
+sustainability and consumer decision-making</p>
+</li>
+<li>
+<p>Development of coursework skills through progressive hands-on tasks in
+both Lower and Upper Secondary</p>
+</li>
+</ul>
 <p></p>
