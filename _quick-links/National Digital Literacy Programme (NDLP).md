@@ -184,7 +184,8 @@ you would like to change your child's DMA settings on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20default%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;<a href="https://go.gov.sg/dmadefault" rel="noopener nofollow" target="_blank">here</a><strong><br>Parent's Guide for Default Option</strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmadefault" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
+<a href="https://drive.google.com/file/d/1BLCFloKa8hQwwbcYk3n1Z25YbKcilHE_/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent's guide for Default Option</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,7 +195,8 @@ you would like to change your child's DMA settings on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20A%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;<a href="https://go.gov.sg/dmaoptiona" rel="noopener nofollow" target="_blank">here</a><strong><br>Parent's Guide for Option A</strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmaoptiona" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
+<a href="https://drive.google.com/file/d/1S_-oAinky1v3QH6rS3N1cIW0AKDU0kCT/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent's guide for Option A</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +206,8 @@ you would like to change your child's DMA settings on the PLD</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/dma%20option%20B%20qr%20code.png">
 </div>
 <p>Scan the QR code above or
-<br>click&nbsp;<a href="https://go.gov.sg/dmaoptionb" rel="noopener nofollow" target="_blank">here</a><strong><br>Parent's Guide for Option B</strong>
+<br>click&nbsp;<a href="https://go.gov.sg/dmaoptionb" rel="noopener nofollow" target="_blank">here</a><strong><br></strong>
+<a href="https://drive.google.com/file/d/11oJYHyBLv8Dk-jGL-FwEea_wIrdzs8Nj/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent's guide for Option B</a>
 </p>
 </td>
 </tr>
