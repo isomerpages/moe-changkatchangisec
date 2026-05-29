@@ -94,7 +94,7 @@ healthy use of PLDs in the school
 <p>3. Insurance &amp; Warranty Info</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;<strong><a href="/files/pld_insurance__warranty.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+<p>Click <strong><a href="/files/PDLP/pld_insurance__warranty.pdf" rel="noopener nofollow" target="_blank">here</a></strong>&nbsp;for
 more information</p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ more information</p>
 <p>4.&nbsp; SOPs for device issues</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;<strong><a href="/files/SOPs%20for%20Device%20Issues%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+<p>Click <strong><a href="/files/PDLP/SOPs_for_Device_Issues.pdf" rel="noopener nofollow" target="_blank">here</a></strong> for
 more information</p>
 </td>
 </tr>
@@ -112,7 +112,7 @@ more information</p>
 <p>5. Other Useful Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PDLP/Service_Centre__Vendor_Contacts.pdf" rel="noopener noreferrer nofollow" target="_blank">Service Centre &amp; Vendor Contacts</a>
+<p><a href="/files/PDLP/Service_Centre__Vendor_Contacts_v1.pdf" rel="noopener nofollow" target="_blank">Service Centre &amp; Vendor Contacts</a>
 </p>
 </td>
 </tr>
