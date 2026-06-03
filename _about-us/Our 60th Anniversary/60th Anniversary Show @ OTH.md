@@ -53,6 +53,6 @@ positively to society. Without further ado, put your hands together for
 Dreams Sown, Destiny Awakened.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dreams_Sown_Destiny_Awakened_v5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changkat 60/60th_Anniversary_Show_Publicity_Poster.jpg">
 </div>
 <p></p>
