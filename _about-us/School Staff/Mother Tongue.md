@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language (Covering)</p>
+<p>SH Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Umaira Bte Muhd Zulkifli</p>
