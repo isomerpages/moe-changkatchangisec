@@ -247,6 +247,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH Science (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Seah Mei Ying, Jessica</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,6 +275,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Shiru</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Halimah bte Jasni</p>
 </td>
 </tr>
 <tr>
