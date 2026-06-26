@@ -37,6 +37,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH Science (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Seah Mei Ying Jessica</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LT (Physics)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Character and Citizenship Education (Covering)</p>
+<p>SH Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Rishvinder Singh</p>
@@ -104,14 +112,6 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Seah Mei Ying Jessica</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Wang Xiao Hui</p>
 </td>
 </tr>
@@ -149,10 +149,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kah Wee</p>
+<p></p>
 </td>
 </tr>
 </tbody>
