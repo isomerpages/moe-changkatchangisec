@@ -45,6 +45,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sonya Nair</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lead Special Education Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,7 +64,7 @@ variant: tiptap
 <p>Special Educational Needs (SEN) Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Nurrul Hadi Bin Abdul Rahman</p>
+<p>Mr Isyraq Bin Ismet</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +80,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mita Shah</p>
+<p>Mdm Mita Shah D/O Chandrakant Mohanial Shah</p>
 </td>
 </tr>
 </tbody>
