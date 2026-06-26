@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/IG_Banner_v5.png
       key_highlights:
-        - title: Our 60th Anniversary
-          description: Find out more!
-          url: /60th-changkat-anniversary/
+        - title: PLD support for parents
+          description: Give us your feedback here
+          url: https://go.gov.sg/pldparentsup
         - title: A day in the life of a Changkateer
           description: Follow us on Instagram here
           url: https://www.instagram.com/ccss_sg/

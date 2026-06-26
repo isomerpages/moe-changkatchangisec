@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Discipline</p>
+<p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nahar Azmi Bin Abdul Majid</p>
@@ -81,14 +81,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lau Jia Qi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Mohana Sivaprasad</p>
 </td>
 </tr>
 <tr>

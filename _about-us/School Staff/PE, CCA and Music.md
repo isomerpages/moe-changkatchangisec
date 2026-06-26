@@ -21,10 +21,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE/CCA</p>
+<p>HOD Information and Communication Technology, Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Chong Ghee</p>
+<p>Mr Zhuo Gensheng</p>
 </td>
 </tr>
 <tr>
@@ -53,14 +53,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zhuo Gensheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,14 +65,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Dawn Wu Chuang-Mae</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Syed Ahmad Bin Syed Sagoff Alqadri</p>
 </td>
 </tr>
 <tr>
@@ -101,10 +85,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Samantha Tee Mei-Yuen</p>
+<p></p>
 </td>
 </tr>
 </tbody>

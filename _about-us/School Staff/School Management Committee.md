@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Discipline</p>
+<p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nahar Azmi Bin Abdul Majid</p>
@@ -127,15 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sim Chong Ghee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Information &amp; Communication Technology</p>
+<p>HOD Information and Communication Technology, Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zhuo Gensheng Jason</p>
@@ -147,6 +139,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mufeedah Bte Senin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Hui Shan Andrew</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language (Covering)</p>
+<p>SH Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Umaira Bte Muhd Zulkifli</p>
@@ -183,7 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Character and Citizenship Education (Covering)</p>
+<p>SH Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Rishvinder Singh</p>
@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH PE/CCA</p>
+<p>SH Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Iskandar Bin Ishak</p>
@@ -215,7 +215,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH D&amp;T</p>
+<p>SH Design and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Tang Chee Wai</p>
@@ -247,10 +247,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p>LH Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seah Hui Shan Andrew</p>
+<p>Dr Seah Mei Ying, Jessica</p>
 </td>
 </tr>
 <tr>
@@ -275,6 +275,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Shiru</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Halimah bte Jasni</p>
 </td>
 </tr>
 <tr>
