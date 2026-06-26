@@ -127,15 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sim Chong Ghee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Information &amp; Communication Technology</p>
+<p>HOD Information and Communication Technology, Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zhuo Gensheng Jason</p>
