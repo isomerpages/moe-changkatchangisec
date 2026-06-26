@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Discipline</p>
+<p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nahar Azmi Bin Abdul Majid</p>
@@ -143,6 +143,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Hui Shan Andrew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Character and Citizenship Education (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language (Covering)</p>
+<p>SH Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Umaira Bte Muhd Zulkifli</p>
@@ -175,7 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Character and Citizenship Education (Covering)</p>
+<p>SH Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Rishvinder Singh</p>
@@ -183,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH PE/CCA</p>
+<p>SH Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Iskandar Bin Ishak</p>
@@ -207,7 +215,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH D&amp;T</p>
+<p>SH Design and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Tang Chee Wai</p>
@@ -235,14 +243,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wan Bing Khiang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Seah Hui Shan Andrew</p>
 </td>
 </tr>
 <tr>
