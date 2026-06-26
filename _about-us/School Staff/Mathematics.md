@@ -24,7 +24,7 @@ variant: tiptap
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Poh Wei en</p>
+<p>Mr Poh Wei En</p>
 </td>
 </tr>
 <tr>
