@@ -29,26 +29,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Umaira Bte Muhd Zulkifli</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LT Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Perema D/O Ramasamy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LT Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Djohan Bin Abdul Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Umaira Bte Muhd Zulkifli</p>
 </td>
 </tr>
 <tr>
@@ -105,6 +97,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Matiin Bin Kassim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Perema D/O Ramasamy</p>
 </td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
-title: PE, CCA and Music
-permalink: /about-us/School-Staff/PE-CCA-and-Music/
+title: PE and CCA
+permalink: /about-us/school-staff/pe-and-cca/
 description: ""
 third_nav_title: School Staff
 variant: tiptap
@@ -57,22 +57,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Yusuf Bin Abu Bakar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Dawn Wu Chuang-Mae</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Ying Yin</p>
 </td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
-title: Craft and Technology
-permalink: /about-us/School-Staff/Craft-and-Technology/
+title: Craft and Technology and Music
+permalink: /about-us/school-staff/craft-and-technology-and-music/
 description: ""
 third_nav_title: School Staff
 variant: tiptap
@@ -137,6 +137,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Khim Ghee Samuel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chia Ying Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Dawn Wu Chuang-Mae</p>
 </td>
 </tr>
 </tbody>
