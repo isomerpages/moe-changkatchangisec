@@ -120,7 +120,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Hui Ching Berince</p>
+<p>Ms Khoo Hui Ching Bernice</p>
 </td>
 </tr>
 <tr>
@@ -145,6 +145,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zarina Binte Mohamed Zakaria</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lam Mei Lan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kamala Kausikan</p>
 </td>
 </tr>
 </tbody>
