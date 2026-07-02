@@ -35,6 +35,13 @@ and real-world decision-making, students learn to make informed choices
 about food, health and resources. By applying nutritional understanding
 and responsible consumer practices, Changkateers build confidence, independence
 and the ability to adopt sustainable lifestyles.</p>
+<p>The Music unit provides a dynamic instructional programme encompassing
+GarageBand, Soundscape, STOMP, and Ukulele. Students learn to create and
+perform music in authentic contexts, developing creativity, collaboration,
+and communication skills. Through music-making, they cultivate 21CC competencies
+such as critical and inventive thinking, as well as cross-cultural awareness
+and expression, deepening their appreciation for the relevance and value
+of music in everyday life and the arts.</p>
 <p><strong>Key Programmes:</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Art</strong>
@@ -97,6 +104,22 @@ sustainability and consumer decision-making</p>
 <li>
 <p>Development of coursework skills through progressive hands-on tasks in
 both Lower and Upper Secondary</p>
+</li>
+</ul>
+<p>4<strong>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Music</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Performing Arts-Based Learning (PABL). Through PABL, students are exposed
+to drama, music, and movement, creating engaging and meaningful learning
+experiences.</p>
+</li>
+<li>
+<p>Changkat Groove (Jamming Group). A vibrant community of music enthusiasts,
+Changkat Groove brings together students to perform as a pop band. Through
+regular jam sessions and performances, members collaborate, express their
+creativity, and develop their musical talents, confidence and teamwork
+skills.</p>
 </li>
 </ul>
 <p></p>
