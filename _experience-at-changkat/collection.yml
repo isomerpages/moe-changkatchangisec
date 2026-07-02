@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Sec One Registration.md
+      - ASCEND.md
       - SOAR/.keep
       - SOAR/Student centered Opportunities for AeRospace Industry.md
       - SOAR/Aviation @ CCSS.md
-      - ASCEND.md
       - Academic Departments/.keep
       - Academic Departments/English.md
       - Academic Departments/Mother Tongue.md
