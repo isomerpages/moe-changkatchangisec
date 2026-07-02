@@ -24,10 +24,6 @@ tournaments.</p>
 <p>To promote the spirit of sportsmanship and friendly competition between
 the four Houses - Eagle, Falcon, Harrier and Hawk, various competitions
 of different natures were planned and organised.</p>
-<p>The music team provides strong music instructional programme such as GarageBand,
-Soundscape, STOMP and Ukulele. Students learn to create music in authentic
-settings and appreciate the relevance and value of the skills they have
-learnt.</p>
 <p><strong>Key Programmes:</strong>
 </p>
 <ul data-tight="true" class="tight">
