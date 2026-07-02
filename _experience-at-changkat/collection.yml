@@ -3,18 +3,18 @@ collections:
     output: true
     order:
       - Sec One Registration.md
+      - ASCEND.md
       - SOAR/.keep
       - SOAR/Student centered Opportunities for AeRospace Industry.md
       - SOAR/Aviation @ CCSS.md
-      - ASCEND.md
       - Academic Departments/.keep
       - Academic Departments/English.md
       - Academic Departments/Mother Tongue.md
       - Academic Departments/Mathematics.md
       - Academic Departments/Science.md
-      - Academic Departments/PE and Music.md
+      - Academic Departments/Physical Education.md
       - Academic Departments/Humanities.md
-      - Academic Departments/Craft and Technology.md
+      - Academic Departments/Craft and Technology and Music.md
       - Academic Departments/Educational Support.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
