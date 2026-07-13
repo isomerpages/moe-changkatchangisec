@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-SwsABK63gQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-SwsABK63gQ"></iframe>
 </div>
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
@@ -22,6 +22,9 @@ variant: tiptap
 </li>
 <li>
 <p>Ms Esther Khoo</p>
+</li>
+<li>
+<p>Mr Ng Jian Xiang Darren</p>
 </li>
 </ul>
 <h3>Training time &amp; venue:</h3>
