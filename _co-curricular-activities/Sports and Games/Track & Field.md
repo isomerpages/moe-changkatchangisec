@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_1Uvf-PCZFE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_1Uvf-PCZFE"></iframe>
 </div>
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
@@ -18,13 +18,19 @@ variant: tiptap
 <p>Mr Ng Boon Hian (2IC)</p>
 </li>
 <li>
-<p>Ms. Lau Jia Qi</p>
+<p>Ms Lau Jia Qi</p>
 </li>
 <li>
-<p>Mr. Tan Tze Siong</p>
+<p>Mr Tan Tze Siong</p>
 </li>
 <li>
-<p>Ms. Kang Eng Ling</p>
+<p>Ms Kang Eng Ling</p>
+</li>
+<li>
+<p>Mr Lee Jun Yan</p>
+</li>
+<li>
+<p>Ms Quek Wen Shi</p>
 </li>
 </ul>
 <h3>Training time &amp; venue:</h3>
