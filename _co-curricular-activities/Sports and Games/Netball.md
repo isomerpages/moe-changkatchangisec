@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U7rzKZ-MN6g"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U7rzKZ-MN6g"></iframe>
 </div>
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
@@ -15,13 +15,13 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Ms Linda Yap (2 I/C)</p>
+<p>Mr Muhammad Yusuf (2IC)</p>
 </li>
 <li>
-<p>Mr Siddiq Suleiman</p>
+<p>Ms Linda Yap</p>
 </li>
 <li>
-<p>Mr Muhammad Yusuf Abu Bakar</p>
+<p>Mdm Cheong Hui Keng</p>
 </li>
 <li>
 <p>Ms Katherine Yeung</p>

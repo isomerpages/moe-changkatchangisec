@@ -6,19 +6,22 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-g32zmszNQo?si=djX6fa_5cTOJtrFu"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-g32zmszNQo?si=djX6fa_5cTOJtrFu"></iframe>
 </div>
 <h3>Teachers in Charge:</h3>
 <ul>
 <li>
-<p><strong>Mr Ong Kian Beng (I/C)</strong>
+<p><strong>Ms Wang Xiao Hui (OIC)</strong>
 </p>
 </li>
 <li>
-<p>Mr Tay Yong Wei, Kevin</p>
+<p>Mr Shi Zheng Yan</p>
 </li>
 <li>
-<p>Mr Camillus Chua Jin Bao</p>
+<p>Mr Amrit Singh Gill</p>
+</li>
+<li>
+<p>Ms Wang Xinhua</p>
 </li>
 </ul>
 <h3>Training time &amp; venue:</h3>
