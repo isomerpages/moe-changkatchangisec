@@ -6,16 +6,17 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t0mr594V418"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t0mr594V418"></iframe>
 </div>
 <h3>Teachers in Charge:</h3>
 <ul>
 <li>
-<p><strong>Ms Koon Yuhua Geraldine&nbsp;(I/C)</strong>
+<p><strong>Ms Koon Yuhua Geraldine&nbsp;(OIC)</strong>
 </p>
 </li>
 <li>
-<p>Ms Wang Xiao Hui (2 I/C)</p>
+<p><strong>Ms Nur Halimah (OIC)</strong>
+</p>
 </li>
 <li>
 <p>Ms Khasturi Gonasaygnran</p>
