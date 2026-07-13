@@ -27,7 +27,6 @@ variant: tiptap
 <p>Mr Chew Heng Seng</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h3>Training time &amp; venue:</h3>
 <p>Tuesday 1530 - 1745 (Indoor Sports Hall Level 4)
 <br>Thursday 1530 - 1745 (Old Indoor Sports Hall)</p>
