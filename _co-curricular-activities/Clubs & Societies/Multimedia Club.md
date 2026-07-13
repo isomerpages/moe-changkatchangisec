@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Ms Noor Farhanah Mohd Rahman</p>
+<p>Mr Wang Yadong (2IC)</p>
 </li>
 <li>
 <p>Dr Thirunavukarasu Duraisamy</p>
