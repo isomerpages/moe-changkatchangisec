@@ -6,22 +6,25 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VUK-rywehR8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VUK-rywehR8"></iframe>
 </div>
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ms Daphne Khoo Rui Yun (I/C covering)</strong>
+<p><strong>Ms Daphne Khoo Rui Yun (I/C)</strong>
 </p>
 </li>
 <li>
-<p>Mr Han Zi Ding</p>
+<p>Mr Siddiq Suleiman (2IC)</p>
 </li>
 <li>
 <p>Mr Chia Heok Meng</p>
 </li>
 <li>
 <p>Mr Zhu Liang</p>
+</li>
+<li>
+<p>Mr Chew Heng Seng</p>
 </li>
 </ul>
 <p>&nbsp;</p>
