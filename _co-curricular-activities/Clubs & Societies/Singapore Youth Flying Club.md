@@ -27,6 +27,9 @@ variant: tiptap
 <li>
 <p>Mr Hong Kam Kheun</p>
 </li>
+<li>
+<p>Mdm Siti Zubaidah</p>
+</li>
 </ul>
 <h3>Training time &amp; venue:</h3>
 <p>Tuesdays, 1530 - 1800 (ALP Room &amp; Computer Lab 1)
