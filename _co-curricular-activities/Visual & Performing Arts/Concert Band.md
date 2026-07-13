@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ThXLTMav09E"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ThXLTMav09E"></iframe>
 </div>
 <h3>Teacher in Charge:</h3>
 <ul data-tight="true" class="tight">
@@ -15,20 +15,21 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p>Mr Timothy Yeo (2IC)</p>
+</li>
+<li>
 <p>Ms Chia Ying Yin</p>
 </li>
 <li>
-<p>Mr Timothy Yeo</p>
+<p>Mdm Habsa</p>
 </li>
 <li>
-<p>Mr Samuel Ong</p>
+<p>Ms Zhang Ziqian</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h3>Training time &amp; venue:</h3>
 <p>Tuesday, 1530 - 1800 (CCS)
 <br>Thursday, 1530 - 1800 (CCS)</p>
-<p>&nbsp;</p>
 <h3>CCA Objectives</h3>
 <ul data-tight="true" class="tight">
 <li>
