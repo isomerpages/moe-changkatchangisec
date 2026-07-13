@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wn6CY39Fhos"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wn6CY39Fhos"></iframe>
 </div>
 <h3>Teacher in Charge:</h3>
 <ul>
@@ -15,13 +15,16 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Mdm Anadhagiri Kasthuri (2IC)</p>
+<p>Mdm Shahnaz Sheikh Abdul Karim (2IC)</p>
 </li>
 <li>
-<p>Mdm Shahnaz Sheikh Abdul Karim</p>
+<p>Mdm Anadhagiri Kasthuri</p>
 </li>
 <li>
 <p>Ms Nadiah Abdul Karim</p>
+</li>
+<li>
+<p>Ms Fatin Farzanah</p>
 </li>
 </ul>
 <h3>Training time &amp; venue:</h3>
