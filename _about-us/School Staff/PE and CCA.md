@@ -24,7 +24,7 @@ variant: tiptap
 <p>HOD Information and Communication Technology, Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhuo Gensheng</p>
+<p>Mr Zhuo Gensheng Jason</p>
 </td>
 </tr>
 <tr>
