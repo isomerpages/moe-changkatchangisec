@@ -19,6 +19,8 @@ variant: tiptap
 </p>
 <p><strong><a href="https://schoolibrary.moe.edu.sg/changkatchangisec" rel="noopener noreferrer nofollow" target="_blank">Online Public Access Catalogue (OPAC)</a></strong>
 </p>
+<p><strong><a href="https://www.osc.gov.sg/" rel="noopener nofollow" target="_blank">https://www.osc.gov.sg/</a></strong>
+</p>
 <h2><strong>Post Secondary Information (ECG)</strong></h2>
 <p><strong>1.&nbsp;&nbsp;<a href="https://www.moe.gov.sg/post-secondary/overview/" rel="noopener noreferrer nofollow" target="_blank">Overview of Post-Secondary Education</a></strong>&nbsp;</p>
 <p><strong>2a.&nbsp; <a href="/files/gce_n_admission_booklet_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 JIEN Information Booklet (For 4NA Students)</a></strong>
