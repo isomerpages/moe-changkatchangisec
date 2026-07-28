@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Student Links</strong></h4>
-<p><strong><a href="https://drive.google.com/file/d/17CX1mBbX30t9G79BGMKRtlfXZKxfShLp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook</a></strong>
+<p><strong><a href="https://drive.google.com/file/d/17CX1mBbX30t9G79BGMKRtlfXZKxfShLp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook [Updated]</a></strong>
 </p>
 <p><strong><a href="/files/Useful Link/MOE_Management_of_Hurtful_Behaviour_2026_.pdf" rel="noopener nofollow" target="_blank">Student Management Matters Update 2026</a></strong>
 </p>
