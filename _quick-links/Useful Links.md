@@ -7,11 +7,13 @@ variant: tiptap
 <h4><strong>Student Links</strong></h4>
 <p><strong><a href="https://drive.google.com/file/d/17CX1mBbX30t9G79BGMKRtlfXZKxfShLp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook [Updated]</a></strong>
 </p>
+<p><strong><a href="/files/Useful Link/Changkat_Changi_Secondary_School_Hurtful_Behaviour_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Letters to Parents regarding Managing Hurtful Behavior</a></strong>
+</p>
 <p><strong><a href="/files/Useful Link/MOE_Management_of_Hurtful_Behaviour_2026_.pdf" rel="noopener nofollow" target="_blank">Student Management Matters Update 2026</a></strong>
 </p>
-<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>&nbsp;(SLS)</strong>
-</p>
 <p><strong><a href="/files/Useful Link/Creating_A_Caring_and_Enabling_School_Environment_July_2026.pdf" rel="noopener nofollow" target="_blank">Comprehensive Action Review Against Bullying</a></strong>
+</p>
+<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>&nbsp;(SLS)</strong>
 </p>
 <p><strong><a href="/files/Student%20Learning%20Space%20(Instructions%20and%20FAQs).pdf" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (Instructions and FAQs)</a></strong>
 </p>
@@ -56,5 +58,5 @@ variant: tiptap
 <br><strong><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports and Recreation Club</a></strong>
 <br><strong><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExams</a></strong>
 <br><strong><a href="https://www.haze.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Haze Situation Update</a></strong>
-<br><strong><a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a></strong>
+<br><strong><a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health[</a></strong>
 </p>
