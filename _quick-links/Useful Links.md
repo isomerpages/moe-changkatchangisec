@@ -9,9 +9,9 @@ variant: tiptap
 </p>
 <p><strong><a href="/files/Useful Link/Changkat_Changi_Secondary_School_Hurtful_Behaviour_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Letters to Parents regarding Managing Hurtful Behavior</a></strong>
 </p>
-<p><strong><a href="/files/Useful Link/MOE_Management_of_Hurtful_Behaviour_2026_.pdf" rel="noopener nofollow" target="_blank">Student Management Matters Update 2026</a></strong>
+<p><strong><a href="/files/Useful Link/MOE_Management_of_Hurtful_Behaviour_2026_.pdf" rel="noopener nofollow" target="_blank">Creating a Caring and Enabling School Environment For All</a></strong>
 </p>
-<p><strong><a href="/files/Useful Link/Creating_A_Caring_and_Enabling_School_Environment_July_2026.pdf" rel="noopener nofollow" target="_blank">Comprehensive Action Review Against Bullying</a></strong>
+<p><strong><a href="/files/Useful Link/Creating_A_Caring_and_Enabling_School_Environment_July_2026.pdf" rel="noopener nofollow" target="_blank">Comprehensive Action Review Against Bullying (C.A.R.B)</a></strong>
 </p>
 <p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>&nbsp;(SLS)</strong>
 </p>
