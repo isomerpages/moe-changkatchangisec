@@ -7,11 +7,11 @@ variant: tiptap
 <h4><strong>Student Links</strong></h4>
 <p><strong><a href="https://drive.google.com/file/d/17CX1mBbX30t9G79BGMKRtlfXZKxfShLp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook [Updated]</a></strong>
 </p>
-<p><strong><a href="/files/Useful Link/Changkat_Changi_Secondary_School_Hurtful_Behaviour_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Letters to Parents regarding Managing Hurtful Behavior</a></strong>
+<p><strong><a href="/files/Useful Link/Changkat_Changi_Secondary_School_Anti_Bullying_Policy_2026.pdf" rel="noopener nofollow" target="_blank">Changkat Changi Secondary School Anti-BullyIing Policy</a></strong>
 </p>
-<p><strong><a href="/files/Useful Link/MOE_Management_of_Hurtful_Behaviour_2026_.pdf" rel="noopener nofollow" target="_blank">Creating a Caring and Enabling School Environment For All</a></strong>
+<p><strong><a href="/files/Useful Link/Comprehensive_Action_Review_Against_Bullying_CARB_2026.pdf" rel="noopener nofollow" target="_blank">Comprehensive Action Review Against Bullying (C.A.R.B.)</a></strong>
 </p>
-<p><strong><a href="/files/Useful Link/Creating_A_Caring_and_Enabling_School_Environment_July_2026.pdf" rel="noopener nofollow" target="_blank">Comprehensive Action Review Against Bullying (C.A.R.B)</a></strong>
+<p><strong><a href="https://www.osc.gov.sg" rel="noopener nofollow" target="_blank">If you are facing online harm, the Online Safety Commission (OSC) can help</a></strong>
 </p>
 <p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>&nbsp;(SLS)</strong>
 </p>
@@ -20,8 +20,6 @@ variant: tiptap
 <p><strong><a href="https://file.go.gov.sg/seab-rulesandregulations-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE Examinations Guide for Students (4N/4E/5N)</a></strong>
 </p>
 <p><strong><a href="https://schoolibrary.moe.edu.sg/changkatchangisec" rel="noopener noreferrer nofollow" target="_blank">Online Public Access Catalogue (OPAC)</a></strong>
-</p>
-<p><strong><a href="https://www.osc.gov.sg/" rel="noopener nofollow" target="_blank">https://www.osc.gov.sg/</a></strong>
 </p>
 <h2><strong>Post Secondary Information (ECG)</strong></h2>
 <p><strong>1.&nbsp;&nbsp;<a href="https://www.moe.gov.sg/post-secondary/overview/" rel="noopener noreferrer nofollow" target="_blank">Overview of Post-Secondary Education</a></strong>&nbsp;</p>
