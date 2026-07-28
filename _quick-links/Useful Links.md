@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>Student Links</strong></h4>
 <p><strong><a href="https://drive.google.com/file/d/17CX1mBbX30t9G79BGMKRtlfXZKxfShLp/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook [Updated]</a></strong>
 </p>
-<p><strong><a href="/files/Useful Link/Changkat_Changi_Secondary_School_Anti_Bullying_Policy_2026.pdf" rel="noopener nofollow" target="_blank">Changkat Changi Secondary School Anti-BullyIing Policy</a></strong>
+<p><strong><a href="/files/Useful Link/Changkat_Changi_Secondary_School_Anti_Bullying_Policy_2026.pdf" rel="noopener nofollow" target="_blank">Changkat Changi Secondary School Anti-Bullying Policy</a></strong>
 </p>
 <p><strong><a href="/files/Useful Link/Comprehensive_Action_Review_Against_Bullying_CARB_2026.pdf" rel="noopener nofollow" target="_blank">Comprehensive Action Review Against Bullying (C.A.R.B.)</a></strong>
 </p>
