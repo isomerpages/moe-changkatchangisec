@@ -43,7 +43,7 @@ sections:
       alt: learn with passion
   - infopic:
       title: SERVE WITH HUMILITY
-      subtitle: Serving is always an honour
+      subtitle: Serving is a privilege
       button: Read
       url: https://www.changkatchangisec.moe.edu.sg/experience-at-changkat/ascend/
       image: /images/Photos/SERVE_WITH_HUMILITY.jpg
