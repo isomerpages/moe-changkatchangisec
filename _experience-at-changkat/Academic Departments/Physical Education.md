@@ -5,36 +5,51 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
-<p><strong>Head of Department:</strong>&nbsp;Mr&nbsp;Jason Zhuo</p>
-<p><strong>Subject Head:</strong>&nbsp;Mr Iskandar Ishak</p>
-<p><strong>Senior Teacher:</strong>&nbsp;Mr Ong Kian Beng</p>
-<p><strong>Teachers:</strong>
-<br>Mr Abdul Nasir
-<br>Mr Muhammad Yusuf
-<br>Mr Ng Boon Hian
-<br>Mr Syed Ahmad Bin Syed Sagoff Alqadri
-<br>Mr Chew Heng Seng
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Dept/1.png">
+</div>
+<p><strong>Learning Outcomes:</strong>
 </p>
-<p>The Physical Education Department aims to promote a healthy lifestyle
-through an engaging PE curriculum. Students acquire the necessary skills
-and knowledge on the various sports taught at each level, and were given
-the opportunity to display what they have learnt during the inter-class
-tournaments.</p>
-<p>To promote the spirit of sportsmanship and friendly competition between
-the four Houses - Eagle, Falcon, Harrier and Hawk, various competitions
-of different natures were planned and organised.</p>
+<p><strong>Physical and Socio-Emotional Domain Learning</strong>
+</p>
+<p>The Physical Education Department is committed to nurturing confident
+participants who demonstrate positive self-efficacy and value sustainability
+in an active and healthy lifestyle. Through an engaging and holistic PE
+curriculum, students acquire skills and knowledge across a range of sports
+at each level, building the confidence and competence to lead active lives
+beyond the classroom.</p>
+<p>Beyond games and sports, the department emphasises healthy habits, including
+regular physical activity, proper nutrition, and personal well-being. Students
+are introduced to key fitness components such as cardiovascular endurance,
+strength, and flexibility, and engage in bodyweight exercises, basic gym-based
+training, and cardiovascular workouts — equipping them with the knowledge
+and skills to maintain their fitness independently and safely, laying a
+foundation for lifelong wellness. Physical health and safety is likewise
+embedded within the curriculum, with students completing first aid modules
+that prepare them to respond to emergencies and exercise responsibly.</p>
+<p>Character development remains a key focus, as students build resilience,
+teamwork, and adaptability through Outdoor Education experiences such as
+outdoor cooking, tent pitching, and orienteering. These experiences develop
+21st Century Competencies, particularly self-management, social awareness,
+and relationship management, as students learn to collaborate effectively,
+persevere through challenges, and make informed decisions.</p>
+<p><strong>Cognitive Domain Learning</strong>
+</p>
+<p>Central to the 2026 PE curriculum is the Connect–Extend–Challenge thinking
+routine, which guides students to connect new learning to what they already
+know, extend their understanding of movement concepts and healthy living,
+and challenge themselves to think critically about sustaining an active
+and healthy lifestyle. This thinking frame empowers students to take ownership
+of their learning, reflect on their personal strengths, push beyond their
+comfort zones, and consider how they can better support those around them.</p>
 <p><strong>Key Programmes:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
-<p>Annual Cross-Country Run</p>
+<p>Biennial Changkat R.A.C.E.</p>
 </li>
 <li>
-<p>Sports Fiesta</p>
-</li>
-<li>
-<p>Inter-class games</p>
+<p>Inter-class Games</p>
 </li>
 <li>
 <p>House Olympics</p>
@@ -42,20 +57,11 @@ of different natures were planned and organised.</p>
 <li>
 <p>Health &amp; Fitness Programme</p>
 </li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_2010.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_2457.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_3570.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_3780.jpeg">
-</div>
-<p></p>
+</ol>
+<p>Through these programmes, students are given authentic opportunities to
+demonstrate positive self-efficacy and their commitment to an active and
+healthy lifestyle. The House system — Eagle, Falcon, Harrier, and Hawk
+— further strengthens school identity and student belonging, with House
+competitions providing authentic opportunities to demonstrate leadership,
+teamwork, and perseverance, fostering a strong sense of community while
+reinforcing values of respect, discipline, and commitment.</p>
