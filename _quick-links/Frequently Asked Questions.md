@@ -13,9 +13,9 @@ variant: tiptap
 9am to 3pm.
 <br>-&nbsp; &nbsp;Their location and contact are as follows:&nbsp;</p>
 <p>IN-TREND UNIFORMS&nbsp;
-<br>1 Kaki Bukit Road 1
-<br>#01-30/31 Enterprise One
-<br>Singapore 415934</p>
+<br>7 Kaki Bukit Road 1
+<br>#01-05 Eunos Technolink
+<br>Singapore 415937</p>
 <p>Telephone: +65 6741 0930
 <br>Fax: +65 6744 7689
 <br>Website: <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>
